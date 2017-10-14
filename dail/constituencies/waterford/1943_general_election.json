@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7820
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.7, 
+            "full_name": "Patrick Little", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7765
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.6, 
+            "full_name": "Bridget Redmond", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6197
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.6, 
+            "full_name": "Michael Morrissey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2877
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.3, 
+            "full_name": "Denis Heskin", 
+            "party": "Clann na Talmhan"
+        }, 
+        {
+            "counts": [
+                4274
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.8, 
+            "full_name": "Se\u00e1n Goulding", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2916
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.4, 
+            "full_name": "James O'Connor", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2362
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6, 
+            "full_name": "Jerome Guiry", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2350
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.9, 
+            "full_name": "John Butler", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2155
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.4, 
+            "full_name": "Walter Norris", 
+            "party": "Clann na Talmhan"
+        }, 
+        {
+            "counts": [
+                926
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.3, 
+            "full_name": "Tom\u00e1s \u00d3 Dochartaigh", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1943 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Waterford", 
+    "quota": 7929, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 39642, 
+    "year": 1943
+}

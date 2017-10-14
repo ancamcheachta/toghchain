@@ -1,0 +1,122 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10263
+            ], 
+            "elected": true, 
+            "first_pref_pc": 29.8, 
+            "full_name": "George Colley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5795
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.8, 
+            "full_name": "Michael O'Leary", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5624
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.3, 
+            "full_name": "Luke Belton", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3025
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.8, 
+            "full_name": "Celia Lynch", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3078
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.9, 
+            "full_name": "Patrick Lindsay", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1667
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.8, 
+            "full_name": "Mairin de Burca", 
+            "party": "Sinn F\u00e9in (Official)"
+        }, 
+        {
+            "counts": [
+                1274
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "John Kenny", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1240
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.6, 
+            "full_name": "Alice Glenn", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1106
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.2, 
+            "full_name": "William Cumiskey", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                578
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "Se\u00e1n Dublin Bay Rockall Loftus", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                489
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "Noirin Butler", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                345
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Seoirse Dearle", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1973 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin North-Central", 
+    "quota": 6897, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 34484, 
+    "year": 1973
+}

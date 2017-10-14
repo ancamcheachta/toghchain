@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8375
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.2, 
+            "full_name": "Michael Bell", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                7812
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.9, 
+            "full_name": "Brendan McGahon", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6892
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.8, 
+            "full_name": "S\u00e9amus Kirk", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5924
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.6, 
+            "full_name": "Dermot Ahern", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6052
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.9, 
+            "full_name": "Jimmy Mulroy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2291
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.3, 
+            "full_name": "Arthur Morgan", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                2217
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.1, 
+            "full_name": "Bernard Markey", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2146
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.9, 
+            "full_name": "Frank Aiken", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                1744
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4, 
+            "full_name": "Richard Brannigan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                159
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Ronald Smith", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1989 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Louth", 
+    "quota": 8723, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 43612, 
+    "year": 1989
+}

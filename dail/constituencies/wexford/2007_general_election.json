@@ -1,0 +1,170 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                12768
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.6, 
+            "full_name": "John Browne", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                9445, 
+                9540, 
+                10008, 
+                10413, 
+                11852
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.8, 
+            "full_name": "Brendan Howlin", 
+            "party": "Labour Party", 
+            "transfers": 2407, 
+            "transfers_pc": 15.63
+        }, 
+        {
+            "counts": [
+                9826, 
+                10396, 
+                10476, 
+                10862, 
+                11850
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.3, 
+            "full_name": "Se\u00e1n Connick", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2024, 
+            "transfers_pc": 13.14
+        }, 
+        {
+            "counts": [
+                8459, 
+                8628, 
+                8728, 
+                8931, 
+                9567, 
+                12879
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.3, 
+            "full_name": "Paul Kehoe", 
+            "party": "Fine Gael", 
+            "transfers": 4420, 
+            "transfers_pc": 28.7
+        }, 
+        {
+            "counts": [
+                7692, 
+                7756, 
+                7861, 
+                8274, 
+                8730, 
+                10373, 
+                11673
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.2, 
+            "full_name": "Michael W. D'Arcy", 
+            "party": "Fine Gael", 
+            "transfers": 3981, 
+            "transfers_pc": 25.85
+        }, 
+        {
+            "counts": [
+                6355, 
+                6669, 
+                6757, 
+                7189, 
+                7752, 
+                8430, 
+                8572
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.3, 
+            "full_name": "Lisa McDonald", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2217, 
+            "transfers_pc": 14.4
+        }, 
+        {
+            "counts": [
+                5507, 
+                5531, 
+                5678, 
+                5927, 
+                6308
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8, 
+            "full_name": "Liam Twomey", 
+            "party": "Fine Gael", 
+            "transfers": 801, 
+            "transfers_pc": 5.2
+        }, 
+        {
+            "counts": [
+                5065, 
+                5125, 
+                5302, 
+                5431
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.4, 
+            "full_name": "John Dwyer", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 366, 
+            "transfers_pc": 2.38
+        }, 
+        {
+            "counts": [
+                2162, 
+                2188, 
+                2322
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.1, 
+            "full_name": "Colm O'Gorman", 
+            "party": "Progressive Democrats", 
+            "transfers": 160, 
+            "transfers_pc": 1.04
+        }, 
+        {
+            "counts": [
+                802, 
+                807
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "Tom Harpur", 
+            "party": "Green Party", 
+            "transfers": 5, 
+            "transfers_pc": 0.03
+        }, 
+        {
+            "counts": [
+                532, 
+                539
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "Alan McGuire", 
+            "party": "Independent", 
+            "transfers": 7, 
+            "transfers_pc": 0.05
+        }
+    ], 
+    "counts_held": 7, 
+    "description": "2007 general election", 
+    "election_type": "dail", 
+    "electorate": 103562, 
+    "name": "Wexford", 
+    "quota": 11437, 
+    "spoilt": 827, 
+    "turnout": 69443, 
+    "valid": 68616, 
+    "year": 2007
+}

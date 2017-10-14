@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8502
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26.3, 
+            "full_name": "Michael Smith", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7504
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.2, 
+            "full_name": "John Ryan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6850
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.2, 
+            "full_name": "David Molony", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4307
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.3, 
+            "full_name": "Des Hanafin", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2637
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.2, 
+            "full_name": "Tom Berkery", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1960
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.1, 
+            "full_name": "Ger Ryan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                586
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Joseph O'Connor", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1981 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Tipperary North", 
+    "quota": 8087, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 32346, 
+    "year": 1981
+}

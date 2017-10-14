@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7932
+            ], 
+            "elected": true, 
+            "first_pref_pc": 34.6, 
+            "full_name": "Christopher Byrne", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                4450
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.4, 
+            "full_name": "James Everett", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4281
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.7, 
+            "full_name": "Richard Wilson", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                4218
+            ], 
+            "elected": false, 
+            "first_pref_pc": 18.4, 
+            "full_name": "Robert Barton", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                1188
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.2, 
+            "full_name": "Joseph Moore", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                830
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.6, 
+            "full_name": "Charles Gaule", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1923 general election", 
+    "election_type": "dail", 
+    "electorate": 36753, 
+    "name": "Wicklow", 
+    "quota": 5725, 
+    "spoilt": null, 
+    "turnout": 62, 
+    "valid": 22899, 
+    "year": 1923
+}

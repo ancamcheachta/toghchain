@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7173
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.8, 
+            "full_name": "Dan Wallace", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7101
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.6, 
+            "full_name": "Bernard Allen", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5623
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.2, 
+            "full_name": "Toddy O'Sullivan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5219
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.2, 
+            "full_name": "Liam Burke", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4999
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.7, 
+            "full_name": "Denis Lyons", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4129
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.7, 
+            "full_name": "Se\u00e1n French", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2368
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.5, 
+            "full_name": "Colm Burke", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1880
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "Donal O'Connell", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1836
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.3, 
+            "full_name": "John Kelleher", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                1725
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4, 
+            "full_name": "James Kenneally", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                714
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "William Nolan", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "November 1982 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Cork North-Central", 
+    "quota": 7128, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 42767, 
+    "year": 1982
+}

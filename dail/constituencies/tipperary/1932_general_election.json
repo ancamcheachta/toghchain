@@ -1,0 +1,140 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8817
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.6, 
+            "full_name": "Dan Breen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8056
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.4, 
+            "full_name": "S\u00e9amus Burke", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                6388
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.8, 
+            "full_name": "Daniel Morrissey", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                5332
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.2, 
+            "full_name": "Timothy Sheehy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4787
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.4, 
+            "full_name": "Andrew Fogarty", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4611
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.1, 
+            "full_name": "Se\u00e1n Hayes", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4196
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6.5, 
+            "full_name": "John Hassett", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                4806
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.4, 
+            "full_name": "Martin Ryan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4308
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.6, 
+            "full_name": "James Davin", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4043
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.2, 
+            "full_name": "Michael Heffernan", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3517
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.4, 
+            "full_name": "Se\u00e1n McCurtin", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3111
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.8, 
+            "full_name": "Patrick Henehan", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                1632
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.5, 
+            "full_name": "Daniel Kennedy", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1354
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "Richard Stapleton", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1932 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Tipperary", 
+    "quota": 8120, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 64958, 
+    "year": 1932
+}

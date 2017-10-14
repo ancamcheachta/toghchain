@@ -1,0 +1,167 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                18170
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.4, 
+            "full_name": "Alfie Byrne", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                9477
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.3, 
+            "full_name": "Richard Mulcahy", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                9176
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.8, 
+            "full_name": "Se\u00e1n T. O'Kelly", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7850
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11, 
+            "full_name": "Oscar Traynor", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2715
+            ], 
+            "elected": true, 
+            "first_pref_pc": 3.8, 
+            "full_name": "Margaret Collins-O'Driscoll", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3060
+            ], 
+            "elected": true, 
+            "first_pref_pc": 4.3, 
+            "full_name": "Eamonn Cooney", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2113
+            ], 
+            "elected": true, 
+            "first_pref_pc": 3, 
+            "full_name": "John Byrne", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3491
+            ], 
+            "elected": true, 
+            "first_pref_pc": 4.9, 
+            "full_name": "Cormac Breathnach", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3860
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.4, 
+            "full_name": "James Larkin", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2064
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "Martin O'Sullivan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2016
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "Patrick Belton", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1865
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "Vincent Rice", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                1650
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.3, 
+            "full_name": "Oscar Kirwan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1575
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.2, 
+            "full_name": "Sylvester O'Farrell", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                1380
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.9, 
+            "full_name": "Denis Cullen", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                830
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "Patrick Leonard", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                170
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Joseph Troy", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1932 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin North", 
+    "quota": 7941, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 71462, 
+    "year": 1932
+}

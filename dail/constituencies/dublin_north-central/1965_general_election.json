@@ -1,0 +1,122 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8376
+            ], 
+            "elected": true, 
+            "first_pref_pc": 31.1, 
+            "full_name": "Vivion de Valera", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2192
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.1, 
+            "full_name": "Celia Lynch", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2999
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.1, 
+            "full_name": "Luke Belton", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2122
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.9, 
+            "full_name": "Michael O'Leary", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2418
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9, 
+            "full_name": "Susan Geraghty Bowler", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2276
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.4, 
+            "full_name": "Patrick McGilligan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1615
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6, 
+            "full_name": "Frank Sherwin", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1517
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.6, 
+            "full_name": "Thomas Herlihy", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1251
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.6, 
+            "full_name": "James Maher", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1080
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4, 
+            "full_name": "Leo Nealon", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                953
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.5, 
+            "full_name": "P\u00e1draic \u00d3 Cl\u00e9irigh", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                172
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "George Murphy", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1965 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin North-Central", 
+    "quota": 5395, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 26971, 
+    "year": 1965
+}

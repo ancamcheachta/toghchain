@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8706
+            ], 
+            "elected": true, 
+            "first_pref_pc": 30.4, 
+            "full_name": "Neil Blaney", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6903
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.1, 
+            "full_name": "Liam Cunningham", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6057
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.1, 
+            "full_name": "Paddy Harte", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5962
+            ], 
+            "elected": false, 
+            "first_pref_pc": 20.8, 
+            "full_name": "Bertie Boggs", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1037
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.6, 
+            "full_name": "Colum O'Donnell", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1969 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Donegal North-East", 
+    "quota": 7167, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 28665, 
+    "year": 1969
+}

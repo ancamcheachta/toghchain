@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9477
+            ], 
+            "elected": true, 
+            "first_pref_pc": 40.1, 
+            "full_name": "Paudge Brennan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3278
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.9, 
+            "full_name": "James O'Toole", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5423
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.9, 
+            "full_name": "James Everett", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4371
+            ], 
+            "elected": false, 
+            "first_pref_pc": 18.5, 
+            "full_name": "Mark Deering", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1089
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.6, 
+            "full_name": "Brendan Donnelly", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1957 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Wicklow", 
+    "quota": 5910, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 23638, 
+    "year": 1957
+}

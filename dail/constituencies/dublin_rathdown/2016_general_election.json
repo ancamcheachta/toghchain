@@ -1,0 +1,138 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10202, 
+                10411
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.8, 
+            "full_name": "Shane Ross", 
+            "party": "Independent", 
+            "transfers": 209, 
+            "transfers_pc": 1.47
+        }, 
+        {
+            "counts": [
+                6668, 
+                6835, 
+                7180, 
+                7290, 
+                8579, 
+                9488
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.2, 
+            "full_name": "Josepha Madigan", 
+            "party": "Fine Gael", 
+            "transfers": 2820, 
+            "transfers_pc": 19.86
+        }, 
+        {
+            "counts": [
+                4122, 
+                4314, 
+                4812, 
+                6105, 
+                7255, 
+                9421
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10, 
+            "full_name": "Catherine Martin", 
+            "party": "Green Party", 
+            "transfers": 5299, 
+            "transfers_pc": 37.31
+        }, 
+        {
+            "counts": [
+                5905, 
+                5979, 
+                6195, 
+                6268, 
+                7745, 
+                8444
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.4, 
+            "full_name": "Alan Shatter", 
+            "party": "Fine Gael", 
+            "transfers": 2539, 
+            "transfers_pc": 17.88
+        }, 
+        {
+            "counts": [
+                4220, 
+                4325, 
+                4761, 
+                5165, 
+                5463
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.3, 
+            "full_name": "Mary White", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1243, 
+            "transfers_pc": 8.75
+        }, 
+        {
+            "counts": [
+                4048, 
+                4080, 
+                4258, 
+                4436
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.8, 
+            "full_name": "Alex White", 
+            "party": "Labour Party", 
+            "transfers": 388, 
+            "transfers_pc": 2.73
+        }, 
+        {
+            "counts": [
+                2858, 
+                2896, 
+                3076
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7, 
+            "full_name": "Sorcha Nic Cormaic", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 218, 
+            "transfers_pc": 1.53
+        }, 
+        {
+            "counts": [
+                2021, 
+                2241
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.9, 
+            "full_name": "Peter Mathews", 
+            "party": "Independent", 
+            "transfers": 220, 
+            "transfers_pc": 1.55
+        }, 
+        {
+            "counts": [
+                1055
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "Alan Daveron", 
+            "party": "Renua Ireland"
+        }
+    ], 
+    "counts_held": 6, 
+    "description": "2016 general election", 
+    "election_type": "dail", 
+    "electorate": 62340, 
+    "name": "Dublin Rathdown", 
+    "quota": 10275, 
+    "spoilt": 226, 
+    "turnout": 41325, 
+    "valid": 41099, 
+    "year": 2016
+}

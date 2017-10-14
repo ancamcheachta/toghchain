@@ -1,0 +1,165 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7575, 
+                7647, 
+                7697, 
+                8755
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.9, 
+            "full_name": "M\u00e1ire Geoghegan-Quinn", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1180, 
+            "transfers_pc": 11.37
+        }, 
+        {
+            "counts": [
+                7832, 
+                7902, 
+                7929, 
+                8659
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.5, 
+            "full_name": "Bobby Molloy", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 827, 
+            "transfers_pc": 7.97
+        }, 
+        {
+            "counts": [
+                7280, 
+                7397, 
+                7425, 
+                7784, 
+                8051, 
+                8374, 
+                8535
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.2, 
+            "full_name": "Bill Loughnane", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1255, 
+            "transfers_pc": 12.1
+        }, 
+        {
+            "counts": [
+                4331, 
+                4363, 
+                4756, 
+                4859, 
+                4865, 
+                5360, 
+                5380, 
+                5388, 
+                8520
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.2, 
+            "full_name": "John Mannion, Jnr", 
+            "party": "Fine Gael", 
+            "transfers": 4189, 
+            "transfers_pc": 40.38
+        }, 
+        {
+            "counts": [
+                4952, 
+                5355, 
+                5453, 
+                5503, 
+                5511, 
+                5848, 
+                5854, 
+                5858, 
+                7397
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.7, 
+            "full_name": "Michael D. Higgins", 
+            "party": "Labour Party", 
+            "transfers": 2445, 
+            "transfers_pc": 23.57
+        }, 
+        {
+            "counts": [
+                3136, 
+                3191, 
+                3510, 
+                3547, 
+                3557, 
+                5332, 
+                5334, 
+                5335
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.4, 
+            "full_name": "Fintan Coogan, Snr", 
+            "party": "Fine Gael", 
+            "transfers": 2199, 
+            "transfers_pc": 21.2
+        }, 
+        {
+            "counts": [
+                2854, 
+                2889, 
+                3072, 
+                3082, 
+                3082
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.7, 
+            "full_name": "Toddie Byrne", 
+            "party": "Fine Gael", 
+            "transfers": 228, 
+            "transfers_pc": 2.2
+        }, 
+        {
+            "counts": [
+                2333, 
+                2364, 
+                2369
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.5, 
+            "full_name": "Miche\u00e1l \u00d3 M\u00f3r\u00e1in", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 36, 
+            "transfers_pc": 0.35
+        }, 
+        {
+            "counts": [
+                1126, 
+                1138
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "P\u00e1draic McCormack", 
+            "party": "Fine Gael", 
+            "transfers": 12, 
+            "transfers_pc": 0.12
+        }, 
+        {
+            "counts": [
+                926
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.2, 
+            "full_name": "Anthony Coffey", 
+            "party": "Sinn F\u00e9in (Workers' Party)"
+        }
+    ], 
+    "counts_held": 9, 
+    "description": "1977 general election", 
+    "election_type": "dail", 
+    "electorate": 61582, 
+    "name": "Galway West", 
+    "quota": 8470, 
+    "spoilt": 284, 
+    "turnout": 42629, 
+    "valid": 42345, 
+    "year": 1977
+}

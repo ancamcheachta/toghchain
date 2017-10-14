@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                27768
+            ], 
+            "elected": true, 
+            "first_pref_pc": 53.4, 
+            "full_name": "George Lee", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                10294
+            ], 
+            "elected": false, 
+            "first_pref_pc": 19.8, 
+            "full_name": "Alex White", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                9250
+            ], 
+            "elected": false, 
+            "first_pref_pc": 17.8, 
+            "full_name": "Shay Brennan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1846
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.5, 
+            "full_name": "Elizabeth Davidson", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                1705
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.3, 
+            "full_name": "Shaun Tracey", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                650
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "Ross O'Mullane", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                351
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "Frank O'Gorman", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                172
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Noel O'Gara", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "2009 by-election", 
+    "election_type": "dail", 
+    "electorate": 90802, 
+    "name": "Dublin South", 
+    "quota": 26019, 
+    "spoilt": 443, 
+    "turnout": 52479, 
+    "valid": 52036, 
+    "year": 2009
+}

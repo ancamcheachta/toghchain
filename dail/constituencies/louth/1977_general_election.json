@@ -1,0 +1,122 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10244
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24, 
+            "full_name": "P\u00e1draig Faulkner", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                9455
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.2, 
+            "full_name": "Paddy Donegan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5954
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14, 
+            "full_name": "Eddie Filgate", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5402
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.7, 
+            "full_name": "Joseph Farrell", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2523
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.9, 
+            "full_name": "James Bellew", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1894
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "Donnchadha MacRaghnaill", 
+            "party": "Sinn F\u00e9in (Official)"
+        }, 
+        {
+            "counts": [
+                1718
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4, 
+            "full_name": "Bernard Markey", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1289
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "Fergus O'Dowd", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1252
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "Hugh McGahon", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1241
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "Joseph Lennon", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                908
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "Frank Carney", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                751
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Frank Godfrey", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1977 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Louth", 
+    "quota": 8527, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 42631, 
+    "year": 1977
+}

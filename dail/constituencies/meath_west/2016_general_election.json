@@ -1,0 +1,138 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10585
+            ], 
+            "elected": true, 
+            "first_pref_pc": 27.4, 
+            "full_name": "Shane Cassells", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                9442, 
+                9713
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.5, 
+            "full_name": "Peadar T\u00f3ib\u00edn", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 271, 
+            "transfers_pc": 3.9
+        }, 
+        {
+            "counts": [
+                8123, 
+                8333, 
+                8376, 
+                8785, 
+                8880, 
+                10371
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21, 
+            "full_name": "Damien English", 
+            "party": "Fine Gael", 
+            "transfers": 2248, 
+            "transfers_pc": 32.32
+        }, 
+        {
+            "counts": [
+                4432, 
+                4519, 
+                4552, 
+                4853, 
+                4904, 
+                5841
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.5, 
+            "full_name": "Ray Butler", 
+            "party": "Fine Gael", 
+            "transfers": 1409, 
+            "transfers_pc": 20.26
+        }, 
+        {
+            "counts": [
+                1717, 
+                1844, 
+                1984, 
+                2137, 
+                2616
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.5, 
+            "full_name": "Trevor Golden", 
+            "party": "Independent", 
+            "transfers": 899, 
+            "transfers_pc": 12.93
+        }, 
+        {
+            "counts": [
+                1421, 
+                1519, 
+                1587, 
+                1807, 
+                2178
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "Seamus McMenamin", 
+            "party": "Green Party", 
+            "transfers": 757, 
+            "transfers_pc": 10.88
+        }, 
+        {
+            "counts": [
+                1279, 
+                1310, 
+                1380, 
+                1440
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.3, 
+            "full_name": "Alan Lawes", 
+            "party": "Direct\u00a0Democracy", 
+            "transfers": 161, 
+            "transfers_pc": 2.31
+        }, 
+        {
+            "counts": [
+                1166, 
+                1229, 
+                1241
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "Tracy McElhinney", 
+            "party": "Labour Party", 
+            "transfers": 75, 
+            "transfers_pc": 1.08
+        }, 
+        {
+            "counts": [
+                439, 
+                486, 
+                486
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "John Malone", 
+            "party": "Independent", 
+            "transfers": 47, 
+            "transfers_pc": 0.68
+        }
+    ], 
+    "counts_held": 6, 
+    "description": "2016 general election", 
+    "election_type": "dail", 
+    "electorate": 64600, 
+    "name": "Meath West", 
+    "quota": 9652, 
+    "spoilt": 315, 
+    "turnout": 38920, 
+    "valid": 38605, 
+    "year": 2016
+}

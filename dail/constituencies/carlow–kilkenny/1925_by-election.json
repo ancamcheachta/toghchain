@@ -1,0 +1,32 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                24142
+            ], 
+            "elected": true, 
+            "first_pref_pc": 58.9, 
+            "full_name": "Thomas Bolger", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                16830
+            ], 
+            "elected": false, 
+            "first_pref_pc": 41.1, 
+            "full_name": "Michael Barry", 
+            "party": "Republican"
+        }
+    ], 
+    "description": "1925 by-election", 
+    "election_type": "dail", 
+    "electorate": 63112, 
+    "name": "Carlow\u2013Kilkenny", 
+    "quota": 20487, 
+    "spoilt": null, 
+    "turnout": 64, 
+    "valid": 40972, 
+    "year": 1925
+}

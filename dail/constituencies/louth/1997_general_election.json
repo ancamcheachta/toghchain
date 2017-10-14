@@ -1,0 +1,265 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10192
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.6, 
+            "full_name": "Dermot Ahern", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5667, 
+                6334, 
+                6381, 
+                6544, 
+                6594, 
+                6697, 
+                6881, 
+                8160, 
+                9399
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.6, 
+            "full_name": "S\u00e9amus Kirk", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3732, 
+            "transfers_pc": 22.24
+        }, 
+        {
+            "counts": [
+                4346, 
+                4429, 
+                4504, 
+                4584, 
+                4597, 
+                4638, 
+                4859, 
+                4867, 
+                5356, 
+                5868, 
+                8075, 
+                8262
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.7, 
+            "full_name": "Brendan McGahon", 
+            "party": "Fine Gael", 
+            "transfers": 3916, 
+            "transfers_pc": 23.33
+        }, 
+        {
+            "counts": [
+                4725, 
+                4771, 
+                4829, 
+                4851, 
+                4958, 
+                5236, 
+                5518, 
+                5905, 
+                6230, 
+                6755, 
+                7316, 
+                7430
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.5, 
+            "full_name": "Michael Bell", 
+            "party": "Labour Party", 
+            "transfers": 2705, 
+            "transfers_pc": 16.12
+        }, 
+        {
+            "counts": [
+                4486, 
+                4499, 
+                4506, 
+                4538, 
+                4598, 
+                4867, 
+                5066, 
+                5437, 
+                5704, 
+                5871, 
+                6953, 
+                7049
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10, 
+            "full_name": "Fergus O'Dowd", 
+            "party": "Fine Gael", 
+            "transfers": 2563, 
+            "transfers_pc": 15.27
+        }, 
+        {
+            "counts": [
+                3723, 
+                3776, 
+                3807, 
+                3840, 
+                3851, 
+                3875, 
+                4035, 
+                4050, 
+                4307, 
+                4588
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.3, 
+            "full_name": "Terry Brennan", 
+            "party": "Fine Gael", 
+            "transfers": 865, 
+            "transfers_pc": 5.15
+        }, 
+        {
+            "counts": [
+                2760, 
+                2816, 
+                2890, 
+                2934, 
+                3426, 
+                3465, 
+                3602, 
+                3658, 
+                3813
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.1, 
+            "full_name": "Owen Hanratty", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 1053, 
+            "transfers_pc": 6.27
+        }, 
+        {
+            "counts": [
+                2395, 
+                2536, 
+                2592, 
+                2681, 
+                2694, 
+                2760, 
+                3041, 
+                3256
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.3, 
+            "full_name": "Mary Grehan", 
+            "party": "Progressive Democrats", 
+            "transfers": 861, 
+            "transfers_pc": 5.13
+        }, 
+        {
+            "counts": [
+                2151, 
+                2215, 
+                2221, 
+                2245, 
+                2295, 
+                2474, 
+                2533
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.8, 
+            "full_name": "Maria O'Brien Campbell", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 382, 
+            "transfers_pc": 2.28
+        }, 
+        {
+            "counts": [
+                1403, 
+                1428, 
+                1531, 
+                1636, 
+                1685, 
+                1762
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.1, 
+            "full_name": "Neil McCann", 
+            "party": "Green Party", 
+            "transfers": 359, 
+            "transfers_pc": 2.14
+        }, 
+        {
+            "counts": [
+                1037, 
+                1045, 
+                1067, 
+                1118, 
+                1167
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.3, 
+            "full_name": "Frank Godfrey", 
+            "party": "Independent", 
+            "transfers": 130, 
+            "transfers_pc": 0.77
+        }, 
+        {
+            "counts": [
+                891, 
+                899, 
+                916, 
+                929
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "Maeve Healy", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 38, 
+            "transfers_pc": 0.23
+        }, 
+        {
+            "counts": [
+                686, 
+                695, 
+                725
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.5, 
+            "full_name": "Michael Salter", 
+            "party": "Independent", 
+            "transfers": 39, 
+            "transfers_pc": 0.23
+        }, 
+        {
+            "counts": [
+                475, 
+                491
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "Brian Doyle", 
+            "party": "Independent", 
+            "transfers": 16, 
+            "transfers_pc": 0.1
+        }, 
+        {
+            "counts": [
+                71, 
+                72
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Dessie Taaffe", 
+            "party": "Independent", 
+            "transfers": 1, 
+            "transfers_pc": 0.01
+        }
+    ], 
+    "counts_held": 12, 
+    "description": "1997 general election", 
+    "election_type": "dail", 
+    "electorate": 71086, 
+    "name": "Louth", 
+    "quota": 9002, 
+    "spoilt": 603, 
+    "turnout": 45611, 
+    "valid": 45008, 
+    "year": 1997
+}

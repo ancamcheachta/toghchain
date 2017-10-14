@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7210
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.6, 
+            "full_name": "Richie Ryan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6564
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.7, 
+            "full_name": "Philip Brady", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4750
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.6, 
+            "full_name": "Ben Briscoe", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5064
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.5, 
+            "full_name": "John Kelly", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2203
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.3, 
+            "full_name": "John O'Donovan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2195
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.3, 
+            "full_name": "Gerard Buchanan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2136
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.1, 
+            "full_name": "Michael Collins", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1580
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.5, 
+            "full_name": "Dermot O'Rourke", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1521
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.3, 
+            "full_name": "Peigin Doyle", 
+            "party": "Sinn F\u00e9in (Official)"
+        }, 
+        {
+            "counts": [
+                1040
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "Michael McShane", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                775
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.2, 
+            "full_name": "Louis Maguire", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1973 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South-Central", 
+    "quota": 7008, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 35038, 
+    "year": 1973
+}

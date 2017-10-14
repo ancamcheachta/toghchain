@@ -1,0 +1,222 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                11438
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.1, 
+            "full_name": "Martin Cullen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7554, 
+                7674, 
+                7712, 
+                7839, 
+                8006, 
+                8546, 
+                8778, 
+                9565, 
+                13181
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.3, 
+            "full_name": "John Deasy", 
+            "party": "Fine Gael", 
+            "transfers": 5627, 
+            "transfers_pc": 37.09
+        }, 
+        {
+            "counts": [
+                5610, 
+                5746, 
+                5774, 
+                5962, 
+                6326, 
+                6545, 
+                7086, 
+                8198, 
+                9258, 
+                11217
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.3, 
+            "full_name": "Brian O'Shea", 
+            "party": "Labour Party", 
+            "transfers": 5607, 
+            "transfers_pc": 36.96
+        }, 
+        {
+            "counts": [
+                5624, 
+                6384, 
+                6423, 
+                6561, 
+                6631, 
+                6699, 
+                6995, 
+                7663, 
+                8032, 
+                8472, 
+                8848
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.4, 
+            "full_name": "Brendan Kenneally", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3224, 
+            "transfers_pc": 21.25
+        }, 
+        {
+            "counts": [
+                5963, 
+                6221, 
+                6258, 
+                6319, 
+                6376, 
+                6395, 
+                6443, 
+                6766, 
+                7159, 
+                7549, 
+                7874
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12, 
+            "full_name": "Ollie Wilkinson", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1911, 
+            "transfers_pc": 12.6
+        }, 
+        {
+            "counts": [
+                4658, 
+                4706, 
+                4732, 
+                4825, 
+                4935, 
+                5382, 
+                5522, 
+                5894
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.4, 
+            "full_name": "Paudie Coffey", 
+            "party": "Fine Gael", 
+            "transfers": 1236, 
+            "transfers_pc": 8.15
+        }, 
+        {
+            "counts": [
+                3327, 
+                3390, 
+                3415, 
+                3487, 
+                3631, 
+                3697, 
+                4296
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.7, 
+            "full_name": "David Cullinane", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 969, 
+            "transfers_pc": 6.39
+        }, 
+        {
+            "counts": [
+                1708, 
+                1768, 
+                1784, 
+                1869, 
+                2001, 
+                2093
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.4, 
+            "full_name": "John Halligan", 
+            "party": "Workers' Party", 
+            "transfers": 385, 
+            "transfers_pc": 2.54
+        }, 
+        {
+            "counts": [
+                1340, 
+                1372, 
+                1378, 
+                1433, 
+                1519
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Jim D'Arcy", 
+            "party": "Fine Gael", 
+            "transfers": 179, 
+            "transfers_pc": 1.18
+        }, 
+        {
+            "counts": [
+                1049, 
+                1062, 
+                1085, 
+                1206
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "Brendan McCann", 
+            "party": "Green Party", 
+            "transfers": 157, 
+            "transfers_pc": 1.03
+        }, 
+        {
+            "counts": [
+                934, 
+                973, 
+                1014
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.9, 
+            "full_name": "Mary Roche", 
+            "party": "Independent", 
+            "transfers": 80, 
+            "transfers_pc": 0.53
+        }, 
+        {
+            "counts": [
+                270, 
+                271
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.5, 
+            "full_name": "Declan Waters", 
+            "party": "Independent", 
+            "transfers": 1, 
+            "transfers_pc": 0.01
+        }, 
+        {
+            "counts": [
+                53, 
+                55
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Francis Hennessy", 
+            "party": "Independent", 
+            "transfers": 2, 
+            "transfers_pc": 0.01
+        }
+    ], 
+    "counts_held": 11, 
+    "description": "2007 general election", 
+    "election_type": "dail", 
+    "electorate": 73434, 
+    "name": "Waterford", 
+    "quota": 9606, 
+    "spoilt": 430, 
+    "turnout": 49958, 
+    "valid": 49528, 
+    "year": 2007
+}

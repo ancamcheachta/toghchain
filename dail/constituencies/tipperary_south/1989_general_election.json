@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                null
+            ], 
+            "elected": true, 
+            "first_pref_pc": null, 
+            "full_name": "Se\u00e1n Treacy", 
+            "party": "Ceann Comhairle"
+        }, 
+        {
+            "counts": [
+                9497
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.3, 
+            "full_name": "Noel Davern", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5462
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.9, 
+            "full_name": "Theresa Ahearn", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7080
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.1, 
+            "full_name": "Michael Ferris", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                7360
+            ], 
+            "elected": false, 
+            "first_pref_pc": 18.8, 
+            "full_name": "Se\u00e1n McCarthy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5648
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.4, 
+            "full_name": "Brendan Griffin", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2859
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.3, 
+            "full_name": "S\u00e9amus Healy", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1171
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "Thomas Lonergan", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                93
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "William Fitzsimon", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1989 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Tipperary South", 
+    "quota": 9793, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 39170, 
+    "year": 1989
+}

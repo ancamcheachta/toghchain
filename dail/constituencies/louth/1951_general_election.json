@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6779
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.3, 
+            "full_name": "James Coburn", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7792
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.5, 
+            "full_name": "Laurence Walsh", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7927
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.9, 
+            "full_name": "Frank Aiken", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4856
+            ], 
+            "elected": false, 
+            "first_pref_pc": 15.2, 
+            "full_name": "Roddy Connolly", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4505
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.1, 
+            "full_name": "Thomas Roe", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1951 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Louth", 
+    "quota": 7965, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 31859, 
+    "year": 1951
+}

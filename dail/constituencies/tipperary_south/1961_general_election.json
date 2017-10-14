@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7260
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.5, 
+            "full_name": "Se\u00e1n Treacy", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6070
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.3, 
+            "full_name": "Michael Davern", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5717
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.3, 
+            "full_name": "Dan Breen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5787
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.5, 
+            "full_name": "Patrick Hogan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3864
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.4, 
+            "full_name": "Michael Fitzgerald", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3465
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.3, 
+            "full_name": "Denis Burke", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2625
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7, 
+            "full_name": "Jackie Fahey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1689
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.5, 
+            "full_name": "Frank Loughman", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                834
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.2, 
+            "full_name": "Pilib \u00d3 Cinneide", 
+            "party": "Sinn F\u00e9in"
+        }
+    ], 
+    "description": "1961 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Tipperary South", 
+    "quota": 7463, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 37311, 
+    "year": 1961
+}

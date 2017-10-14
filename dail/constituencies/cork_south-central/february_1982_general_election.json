@@ -1,0 +1,143 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8092
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.7, 
+            "full_name": "Pearse Wyse", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8062, 
+                8089
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.6, 
+            "full_name": "Peter Barry", 
+            "party": "Fine Gael", 
+            "transfers": 27, 
+            "transfers_pc": 0.34
+        }, 
+        {
+            "counts": [
+                7500, 
+                7562, 
+                7625, 
+                8093
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.5, 
+            "full_name": "Gene Fitzgerald", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 593, 
+            "transfers_pc": 7.52
+        }, 
+        {
+            "counts": [
+                6494, 
+                6613, 
+                6907, 
+                7287, 
+                8399
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.4, 
+            "full_name": "Eileen Desmond", 
+            "party": "Labour Party", 
+            "transfers": 1905, 
+            "transfers_pc": 24.17
+        }, 
+        {
+            "counts": [
+                5769, 
+                5862, 
+                6297, 
+                6846, 
+                10297
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.9, 
+            "full_name": "Jim Corr", 
+            "party": "Fine Gael", 
+            "transfers": 4528, 
+            "transfers_pc": 57.44
+        }, 
+        {
+            "counts": [
+                4688, 
+                4732, 
+                4764, 
+                5060, 
+                5209
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.7, 
+            "full_name": "Donal Coleman", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 521, 
+            "transfers_pc": 6.61
+        }, 
+        {
+            "counts": [
+                4210, 
+                4246, 
+                4558, 
+                4780
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.7, 
+            "full_name": "Hugh Coveney", 
+            "party": "Fine Gael", 
+            "transfers": 570, 
+            "transfers_pc": 7.23
+        }, 
+        {
+            "counts": [
+                1929, 
+                2057, 
+                2090
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.9, 
+            "full_name": "Mary Kelly", 
+            "party": "Independent", 
+            "transfers": 161, 
+            "transfers_pc": 2.04
+        }, 
+        {
+            "counts": [
+                1168, 
+                1192
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.4, 
+            "full_name": "Denis Cregan", 
+            "party": "Fine Gael", 
+            "transfers": 24, 
+            "transfers_pc": 0.3
+        }, 
+        {
+            "counts": [
+                564
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "Declan Murphy", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 5, 
+    "description": "February 1982 general election", 
+    "election_type": "dail", 
+    "electorate": 64507, 
+    "name": "Cork South-Central", 
+    "quota": 8080, 
+    "spoilt": 347, 
+    "turnout": 48823, 
+    "valid": 48476, 
+    "year": 1982
+}

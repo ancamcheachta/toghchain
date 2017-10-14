@@ -1,0 +1,50 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                23456
+            ], 
+            "elected": true, 
+            "first_pref_pc": 39, 
+            "full_name": "Clement Coughlan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                20022
+            ], 
+            "elected": false, 
+            "first_pref_pc": 33.3, 
+            "full_name": "Dinny McGinley", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                14198
+            ], 
+            "elected": false, 
+            "first_pref_pc": 23.6, 
+            "full_name": "Patrick Kelly", 
+            "party": "Independent Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2401
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4, 
+            "full_name": "S\u00e9amus Rodgers", 
+            "party": "Sinn F\u00e9in (Workers' Party)"
+        }
+    ], 
+    "description": "1980 by-election", 
+    "election_type": "dail", 
+    "electorate": 81340, 
+    "name": "Donegal", 
+    "quota": 30039, 
+    "spoilt": null, 
+    "turnout": 73, 
+    "valid": 60077, 
+    "year": 1980
+}

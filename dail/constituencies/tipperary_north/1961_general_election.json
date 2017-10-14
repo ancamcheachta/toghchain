@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6302
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.5, 
+            "full_name": "John Fanning", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4336
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.9, 
+            "full_name": "Thomas Dunne", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5642
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.9, 
+            "full_name": "Patrick Tierney", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5570
+            ], 
+            "elected": false, 
+            "first_pref_pc": 21.7, 
+            "full_name": "Mary Ryan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2754
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.7, 
+            "full_name": "Liam Whyte", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1123
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "Tom\u00e1s Mac Giolla", 
+            "party": "Sinn F\u00e9in"
+        }
+    ], 
+    "description": "1961 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Tipperary North", 
+    "quota": 6432, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 25727, 
+    "year": 1961
+}

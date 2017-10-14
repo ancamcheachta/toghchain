@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8784
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.8, 
+            "full_name": "Patrick Finucane", 
+            "party": "Clann na Talmhan"
+        }, 
+        {
+            "counts": [
+                8429
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.7, 
+            "full_name": "Dan Spring", 
+            "party": "National Labour Party"
+        }, 
+        {
+            "counts": [
+                7047
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.7, 
+            "full_name": "Eamonn Kissane", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6521
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.1, 
+            "full_name": "Tom McEllistrim, Snr", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3322
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.7, 
+            "full_name": "Patrick McKenna", 
+            "party": "Fianna F\u00e1il"
+        }
+    ], 
+    "description": "1944 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Kerry North", 
+    "quota": 6821, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 34103, 
+    "year": 1944
+}

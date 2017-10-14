@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10238
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.2, 
+            "full_name": "Eamonn Kissane", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                9694
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.4, 
+            "full_name": "Tom McEllistrim", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                9372
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.9, 
+            "full_name": "John Flynn", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8290
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.3, 
+            "full_name": "Denis Daly", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8039
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.9, 
+            "full_name": "Frederick Crowley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6578
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.8, 
+            "full_name": "Fion\u00e1n Lynch", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                6259
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.3, 
+            "full_name": "John O'Sullivan", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                5867
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.7, 
+            "full_name": "Con Brosnan", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3141
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.7, 
+            "full_name": "Edmond O'Connor", 
+            "party": "National Centre Party"
+        }
+    ], 
+    "description": "1933 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Kerry", 
+    "quota": 8435, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 67478, 
+    "year": 1933
+}

@@ -1,0 +1,153 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8447, 
+                8713, 
+                9072, 
+                10196, 
+                10969, 
+                12707
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.7, 
+            "full_name": "Se\u00e1n Canney", 
+            "party": "Independent", 
+            "transfers": 4260, 
+            "transfers_pc": 26.19
+        }, 
+        {
+            "counts": [
+                6928, 
+                6995, 
+                7566, 
+                7966, 
+                8791, 
+                12255
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.3, 
+            "full_name": "Anne Rabbitte", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 5327, 
+            "transfers_pc": 32.75
+        }, 
+        {
+            "counts": [
+                7123, 
+                7220, 
+                7650, 
+                7812, 
+                9519, 
+                9920, 
+                10157
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.7, 
+            "full_name": "Ciar\u00e1n Cannon", 
+            "party": "Fine Gael", 
+            "transfers": 3034, 
+            "transfers_pc": 18.65
+        }, 
+        {
+            "counts": [
+                6474, 
+                6536, 
+                6689, 
+                6812, 
+                7866, 
+                8361, 
+                8853
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.3, 
+            "full_name": "Paul Connaughton, Jnr", 
+            "party": "Fine Gael", 
+            "transfers": 2379, 
+            "transfers_pc": 14.63
+        }, 
+        {
+            "counts": [
+                5436, 
+                5511, 
+                5823, 
+                6127, 
+                6700
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12, 
+            "full_name": "Colm Keaveney", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1264, 
+            "transfers_pc": 7.77
+        }, 
+        {
+            "counts": [
+                4531, 
+                4792, 
+                5080, 
+                5470
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10, 
+            "full_name": "Lorraine Higgins", 
+            "party": "Labour Party", 
+            "transfers": 939, 
+            "transfers_pc": 5.77
+        }, 
+        {
+            "counts": [
+                2683, 
+                2968, 
+                3159
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.9, 
+            "full_name": "Anne Marie Roche", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 476, 
+            "transfers_pc": 2.93
+        }, 
+        {
+            "counts": [
+                2358, 
+                2418
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.2, 
+            "full_name": "Michael Fahy", 
+            "party": "Independent", 
+            "transfers": 60, 
+            "transfers_pc": 0.37
+        }, 
+        {
+            "counts": [
+                769
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "Mairead Ni Chroinin", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                489
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "Aengus Melia", 
+            "party": "Direct\u00a0Democracy"
+        }
+    ], 
+    "counts_held": 7, 
+    "description": "2016 general election", 
+    "election_type": "dail", 
+    "electorate": 68432, 
+    "name": "Galway East", 
+    "quota": 11310, 
+    "spoilt": 379, 
+    "turnout": 45617, 
+    "valid": 45238, 
+    "year": 2016
+}

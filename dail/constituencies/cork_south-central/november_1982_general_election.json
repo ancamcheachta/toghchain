@@ -1,0 +1,122 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9472
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.2, 
+            "full_name": "Peter Barry", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                8673
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.5, 
+            "full_name": "Pearse Wyse", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7604
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.4, 
+            "full_name": "Hugh Coveney", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6496
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.1, 
+            "full_name": "Eileen Desmond", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                7136
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.4, 
+            "full_name": "Gene Fitzgerald", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3375
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.8, 
+            "full_name": "Barry Cogan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2689
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.4, 
+            "full_name": "Tom\u00e1s Ryan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1485
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "Noel Power", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                1307
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "Owen Casey", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                447
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.9, 
+            "full_name": "Valentine Jago", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                398
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "Jim Lane", 
+            "party": "Irish Republican Socialist"
+        }, 
+        {
+            "counts": [
+                369
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "Garry O'Sullivan", 
+            "party": "Democratic Socialist Party"
+        }
+    ], 
+    "description": "November 1982 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Cork South-Central", 
+    "quota": 8242, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 49451, 
+    "year": 1982
+}

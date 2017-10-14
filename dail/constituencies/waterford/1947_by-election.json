@@ -1,0 +1,50 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                11840
+            ], 
+            "elected": true, 
+            "first_pref_pc": 36.8, 
+            "full_name": "John Ormonde", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                9941
+            ], 
+            "elected": false, 
+            "first_pref_pc": 30.9, 
+            "full_name": "Nicholas Sheehan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7683
+            ], 
+            "elected": false, 
+            "first_pref_pc": 23.8, 
+            "full_name": "Thomas Kyne", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2758
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.6, 
+            "full_name": "Se\u00e1n Feeney", 
+            "party": "Clann na Poblachta"
+        }
+    ], 
+    "description": "1947 by-election", 
+    "election_type": "dail", 
+    "electorate": 51008, 
+    "name": "Waterford", 
+    "quota": 16112, 
+    "spoilt": null, 
+    "turnout": 63, 
+    "valid": 32222, 
+    "year": 1947
+}

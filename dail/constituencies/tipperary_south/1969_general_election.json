@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9357
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.2, 
+            "full_name": "Noel Davern", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6098
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.5, 
+            "full_name": "Jackie Fahey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6499
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.5, 
+            "full_name": "Patrick Hogan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4955
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.4, 
+            "full_name": "Se\u00e1n Treacy", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3742
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.1, 
+            "full_name": "William Ryan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2871
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.7, 
+            "full_name": "Brendan Griffin", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1705
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.6, 
+            "full_name": "Peter Powell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1073
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "Se\u00e1n Healy", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                770
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "Patrick O'Brien", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1969 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Tipperary South", 
+    "quota": 7415, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 37070, 
+    "year": 1969
+}

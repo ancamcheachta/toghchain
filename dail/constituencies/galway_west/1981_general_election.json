@@ -1,0 +1,122 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9592
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.9, 
+            "full_name": "Bobby Molloy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6226
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.25, 
+            "full_name": "Michael D. Higgins", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5065
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10, 
+            "full_name": "John Donnellan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4549
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9, 
+            "full_name": "M\u00e1ire Geoghegan-Quinn", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6338
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.5, 
+            "full_name": "Mark Killilea, Jnr", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5049
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.9, 
+            "full_name": "Frank Fahey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3859
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.6, 
+            "full_name": "P\u00e1draic McCormack", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3477
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.8, 
+            "full_name": "Henry Comerford", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2849
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.6, 
+            "full_name": "P\u00f3l \u00d3 Foighil", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2471
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.9, 
+            "full_name": "Nicholas O'Connor", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1081
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "James Brick", 
+            "party": "Sinn F\u00e9in (Workers' Party)"
+        }, 
+        {
+            "counts": [
+                284
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Anthony Coffey", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1981 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Galway West", 
+    "quota": 8474, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 50840, 
+    "year": 1981
+}

@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8541
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.1, 
+            "full_name": "Liam Kavanagh", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                8454
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.9, 
+            "full_name": "Joe Jacob", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7707
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.2, 
+            "full_name": "Dick Roche", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7661
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.1, 
+            "full_name": "Godfrey Timmins", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4333
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.2, 
+            "full_name": "George Jones", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2109
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5, 
+            "full_name": "Ciar\u00e1n Murphy", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                2049
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.8, 
+            "full_name": "Dermot Tobin", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                919
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.2, 
+            "full_name": "Se\u00e1n Wolahan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                666
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "Barbara Hyland", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1989 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Wicklow", 
+    "quota": 8488, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 42439, 
+    "year": 1989
+}

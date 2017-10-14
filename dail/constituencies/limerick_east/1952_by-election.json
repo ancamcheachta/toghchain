@@ -1,0 +1,50 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                13130
+            ], 
+            "elected": true, 
+            "first_pref_pc": 34.2, 
+            "full_name": "John Carew", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                15964
+            ], 
+            "elected": false, 
+            "first_pref_pc": 41.6, 
+            "full_name": "Thomas Clarke", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6465
+            ], 
+            "elected": false, 
+            "first_pref_pc": 16.9, 
+            "full_name": "Ted Russell", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                2785
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.3, 
+            "full_name": "Se\u00e1n Hayes", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1952 by-election", 
+    "election_type": "dail", 
+    "electorate": 48730, 
+    "name": "Limerick East", 
+    "quota": 19173, 
+    "spoilt": null, 
+    "turnout": 78, 
+    "valid": 38344, 
+    "year": 1952
+}

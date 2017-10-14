@@ -1,0 +1,50 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9497
+            ], 
+            "elected": true, 
+            "first_pref_pc": 33.1, 
+            "full_name": "S\u00e9amus Moore", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8125
+            ], 
+            "elected": true, 
+            "first_pref_pc": 28.3, 
+            "full_name": "James Everett", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5285
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.4, 
+            "full_name": "Patrick Cogan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                5799
+            ], 
+            "elected": false, 
+            "first_pref_pc": 20.2, 
+            "full_name": "Dermot O'Mahony", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1938 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Wicklow", 
+    "quota": 7177, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 28706, 
+    "year": 1938
+}

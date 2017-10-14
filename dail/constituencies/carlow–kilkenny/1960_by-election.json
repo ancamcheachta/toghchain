@@ -1,0 +1,41 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                15515
+            ], 
+            "elected": true, 
+            "first_pref_pc": 40.7, 
+            "full_name": "Patrick Teehan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                14892
+            ], 
+            "elected": false, 
+            "first_pref_pc": 39.1, 
+            "full_name": "Desmond Governey", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7678
+            ], 
+            "elected": false, 
+            "first_pref_pc": 20.2, 
+            "full_name": "S\u00e9amus Pattison", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1960 by-election", 
+    "election_type": "dail", 
+    "electorate": 55848, 
+    "name": "Carlow\u2013Kilkenny", 
+    "quota": 19043, 
+    "spoilt": null, 
+    "turnout": 68, 
+    "valid": 38085, 
+    "year": 1960
+}

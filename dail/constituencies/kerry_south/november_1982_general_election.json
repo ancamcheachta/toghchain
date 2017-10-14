@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7524
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.8, 
+            "full_name": "Michael Begley", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7609
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.1, 
+            "full_name": "Michael Moynihan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                7898
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24, 
+            "full_name": "John O'Leary", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7201
+            ], 
+            "elected": false, 
+            "first_pref_pc": 21.9, 
+            "full_name": "John O'Donoghue", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                890
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Thomas Randles", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                845
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "Joseph O'Shea", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                679
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "Se\u00e1n O'Grady", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                236
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "Colm O'Sullivan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                57
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Stephen Doyle", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "November 1982 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Kerry South", 
+    "quota": 8235, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 32939, 
+    "year": 1982
+}

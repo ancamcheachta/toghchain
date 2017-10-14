@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6768
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.3, 
+            "full_name": "Michael Murphy", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6789
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.4, 
+            "full_name": "Joe Walsh", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4229
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.7, 
+            "full_name": "Jim O'Keeffe", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5863
+            ], 
+            "elected": false, 
+            "first_pref_pc": 17.6, 
+            "full_name": "Flor Crowley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3786
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.4, 
+            "full_name": "John O'Sullivan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3387
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.2, 
+            "full_name": "Vivian Callaghan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2473
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.4, 
+            "full_name": "P. J. Sheehan", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1977 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Cork South-West", 
+    "quota": 8324, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 33295, 
+    "year": 1977
+}

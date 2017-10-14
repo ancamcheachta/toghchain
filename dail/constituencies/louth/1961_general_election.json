@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6869
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26.9, 
+            "full_name": "Frank Aiken", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6518
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.5, 
+            "full_name": "Paddy Donegan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4288
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.8, 
+            "full_name": "P\u00e1draig Faulkner", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4003
+            ], 
+            "elected": false, 
+            "first_pref_pc": 15.7, 
+            "full_name": "Patrick O'Hare", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2749
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.8, 
+            "full_name": "Peter Moore", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1130
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "Larry Grogan", 
+            "party": "Sinn F\u00e9in"
+        }
+    ], 
+    "description": "1961 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Louth", 
+    "quota": 6390, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 25557, 
+    "year": 1961
+}

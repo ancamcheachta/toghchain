@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8851
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.6, 
+            "full_name": "Ned O'Keeffe", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7663
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.7, 
+            "full_name": "Paul Bradford", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7414
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.1, 
+            "full_name": "Joe Sherlock", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                7396
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18, 
+            "full_name": "Michael Ahern", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7068
+            ], 
+            "elected": false, 
+            "first_pref_pc": 17.2, 
+            "full_name": "Patrick Hegarty", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1377
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.4, 
+            "full_name": "Anthony Hobbs", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1098
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Thomas Nagle", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                131
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "William Fitzsimon", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1989 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Cork East", 
+    "quota": 8200, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 40998, 
+    "year": 1989
+}

@@ -1,0 +1,140 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10381
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.8, 
+            "full_name": "Ruairi Quinn", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4332
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.8, 
+            "full_name": "Frances Fitzgerald", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4504
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.2, 
+            "full_name": "Michael McDowell", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                4566
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.3, 
+            "full_name": "Eoin Ryan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4238
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.5, 
+            "full_name": "Gerard Brady", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4438
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11, 
+            "full_name": "Joe Doyle", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2476
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.2, 
+            "full_name": "John Gormley", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                2123
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.3, 
+            "full_name": "Mary Mooney", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                874
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.2, 
+            "full_name": "Jim Allen", 
+            "party": "Democratic Left"
+        }, 
+        {
+            "counts": [
+                851
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "Micheal O'Muireagain", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                573
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "Andy Smith", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                620
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.5, 
+            "full_name": "John Gallagher", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                194
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Ian Murray", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                84
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Thomas Mullins", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1992 general election", 
+    "election_type": "dail", 
+    "electorate": 69582, 
+    "name": "Dublin South\u2013East", 
+    "quota": 8051, 
+    "spoilt": 958, 
+    "turnout": 41212, 
+    "valid": 40254, 
+    "year": 1992
+}

@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                15236
+            ], 
+            "elected": true, 
+            "first_pref_pc": 46.6, 
+            "full_name": "Tom Leonard", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7362
+            ], 
+            "elected": false, 
+            "first_pref_pc": 22.5, 
+            "full_name": "Mary Banotti", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4342
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.3, 
+            "full_name": "Michael White", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                2304
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.1, 
+            "full_name": "Christy Burke", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                1966
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6, 
+            "full_name": "Jimmy Somers", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                574
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Leo Armstrong", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                458
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "Anthony Ryan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                243
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "Edward Glackin", 
+            "party": "Communist Party"
+        }, 
+        {
+            "counts": [
+                147
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "William Foley", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                72
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Jim Tallon", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1983 by-election", 
+    "election_type": "dail", 
+    "electorate": 70403, 
+    "name": "Dublin Central", 
+    "quota": 16353, 
+    "spoilt": null, 
+    "turnout": 46, 
+    "valid": 32704, 
+    "year": 1983
+}

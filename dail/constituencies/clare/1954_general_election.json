@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                null
+            ], 
+            "elected": true, 
+            "first_pref_pc": null, 
+            "full_name": "Patrick Hogan", 
+            "party": "Ceann Comhairle"
+        }, 
+        {
+            "counts": [
+                12679
+            ], 
+            "elected": true, 
+            "first_pref_pc": 31.3, 
+            "full_name": "\u00c9amon de Valera", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7945
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.6, 
+            "full_name": "William Murphy", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6189
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.3, 
+            "full_name": "Patrick Hillery", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4714
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.6, 
+            "full_name": "Gerard Griffin", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4582
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.3, 
+            "full_name": "Thomas O'Meara", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2044
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.1, 
+            "full_name": "Vincent McHugh", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1377
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.4, 
+            "full_name": "Se\u00e1n O'Connor", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                979
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.4, 
+            "full_name": "Martin Whyte", 
+            "party": "Sinn F\u00e9in"
+        }
+    ], 
+    "description": "1954 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Clare", 
+    "quota": 10128, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 40509, 
+    "year": 1954
+}

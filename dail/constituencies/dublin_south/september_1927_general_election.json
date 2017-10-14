@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                11240
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.7, 
+            "full_name": "Se\u00e1n Lemass", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                9400
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.3, 
+            "full_name": "Thomas Hennessy", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                7362
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.5, 
+            "full_name": "James Beckett", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                5570
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.2, 
+            "full_name": "Robert Briscoe", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3522
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6.5, 
+            "full_name": "Myles Keogh", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                4642
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.5, 
+            "full_name": "Peadar Doyle", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                1320
+            ], 
+            "elected": true, 
+            "first_pref_pc": 2.4, 
+            "full_name": "Frank Kerlin", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3678
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.8, 
+            "full_name": "Vincent Rice", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3662
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.7, 
+            "full_name": "Thomas Lawlor", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2857
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.3, 
+            "full_name": "John Lawlor", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1116
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "Andrew Clerkin", 
+            "party": "Fianna F\u00e1il"
+        }
+    ], 
+    "description": "September 1927 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South", 
+    "quota": 6797, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 54369, 
+    "year": 1927
+}

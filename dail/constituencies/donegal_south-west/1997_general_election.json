@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6597
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.3, 
+            "full_name": "Mary Coughlan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5679
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.5, 
+            "full_name": "Dinny McGinley", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5592
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.3, 
+            "full_name": "Tom Gildea", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                5742
+            ], 
+            "elected": false, 
+            "first_pref_pc": 17.7, 
+            "full_name": "Enda Bonner", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4123
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.7, 
+            "full_name": "Patrick Kelly", 
+            "party": "Independent Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1774
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.5, 
+            "full_name": "Frank O'Kelly", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1366
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.2, 
+            "full_name": "Liz Cullen", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                1361
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.2, 
+            "full_name": "Manus Brennan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                206
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Tom Kennedy", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1997 general election", 
+    "election_type": "dail", 
+    "electorate": 51479, 
+    "name": "Donegal South-West", 
+    "quota": 8111, 
+    "spoilt": 454, 
+    "turnout": 32894, 
+    "valid": 32440, 
+    "year": 1997
+}

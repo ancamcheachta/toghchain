@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7753
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.1, 
+            "full_name": "Se\u00e1n Lemass", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7474
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.4, 
+            "full_name": "Maurice E. Dockrell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5883
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.3, 
+            "full_name": "James Larkin, Jnr", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2654
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6.9, 
+            "full_name": "Thomas Finlay", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3009
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.8, 
+            "full_name": "Celia Lynch", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3258
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.5, 
+            "full_name": "Joseph Barron", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                2614
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.8, 
+            "full_name": "William Phelan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2610
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.8, 
+            "full_name": "Philip Brady", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2586
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.7, 
+            "full_name": "John McCann", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                380
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Eamonn Halpin", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                298
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "Se\u00e1n Davis", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1954 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South-Central", 
+    "quota": 6420, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 38519, 
+    "year": 1954
+}

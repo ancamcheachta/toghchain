@@ -1,0 +1,122 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7931
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.8, 
+            "full_name": "Dan Breen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5225
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.4, 
+            "full_name": "Richard Mulcahy", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6176
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17, 
+            "full_name": "Michael Davern", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1914
+            ], 
+            "elected": true, 
+            "first_pref_pc": 5.3, 
+            "full_name": "John Timoney", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                3909
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.8, 
+            "full_name": "Frank Loughman", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3257
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9, 
+            "full_name": "Michael Fitzgerald", 
+            "party": "Clann na Talmhan"
+        }, 
+        {
+            "counts": [
+                1674
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.6, 
+            "full_name": "Denis O'Driscoll", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                1626
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.5, 
+            "full_name": "Patrick Crowe", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1587
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "John Morrissey", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1487
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.1, 
+            "full_name": "Denis O'Sullivan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                821
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.3, 
+            "full_name": "Richard Stapleton", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                722
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "John Murray", 
+            "party": "Clann na Poblachta"
+        }
+    ], 
+    "description": "1948 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Tipperary South", 
+    "quota": 7266, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 36329, 
+    "year": 1948
+}

@@ -1,0 +1,91 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                13719, 
+                13736, 
+                15488, 
+                16897
+            ], 
+            "elected": true, 
+            "first_pref_pc": 39.9, 
+            "full_name": "Pearse Doherty", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 3178, 
+            "transfers_pc": 45.81
+        }, 
+        {
+            "counts": [
+                6424, 
+                6442, 
+                7313, 
+                8182
+            ], 
+            "elected": false, 
+            "first_pref_pc": 18.7, 
+            "full_name": "Barry O'Neill", 
+            "party": "Fine Gael", 
+            "transfers": 1758, 
+            "transfers_pc": 25.34
+        }, 
+        {
+            "counts": [
+                7344, 
+                7358, 
+                7636, 
+                8069
+            ], 
+            "elected": false, 
+            "first_pref_pc": 21.3, 
+            "full_name": "Brian \u00d3 Domhnaill", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 725, 
+            "transfers_pc": 10.45
+        }, 
+        {
+            "counts": [
+                3438, 
+                3491, 
+                3763
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10, 
+            "full_name": "Thomas Pringle", 
+            "party": "Independent", 
+            "transfers": 325, 
+            "transfers_pc": 4.69
+        }, 
+        {
+            "counts": [
+                3366, 
+                3375
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.8, 
+            "full_name": "Frank McBrearty, Jnr", 
+            "party": "Labour Party", 
+            "transfers": 9, 
+            "transfers_pc": 0.13
+        }, 
+        {
+            "counts": [
+                133
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Anne Sweeney", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 4, 
+    "description": "2010 by-election", 
+    "election_type": "dail", 
+    "electorate": 60829, 
+    "name": "Donegal South-West", 
+    "quota": 17213, 
+    "spoilt": 484, 
+    "turnout": 57, 
+    "valid": 34424, 
+    "year": 2010
+}

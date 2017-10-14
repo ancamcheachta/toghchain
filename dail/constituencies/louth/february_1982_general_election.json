@@ -1,0 +1,144 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8083, 
+                8492, 
+                9016
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.6, 
+            "full_name": "P\u00e1draig Faulkner", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 933, 
+            "transfers_pc": 9.54
+        }, 
+        {
+            "counts": [
+                7928, 
+                8237, 
+                8543, 
+                8562, 
+                10197
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.2, 
+            "full_name": "Bernard Markey", 
+            "party": "Fine Gael", 
+            "transfers": 2269, 
+            "transfers_pc": 23.21
+        }, 
+        {
+            "counts": [
+                6305, 
+                6427, 
+                7143, 
+                7219, 
+                7961, 
+                8050
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.5, 
+            "full_name": "Thomas Bellew", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1745, 
+            "transfers_pc": 17.85
+        }, 
+        {
+            "counts": [
+                6109, 
+                6204, 
+                6862, 
+                7055, 
+                7391, 
+                7428
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.1, 
+            "full_name": "Eddie Filgate", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1319, 
+            "transfers_pc": 13.49
+        }, 
+        {
+            "counts": [
+                5311, 
+                5406, 
+                5629, 
+                5635, 
+                6001, 
+                7177
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.2, 
+            "full_name": "Brendan McGahon", 
+            "party": "Fine Gael", 
+            "transfers": 1866, 
+            "transfers_pc": 19.09
+        }, 
+        {
+            "counts": [
+                3474, 
+                4422, 
+                4928, 
+                4947
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8, 
+            "full_name": "Michael Bell", 
+            "party": "Labour Party", 
+            "transfers": 1473, 
+            "transfers_pc": 15.07
+        }, 
+        {
+            "counts": [
+                3714, 
+                4117
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.5, 
+            "full_name": "Francis Browne", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 403, 
+            "transfers_pc": 4.12
+        }, 
+        {
+            "counts": [
+                1662
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.8, 
+            "full_name": "Frank Godfrey", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                742
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "Donnchadha Mac Raghnaill", 
+            "party": "Sinn F\u00e9in (Workers' Party)"
+        }, 
+        {
+            "counts": [
+                183
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Helen Corcoran", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 6, 
+    "description": "February 1982 general election", 
+    "election_type": "dail", 
+    "electorate": 57075, 
+    "name": "Louth", 
+    "quota": 8703, 
+    "spoilt": 451, 
+    "turnout": 43962, 
+    "valid": 43511, 
+    "year": 1982
+}

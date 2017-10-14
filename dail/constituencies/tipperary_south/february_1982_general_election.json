@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8705
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22, 
+            "full_name": "Se\u00e1n Byrne", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7434
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.8, 
+            "full_name": "Brendan Griffin", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7758
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.6, 
+            "full_name": "Se\u00e1n Treacy", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5711
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.4, 
+            "full_name": "Se\u00e1n McCarthy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4751
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12, 
+            "full_name": "Carrie Acheson", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3180
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8, 
+            "full_name": "Michael Fitzgerald", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1883
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.8, 
+            "full_name": "Terence Darmody", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                158
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "William Fitzsimon", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "February 1982 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Tipperary South", 
+    "quota": 7917, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 39580, 
+    "year": 1982
+}

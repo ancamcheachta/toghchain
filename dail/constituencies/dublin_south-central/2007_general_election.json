@@ -1,0 +1,256 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8286
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.4, 
+            "full_name": "Se\u00e1n Ardagh", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7439, 
+                7687, 
+                8186
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.7, 
+            "full_name": "Michael Mulcahy", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 747, 
+            "transfers_pc": 5.93
+        }, 
+        {
+            "counts": [
+                5987, 
+                6006, 
+                6133, 
+                6186, 
+                6532, 
+                6818, 
+                7136, 
+                7759, 
+                9020
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.6, 
+            "full_name": "Mary Upton", 
+            "party": "Labour Party", 
+            "transfers": 3033, 
+            "transfers_pc": 24.09
+        }, 
+        {
+            "counts": [
+                4713, 
+                4728, 
+                4847, 
+                4890, 
+                5068, 
+                5231, 
+                6719, 
+                7050, 
+                7663, 
+                7921
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.9, 
+            "full_name": "Catherine Byrne", 
+            "party": "Fine Gael", 
+            "transfers": 3208, 
+            "transfers_pc": 25.48
+        }, 
+        {
+            "counts": [
+                4825, 
+                4838, 
+                4913, 
+                4922, 
+                5039, 
+                5648, 
+                5772, 
+                6509, 
+                6932, 
+                7001
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.2, 
+            "full_name": "Aengus \u00d3 Snodaigh", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 2176, 
+            "transfers_pc": 17.28
+        }, 
+        {
+            "counts": [
+                4054, 
+                4071, 
+                4144, 
+                4165, 
+                4337, 
+                4493, 
+                4754, 
+                5332, 
+                6227, 
+                6932
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.5, 
+            "full_name": "Eric Byrne", 
+            "party": "Labour Party", 
+            "transfers": 2878, 
+            "transfers_pc": 22.86
+        }, 
+        {
+            "counts": [
+                2756, 
+                2764, 
+                2872, 
+                2904, 
+                3139, 
+                3278, 
+                3416, 
+                3781
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.8, 
+            "full_name": "Tony McDermott", 
+            "party": "Green Party", 
+            "transfers": 1025, 
+            "transfers_pc": 8.14
+        }, 
+        {
+            "counts": [
+                2203, 
+                2212, 
+                2277, 
+                2288, 
+                2552, 
+                3253, 
+                3362
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.6, 
+            "full_name": "Joan Collins", 
+            "party": "Independent", 
+            "transfers": 1159, 
+            "transfers_pc": 9.2
+        }, 
+        {
+            "counts": [
+                2125, 
+                2131, 
+                2230, 
+                2269, 
+                2441, 
+                2558
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.5, 
+            "full_name": "Anne Marie Martin", 
+            "party": "Fine Gael", 
+            "transfers": 433, 
+            "transfers_pc": 3.44
+        }, 
+        {
+            "counts": [
+                2086, 
+                2090, 
+                2205, 
+                2221, 
+                2383
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "Br\u00edd Smith", 
+            "party": "People Before Profit", 
+            "transfers": 297, 
+            "transfers_pc": 2.36
+        }, 
+        {
+            "counts": [
+                1613, 
+                1619, 
+                1726, 
+                1766
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.4, 
+            "full_name": "Rois\u00edn Healy", 
+            "party": "Independent", 
+            "transfers": 153, 
+            "transfers_pc": 1.22
+        }, 
+        {
+            "counts": [
+                474, 
+                480
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Frank McNamara", 
+            "party": "Progressive Democrats", 
+            "transfers": 6, 
+            "transfers_pc": 0.05
+        }, 
+        {
+            "counts": [
+                438, 
+                449
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.9, 
+            "full_name": "Ben Doyle", 
+            "party": "Progressive Democrats", 
+            "transfers": 11, 
+            "transfers_pc": 0.09
+        }, 
+        {
+            "counts": [
+                256, 
+                257
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Andrew McGuinness", 
+            "party": "Workers' Party", 
+            "transfers": 1, 
+            "transfers_pc": 0.01
+        }, 
+        {
+            "counts": [
+                155, 
+                155
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Michael Redmond", 
+            "party": "Christian Solidarity", 
+            "transfers": 0, 
+            "transfers_pc": 0
+        }, 
+        {
+            "counts": [
+                121, 
+                122
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Con Gunning", 
+            "party": "Independent", 
+            "transfers": 1, 
+            "transfers_pc": 0.01
+        }
+    ], 
+    "counts_held": 10, 
+    "description": "2007 general election", 
+    "election_type": "dail", 
+    "electorate": 86710, 
+    "name": "Dublin South-Central", 
+    "quota": 7922, 
+    "spoilt": 789, 
+    "turnout": 48320, 
+    "valid": 47531, 
+    "year": 2007
+}

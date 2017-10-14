@@ -1,0 +1,50 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                null
+            ], 
+            "elected": true, 
+            "first_pref_pc": null, 
+            "full_name": "Patrick Brennan", 
+            "party": "Sinn F\u00e9in (Pro-Treaty)"
+        }, 
+        {
+            "counts": [
+                null
+            ], 
+            "elected": true, 
+            "first_pref_pc": null, 
+            "full_name": "\u00c9amon de Valera", 
+            "party": "Sinn F\u00e9in (Anti-Treaty)"
+        }, 
+        {
+            "counts": [
+                null
+            ], 
+            "elected": true, 
+            "first_pref_pc": null, 
+            "full_name": "Sean Liddy", 
+            "party": "Sinn F\u00e9in (Pro-Treaty)"
+        }, 
+        {
+            "counts": [
+                null
+            ], 
+            "elected": true, 
+            "first_pref_pc": null, 
+            "full_name": "Brian O'Higgins", 
+            "party": "Sinn F\u00e9in (Anti-Treaty)"
+        }
+    ], 
+    "description": "1922 general election", 
+    "election_type": "dail", 
+    "electorate": 46833, 
+    "name": "Clare", 
+    "quota": null, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": null, 
+    "year": 1922
+}

@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                16212
+            ], 
+            "elected": true, 
+            "first_pref_pc": 37.7, 
+            "full_name": "Simon Coveney", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                12658
+            ], 
+            "elected": false, 
+            "first_pref_pc": 29.4, 
+            "full_name": "Sinead Behan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8171
+            ], 
+            "elected": false, 
+            "first_pref_pc": 19, 
+            "full_name": "Toddy O'Sullivan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3461
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.1, 
+            "full_name": "Dan Boyle", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                1158
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Henry Cremin", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                971
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.3, 
+            "full_name": "Peter Kelly", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                197
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Benny Cooney", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                150
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Brian McEnery", 
+            "party": "Natural Law"
+        }, 
+        {
+            "counts": [
+                29
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Jim Tallon", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1998 by-election", 
+    "election_type": "dail", 
+    "electorate": 87606, 
+    "name": "Cork South-Central", 
+    "quota": 21504, 
+    "spoilt": null, 
+    "turnout": 49, 
+    "valid": 43007, 
+    "year": 1998
+}

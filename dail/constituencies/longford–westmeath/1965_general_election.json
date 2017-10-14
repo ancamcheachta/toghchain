@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6443
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.6, 
+            "full_name": "Frank Carter", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4193
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.1, 
+            "full_name": "Gerry L'Estrange", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5566
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16, 
+            "full_name": "Joseph Sheridan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                3126
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9, 
+            "full_name": "Patrick Lenihan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3665
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.6, 
+            "full_name": "Patrick Cooney", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4898
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.1, 
+            "full_name": "Se\u00e1n Mac Eoin", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2833
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.2, 
+            "full_name": "Timothy McAuliffe", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2589
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.5, 
+            "full_name": "Se\u00e1n Keegan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1391
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4, 
+            "full_name": "Daniel Leavy", 
+            "party": "Fianna F\u00e1il"
+        }
+    ], 
+    "description": "1965 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Longford\u2013Westmeath", 
+    "quota": 6941, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 34704, 
+    "year": 1965
+}

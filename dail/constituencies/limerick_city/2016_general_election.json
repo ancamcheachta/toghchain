@@ -1,0 +1,162 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                12999
+            ], 
+            "elected": true, 
+            "first_pref_pc": 27.8, 
+            "full_name": "Willie O'Dea", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5894, 
+                6527, 
+                6651, 
+                7025, 
+                10517
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.6, 
+            "full_name": "Maurice Quinlivan", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 4623, 
+            "transfers_pc": 35.71
+        }, 
+        {
+            "counts": [
+                7294, 
+                7909, 
+                8221, 
+                8591, 
+                9018, 
+                9311
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.6, 
+            "full_name": "Michael Noonan", 
+            "party": "Fine Gael", 
+            "transfers": 2017, 
+            "transfers_pc": 15.58
+        }, 
+        {
+            "counts": [
+                5227, 
+                5838, 
+                6166, 
+                7001, 
+                7722, 
+                8187
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.2, 
+            "full_name": "Jan O'Sullivan", 
+            "party": "Labour Party", 
+            "transfers": 2960, 
+            "transfers_pc": 22.86
+        }, 
+        {
+            "counts": [
+                6047, 
+                6545, 
+                6830, 
+                7177, 
+                7512, 
+                7849
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.9, 
+            "full_name": "Kieran O'Donnell", 
+            "party": "Fine Gael", 
+            "transfers": 1802, 
+            "transfers_pc": 13.92
+        }, 
+        {
+            "counts": [
+                4584, 
+                5244, 
+                5496, 
+                6724
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.8, 
+            "full_name": "Cian Prendiville", 
+            "party": "AAA\u2013PBP", 
+            "transfers": 2140, 
+            "transfers_pc": 16.53
+        }, 
+        {
+            "counts": [
+                2747, 
+                3039, 
+                3620
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.9, 
+            "full_name": "Sarah Jane Hennelly", 
+            "party": "Social Democrats", 
+            "transfers": 873, 
+            "transfers_pc": 6.74
+        }, 
+        {
+            "counts": [
+                964, 
+                1081
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "James Gaffney", 
+            "party": "Green Party", 
+            "transfers": 117, 
+            "transfers_pc": 0.9
+        }, 
+        {
+            "counts": [
+                673, 
+                823
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "Nora Bennis", 
+            "party": "Catholic Democrats", 
+            "transfers": 150, 
+            "transfers_pc": 1.16
+        }, 
+        {
+            "counts": [
+                254, 
+                314
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Desmond Hayes", 
+            "party": "Independent", 
+            "transfers": 60, 
+            "transfers_pc": 0.46
+        }, 
+        {
+            "counts": [
+                78, 
+                88
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Denis Riordan", 
+            "party": "Independent", 
+            "transfers": 10, 
+            "transfers_pc": 0.08
+        }
+    ], 
+    "counts_held": 6, 
+    "description": "2016 general election", 
+    "election_type": "dail", 
+    "electorate": 75568, 
+    "name": "Limerick City", 
+    "quota": 9353, 
+    "spoilt": 357, 
+    "turnout": 62, 
+    "valid": 46761, 
+    "year": 2016
+}

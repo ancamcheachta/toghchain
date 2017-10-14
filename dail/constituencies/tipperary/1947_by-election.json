@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                11471
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.4, 
+            "full_name": "Patrick Kinane", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                17169
+            ], 
+            "elected": false, 
+            "first_pref_pc": 32.1, 
+            "full_name": "Se\u00e1n Hayes", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                11341
+            ], 
+            "elected": false, 
+            "first_pref_pc": 21.2, 
+            "full_name": "Jeremiah Ryan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7201
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.5, 
+            "full_name": "Denis O'Sullivan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6328
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.8, 
+            "full_name": "Michael Fitzgerald", 
+            "party": "Clann na Talmhan"
+        }
+    ], 
+    "description": "1947 by-election", 
+    "election_type": "dail", 
+    "electorate": 81112, 
+    "name": "Tipperary", 
+    "quota": 26756, 
+    "spoilt": null, 
+    "turnout": 66, 
+    "valid": 53510, 
+    "year": 1947
+}

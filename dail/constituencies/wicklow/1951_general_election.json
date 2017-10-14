@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6535
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.2, 
+            "full_name": "James Everett", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6138
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.7, 
+            "full_name": "Thomas Brennan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4350
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.1, 
+            "full_name": "Patrick Cogan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                5178
+            ], 
+            "elected": false, 
+            "first_pref_pc": 19.2, 
+            "full_name": "J Ledwidge", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3872
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.3, 
+            "full_name": "Mark Deering", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                922
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.4, 
+            "full_name": "Joseph Groome", 
+            "party": "Fianna F\u00e1il"
+        }
+    ], 
+    "description": "1951 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Wicklow", 
+    "quota": 6749, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 26995, 
+    "year": 1951
+}

@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7571
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.3, 
+            "full_name": "Austin Deasy", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7823
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.9, 
+            "full_name": "Brian O'Shea", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5486
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.3, 
+            "full_name": "Jackie Fahey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5971
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.3, 
+            "full_name": "Brendan Kenneally", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4570
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.1, 
+            "full_name": "Paddy Gallagher", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                3489
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.4, 
+            "full_name": "Martin Cullen", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                3340
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.1, 
+            "full_name": "Katharine Bulbulia", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4707
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.5, 
+            "full_name": "Brian Swift", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3664
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.2, 
+            "full_name": "Maurice Cummins", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                159
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Padraig Sweeney", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1989 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Waterford", 
+    "quota": 8265, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 41320, 
+    "year": 1989
+}

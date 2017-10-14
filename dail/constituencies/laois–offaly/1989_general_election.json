@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8443
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.1, 
+            "full_name": "Liam Hyland", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7936
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.2, 
+            "full_name": "Ger Connolly", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7142
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.6, 
+            "full_name": "Charles Flanagan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7103
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.6, 
+            "full_name": "Brian Cowen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6627
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.7, 
+            "full_name": "Tom Enright", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4970
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.5, 
+            "full_name": "Joseph Dunne", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4411
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.4, 
+            "full_name": "Cathy Honan", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                3030
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.8, 
+            "full_name": "Pat Gallagher", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2318
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "Tommy McKeigue", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                394
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "Joe McCormack", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1989 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Laois\u2013Offaly", 
+    "quota": 8730, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 52374, 
+    "year": 1989
+}

@@ -1,0 +1,191 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7294, 
+                7380, 
+                7678, 
+                7818, 
+                8118, 
+                9785
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.6, 
+            "full_name": "Trevor Sargent", 
+            "party": "Green Party", 
+            "transfers": 2491, 
+            "transfers_pc": 18.82
+        }, 
+        {
+            "counts": [
+                6359, 
+                6407, 
+                6535, 
+                6665, 
+                6847, 
+                8578, 
+                9128
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.5, 
+            "full_name": "Se\u00e1n Ryan", 
+            "party": "Labour Party", 
+            "transfers": 2769, 
+            "transfers_pc": 20.92
+        }, 
+        {
+            "counts": [
+                5892, 
+                5945, 
+                6028, 
+                6152, 
+                6294, 
+                6511, 
+                6596, 
+                8640
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.4, 
+            "full_name": "Jim Glennon", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2748, 
+            "transfers_pc": 20.76
+        }, 
+        {
+            "counts": [
+                5658, 
+                5707, 
+                5739, 
+                5777, 
+                5868, 
+                6139, 
+                6249, 
+                8617
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.9, 
+            "full_name": "G. V. Wright", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2959, 
+            "transfers_pc": 22.35
+        }, 
+        {
+            "counts": [
+                5501, 
+                5551, 
+                5730, 
+                5796, 
+                6244, 
+                6590, 
+                6772, 
+                7523
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.5, 
+            "full_name": "Clare Daly", 
+            "party": "Socialist Party", 
+            "transfers": 2022, 
+            "transfers_pc": 15.27
+        }, 
+        {
+            "counts": [
+                5253, 
+                5309, 
+                5368, 
+                5422, 
+                5532, 
+                5732, 
+                5801
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.9, 
+            "full_name": "Michael Kennedy", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 548, 
+            "transfers_pc": 4.14
+        }, 
+        {
+            "counts": [
+                4012, 
+                4030, 
+                4132, 
+                4720, 
+                4763
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.1, 
+            "full_name": "Nora Owen", 
+            "party": "Fine Gael", 
+            "transfers": 751, 
+            "transfers_pc": 5.67
+        }, 
+        {
+            "counts": [
+                1350, 
+                1382, 
+                1424, 
+                1440
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.1, 
+            "full_name": "Mick Davis", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 90, 
+            "transfers_pc": 0.68
+        }, 
+        {
+            "counts": [
+                1177, 
+                1189, 
+                1216
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Cathal Boland", 
+            "party": "Fine Gael", 
+            "transfers": 39, 
+            "transfers_pc": 0.29
+        }, 
+        {
+            "counts": [
+                914, 
+                1009
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "Ciar\u00e1n Goulding", 
+            "party": "Ind. Health Alliance", 
+            "transfers": 95, 
+            "transfers_pc": 0.72
+        }, 
+        {
+            "counts": [
+                285
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Eamon Quinn", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                247
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "David Walshe", 
+            "party": "Christian Solidarity"
+        }
+    ], 
+    "counts_held": 8, 
+    "description": "2002 general election", 
+    "election_type": "dail", 
+    "electorate": 72908, 
+    "name": "Dublin North", 
+    "quota": 8789, 
+    "spoilt": null, 
+    "turnout": 43942, 
+    "valid": 43942, 
+    "year": 2002
+}

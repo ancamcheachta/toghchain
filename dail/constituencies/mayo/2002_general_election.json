@@ -1,0 +1,225 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8709, 
+                9213, 
+                9808, 
+                10573, 
+                11128
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.7, 
+            "full_name": "Jerry Cowley", 
+            "party": "Independent", 
+            "transfers": 2419, 
+            "transfers_pc": 12.47
+        }, 
+        {
+            "counts": [
+                9880, 
+                10045, 
+                10384, 
+                10576, 
+                10907
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.6, 
+            "full_name": "Michael Ring", 
+            "party": "Fine Gael", 
+            "transfers": 1027, 
+            "transfers_pc": 5.29
+        }, 
+        {
+            "counts": [
+                5834, 
+                5954, 
+                6045, 
+                6142, 
+                6478, 
+                6576, 
+                6707, 
+                7307, 
+                11922
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.2, 
+            "full_name": "Enda Kenny", 
+            "party": "Fine Gael", 
+            "transfers": 6088, 
+            "transfers_pc": 31.38
+        }, 
+        {
+            "counts": [
+                6457, 
+                6512, 
+                6555, 
+                6756, 
+                6817, 
+                6822, 
+                6824, 
+                8284, 
+                9531, 
+                10157
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.2, 
+            "full_name": "John Carty", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3700, 
+            "transfers_pc": 19.07
+        }, 
+        {
+            "counts": [
+                6661, 
+                6741, 
+                6886, 
+                7123, 
+                7167, 
+                7178, 
+                7187, 
+                9517, 
+                9749, 
+                9910
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.5, 
+            "full_name": "Beverley Flynn", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3249, 
+            "transfers_pc": 16.74
+        }, 
+        {
+            "counts": [
+                6536, 
+                6749, 
+                6892, 
+                7084, 
+                7521, 
+                7661, 
+                7697, 
+                8625, 
+                8878, 
+                9187
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.3, 
+            "full_name": "Tom Moffatt", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2651, 
+            "transfers_pc": 13.66
+        }, 
+        {
+            "counts": [
+                5858, 
+                5971, 
+                6035, 
+                6155, 
+                6833, 
+                6998, 
+                7100, 
+                7220
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.2, 
+            "full_name": "Jim Higgins", 
+            "party": "Fine Gael", 
+            "transfers": 1362, 
+            "transfers_pc": 7.02
+        }, 
+        {
+            "counts": [
+                5726, 
+                5792, 
+                6045, 
+                6266, 
+                6307, 
+                6315, 
+                6319
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9, 
+            "full_name": "Frank Chambers", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 593, 
+            "transfers_pc": 3.06
+        }, 
+        {
+            "counts": [
+                2290, 
+                2419, 
+                2486, 
+                2558
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.6, 
+            "full_name": "Ernie Caffrey", 
+            "party": "Fine Gael", 
+            "transfers": 268, 
+            "transfers_pc": 1.38
+        }, 
+        {
+            "counts": [
+                2085, 
+                2181, 
+                2274
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.3, 
+            "full_name": "Vincent Wood", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 189, 
+            "transfers_pc": 0.97
+        }, 
+        {
+            "counts": [
+                1754, 
+                1873
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "Michael Holmes", 
+            "party": "Independent", 
+            "transfers": 119, 
+            "transfers_pc": 0.61
+        }, 
+        {
+            "counts": [
+                919
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.5, 
+            "full_name": "Billy Heffron", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                669
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "Ann Crowley", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                102
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Thomas King", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 10, 
+    "description": "2002 general election", 
+    "election_type": "dail", 
+    "electorate": 94854, 
+    "name": "Mayo", 
+    "quota": 10581, 
+    "spoilt": 790, 
+    "turnout": 64270, 
+    "valid": 63480, 
+    "year": 2002
+}

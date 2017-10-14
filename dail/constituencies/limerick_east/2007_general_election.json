@@ -1,0 +1,218 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                19082
+            ], 
+            "elected": true, 
+            "first_pref_pc": 38.6, 
+            "full_name": "Willie O'Dea", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3569, 
+                8669
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.2, 
+            "full_name": "Peter Power", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 5100, 
+            "transfers_pc": 30.87
+        }, 
+        {
+            "counts": [
+                7507, 
+                8484
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.2, 
+            "full_name": "Michael Noonan", 
+            "party": "Fine Gael", 
+            "transfers": 977, 
+            "transfers_pc": 5.91
+        }, 
+        {
+            "counts": [
+                5098, 
+                6236, 
+                6271, 
+                6352, 
+                6556, 
+                7236, 
+                8114, 
+                9051
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.3, 
+            "full_name": "Jan O'Sullivan", 
+            "party": "Labour Party", 
+            "transfers": 3953, 
+            "transfers_pc": 23.92
+        }, 
+        {
+            "counts": [
+                5094, 
+                5566, 
+                5584, 
+                5644, 
+                5816, 
+                6148, 
+                6498, 
+                6966
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.3, 
+            "full_name": "Kieran O'Donnell", 
+            "party": "Fine Gael", 
+            "transfers": 1872, 
+            "transfers_pc": 11.33
+        }, 
+        {
+            "counts": [
+                3354, 
+                4211, 
+                4268, 
+                4308, 
+                4387, 
+                4526, 
+                4670, 
+                5776
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.8, 
+            "full_name": "Tim O'Malley", 
+            "party": "Progressive Democrats", 
+            "transfers": 2422, 
+            "transfers_pc": 14.66
+        }, 
+        {
+            "counts": [
+                1391, 
+                2943, 
+                3245, 
+                3278, 
+                3419, 
+                3536, 
+                4110
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "Noreen Ryan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2719, 
+            "transfers_pc": 16.46
+        }, 
+        {
+            "counts": [
+                2081, 
+                2480, 
+                2494, 
+                2513, 
+                2686, 
+                2839
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.2, 
+            "full_name": "Maurice Quinlivan", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 758, 
+            "transfers_pc": 4.59
+        }, 
+        {
+            "counts": [
+                1296, 
+                1420, 
+                1425, 
+                1432, 
+                1619
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "Trish Forde Brennan", 
+            "party": "Green Party", 
+            "transfers": 323, 
+            "transfers_pc": 1.95
+        }, 
+        {
+            "counts": [
+                330, 
+                457, 
+                461, 
+                469
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "John Devane", 
+            "party": "Independent", 
+            "transfers": 139, 
+            "transfers_pc": 0.84
+        }, 
+        {
+            "counts": [
+                188, 
+                232, 
+                233, 
+                236
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Cathal McCarthy", 
+            "party": "Independent", 
+            "transfers": 48, 
+            "transfers_pc": 0.29
+        }, 
+        {
+            "counts": [
+                186, 
+                207, 
+                209, 
+                210
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Denis Riordan", 
+            "party": "Independent", 
+            "transfers": 24, 
+            "transfers_pc": 0.15
+        }, 
+        {
+            "counts": [
+                171, 
+                202, 
+                203, 
+                205
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Conor O'Donoghue", 
+            "party": "Christian Solidarity", 
+            "transfers": 34, 
+            "transfers_pc": 0.21
+        }, 
+        {
+            "counts": [
+                28, 
+                38
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Patrick Moore", 
+            "party": "Independent", 
+            "transfers": 10, 
+            "transfers_pc": 0.06
+        }
+    ], 
+    "counts_held": 8, 
+    "description": "2007 general election", 
+    "election_type": "dail", 
+    "electorate": 76874, 
+    "name": "Limerick East", 
+    "quota": 8230, 
+    "spoilt": 431, 
+    "turnout": 49806, 
+    "valid": 49375, 
+    "year": 2007
+}

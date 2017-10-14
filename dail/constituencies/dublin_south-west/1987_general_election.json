@@ -1,0 +1,149 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8169
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.7, 
+            "full_name": "Mary Harney", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                8082
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.5, 
+            "full_name": "Chris Flood", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7922
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.1, 
+            "full_name": "Se\u00e1n Walsh", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4607
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.1, 
+            "full_name": "Mervyn Taylor", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5086
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.3, 
+            "full_name": "Pat Rabbitte", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                3407
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.2, 
+            "full_name": "Larry McMahon", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1187
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "Breda Cass", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1001
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.4, 
+            "full_name": "John Noonan", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                656
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "Therese Ridge", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                458
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "Eamonn Walsh", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                378
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.9, 
+            "full_name": "Christopher Dunne", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                223
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Eamonn Maloney", 
+            "party": "Democratic Socialist Party"
+        }, 
+        {
+            "counts": [
+                143
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Gerry Jago", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                71
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Barbara Hyland", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                64
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Diarmuid O'Flanagan", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1987 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South-West", 
+    "quota": 8291, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 41454, 
+    "year": 1987
+}

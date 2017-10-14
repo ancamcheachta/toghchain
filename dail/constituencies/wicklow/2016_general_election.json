@@ -1,0 +1,257 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                14348
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.9, 
+            "full_name": "Stephen Donnelly", 
+            "party": "Social Democrats"
+        }, 
+        {
+            "counts": [
+                11151, 
+                11489
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.2, 
+            "full_name": "John Brady", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 338, 
+            "transfers_pc": 1.93
+        }, 
+        {
+            "counts": [
+                10819, 
+                11468
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.7, 
+            "full_name": "Simon Harris", 
+            "party": "Fine Gael", 
+            "transfers": 649, 
+            "transfers_pc": 3.7
+        }, 
+        {
+            "counts": [
+                6045, 
+                6227, 
+                6244, 
+                6285, 
+                6424, 
+                6466, 
+                7726, 
+                7961, 
+                9652, 
+                10394
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.8, 
+            "full_name": "Andrew Doyle", 
+            "party": "Fine Gael", 
+            "transfers": 4349, 
+            "transfers_pc": 24.82
+        }, 
+        {
+            "counts": [
+                6289, 
+                6446, 
+                6457, 
+                6505, 
+                6552, 
+                6600, 
+                6700, 
+                8931, 
+                9214, 
+                10260
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.1, 
+            "full_name": "Pat Casey", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3971, 
+            "transfers_pc": 22.66
+        }, 
+        {
+            "counts": [
+                5510, 
+                5737, 
+                5762, 
+                5858, 
+                6017, 
+                6231, 
+                6667, 
+                6910, 
+                7279, 
+                8359
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8, 
+            "full_name": "Billy Timmins", 
+            "party": "Renua Ireland", 
+            "transfers": 2849, 
+            "transfers_pc": 16.26
+        }, 
+        {
+            "counts": [
+                3070, 
+                3345, 
+                3374, 
+                3539, 
+                3717, 
+                4288, 
+                4332, 
+                4613, 
+                5218
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.5, 
+            "full_name": "Joe Behan", 
+            "party": "Independent", 
+            "transfers": 2148, 
+            "transfers_pc": 12.26
+        }, 
+        {
+            "counts": [
+                2634, 
+                2861, 
+                2873, 
+                2912, 
+                3413, 
+                3633, 
+                3859, 
+                4032
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.8, 
+            "full_name": "Anne Ferris", 
+            "party": "Labour Party", 
+            "transfers": 1398, 
+            "transfers_pc": 7.98
+        }, 
+        {
+            "counts": [
+                2990, 
+                3179, 
+                3192, 
+                3249, 
+                3339, 
+                3448, 
+                3548
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.3, 
+            "full_name": "Jennifer Cuffe", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 558, 
+            "transfers_pc": 3.18
+        }, 
+        {
+            "counts": [
+                2091, 
+                2149, 
+                2163, 
+                2176, 
+                2261, 
+                2322
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "Avril Cronin", 
+            "party": "Fine Gael", 
+            "transfers": 231, 
+            "transfers_pc": 1.32
+        }, 
+        {
+            "counts": [
+                1241, 
+                1396, 
+                1454, 
+                1918, 
+                2219
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Sharon Briggs", 
+            "party": "AAA\u2013PBP", 
+            "transfers": 978, 
+            "transfers_pc": 5.58
+        }, 
+        {
+            "counts": [
+                1350, 
+                1614, 
+                1651, 
+                1745
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "Steven Matthews", 
+            "party": "Green Party", 
+            "transfers": 395, 
+            "transfers_pc": 2.25
+        }, 
+        {
+            "counts": [
+                539, 
+                612, 
+                655
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "Anna Doyle", 
+            "party": "AAA\u2013PBP", 
+            "transfers": 116, 
+            "transfers_pc": 0.66
+        }, 
+        {
+            "counts": [
+                447, 
+                476, 
+                520
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Charlie Keddy", 
+            "party": "Independent", 
+            "transfers": 73, 
+            "transfers_pc": 0.42
+        }, 
+        {
+            "counts": [
+                168, 
+                217
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Kathrina Hutchinson", 
+            "party": "Direct\u00a0Democracy", 
+            "transfers": 49, 
+            "transfers_pc": 0.28
+        }, 
+        {
+            "counts": [
+                112, 
+                120
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "Bob Kearns", 
+            "party": "Independent", 
+            "transfers": 8, 
+            "transfers_pc": 0.05
+        }
+    ], 
+    "counts_held": 10, 
+    "description": "2016 general election", 
+    "election_type": "dail", 
+    "electorate": 97858, 
+    "name": "Wicklow", 
+    "quota": 11468, 
+    "spoilt": 596, 
+    "turnout": 69400, 
+    "valid": 68804, 
+    "year": 2016
+}

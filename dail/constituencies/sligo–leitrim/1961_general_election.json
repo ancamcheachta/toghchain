@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6240
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.3, 
+            "full_name": "Joseph McLoughlin", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5032
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.7, 
+            "full_name": "James Gallagher", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4268
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.5, 
+            "full_name": "Eugene Gilhawley", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4429
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13, 
+            "full_name": "Eugene Gilbride", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2949
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.6, 
+            "full_name": "Gerald Foley", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2668
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.8, 
+            "full_name": "Joe Mooney", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2600
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.6, 
+            "full_name": "Daniel Shaw", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2512
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.4, 
+            "full_name": "James Flanagan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2487
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.3, 
+            "full_name": "John Joe McGirl", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                1000
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "Francis Higgins", 
+            "party": "Clann na Talmhan"
+        }
+    ], 
+    "description": "1961 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Sligo\u2013Leitrim", 
+    "quota": 6838, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 34185, 
+    "year": 1961
+}

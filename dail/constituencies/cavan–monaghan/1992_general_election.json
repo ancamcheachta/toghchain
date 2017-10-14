@@ -1,0 +1,131 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7063
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.9, 
+            "full_name": "Brendan Smith", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7125
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13, 
+            "full_name": "Rory O'Hanlon", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4763
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.7, 
+            "full_name": "Andrew Boylan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5192
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.5, 
+            "full_name": "Seymour Crawford", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6555
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.9, 
+            "full_name": "Jimmy Leonard", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4543
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.3, 
+            "full_name": "Ann Gallagher", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5291
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.7, 
+            "full_name": "Bill Cotter", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3942
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.2, 
+            "full_name": "Joe O'Reilly", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4197
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.7, 
+            "full_name": "Caoimhgh\u00edn \u00d3 Caol\u00e1in", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                3551
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.5, 
+            "full_name": "Michael Smith", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1825
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.3, 
+            "full_name": "Winston Turner", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                686
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.3, 
+            "full_name": "Mary Smith", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                157
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Jimmy Finnegan", 
+            "party": "Workers' Party"
+        }
+    ], 
+    "description": "1992 general election", 
+    "election_type": "dail", 
+    "electorate": 79011, 
+    "name": "Cavan\u2013Monaghan", 
+    "quota": 9149, 
+    "spoilt": 993, 
+    "turnout": 55883, 
+    "valid": 54890, 
+    "year": 1992
+}

@@ -1,0 +1,89 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10540
+            ], 
+            "elected": true, 
+            "first_pref_pc": 27.2, 
+            "full_name": "Michael Moynihan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8893, 
+                9485, 
+                10154
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.9, 
+            "full_name": "Donal Moynihan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1261, 
+            "transfers_pc": 32.45
+        }, 
+        {
+            "counts": [
+                8548, 
+                8729, 
+                9417, 
+                9507
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22, 
+            "full_name": "Gerard Murphy", 
+            "party": "Fine Gael", 
+            "transfers": 959, 
+            "transfers_pc": 24.68
+        }, 
+        {
+            "counts": [
+                7787, 
+                7817, 
+                9157, 
+                9460
+            ], 
+            "elected": false, 
+            "first_pref_pc": 20.1, 
+            "full_name": "Michael Creed", 
+            "party": "Fine Gael", 
+            "transfers": 1673, 
+            "transfers_pc": 43.05
+        }, 
+        {
+            "counts": [
+                2668, 
+                2694
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.8, 
+            "full_name": "Martin Coughlan", 
+            "party": "Labour Party", 
+            "transfers": 26, 
+            "transfers_pc": 0.67
+        }, 
+        {
+            "counts": [
+                383, 
+                389
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Gerry Duffy", 
+            "party": "Christian Solidarity", 
+            "transfers": 6, 
+            "transfers_pc": 0.15
+        }
+    ], 
+    "counts_held": 4, 
+    "description": "2002 general election", 
+    "election_type": "dail", 
+    "electorate": 53699, 
+    "name": "Cork North-West", 
+    "quota": 9705, 
+    "spoilt": 574, 
+    "turnout": 39393, 
+    "valid": 38819, 
+    "year": 2002
+}

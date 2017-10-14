@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                13850
+            ], 
+            "elected": true, 
+            "first_pref_pc": 33.4, 
+            "full_name": "\u00c9amon de Valera", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8016
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.3, 
+            "full_name": "William Murphy", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4063
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.8, 
+            "full_name": "Patrick Hillery", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5213
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.6, 
+            "full_name": "Patrick Hogan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4031
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.7, 
+            "full_name": "Thomas Burke", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2634
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.4, 
+            "full_name": "M. Considine", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2028
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.9, 
+            "full_name": "Se\u00e1n O'Grady", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1648
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4, 
+            "full_name": "Vincent McHugh", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1951 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Clare", 
+    "quota": 8297, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 41483, 
+    "year": 1951
+}

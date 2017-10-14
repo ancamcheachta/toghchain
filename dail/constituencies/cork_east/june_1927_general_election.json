@@ -1,0 +1,140 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                3743
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.1, 
+            "full_name": "Michael Hennessy", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3704
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.9, 
+            "full_name": "John Daly", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                3666
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.8, 
+            "full_name": "Martin Corry", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3870
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.4, 
+            "full_name": "David Kent", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                2251
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6.7, 
+            "full_name": "David O'Gorman", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                2976
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.8, 
+            "full_name": "Edmond Carey", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2714
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8, 
+            "full_name": "Frederick McCabe", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2210
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.5, 
+            "full_name": "John Barry", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1853
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.5, 
+            "full_name": "John Dinneen", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                1830
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.4, 
+            "full_name": "Michael Cahill", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                1793
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.3, 
+            "full_name": "Patrick Murphy", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1724
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.1, 
+            "full_name": "Brook Brasier", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                1379
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.1, 
+            "full_name": "Michael K. Noonan", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                161
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Eugene Joyce", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "June 1927 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Cork East", 
+    "quota": 5646, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 33874, 
+    "year": 1927
+}

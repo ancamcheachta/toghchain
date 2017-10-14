@@ -1,0 +1,176 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10008
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.3, 
+            "full_name": "Gerry O'Sullivan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6455
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.4, 
+            "full_name": "Dan Wallace", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5263
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.7, 
+            "full_name": "Bernard Allen", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5192
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.6, 
+            "full_name": "M\u00e1ir\u00edn Quill", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                4051
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9, 
+            "full_name": "Liam Burke", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3017
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.7, 
+            "full_name": "Billy Kelleher", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1795
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4, 
+            "full_name": "John Kelleher", 
+            "party": "Democratic Left"
+        }, 
+        {
+            "counts": [
+                2460
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.5, 
+            "full_name": "Denis Lyons", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1036
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.3, 
+            "full_name": "Con O'Leary", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                737
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "Jimmy Homan", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                818
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Donogh MacCarthy Morrogh", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                894
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "Michael O'Leary", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                755
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "Gene McCarthy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                618
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "Don O'Leary", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                446
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Ted Tynan", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                481
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "Donie O'Leary", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                422
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.9, 
+            "full_name": "John O'Mahony", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                447
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Gerry Duffy", 
+            "party": "Christian Centrist"
+        }
+    ], 
+    "description": "1992 general election", 
+    "election_type": "dail", 
+    "electorate": 68479, 
+    "name": "Cork North-Central", 
+    "quota": 7483, 
+    "spoilt": 841, 
+    "turnout": 45736, 
+    "valid": 44895, 
+    "year": 1992
+}

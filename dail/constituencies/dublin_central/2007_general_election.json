@@ -1,0 +1,201 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                12734
+            ], 
+            "elected": true, 
+            "first_pref_pc": 36.8, 
+            "full_name": "Bertie Ahern", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4649, 
+                5453, 
+                5622, 
+                6062, 
+                6799, 
+                7385
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.4, 
+            "full_name": "Tony Gregory", 
+            "party": "Independent", 
+            "transfers": 2736, 
+            "transfers_pc": 18.91
+        }, 
+        {
+            "counts": [
+                4353, 
+                4793, 
+                4870, 
+                5028, 
+                5809, 
+                6073, 
+                6205, 
+                8018
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.6, 
+            "full_name": "Joe Costello", 
+            "party": "Labour Party", 
+            "transfers": 3665, 
+            "transfers_pc": 25.33
+        }, 
+        {
+            "counts": [
+                939, 
+                3342, 
+                3510, 
+                3554, 
+                3616, 
+                5608, 
+                5764, 
+                6348
+            ], 
+            "elected": true, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Cyprian Brady", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 5409, 
+            "transfers_pc": 37.39
+        }, 
+        {
+            "counts": [
+                3302, 
+                3441, 
+                3548, 
+                3600, 
+                3896, 
+                4147, 
+                4216, 
+                4556
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.5, 
+            "full_name": "Paschal Donohoe", 
+            "party": "Fine Gael", 
+            "transfers": 1254, 
+            "transfers_pc": 8.67
+        }, 
+        {
+            "counts": [
+                3182, 
+                3471, 
+                3519, 
+                3744, 
+                3948, 
+                4120, 
+                4178
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.2, 
+            "full_name": "Mary Lou McDonald", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 996, 
+            "transfers_pc": 6.88
+        }, 
+        {
+            "counts": [
+                1725, 
+                3087, 
+                3236, 
+                3330, 
+                3447
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.9, 
+            "full_name": "Mary Fitzpatrick", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1722, 
+            "transfers_pc": 11.9
+        }, 
+        {
+            "counts": [
+                1995, 
+                2116, 
+                2221, 
+                2294
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.8, 
+            "full_name": "Patricia McKenna", 
+            "party": "Green Party", 
+            "transfers": 299, 
+            "transfers_pc": 2.07
+        }, 
+        {
+            "counts": [
+                952, 
+                1058, 
+                1133
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Cieran Perry", 
+            "party": "Independent", 
+            "transfers": 181, 
+            "transfers_pc": 1.25
+        }, 
+        {
+            "counts": [
+                260, 
+                269
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "Paul O'Loughlin", 
+            "party": "Christian Solidarity", 
+            "transfers": 9, 
+            "transfers_pc": 0.06
+        }, 
+        {
+            "counts": [
+                239, 
+                253
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "Patrick Talbot", 
+            "party": "Immigration Control", 
+            "transfers": 14, 
+            "transfers_pc": 0.1
+        }, 
+        {
+            "counts": [
+                193, 
+                226
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Jerry Hannon", 
+            "party": "Progressive Democrats", 
+            "transfers": 33, 
+            "transfers_pc": 0.23
+        }, 
+        {
+            "counts": [
+                116, 
+                202
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Alan Beirne", 
+            "party": "Fathers Rights", 
+            "transfers": 86, 
+            "transfers_pc": 0.59
+        }
+    ], 
+    "counts_held": 8, 
+    "description": "2007 general election", 
+    "election_type": "dail", 
+    "electorate": 63423, 
+    "name": "Dublin Central", 
+    "quota": 6928, 
+    "spoilt": 510, 
+    "turnout": 35149, 
+    "valid": 34639, 
+    "year": 2007
+}

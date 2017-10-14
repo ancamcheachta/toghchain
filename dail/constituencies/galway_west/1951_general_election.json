@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                2832
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.3, 
+            "full_name": "John Mannion, Snr", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4481
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21, 
+            "full_name": "Peadar Duignan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3793
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.8, 
+            "full_name": "Gerald Bartley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3066
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.4, 
+            "full_name": "Michael Lydon", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2238
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.5, 
+            "full_name": "Martin Mylotte", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1885
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.8, 
+            "full_name": "John McElhinney", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1572
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.4, 
+            "full_name": "Fintan Coogan, Snr", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1457
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.8, 
+            "full_name": "Fursa Walsh", 
+            "party": "Clann na Poblachta"
+        }
+    ], 
+    "description": "1951 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Galway West", 
+    "quota": 5332, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 21324, 
+    "year": 1951
+}

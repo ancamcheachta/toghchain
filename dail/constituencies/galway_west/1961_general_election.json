@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                4854
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.5, 
+            "full_name": "Fintan Coogan, Snr", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4917
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.8, 
+            "full_name": "Johnny Geoghegan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4557
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.1, 
+            "full_name": "Gerald Bartley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1948
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.4, 
+            "full_name": "Thomas Connolly", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1693
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.2, 
+            "full_name": "James Cox", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1640
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.9, 
+            "full_name": "Joseph Ridge", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                1053
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.1, 
+            "full_name": "Thomas Powell", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1961 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Galway West", 
+    "quota": 5166, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 20662, 
+    "year": 1961
+}

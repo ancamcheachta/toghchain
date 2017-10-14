@@ -1,0 +1,120 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8542
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.5, 
+            "full_name": "Conor Lenihan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8346
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20, 
+            "full_name": "Brian Hayes", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                8325, 
+                8342
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20, 
+            "full_name": "Pat Rabbitte", 
+            "party": "Labour Party", 
+            "transfers": 17, 
+            "transfers_pc": 0.76
+        }, 
+        {
+            "counts": [
+                7813, 
+                7985, 
+                8102, 
+                8106, 
+                8109, 
+                8439
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.8, 
+            "full_name": "Charlie O'Connor", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 626, 
+            "transfers_pc": 27.95
+        }, 
+        {
+            "counts": [
+                5066, 
+                5076, 
+                5183, 
+                5185, 
+                5189, 
+                5766
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.2, 
+            "full_name": "Se\u00e1n Crowe", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 700, 
+            "transfers_pc": 31.25
+        }, 
+        {
+            "counts": [
+                1546, 
+                1552, 
+                1655, 
+                1662, 
+                1666, 
+                2234
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "Elizabeth Davidson", 
+            "party": "Green Party", 
+            "transfers": 688, 
+            "transfers_pc": 30.71
+        }, 
+        {
+            "counts": [
+                1580, 
+                1584, 
+                1659, 
+                1661, 
+                1661
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.8, 
+            "full_name": "Mick Murphy", 
+            "party": "Socialist Party", 
+            "transfers": 81, 
+            "transfers_pc": 3.62
+        }, 
+        {
+            "counts": [
+                434, 
+                436
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Ray Kelly", 
+            "party": "Fathers Rights", 
+            "transfers": 2, 
+            "transfers_pc": 0.09
+        }
+    ], 
+    "counts_held": 6, 
+    "description": "2007 general election", 
+    "election_type": "dail", 
+    "electorate": 67148, 
+    "name": "Dublin South-West", 
+    "quota": 8331, 
+    "spoilt": 370, 
+    "turnout": 42022, 
+    "valid": 41652, 
+    "year": 2007
+}

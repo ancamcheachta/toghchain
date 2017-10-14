@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7267
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26.3, 
+            "full_name": "Frank Aiken", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6094
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22, 
+            "full_name": "James Murphy", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                5594
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.2, 
+            "full_name": "James Coburn", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                4512
+            ], 
+            "elected": false, 
+            "first_pref_pc": 16.3, 
+            "full_name": "Peter Hughes", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                2192
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.9, 
+            "full_name": "David Blood", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2019
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.3, 
+            "full_name": "Kevin O'Reilly", 
+            "party": "Fianna F\u00e1il"
+        }
+    ], 
+    "description": "1932 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Louth", 
+    "quota": 6920, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 27678, 
+    "year": 1932
+}

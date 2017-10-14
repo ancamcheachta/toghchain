@@ -1,0 +1,212 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6585, 
+                6632, 
+                6860, 
+                9526, 
+                9793, 
+                10223, 
+                11115, 
+                12850
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.1, 
+            "full_name": "Michael P. Kitt", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 6265, 
+            "transfers_pc": 22.04
+        }, 
+        {
+            "counts": [
+                7255, 
+                7310, 
+                7552, 
+                7802, 
+                8091, 
+                9824, 
+                10877, 
+                12610
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.2, 
+            "full_name": "Paul Connaughton, Jnr", 
+            "party": "Fine Gael", 
+            "transfers": 5355, 
+            "transfers_pc": 18.84
+        }, 
+        {
+            "counts": [
+                6927, 
+                7061, 
+                7268, 
+                7565, 
+                8125, 
+                9962, 
+                10279, 
+                11861
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.7, 
+            "full_name": "Ciar\u00e1n Cannon", 
+            "party": "Fine Gael", 
+            "transfers": 4934, 
+            "transfers_pc": 17.36
+        }, 
+        {
+            "counts": [
+                4254, 
+                4344, 
+                4693, 
+                4785, 
+                7236, 
+                7469, 
+                8636, 
+                9806, 
+                10126
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.2, 
+            "full_name": "Colm Keaveney", 
+            "party": "Labour Party", 
+            "transfers": 5872, 
+            "transfers_pc": 20.66
+        }, 
+        {
+            "counts": [
+                5832, 
+                5868, 
+                5950, 
+                6034, 
+                6125, 
+                6736, 
+                8371, 
+                8665, 
+                8848
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.8, 
+            "full_name": "Tom McHugh", 
+            "party": "Fine Gael", 
+            "transfers": 3016, 
+            "transfers_pc": 10.61
+        }, 
+        {
+            "counts": [
+                5137, 
+                5242, 
+                6278, 
+                6516, 
+                6846, 
+                7641, 
+                8365
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.7, 
+            "full_name": "Tim Broderick", 
+            "party": "Independent", 
+            "transfers": 3228, 
+            "transfers_pc": 11.36
+        }, 
+        {
+            "counts": [
+                5567, 
+                5645, 
+                5940, 
+                6127, 
+                6341, 
+                6431
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.4, 
+            "full_name": "Se\u00e1n Canney", 
+            "party": "Independent", 
+            "transfers": 864, 
+            "transfers_pc": 3.04
+        }, 
+        {
+            "counts": [
+                5395, 
+                5440, 
+                5634, 
+                5778, 
+                5987
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.1, 
+            "full_name": "Jimmy McClearn", 
+            "party": "Fine Gael", 
+            "transfers": 592, 
+            "transfers_pc": 2.08
+        }, 
+        {
+            "counts": [
+                3577, 
+                3813, 
+                4423, 
+                4651
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6, 
+            "full_name": "Lorraine Higgins", 
+            "party": "Labour Party", 
+            "transfers": 1074, 
+            "transfers_pc": 3.78
+        }, 
+        {
+            "counts": [
+                4109, 
+                4155, 
+                4290
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.9, 
+            "full_name": "Michael F. Dolan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 181, 
+            "transfers_pc": 0.64
+        }, 
+        {
+            "counts": [
+                3635, 
+                3723
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.1, 
+            "full_name": "Dermot Connolly", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 88, 
+            "transfers_pc": 0.31
+        }, 
+        {
+            "counts": [
+                601
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Emer O'Donnell", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                402
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "Ciar\u00e1n Kennedy", 
+            "party": "Green Party"
+        }
+    ], 
+    "counts_held": 9, 
+    "description": "2011 general election", 
+    "election_type": "dail", 
+    "electorate": 83651, 
+    "name": "Galway East", 
+    "quota": 11856, 
+    "spoilt": 560, 
+    "turnout": 59836, 
+    "valid": 59276, 
+    "year": 2011
+}

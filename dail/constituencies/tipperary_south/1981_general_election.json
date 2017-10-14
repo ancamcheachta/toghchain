@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8989
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.5, 
+            "full_name": "Se\u00e1n Treacy", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6590
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.8, 
+            "full_name": "Brendan Griffin", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5716
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.7, 
+            "full_name": "Se\u00e1n McCarthy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5838
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14, 
+            "full_name": "Carrie Acheson", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5737
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.7, 
+            "full_name": "Se\u00e1n Byrne", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3728
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.9, 
+            "full_name": "T. J. Maher", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2596
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.2, 
+            "full_name": "John Crowe", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1413
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.4, 
+            "full_name": "Terence Darmody", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1144
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Louise Farrell", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1981 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Tipperary South", 
+    "quota": 8351, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 41751, 
+    "year": 1981
+}

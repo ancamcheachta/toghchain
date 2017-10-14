@@ -1,0 +1,122 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9852
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.8, 
+            "full_name": "S\u00e9amus Burke", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                8344
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.2, 
+            "full_name": "Daniel Morrissey", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6567
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.2, 
+            "full_name": "Se\u00e1n Hayes", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4943
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.4, 
+            "full_name": "Andrew Fogarty", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5914
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.1, 
+            "full_name": "Michael Heffernan", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                4031
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6.9, 
+            "full_name": "John Hassett", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                4860
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.3, 
+            "full_name": "Timothy Sheehy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3701
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.3, 
+            "full_name": "Se\u00e1n Gleeson", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3682
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.3, 
+            "full_name": "Jeremiah Ryan", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                2668
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.6, 
+            "full_name": "William X. O'Brien", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2398
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.1, 
+            "full_name": "Laurence Tobin", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                1672
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "Richard Trecey", 
+            "party": "Cumann na nGaedheal"
+        }
+    ], 
+    "description": "September 1927 general election", 
+    "election_type": "dail", 
+    "electorate": 81381, 
+    "name": "Tipperary", 
+    "quota": 7330, 
+    "spoilt": null, 
+    "turnout": 72, 
+    "valid": 58632, 
+    "year": 1927
+}

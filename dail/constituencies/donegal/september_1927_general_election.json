@@ -1,0 +1,131 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7934
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.5, 
+            "full_name": "James Myles", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                6877
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.6, 
+            "full_name": "Neal Blaney", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6108
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.2, 
+            "full_name": "Eugene Doherty", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                4811
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.8, 
+            "full_name": "Frank Carney", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5224
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.6, 
+            "full_name": "Hugh Law", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3675
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6.7, 
+            "full_name": "Archie Cassidy", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4740
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.7, 
+            "full_name": "Michael \u00d3g McFadden", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                4637
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.5, 
+            "full_name": "John White", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                3889
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.1, 
+            "full_name": "Patrick McGoldrick", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                2463
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.5, 
+            "full_name": "Patrick McGinley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2067
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.8, 
+            "full_name": "Edward Kelly", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                1973
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.6, 
+            "full_name": "John O'Flaherty", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                164
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Kate McCarry", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "September 1927 general election", 
+    "election_type": "dail", 
+    "electorate": 90224, 
+    "name": "Donegal", 
+    "quota": 6062, 
+    "spoilt": null, 
+    "turnout": 60, 
+    "valid": 54552, 
+    "year": 1927
+}

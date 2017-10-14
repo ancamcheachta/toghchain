@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7611
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.6, 
+            "full_name": "Se\u00e1n Treacy", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5777
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.6, 
+            "full_name": "Brendan Griffin", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7317
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.8, 
+            "full_name": "Jackie Fahey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6117
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.6, 
+            "full_name": "Noel Davern", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4793
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13, 
+            "full_name": "William Ryan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2982
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.1, 
+            "full_name": "Terence Darmody", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2360
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.4, 
+            "full_name": "Michael Smyth", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1973 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Tipperary South", 
+    "quota": 7392, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 36957, 
+    "year": 1973
+}

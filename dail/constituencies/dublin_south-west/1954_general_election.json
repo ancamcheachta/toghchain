@@ -1,0 +1,131 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                5940
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.6, 
+            "full_name": "Peadar Doyle", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6151
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.1, 
+            "full_name": "Se\u00e1n MacBride", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                6594
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.1, 
+            "full_name": "Robert Briscoe", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4783
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11, 
+            "full_name": "Michael O'Higgins", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5894
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.5, 
+            "full_name": "Bernard Butler", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5080
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.6, 
+            "full_name": "Michael ffrench-O'Carroll", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2262
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.2, 
+            "full_name": "James Carroll", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2155
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.9, 
+            "full_name": "William Croly", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1924
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "John Colgan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1617
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "Richard Deasy", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                631
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.5, 
+            "full_name": "Matt Merrigan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                375
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.9, 
+            "full_name": "Michael O'Riordan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                245
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Myles Heffernan", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1954 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South-West", 
+    "quota": 7276, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 43651, 
+    "year": 1954
+}

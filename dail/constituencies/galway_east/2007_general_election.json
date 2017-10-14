@@ -1,0 +1,222 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6886, 
+                6989, 
+                7113, 
+                7398, 
+                7698, 
+                8315, 
+                9927, 
+                13058
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.3, 
+            "full_name": "Paul Connaughton, Snr", 
+            "party": "Fine Gael", 
+            "transfers": 6172, 
+            "transfers_pc": 28.55
+        }, 
+        {
+            "counts": [
+                8796, 
+                8911, 
+                9121, 
+                9327, 
+                9720, 
+                10637, 
+                11077, 
+                12225
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.8, 
+            "full_name": "Michael P. Kitt", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3429, 
+            "transfers_pc": 15.86
+        }, 
+        {
+            "counts": [
+                5149, 
+                5318, 
+                5443, 
+                5645, 
+                6194, 
+                6316, 
+                8612, 
+                9641, 
+                11183
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.2, 
+            "full_name": "Ulick Burke", 
+            "party": "Fine Gael", 
+            "transfers": 6034, 
+            "transfers_pc": 27.91
+        }, 
+        {
+            "counts": [
+                7524, 
+                7668, 
+                7817, 
+                7943, 
+                8895, 
+                9399, 
+                9805, 
+                10316, 
+                10591
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.5, 
+            "full_name": "Noel Treacy", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3067, 
+            "transfers_pc": 14.18
+        }, 
+        {
+            "counts": [
+                5817, 
+                5922, 
+                6135, 
+                6184, 
+                6802, 
+                6950, 
+                7709, 
+                7850, 
+                7932
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.4, 
+            "full_name": "Joe Callanan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2115, 
+            "transfers_pc": 9.78
+        }, 
+        {
+            "counts": [
+                4881, 
+                4958, 
+                5019, 
+                5529, 
+                5584, 
+                6710, 
+                6936
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.8, 
+            "full_name": "Tom McHugh", 
+            "party": "Fine Gael", 
+            "transfers": 2055, 
+            "transfers_pc": 9.5
+        }, 
+        {
+            "counts": [
+                4916, 
+                5079, 
+                5435, 
+                5663, 
+                6050, 
+                6218
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.8, 
+            "full_name": "John Barton", 
+            "party": "Fine Gael", 
+            "transfers": 1302, 
+            "transfers_pc": 6.02
+        }, 
+        {
+            "counts": [
+                3224, 
+                3382, 
+                3602, 
+                4051, 
+                4212
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.8, 
+            "full_name": "Paddy McHugh", 
+            "party": "Independent", 
+            "transfers": 988, 
+            "transfers_pc": 4.57
+        }, 
+        {
+            "counts": [
+                3321, 
+                3447, 
+                3507, 
+                3599
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6, 
+            "full_name": "Ciar\u00e1n Cannon", 
+            "party": "Progressive Democrats", 
+            "transfers": 278, 
+            "transfers_pc": 1.29
+        }, 
+        {
+            "counts": [
+                1747, 
+                2120, 
+                2371
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.1, 
+            "full_name": "Colm Keaveney", 
+            "party": "Labour Party", 
+            "transfers": 624, 
+            "transfers_pc": 2.89
+        }, 
+        {
+            "counts": [
+                1789, 
+                1953
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.2, 
+            "full_name": "Jason Devlin", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 164, 
+            "transfers_pc": 0.76
+        }, 
+        {
+            "counts": [
+                1057
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.9, 
+            "full_name": "Ma\u00edread N\u00ed Chro\u00edn\u00edn", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                397
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "Adrian Feeney", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                290
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Clare Flynn", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 9, 
+    "description": "2007 general election", 
+    "election_type": "dail", 
+    "electorate": 81684, 
+    "name": "Galway East", 
+    "quota": 11159, 
+    "spoilt": 480, 
+    "turnout": 56274, 
+    "valid": 55794, 
+    "year": 2007
+}

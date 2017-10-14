@@ -1,0 +1,222 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8762, 
+                8765, 
+                8788, 
+                8860, 
+                8900, 
+                8994
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.5, 
+            "full_name": "Desmond O'Malley", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 232, 
+            "transfers_pc": 1.85
+        }, 
+        {
+            "counts": [
+                6571, 
+                6573, 
+                6585, 
+                6692, 
+                7302, 
+                7374, 
+                7636, 
+                10169
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.6, 
+            "full_name": "Tom O'Donnell", 
+            "party": "Fine Gael", 
+            "transfers": 3598, 
+            "transfers_pc": 28.64
+        }, 
+        {
+            "counts": [
+                5224, 
+                5257, 
+                5322, 
+                5429, 
+                5575, 
+                6023, 
+                7608, 
+                8049, 
+                9775
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.6, 
+            "full_name": "Michael Lipper", 
+            "party": "Independent", 
+            "transfers": 4551, 
+            "transfers_pc": 36.22
+        }, 
+        {
+            "counts": [
+                6293, 
+                6306, 
+                6321, 
+                6377, 
+                6405, 
+                6474, 
+                6640, 
+                6786, 
+                7105, 
+                7342
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14, 
+            "full_name": "Michael Herbert", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1049, 
+            "transfers_pc": 8.35
+        }, 
+        {
+            "counts": [
+                5488, 
+                5497, 
+                5512, 
+                5540, 
+                5572, 
+                5610, 
+                5722, 
+                5778, 
+                6090, 
+                6249
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.2, 
+            "full_name": "Peadar Clohessy", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 761, 
+            "transfers_pc": 6.06
+        }, 
+        {
+            "counts": [
+                3553, 
+                3555, 
+                3565, 
+                3618, 
+                3693, 
+                3786, 
+                4008, 
+                4380
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.9, 
+            "full_name": "Stephen Coughlan", 
+            "party": "Labour Party", 
+            "transfers": 827, 
+            "transfers_pc": 6.58
+        }, 
+        {
+            "counts": [
+                3022, 
+                3024, 
+                3030, 
+                3097, 
+                3403, 
+                3521, 
+                3684
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.7, 
+            "full_name": "Ted Russell", 
+            "party": "Fine Gael", 
+            "transfers": 662, 
+            "transfers_pc": 5.27
+        }, 
+        {
+            "counts": [
+                2333, 
+                2348, 
+                2413, 
+                2476, 
+                2530, 
+                2920
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.2, 
+            "full_name": "Jim Kemmy", 
+            "party": "Democratic Socialist Party", 
+            "transfers": 587, 
+            "transfers_pc": 4.67
+        }, 
+        {
+            "counts": [
+                1325, 
+                1335, 
+                1358, 
+                1408, 
+                1447
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "Michael Crowe", 
+            "party": "Independent", 
+            "transfers": 122, 
+            "transfers_pc": 0.97
+        }, 
+        {
+            "counts": [
+                1302, 
+                1303, 
+                1307, 
+                1357
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "Patrick Kennedy", 
+            "party": "Fine Gael", 
+            "transfers": 55, 
+            "transfers_pc": 0.44
+        }, 
+        {
+            "counts": [
+                646, 
+                657, 
+                677
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "Win Harrington", 
+            "party": "Independent", 
+            "transfers": 31, 
+            "transfers_pc": 0.25
+        }, 
+        {
+            "counts": [
+                262, 
+                280
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Fergus Reynolds", 
+            "party": "Sinn F\u00e9in (Workers' Party)", 
+            "transfers": 18, 
+            "transfers_pc": 0.14
+        }, 
+        {
+            "counts": [
+                122
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Joseph Harrington", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 10, 
+    "description": "1977 general election", 
+    "election_type": "dail", 
+    "electorate": 57023, 
+    "name": "Limerick East", 
+    "quota": 8981, 
+    "spoilt": 217, 
+    "turnout": 45120, 
+    "valid": 44903, 
+    "year": 1977
+}

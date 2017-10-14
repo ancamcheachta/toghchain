@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6918
+            ], 
+            "elected": true, 
+            "first_pref_pc": 28.4, 
+            "full_name": "John A. Costello", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6035
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.8, 
+            "full_name": "No\u00ebl Browne", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                5916
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.3, 
+            "full_name": "Se\u00e1n MacEntee", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2473
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.2, 
+            "full_name": "Se\u00e1n Moore", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1332
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.5, 
+            "full_name": "John O'Donovan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1291
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.3, 
+            "full_name": "Patrick Bermingham", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                396
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "Gerry Callanan", 
+            "party": "Clann na Poblachta"
+        }
+    ], 
+    "description": "1957 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South\u2013East", 
+    "quota": 6091, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 24361, 
+    "year": 1957
+}

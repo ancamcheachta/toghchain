@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8035
+            ], 
+            "elected": true, 
+            "first_pref_pc": 30.8, 
+            "full_name": "Godfrey Timmins", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                9788
+            ], 
+            "elected": false, 
+            "first_pref_pc": 37.5, 
+            "full_name": "Nancy O'Neill", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5761
+            ], 
+            "elected": false, 
+            "first_pref_pc": 22.1, 
+            "full_name": "Liam Kavanagh", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2009
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.7, 
+            "full_name": "Seamus Costello", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                509
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.9, 
+            "full_name": "Kevin McLeavey", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1968 by-election", 
+    "election_type": "dail", 
+    "electorate": 36658, 
+    "name": "Wicklow", 
+    "quota": 13052, 
+    "spoilt": null, 
+    "turnout": 71, 
+    "valid": 26102, 
+    "year": 1968
+}

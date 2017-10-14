@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10519
+            ], 
+            "elected": true, 
+            "first_pref_pc": 29, 
+            "full_name": "George Colley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7423
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.4, 
+            "full_name": "Michael O'Leary", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2607
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.2, 
+            "full_name": "Celia Lynch", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4655
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.8, 
+            "full_name": "Luke Belton", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4552
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.5, 
+            "full_name": "Patrick Lindsay", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2089
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.8, 
+            "full_name": "William Cumiskey", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1919
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.3, 
+            "full_name": "Thomas Stafford", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1055
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "Michael Kelly", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                891
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.5, 
+            "full_name": "James Quinn", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                610
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "Dermot Ryan", 
+            "party": "Fianna F\u00e1il"
+        }
+    ], 
+    "description": "1969 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin North-Central", 
+    "quota": 7265, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 36320, 
+    "year": 1969
+}

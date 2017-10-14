@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6378
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.8, 
+            "full_name": "Tom McEllistrim, Snr", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5861
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.3, 
+            "full_name": "Dan Spring", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5326
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.8, 
+            "full_name": "Patrick Finucane", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                5003
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.9, 
+            "full_name": "Johnny Connor", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                4904
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.6, 
+            "full_name": "John Lynch", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4580
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.7, 
+            "full_name": "Eamonn Kissane", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3890
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.8, 
+            "full_name": "Maurice Lawlor", 
+            "party": "Fianna F\u00e1il"
+        }
+    ], 
+    "description": "1954 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Kerry North", 
+    "quota": 7189, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 35942, 
+    "year": 1954
+}

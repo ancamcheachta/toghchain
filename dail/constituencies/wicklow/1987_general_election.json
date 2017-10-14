@@ -1,0 +1,122 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8825
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.2, 
+            "full_name": "Joe Jacob", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7754
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.9, 
+            "full_name": "Liam Kavanagh", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6474
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.1, 
+            "full_name": "Gemma Hussey", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6163
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.4, 
+            "full_name": "Dick Roche", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5710
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.4, 
+            "full_name": "Godfrey Timmins", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3509
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.6, 
+            "full_name": "John McManus", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                2461
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.4, 
+            "full_name": "Aidan Murphy", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                2014
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.38, 
+            "full_name": "Donal Atkins", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                1243
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Se\u00e1n Wolahan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                975
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "Michael Healy", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                658
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "Liam de Siuin", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                217
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Barbara Hyland", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1987 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Wicklow", 
+    "quota": 9201, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 46003, 
+    "year": 1987
+}

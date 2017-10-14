@@ -1,0 +1,50 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                16263
+            ], 
+            "elected": true, 
+            "first_pref_pc": 50.2, 
+            "full_name": "Brendan Corish", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                11816
+            ], 
+            "elected": false, 
+            "first_pref_pc": 36.5, 
+            "full_name": "Robert Moran", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3051
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.4, 
+            "full_name": "Patrick Kinsella", 
+            "party": "Clann na Talmhan"
+        }, 
+        {
+            "counts": [
+                1250
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.9, 
+            "full_name": "Robert Murphy", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1945 by-election", 
+    "election_type": "dail", 
+    "electorate": 59662, 
+    "name": "Wexford", 
+    "quota": 16191, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 32380, 
+    "year": 1945
+}

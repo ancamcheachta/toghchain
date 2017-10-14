@@ -1,0 +1,102 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8731
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.2, 
+            "full_name": "Se\u00e1n \u00d3 Feargha\u00edl", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8694
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.1, 
+            "full_name": "Se\u00e1n Power", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7154, 
+                7712, 
+                9145
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.7, 
+            "full_name": "Jack Wall", 
+            "party": "Labour Party", 
+            "transfers": 1991, 
+            "transfers_pc": 47.38
+        }, 
+        {
+            "counts": [
+                3353, 
+                3654, 
+                4039
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.7, 
+            "full_name": "Richard Daly", 
+            "party": "Fine Gael", 
+            "transfers": 686, 
+            "transfers_pc": 16.33
+        }, 
+        {
+            "counts": [
+                2586, 
+                2861, 
+                3178
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.5, 
+            "full_name": "Alan Gillis", 
+            "party": "Fine Gael", 
+            "transfers": 592, 
+            "transfers_pc": 14.09
+        }, 
+        {
+            "counts": [
+                2136, 
+                2658
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.2, 
+            "full_name": "J. J. Power", 
+            "party": "Green Party", 
+            "transfers": 522, 
+            "transfers_pc": 12.42
+        }, 
+        {
+            "counts": [
+                1513
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "Jane Mullins", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                424
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "Tom Doyle", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 3, 
+    "description": "2007 general election", 
+    "election_type": "dail", 
+    "electorate": 56670, 
+    "name": "Kildare South", 
+    "quota": 8648, 
+    "spoilt": 347, 
+    "turnout": 34938, 
+    "valid": 34591, 
+    "year": 2007
+}

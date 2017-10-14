@@ -1,0 +1,32 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                24919
+            ], 
+            "elected": true, 
+            "first_pref_pc": 57.6, 
+            "full_name": "Denis McCullough", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                18371
+            ], 
+            "elected": false, 
+            "first_pref_pc": 42.4, 
+            "full_name": "Thomas Daly", 
+            "party": "Republican"
+        }
+    ], 
+    "description": "1924 by-election", 
+    "election_type": "dail", 
+    "electorate": 96777, 
+    "name": "Donegal", 
+    "quota": 21646, 
+    "spoilt": null, 
+    "turnout": 44, 
+    "valid": 43290, 
+    "year": 1924
+}

@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8723
+            ], 
+            "elected": true, 
+            "first_pref_pc": 28.2, 
+            "full_name": "Frank Aiken", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7005
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.7, 
+            "full_name": "James Coburn", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4880
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.8, 
+            "full_name": "Roddy Connolly", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3698
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12, 
+            "full_name": "Frank Jeffers", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                3318
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.7, 
+            "full_name": "Laurence Walsh", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2698
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.7, 
+            "full_name": "John Callan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                585
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.9, 
+            "full_name": "Eoin \u00d3 Coigligh", 
+            "party": "Ailtir\u00ed na hAis\u00e9irghe"
+        }
+    ], 
+    "description": "1943 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Louth", 
+    "quota": 7727, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 30907, 
+    "year": 1943
+}

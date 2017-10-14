@@ -1,0 +1,187 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [], 
+            "elected": true, 
+            "first_pref_pc": null, 
+            "full_name": "P\u00e1draig Faulkner", 
+            "party": "Ceann Comhairle"
+        }, 
+        {
+            "counts": [
+                4694, 
+                4810, 
+                5007, 
+                5258, 
+                8316, 
+                8513, 
+                13315
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.3, 
+            "full_name": "Bernard Markey", 
+            "party": "Fine Gael", 
+            "transfers": 8621, 
+            "transfers_pc": 39.26
+        }, 
+        {
+            "counts": [
+                5823, 
+                5914, 
+                7235, 
+                7308, 
+                7553, 
+                11076, 
+                11325
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.7, 
+            "full_name": "Eddie Filgate", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 5502, 
+            "transfers_pc": 25.06
+        }, 
+        {
+            "counts": [
+                8368, 
+                8846, 
+                8998, 
+                9525, 
+                9841, 
+                10409, 
+                10814
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.3, 
+            "full_name": "Paddy Agnew", 
+            "party": "Anti H-Block", 
+            "transfers": 2446, 
+            "transfers_pc": 11.14
+        }, 
+        {
+            "counts": [
+                4920, 
+                5276, 
+                6047, 
+                6791, 
+                6812, 
+                8190, 
+                8829
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.7, 
+            "full_name": "John Connor", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3909, 
+            "transfers_pc": 17.8
+        }, 
+        {
+            "counts": [
+                4372, 
+                4624, 
+                4687, 
+                5548, 
+                6463, 
+                6651
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.6, 
+            "full_name": "Dick Branigan", 
+            "party": "Fine Gael", 
+            "transfers": 2279, 
+            "transfers_pc": 10.38
+        }, 
+        {
+            "counts": [
+                5314, 
+                5413, 
+                5672, 
+                5794, 
+                6059
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.6, 
+            "full_name": "Thomas Bellew", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 745, 
+            "transfers_pc": 3.39
+        }, 
+        {
+            "counts": [
+                4612, 
+                4723, 
+                4770, 
+                4932
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.1, 
+            "full_name": "Brendan McGahon", 
+            "party": "Fine Gael", 
+            "transfers": 320, 
+            "transfers_pc": 1.46
+        }, 
+        {
+            "counts": [
+                2515, 
+                3128, 
+                3147
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.5, 
+            "full_name": "Michael Bell", 
+            "party": "Labour Party", 
+            "transfers": 632, 
+            "transfers_pc": 2.88
+        }, 
+        {
+            "counts": [
+                2804, 
+                2887
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.1, 
+            "full_name": "Nicholas McCabe", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 83, 
+            "transfers_pc": 0.38
+        }, 
+        {
+            "counts": [
+                1210
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "Frank Godfrey", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                785
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "Donnchadha Mac Raghnaill", 
+            "party": "Sinn F\u00e9in (Workers' Party)"
+        }, 
+        {
+            "counts": [
+                346
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "James McArdle", 
+            "party": "Labour Party"
+        }
+    ], 
+    "counts_held": 7, 
+    "description": "1981 general election", 
+    "election_type": "dail", 
+    "electorate": 57075, 
+    "name": "Louth", 
+    "quota": 11441, 
+    "spoilt": 514, 
+    "turnout": 46277, 
+    "valid": 45763, 
+    "year": 1981
+}

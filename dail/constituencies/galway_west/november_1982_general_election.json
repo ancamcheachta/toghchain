@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8234
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.7, 
+            "full_name": "Bobby Molloy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6521
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.2, 
+            "full_name": "Fintan Coogan, Jnr", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7020
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.2, 
+            "full_name": "John Donnellan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5583
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.3, 
+            "full_name": "M\u00e1ire Geoghegan-Quinn", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5475
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.1, 
+            "full_name": "Frank Fahey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5509
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.2, 
+            "full_name": "Mark Killilea, Jnr", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4449
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9, 
+            "full_name": "Michael D. Higgins", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3259
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.61, 
+            "full_name": "P\u00f3l \u00d3 Foighil", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1787
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.6, 
+            "full_name": "James Brick", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                1486
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "Gerald Bartley", 
+            "party": "Fianna F\u00e1il"
+        }
+    ], 
+    "description": "November 1982 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Galway West", 
+    "quota": 8221, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 49323, 
+    "year": 1982
+}

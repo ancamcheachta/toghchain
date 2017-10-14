@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                5637
+            ], 
+            "elected": true, 
+            "first_pref_pc": 28, 
+            "full_name": "Mary Upton", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6050
+            ], 
+            "elected": false, 
+            "first_pref_pc": 30.1, 
+            "full_name": "Michael Mulcahy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4037
+            ], 
+            "elected": false, 
+            "first_pref_pc": 20.1, 
+            "full_name": "Catherine Byrne", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1686
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.4, 
+            "full_name": "Aengus \u00d3 Snodaigh", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                1263
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.3, 
+            "full_name": "John Goodwillie", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                555
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "Shay Kelly", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                399
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "Manus MacMeanmain", 
+            "party": "Christian Solidarity"
+        }, 
+        {
+            "counts": [
+                383
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.9, 
+            "full_name": "Eammon Murphy", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                106
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "John Burns", 
+            "party": "Natural Law"
+        }
+    ], 
+    "description": "1999 by-election", 
+    "election_type": "dail", 
+    "electorate": 72154, 
+    "name": "Dublin South-Central", 
+    "quota": 10059, 
+    "spoilt": null, 
+    "turnout": 27, 
+    "valid": 20116, 
+    "year": 1999
+}

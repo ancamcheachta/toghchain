@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8008
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.9, 
+            "full_name": "P. J. Sheehan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7454
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.3, 
+            "full_name": "Jim O'Keeffe", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7586
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.7, 
+            "full_name": "Joe Walsh", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6081
+            ], 
+            "elected": false, 
+            "first_pref_pc": 17.4, 
+            "full_name": "Denis O'Donovan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2361
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.8, 
+            "full_name": "Michael Calnan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1792
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.1, 
+            "full_name": "Theresa Heaney", 
+            "party": "National Party"
+        }, 
+        {
+            "counts": [
+                1221
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.5, 
+            "full_name": "Paula Giles", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                293
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "\u00c1ine N\u00ed Chonaill", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                199
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Se\u00e1n Ahern", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1997 general election", 
+    "election_type": "dail", 
+    "electorate": 49382, 
+    "name": "Cork South-West", 
+    "quota": 8749, 
+    "spoilt": 319, 
+    "turnout": 35314, 
+    "valid": 34995, 
+    "year": 1997
+}

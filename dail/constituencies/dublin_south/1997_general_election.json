@@ -1,0 +1,140 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9904
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.1, 
+            "full_name": "Tom Kitt", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8861
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.3, 
+            "full_name": "S\u00e9amus Brennan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8775
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.1, 
+            "full_name": "Olivia Mitchell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                8094
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14, 
+            "full_name": "Alan Shatter", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5444
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.4, 
+            "full_name": "Liz O'Donnell", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                6147
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.6, 
+            "full_name": "Eithne FitzGerald", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3539
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.1, 
+            "full_name": "Gerry Boland", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                3629
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.3, 
+            "full_name": "Ann Ormonde", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1431
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.5, 
+            "full_name": "Richard Greene", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1268
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.2, 
+            "full_name": "Christine Buckley", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                624
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "Lisa Maher", 
+            "party": "Socialist Party"
+        }, 
+        {
+            "counts": [
+                115
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Jack Lyons", 
+            "party": "Natural Law"
+        }, 
+        {
+            "counts": [
+                80
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Johnny Kingsize Doody", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                75
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Gerard Doolan", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1997 general election", 
+    "election_type": "dail", 
+    "electorate": 90050, 
+    "name": "Dublin South", 
+    "quota": 9665, 
+    "spoilt": 335, 
+    "turnout": 58321, 
+    "valid": 57986, 
+    "year": 1997
+}

@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                14716
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.2, 
+            "full_name": "Se\u00e1n Lemass", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8364
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.8, 
+            "full_name": "James Beckett", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                4894
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.1, 
+            "full_name": "Robert Briscoe", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7414
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.2, 
+            "full_name": "James McGuire", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                4831
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8, 
+            "full_name": "Thomas Kelly", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4642
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.6, 
+            "full_name": "James B. Lynch", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5920
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.7, 
+            "full_name": "Peadar Doyle", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                4259
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7, 
+            "full_name": "Myles Keogh", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                2888
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.8, 
+            "full_name": "Denis Healy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2837
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.7, 
+            "full_name": "Thomas Hennessy", 
+            "party": "Cumann na nGaedheal"
+        }
+    ], 
+    "description": "1933 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South", 
+    "quota": 7596, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 60765, 
+    "year": 1933
+}

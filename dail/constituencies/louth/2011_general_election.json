@@ -1,0 +1,292 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [], 
+            "elected": true, 
+            "first_pref_pc": null, 
+            "full_name": "S\u00e9amus Kirk", 
+            "party": "Ceann Comhairle"
+        }, 
+        {
+            "counts": [
+                15072
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.7, 
+            "full_name": "Gerry Adams", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                13980
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.2, 
+            "full_name": "Fergus O'Dowd", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                8718, 
+                8942, 
+                8948, 
+                8984, 
+                8998, 
+                9037, 
+                9098, 
+                9404, 
+                9821, 
+                10480, 
+                10658, 
+                14620
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.6, 
+            "full_name": "Ged Nash", 
+            "party": "Labour Party", 
+            "transfers": 5902, 
+            "transfers_pc": 30.51
+        }, 
+        {
+            "counts": [
+                7845, 
+                7998, 
+                8002, 
+                8052, 
+                8069, 
+                8130, 
+                8177, 
+                8475, 
+                8982, 
+                9930, 
+                10626, 
+                11770, 
+                12323
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.3, 
+            "full_name": "Peter Fitzpatrick", 
+            "party": "Fine Gael", 
+            "transfers": 4478, 
+            "transfers_pc": 23.15
+        }, 
+        {
+            "counts": [
+                5681, 
+                5749, 
+                5751, 
+                5759, 
+                5774, 
+                5792, 
+                5803, 
+                5987, 
+                6481, 
+                6769, 
+                10711, 
+                11185, 
+                11388
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.2, 
+            "full_name": "James Carroll", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 5707, 
+            "transfers_pc": 29.5
+        }, 
+        {
+            "counts": [
+                4546, 
+                4738, 
+                4742, 
+                4747, 
+                4748, 
+                4808, 
+                4908, 
+                5124, 
+                5436, 
+                6430, 
+                6974
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.6, 
+            "full_name": "Mary Moran", 
+            "party": "Labour Party", 
+            "transfers": 2428, 
+            "transfers_pc": 12.55
+        }, 
+        {
+            "counts": [
+                5177, 
+                5245, 
+                5245, 
+                5247, 
+                5263, 
+                5285, 
+                5297, 
+                5373, 
+                5603, 
+                6001
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.5, 
+            "full_name": "Declan Breathnach", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 824, 
+            "transfers_pc": 4.26
+        }, 
+        {
+            "counts": [
+                3244, 
+                3358, 
+                3362, 
+                3366, 
+                3374, 
+                3421, 
+                3506, 
+                3672, 
+                3939
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.7, 
+            "full_name": "Mark Dearey", 
+            "party": "Green Party", 
+            "transfers": 695, 
+            "transfers_pc": 3.59
+        }, 
+        {
+            "counts": [
+                2233, 
+                2318, 
+                2324, 
+                2328, 
+                2390, 
+                2456, 
+                2569, 
+                3024
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.2, 
+            "full_name": "Thomas Clare", 
+            "party": "New Vision", 
+            "transfers": 791, 
+            "transfers_pc": 4.09
+        }, 
+        {
+            "counts": [
+                957, 
+                1004, 
+                1013, 
+                1015, 
+                1024, 
+                1089, 
+                1207
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "Fred Matthews", 
+            "party": "Independent", 
+            "transfers": 250, 
+            "transfers_pc": 1.29
+        }, 
+        {
+            "counts": [
+                649, 
+                714, 
+                727, 
+                731, 
+                754, 
+                781, 
+                829
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "Frank Godfrey", 
+            "party": "Independent", 
+            "transfers": 180, 
+            "transfers_pc": 0.93
+        }, 
+        {
+            "counts": [
+                536, 
+                592, 
+                597, 
+                598, 
+                610, 
+                692
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Robin Wilson", 
+            "party": "Independent", 
+            "transfers": 156, 
+            "transfers_pc": 0.81
+        }, 
+        {
+            "counts": [
+                224, 
+                289, 
+                293, 
+                293, 
+                300
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Luke Martin", 
+            "party": "Independent", 
+            "transfers": 76, 
+            "transfers_pc": 0.39
+        }, 
+        {
+            "counts": [
+                222, 
+                252, 
+                254, 
+                254, 
+                267
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Gerry Crilly", 
+            "party": "Independent", 
+            "transfers": 45, 
+            "transfers_pc": 0.23
+        }, 
+        {
+            "counts": [
+                174, 
+                211, 
+                215, 
+                215
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "David Bradley", 
+            "party": "Independent", 
+            "transfers": 41, 
+            "transfers_pc": 0.21
+        }, 
+        {
+            "counts": [
+                61, 
+                65
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Robert Glynn", 
+            "party": "Independent", 
+            "transfers": 4, 
+            "transfers_pc": 0.02
+        }
+    ], 
+    "counts_held": 13, 
+    "description": "2011 general election", 
+    "election_type": "dail", 
+    "electorate": 99530, 
+    "name": "Louth", 
+    "quota": 13864, 
+    "spoilt": 871, 
+    "turnout": 70190, 
+    "valid": 69319, 
+    "year": 2011
+}

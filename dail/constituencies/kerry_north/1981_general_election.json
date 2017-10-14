@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8214
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24, 
+            "full_name": "Tom McEllistrim, Jnr", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5104
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.9, 
+            "full_name": "Denis Foley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5685
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.6, 
+            "full_name": "Dick Spring", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5037
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.7, 
+            "full_name": "Gerard Lynch", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4158
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.1, 
+            "full_name": "Kit Ahern", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3860
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.3, 
+            "full_name": "Se\u00e1n McKenna", 
+            "party": "Anti H-Block"
+        }, 
+        {
+            "counts": [
+                2227
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.5, 
+            "full_name": "Fion\u00e1n Harty", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1981 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Kerry North", 
+    "quota": 8572, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 34285, 
+    "year": 1981
+}

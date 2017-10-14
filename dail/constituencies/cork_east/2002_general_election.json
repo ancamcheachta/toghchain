@@ -1,0 +1,127 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10574
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.1, 
+            "full_name": "Ned O'Keeffe", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8340, 
+                9204
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.2, 
+            "full_name": "Michael Ahern", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 864, 
+            "transfers_pc": 8.49
+        }, 
+        {
+            "counts": [
+                4792, 
+                5015, 
+                6192, 
+                8660
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.5, 
+            "full_name": "Joe Sherlock", 
+            "party": "Labour Party", 
+            "transfers": 3868, 
+            "transfers_pc": 38.01
+        }, 
+        {
+            "counts": [
+                6269, 
+                6324, 
+                6978, 
+                8438
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.7, 
+            "full_name": "David Stanton", 
+            "party": "Fine Gael", 
+            "transfers": 2169, 
+            "transfers_pc": 21.31
+        }, 
+        {
+            "counts": [
+                7053, 
+                7224, 
+                7718, 
+                8231
+            ], 
+            "elected": false, 
+            "first_pref_pc": 15.4, 
+            "full_name": "Paul Bradford", 
+            "party": "Fine Gael", 
+            "transfers": 1178, 
+            "transfers_pc": 11.58
+        }, 
+        {
+            "counts": [
+                4813, 
+                4838, 
+                5559
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.5, 
+            "full_name": "John Mulvihill", 
+            "party": "Labour Party", 
+            "transfers": 746, 
+            "transfers_pc": 7.33
+        }, 
+        {
+            "counts": [
+                2624, 
+                2685
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.7, 
+            "full_name": "June Murphy", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 61, 
+            "transfers_pc": 0.6
+        }, 
+        {
+            "counts": [
+                1136, 
+                1151
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.5, 
+            "full_name": "Martin O'Keeffe", 
+            "party": "Green Party", 
+            "transfers": 15, 
+            "transfers_pc": 0.15
+        }, 
+        {
+            "counts": [
+                187, 
+                189
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Patrick Manning", 
+            "party": "Christian Solidarity", 
+            "transfers": 2, 
+            "transfers_pc": 0.02
+        }
+    ], 
+    "counts_held": 4, 
+    "description": "2002 general election", 
+    "election_type": "dail", 
+    "electorate": 72702, 
+    "name": "Cork East", 
+    "quota": 9158, 
+    "spoilt": 546, 
+    "turnout": 46334, 
+    "valid": 45788, 
+    "year": 2002
+}

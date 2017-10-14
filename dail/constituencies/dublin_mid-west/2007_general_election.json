@@ -1,0 +1,166 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8650
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.2, 
+            "full_name": "John Curran", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4043, 
+                4123, 
+                4393, 
+                5557, 
+                6700, 
+                7920
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.8, 
+            "full_name": "Paul Gogarty", 
+            "party": "Green Party", 
+            "transfers": 3877, 
+            "transfers_pc": 30.75
+        }, 
+        {
+            "counts": [
+                4663, 
+                4956, 
+                5066, 
+                5454, 
+                5668, 
+                7786
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.5, 
+            "full_name": "Mary Harney", 
+            "party": "Progressive Democrats", 
+            "transfers": 3123, 
+            "transfers_pc": 24.77
+        }, 
+        {
+            "counts": [
+                4075, 
+                4145, 
+                4440, 
+                4895, 
+                6004, 
+                6672
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.9, 
+            "full_name": "Joanna Tuffy", 
+            "party": "Labour Party", 
+            "transfers": 2597, 
+            "transfers_pc": 20.59
+        }, 
+        {
+            "counts": [
+                4480, 
+                4532, 
+                4680, 
+                4975, 
+                5344, 
+                5664
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12, 
+            "full_name": "Frances Fitzgerald", 
+            "party": "Fine Gael", 
+            "transfers": 1184, 
+            "transfers_pc": 9.39
+        }, 
+        {
+            "counts": [
+                3671, 
+                4200, 
+                4333, 
+                4666, 
+                5185
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.8, 
+            "full_name": "Luke Moriarty", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1514, 
+            "transfers_pc": 12.01
+        }, 
+        {
+            "counts": [
+                3462, 
+                3529, 
+                3970, 
+                4138
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.3, 
+            "full_name": "Joanne Spain", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 676, 
+            "transfers_pc": 5.36
+        }, 
+        {
+            "counts": [
+                2701, 
+                2729, 
+                2907
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.2, 
+            "full_name": "Derek Keating", 
+            "party": "Independent", 
+            "transfers": 206, 
+            "transfers_pc": 1.63
+        }, 
+        {
+            "counts": [
+                1058, 
+                1099
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "Gino Kenny", 
+            "party": "People Before Profit", 
+            "transfers": 41, 
+            "transfers_pc": 0.33
+        }, 
+        {
+            "counts": [
+                366, 
+                378
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Mick Finnegan", 
+            "party": "Workers' Party", 
+            "transfers": 12, 
+            "transfers_pc": 0.1
+        }, 
+        {
+            "counts": [
+                170, 
+                180
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Jim McHale", 
+            "party": "Independent", 
+            "transfers": 10, 
+            "transfers_pc": 0.08
+        }
+    ], 
+    "counts_held": 6, 
+    "description": "2007 general election", 
+    "election_type": "dail", 
+    "electorate": 61347, 
+    "name": "Dublin Mid-West", 
+    "quota": 7468, 
+    "spoilt": 319, 
+    "turnout": 37658, 
+    "valid": 37339, 
+    "year": 2007
+}

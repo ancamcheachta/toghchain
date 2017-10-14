@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6653
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.2, 
+            "full_name": "Bernard Durkan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6905
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.9, 
+            "full_name": "Charlie McCreevy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5964
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19, 
+            "full_name": "Emmet Stagg", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4039
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.9, 
+            "full_name": "Paul Kelly", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2762
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.8, 
+            "full_name": "Catherine Murphy", 
+            "party": "Democratic Left"
+        }, 
+        {
+            "counts": [
+                2101
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.7, 
+            "full_name": "Timmy Conway", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                1569
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5, 
+            "full_name": "Mary French", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1403
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.5, 
+            "full_name": "Sean English", 
+            "party": "Green Party"
+        }
+    ], 
+    "description": "1997 general election", 
+    "election_type": "dail", 
+    "electorate": 52388, 
+    "name": "Kildare North", 
+    "quota": 7850, 
+    "spoilt": 295, 
+    "turnout": 31691, 
+    "valid": 31396, 
+    "year": 1997
+}

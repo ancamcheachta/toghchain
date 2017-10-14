@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                5362
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.2, 
+            "full_name": "John Carew", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6860
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.1, 
+            "full_name": "Donogh O'Malley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4857
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.8, 
+            "full_name": "Tadhg Crowley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5035
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.3, 
+            "full_name": "Michael Keyes", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5652
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.9, 
+            "full_name": "Stephen Coughlan", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                4458
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.8, 
+            "full_name": "Paddy Clohessy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                316
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.45, 
+            "full_name": "James Reidy", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2402
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.4, 
+            "full_name": "Denis Quish", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1954 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Limerick East", 
+    "quota": 7565, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 37822, 
+    "year": 1954
+}

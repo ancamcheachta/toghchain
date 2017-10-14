@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6379
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.1, 
+            "full_name": "Joseph McLoughlin", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6250
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.7, 
+            "full_name": "James Gallagher", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6052
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.1, 
+            "full_name": "Eugene Gilhawley", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4782
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.3, 
+            "full_name": "Eugene Gilbride", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3903
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.7, 
+            "full_name": "Daniel Shaw", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3736
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.2, 
+            "full_name": "Harry O'Carroll", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1528
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.6, 
+            "full_name": "Thomas McGoldrick", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                850
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.5, 
+            "full_name": "Gerald Foley", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1965 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Sligo\u2013Leitrim", 
+    "quota": 6697, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 33480, 
+    "year": 1965
+}

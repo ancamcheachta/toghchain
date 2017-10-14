@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6376
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.6, 
+            "full_name": "Patrick Palmer", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5834
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.4, 
+            "full_name": "John Flynn", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5732
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23, 
+            "full_name": "Honor Crowley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2690
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.8, 
+            "full_name": "Michael Moynihan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2461
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.9, 
+            "full_name": "William Dennehy", 
+            "party": "Clann na Talmhan"
+        }, 
+        {
+            "counts": [
+                1853
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.4, 
+            "full_name": "John O'Leary", 
+            "party": "Clann na Poblachta"
+        }
+    ], 
+    "description": "1954 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Kerry South", 
+    "quota": 6237, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 24946, 
+    "year": 1954
+}

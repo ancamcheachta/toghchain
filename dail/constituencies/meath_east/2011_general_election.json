@@ -1,0 +1,127 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8994, 
+                9383, 
+                9669, 
+                12382
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21, 
+            "full_name": "Dominic Hannigan", 
+            "party": "Labour Party", 
+            "transfers": 3388, 
+            "transfers_pc": 32.05
+        }, 
+        {
+            "counts": [
+                8677, 
+                8858, 
+                9305, 
+                10447
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.3, 
+            "full_name": "Regina Doherty", 
+            "party": "Fine Gael", 
+            "transfers": 1770, 
+            "transfers_pc": 16.74
+        }, 
+        {
+            "counts": [
+                8794, 
+                8994, 
+                9142, 
+                10143
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.6, 
+            "full_name": "Shane McEntee", 
+            "party": "Fine Gael", 
+            "transfers": 1349, 
+            "transfers_pc": 12.76
+        }, 
+        {
+            "counts": [
+                5715, 
+                5892, 
+                7354, 
+                8173
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.4, 
+            "full_name": "Thomas Byrne", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2458, 
+            "transfers_pc": 23.25
+        }, 
+        {
+            "counts": [
+                3795, 
+                3958, 
+                4025
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.9, 
+            "full_name": "Michael Gallagher", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 230, 
+            "transfers_pc": 2.18
+        }, 
+        {
+            "counts": [
+                2479, 
+                2866, 
+                3074
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.8, 
+            "full_name": "Joe Bonner", 
+            "party": "Independent", 
+            "transfers": 595, 
+            "transfers_pc": 5.63
+        }, 
+        {
+            "counts": [
+                2669, 
+                2719
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.2, 
+            "full_name": "Nick Killian", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 50, 
+            "transfers_pc": 0.47
+        }, 
+        {
+            "counts": [
+                1168
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Sharon Keogan", 
+            "party": "New Vision"
+        }, 
+        {
+            "counts": [
+                461
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "Se\u00e1n \u00d3 Buachalla", 
+            "party": "Green Party"
+        }
+    ], 
+    "counts_held": 4, 
+    "description": "2011 general election", 
+    "election_type": "dail", 
+    "electorate": 64873, 
+    "name": "Meath East", 
+    "quota": 10689, 
+    "spoilt": 346, 
+    "turnout": 43098, 
+    "valid": 42752, 
+    "year": 2011
+}

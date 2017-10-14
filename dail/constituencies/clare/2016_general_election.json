@@ -1,0 +1,273 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10215, 
+                10292, 
+                10382, 
+                10480, 
+                10624, 
+                10772, 
+                12150
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.9, 
+            "full_name": "Timmy Dooley", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1935, 
+            "transfers_pc": 9.31
+        }, 
+        {
+            "counts": [
+                8629, 
+                8812, 
+                8978, 
+                9065, 
+                9840, 
+                10360, 
+                10688, 
+                10843, 
+                11962
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.1, 
+            "full_name": "Michael Harty", 
+            "party": "Independent", 
+            "transfers": 3333, 
+            "transfers_pc": 16.04
+        }, 
+        {
+            "counts": [
+                6583, 
+                6621, 
+                6640, 
+                6857, 
+                7337, 
+                7420, 
+                7512, 
+                7537, 
+                7815, 
+                7910, 
+                8292, 
+                10088
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.5, 
+            "full_name": "Pat Breen", 
+            "party": "Fine Gael", 
+            "transfers": 3505, 
+            "transfers_pc": 16.87
+        }, 
+        {
+            "counts": [
+                6071, 
+                6115, 
+                6148, 
+                6195, 
+                6778, 
+                6894, 
+                7032, 
+                7062, 
+                7422, 
+                7535, 
+                7931, 
+                9915
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.7, 
+            "full_name": "Joe Carey", 
+            "party": "Fine Gael", 
+            "transfers": 3844, 
+            "transfers_pc": 18.5
+        }, 
+        {
+            "counts": [
+                4726, 
+                4749, 
+                4764, 
+                4954, 
+                4997, 
+                5056, 
+                5497, 
+                5887, 
+                6139, 
+                6229, 
+                6929, 
+                7762
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.3, 
+            "full_name": "Michael McDonagh", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3036, 
+            "transfers_pc": 14.61
+        }, 
+        {
+            "counts": [
+                4472, 
+                4516, 
+                4587, 
+                4672, 
+                4896, 
+                5347, 
+                5498, 
+                5569, 
+                5955, 
+                6090, 
+                6844
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.8, 
+            "full_name": "Michael McNamara", 
+            "party": "Labour Party", 
+            "transfers": 2372, 
+            "transfers_pc": 11.42
+        }, 
+        {
+            "counts": [
+                4216, 
+                4277, 
+                4519, 
+                4611, 
+                4664, 
+                4957, 
+                5058, 
+                5083, 
+                5473, 
+                5601
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.4, 
+            "full_name": "Noeleen Moran", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 1385, 
+            "transfers_pc": 6.67
+        }, 
+        {
+            "counts": [
+                2240, 
+                2321, 
+                2442, 
+                2521, 
+                2686, 
+                2982, 
+                3152, 
+                3205
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.9, 
+            "full_name": "Anne Norton", 
+            "party": "Independent", 
+            "transfers": 965, 
+            "transfers_pc": 4.64
+        }, 
+        {
+            "counts": [
+                2639, 
+                2673, 
+                2697, 
+                2716, 
+                2824, 
+                2880
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.6, 
+            "full_name": "Clare Colleran Molloy", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 241, 
+            "transfers_pc": 1.16
+        }, 
+        {
+            "counts": [
+                1700, 
+                1764, 
+                2092, 
+                2144, 
+                2193
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "Fergal Smith", 
+            "party": "Green Party", 
+            "transfers": 493, 
+            "transfers_pc": 2.37
+        }, 
+        {
+            "counts": [
+                2053, 
+                2076, 
+                2098, 
+                2119
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.6, 
+            "full_name": "Mary Howard", 
+            "party": "Fine Gael", 
+            "transfers": 66, 
+            "transfers_pc": 0.32
+        }, 
+        {
+            "counts": [
+                1494, 
+                1535, 
+                1575
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "Ian Lynch", 
+            "party": "Independent", 
+            "transfers": 81, 
+            "transfers_pc": 0.39
+        }, 
+        {
+            "counts": [
+                1154, 
+                1216
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "Niamh O'Brien", 
+            "party": "F\u00eds Nua", 
+            "transfers": 62, 
+            "transfers_pc": 0.3
+        }, 
+        {
+            "counts": [
+                699
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "Richard Cahill", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                70
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Andr\u00e9 Sibo Hakizimana", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                39
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Dermot Mulqueen", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 12, 
+    "description": "2016 general election", 
+    "election_type": "dail", 
+    "electorate": 83660, 
+    "name": "Clare", 
+    "quota": 11401, 
+    "spoilt": 407, 
+    "turnout": 57407, 
+    "valid": 57000, 
+    "year": 2016
+}

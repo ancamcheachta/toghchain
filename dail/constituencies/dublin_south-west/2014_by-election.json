@@ -1,0 +1,173 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6540, 
+                6579, 
+                6622, 
+                6890, 
+                7079, 
+                7436, 
+                7726, 
+                9565
+            ], 
+            "elected": true, 
+            "first_pref_pc": 27.2, 
+            "full_name": "Paul Murphy", 
+            "party": "Anti-Austerity Alliance", 
+            "transfers": 3025, 
+            "transfers_pc": 29.67
+        }, 
+        {
+            "counts": [
+                7288, 
+                7304, 
+                7340, 
+                7448, 
+                7580, 
+                7828, 
+                8017, 
+                8999
+            ], 
+            "elected": false, 
+            "first_pref_pc": 30.3, 
+            "full_name": "Cathal King", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 1711, 
+            "transfers_pc": 16.78
+        }, 
+        {
+            "counts": [
+                2142, 
+                2167, 
+                2227, 
+                2265, 
+                2464, 
+                3049, 
+                3416
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.9, 
+            "full_name": "Ronan McMahon", 
+            "party": "Independent", 
+            "transfers": 1274, 
+            "transfers_pc": 12.5
+        }, 
+        {
+            "counts": [
+                2110, 
+                2117, 
+                2194, 
+                2203, 
+                2267, 
+                2575, 
+                3857
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.8, 
+            "full_name": "C\u00e1it Keane", 
+            "party": "Fine Gael", 
+            "transfers": 1747, 
+            "transfers_pc": 17.13
+        }, 
+        {
+            "counts": [
+                2043, 
+                2053, 
+                2155, 
+                2170, 
+                2239, 
+                2492
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.5, 
+            "full_name": "Pamela Kearns", 
+            "party": "Labour Party", 
+            "transfers": 449, 
+            "transfers_pc": 4.4
+        }, 
+        {
+            "counts": [
+                2077, 
+                2085, 
+                2138, 
+                2152, 
+                2200
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.6, 
+            "full_name": "John Lahart", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 123, 
+            "transfers_pc": 1.21
+        }, 
+        {
+            "counts": [
+                681, 
+                711, 
+                746, 
+                818
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "Declan Burke", 
+            "party": "Independent", 
+            "transfers": 137, 
+            "transfers_pc": 1.34
+        }, 
+        {
+            "counts": [
+                530, 
+                540, 
+                554
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.2, 
+            "full_name": "Nicky Coules", 
+            "party": "People Before Profit", 
+            "transfers": 24, 
+            "transfers_pc": 0.24
+        }, 
+        {
+            "counts": [
+                447, 
+                453
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.9, 
+            "full_name": "Francis Noel Duffy", 
+            "party": "Green Party", 
+            "transfers": 6, 
+            "transfers_pc": 0.06
+        }, 
+        {
+            "counts": [
+                92
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Tony Rochford", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                74
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Colm O'Keeffe", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 8, 
+    "description": "2014 by-election", 
+    "election_type": "dail", 
+    "electorate": 70400, 
+    "name": "Dublin South-West", 
+    "quota": 12013, 
+    "spoilt": 256, 
+    "turnout": 24280, 
+    "valid": 24024, 
+    "year": 2014
+}

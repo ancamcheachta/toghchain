@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8738
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.8, 
+            "full_name": "Bertie Ahern", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8250
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.7, 
+            "full_name": "Michael Keating", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                8011
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.2, 
+            "full_name": "George Colley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4737
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.2, 
+            "full_name": "Michael O'Leary", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2538
+            ], 
+            "elected": true, 
+            "first_pref_pc": 5.5, 
+            "full_name": "Alice Glenn", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3271
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7, 
+            "full_name": "Tom Leonard", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3151
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.8, 
+            "full_name": "Tony Gregory", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2621
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.6, 
+            "full_name": "Luke Belton", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2062
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "Patrick Carroll", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1803
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.9, 
+            "full_name": "Michael White", 
+            "party": "Sinn F\u00e9in (Workers' Party)"
+        }, 
+        {
+            "counts": [
+                1347
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "Jimmy Somers", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1981 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin Central", 
+    "quota": 7755, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 46529, 
+    "year": 1981
+}

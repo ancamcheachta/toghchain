@@ -1,0 +1,140 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6494
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.7, 
+            "full_name": "Eoin Ryan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5501
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15, 
+            "full_name": "Frances Fitzgerald", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6113
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.7, 
+            "full_name": "Ruairi Quinn", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4296
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.7, 
+            "full_name": "John Gormley", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                4022
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.9, 
+            "full_name": "Michael McDowell", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                4541
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.4, 
+            "full_name": "Joe Doyle", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2962
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.1, 
+            "full_name": "Noel Whelan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1169
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.2, 
+            "full_name": "Marie Kirrane", 
+            "party": "National Party"
+        }, 
+        {
+            "counts": [
+                694
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.9, 
+            "full_name": "Tom Crilly", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                410
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "Peadar O'Grady", 
+            "party": "Socialist Workers"
+        }, 
+        {
+            "counts": [
+                231
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Mary Daly", 
+            "party": "Natural Law"
+        }, 
+        {
+            "counts": [
+                110
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Joe Guerin", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                99
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "William Gorman", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                29
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "John Harspur", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1997 general election", 
+    "election_type": "dail", 
+    "electorate": 64215, 
+    "name": "Dublin South\u2013East", 
+    "quota": 7335, 
+    "spoilt": 361, 
+    "turnout": 37032, 
+    "valid": 36671, 
+    "year": 1997
+}

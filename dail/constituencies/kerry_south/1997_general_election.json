@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7204
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.3, 
+            "full_name": "John O'Donoghue", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7220
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.3, 
+            "full_name": "Jackie Healy-Rae", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                4988
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.1, 
+            "full_name": "Breeda Moynihan-Cronin", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4172
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.8, 
+            "full_name": "Breandan MacGearailt", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                3041
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.6, 
+            "full_name": "Aidan O'Connor", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4079
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.5, 
+            "full_name": "Brian O'Leary", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1847
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.2, 
+            "full_name": "Jim Kelly", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1557
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "P. J. Cronin", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1388
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.9, 
+            "full_name": "Michael Gleeson", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1997 general election", 
+    "election_type": "dail", 
+    "electorate": 48164, 
+    "name": "Kerry South", 
+    "quota": 8875, 
+    "spoilt": 303, 
+    "turnout": 35799, 
+    "valid": 35496, 
+    "year": 1997
+}

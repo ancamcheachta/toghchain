@@ -1,0 +1,143 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8835, 
+                8849, 
+                9487
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.8, 
+            "full_name": "Johnny Callanan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 652, 
+            "transfers_pc": 5.52
+        }, 
+        {
+            "counts": [
+                6345, 
+                6398, 
+                6641, 
+                6737, 
+                6959, 
+                9881
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.2, 
+            "full_name": "Thomas Hussey", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3536, 
+            "transfers_pc": 29.93
+        }, 
+        {
+            "counts": [
+                5985, 
+                6156, 
+                6415, 
+                8855, 
+                8911, 
+                9082
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.4, 
+            "full_name": "John Donnellan", 
+            "party": "Fine Gael", 
+            "transfers": 3097, 
+            "transfers_pc": 26.21
+        }, 
+        {
+            "counts": [
+                5714, 
+                5855, 
+                5928, 
+                5962, 
+                6021, 
+                7963, 
+                8872
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.8, 
+            "full_name": "Mark Killilea, Jnr", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3158, 
+            "transfers_pc": 26.73
+        }, 
+        {
+            "counts": [
+                5914, 
+                6241, 
+                6499, 
+                7477, 
+                7534, 
+                7960, 
+                8010
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.3, 
+            "full_name": "Paul Connaughton, Snr", 
+            "party": "Fine Gael", 
+            "transfers": 2096, 
+            "transfers_pc": 17.74
+        }, 
+        {
+            "counts": [
+                5361, 
+                5389, 
+                5571, 
+                5640, 
+                5780
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12, 
+            "full_name": "Michael P. Kitt", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 419, 
+            "transfers_pc": 3.55
+        }, 
+        {
+            "counts": [
+                3353, 
+                3401, 
+                3867
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.5, 
+            "full_name": "Brigid Hogan-O'Higgins", 
+            "party": "Fine Gael", 
+            "transfers": 514, 
+            "transfers_pc": 4.35
+        }, 
+        {
+            "counts": [
+                2225, 
+                2281
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5, 
+            "full_name": "Norman Morgan", 
+            "party": "Independent", 
+            "transfers": 56, 
+            "transfers_pc": 0.47
+        }, 
+        {
+            "counts": [
+                876
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "Harold Campbell", 
+            "party": "Labour Party"
+        }
+    ], 
+    "counts_held": 7, 
+    "description": "1977 general election", 
+    "election_type": "dail", 
+    "electorate": 56064, 
+    "name": "Galway East", 
+    "quota": 8922, 
+    "spoilt": 304, 
+    "turnout": 44912, 
+    "valid": 44608, 
+    "year": 1977
+}

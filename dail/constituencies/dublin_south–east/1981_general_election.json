@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                13794
+            ], 
+            "elected": true, 
+            "first_pref_pc": 33.8, 
+            "full_name": "Garret FitzGerald", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6807
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.7, 
+            "full_name": "Gerard Brady", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5702
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14, 
+            "full_name": "Se\u00e1n Moore", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1722
+            ], 
+            "elected": true, 
+            "first_pref_pc": 4.2, 
+            "full_name": "Richie Ryan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3559
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.7, 
+            "full_name": "Ruairi Quinn", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3193
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.8, 
+            "full_name": "Michael Donnelly", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2026
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5, 
+            "full_name": "Joe Doyle", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1969
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.8, 
+            "full_name": "Andy Smith", 
+            "party": "Sinn F\u00e9in (Workers' Party)"
+        }, 
+        {
+            "counts": [
+                1434
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.5, 
+            "full_name": "Mary Frehill", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                373
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.9, 
+            "full_name": "Elizabeth Noonan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                236
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "William Fitzsimon", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1981 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South\u2013East", 
+    "quota": 8164, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 40815, 
+    "year": 1981
+}

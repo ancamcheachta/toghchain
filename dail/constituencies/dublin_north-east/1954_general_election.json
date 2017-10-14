@@ -1,0 +1,149 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10464
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.1, 
+            "full_name": "Alfie Byrne", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                9293
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.6, 
+            "full_name": "Oscar Traynor", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4606
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.7, 
+            "full_name": "Jack Belton", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1966
+            ], 
+            "elected": true, 
+            "first_pref_pc": 4.2, 
+            "full_name": "Harry Colley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3637
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.7, 
+            "full_name": "Denis Larkin", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3632
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.7, 
+            "full_name": "Desmond Bell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2253
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.8, 
+            "full_name": "Peadar Cowan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2135
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.5, 
+            "full_name": "Eugene Timmons", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1812
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.8, 
+            "full_name": "Charles Haughey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1758
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "Victor Carton", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1529
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.2, 
+            "full_name": "Michael Kelly", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                1438
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "Jeremiah Kelly", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1430
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "S\u00e9amus Murphy", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                948
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "Lillie O'Shea Leamy", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                502
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "Thomas Healy", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1954 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin North-East", 
+    "quota": 7901, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 47403, 
+    "year": 1954
+}

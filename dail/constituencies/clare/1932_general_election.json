@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                12504
+            ], 
+            "elected": true, 
+            "first_pref_pc": 30.2, 
+            "full_name": "\u00c9amon de Valera", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5701
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.8, 
+            "full_name": "Patrick Hogan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4002
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.7, 
+            "full_name": "Se\u00e1n O'Grady", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5444
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.2, 
+            "full_name": "Martin Sexton", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5254
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.7, 
+            "full_name": "Patrick Burke", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                4301
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.4, 
+            "full_name": "Patrick Kelly", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                2408
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.8, 
+            "full_name": "Patrick Houlihan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1783
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.3, 
+            "full_name": "Hubert Hunt", 
+            "party": "Cumann na nGaedheal"
+        }
+    ], 
+    "description": "1932 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Clare", 
+    "quota": 6900, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 41397, 
+    "year": 1932
+}

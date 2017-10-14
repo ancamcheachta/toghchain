@@ -1,0 +1,50 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                19066
+            ], 
+            "elected": true, 
+            "first_pref_pc": 58.7, 
+            "full_name": "Sylvester Barrett", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                9313
+            ], 
+            "elected": false, 
+            "first_pref_pc": 28.7, 
+            "full_name": "Patrick Bugler", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3799
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.7, 
+            "full_name": "Flan Honan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                293
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.9, 
+            "full_name": "Jean Grace", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1968 by-election", 
+    "election_type": "dail", 
+    "electorate": 48182, 
+    "name": "Clare", 
+    "quota": 16236, 
+    "spoilt": null, 
+    "turnout": 67, 
+    "valid": 32471, 
+    "year": 1968
+}

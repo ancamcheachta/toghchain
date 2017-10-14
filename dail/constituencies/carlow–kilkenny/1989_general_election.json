@@ -1,0 +1,134 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10161
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.6, 
+            "full_name": "Liam Aylward", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                9599
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.6, 
+            "full_name": "S\u00e9amus Pattison", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6431, 
+                6611, 
+                6666, 
+                7929, 
+                10528
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.8, 
+            "full_name": "Phil Hogan", 
+            "party": "Fine Gael", 
+            "transfers": 4097, 
+            "transfers_pc": 42.46
+        }, 
+        {
+            "counts": [
+                6526, 
+                6616, 
+                6642, 
+                7225, 
+                8499, 
+                9826
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12, 
+            "full_name": "John Browne", 
+            "party": "Fine Gael", 
+            "transfers": 3300, 
+            "transfers_pc": 34.2
+        }, 
+        {
+            "counts": [
+                7798, 
+                7883, 
+                8096, 
+                8307, 
+                8406, 
+                8450, 
+                8543
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.3, 
+            "full_name": "M. J. Nolan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 745, 
+            "transfers_pc": 7.72
+        }, 
+        {
+            "counts": [
+                5950, 
+                6059, 
+                6714, 
+                7082, 
+                7254, 
+                7322, 
+                7513
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.9, 
+            "full_name": "Pat Millea", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1563, 
+            "transfers_pc": 16.2
+        }, 
+        {
+            "counts": [
+                3839, 
+                3914, 
+                3980, 
+                4470
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7, 
+            "full_name": "Andy Cotterell", 
+            "party": "Fine Gael", 
+            "transfers": 631, 
+            "transfers_pc": 6.54
+        }, 
+        {
+            "counts": [
+                3068, 
+                3263, 
+                3320
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.6, 
+            "full_name": "Martin Gibbons", 
+            "party": "Progressive Democrats", 
+            "transfers": 252, 
+            "transfers_pc": 2.61
+        }, 
+        {
+            "counts": [
+                1159
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "Liam Quigley", 
+            "party": "Workers' Party"
+        }
+    ], 
+    "counts_held": 7, 
+    "description": "1989 general election", 
+    "election_type": "dail", 
+    "electorate": 79073, 
+    "name": "Carlow\u2013Kilkenny", 
+    "quota": 9089, 
+    "spoilt": 736, 
+    "turnout": 55267, 
+    "valid": 54531, 
+    "year": 1989
+}

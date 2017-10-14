@@ -1,0 +1,171 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8610, 
+                8796, 
+                9624, 
+                11397
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.6, 
+            "full_name": "Marian Harkin", 
+            "party": "Independent", 
+            "transfers": 2787, 
+            "transfers_pc": 19.14
+        }, 
+        {
+            "counts": [
+                6307, 
+                6427, 
+                6824, 
+                7591, 
+                7894, 
+                10621
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.9, 
+            "full_name": "Jimmy Devins", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 4314, 
+            "transfers_pc": 29.63
+        }, 
+        {
+            "counts": [
+                6897, 
+                6983, 
+                7291, 
+                7699, 
+                7923, 
+                10439
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.1, 
+            "full_name": "John Perry", 
+            "party": "Fine Gael", 
+            "transfers": 3542, 
+            "transfers_pc": 24.33
+        }, 
+        {
+            "counts": [
+                6434, 
+                6465, 
+                6506, 
+                7282, 
+                7503, 
+                8499, 
+                9271
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.1, 
+            "full_name": "John Ellis", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2837, 
+            "transfers_pc": 19.48
+        }, 
+        {
+            "counts": [
+                6192, 
+                6236, 
+                6438, 
+                6939, 
+                7151, 
+                7303, 
+                7357
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.6, 
+            "full_name": "Gerry Reynolds", 
+            "party": "Fine Gael", 
+            "transfers": 1165, 
+            "transfers_pc": 8
+        }, 
+        {
+            "counts": [
+                6345, 
+                6381, 
+                6463, 
+                6856, 
+                6981
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13, 
+            "full_name": "Eamon Scanlon", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 636, 
+            "transfers_pc": 4.37
+        }, 
+        {
+            "counts": [
+                5001, 
+                5100, 
+                5616
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.2, 
+            "full_name": "Se\u00e1n MacManus", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 615, 
+            "transfers_pc": 4.22
+        }, 
+        {
+            "counts": [
+                2429, 
+                2530
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5, 
+            "full_name": "Declan Bree", 
+            "party": "Labour Party", 
+            "transfers": 101, 
+            "transfers_pc": 0.69
+        }, 
+        {
+            "counts": [
+                303
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Andy McSharry", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                203
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Martin Forde", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                166
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "John Lacken", 
+            "party": "Christian Solidarity"
+        }, 
+        {
+            "counts": [
+                114
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "John McCrea", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 7, 
+    "description": "2002 general election", 
+    "election_type": "dail", 
+    "electorate": 70460, 
+    "name": "Sligo\u2013Leitrim", 
+    "quota": 9795, 
+    "spoilt": 523, 
+    "turnout": 49494, 
+    "valid": 48971, 
+    "year": 2002
+}

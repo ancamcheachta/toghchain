@@ -1,0 +1,140 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                5319
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.4, 
+            "full_name": "Brendan McGahon", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7156
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.3, 
+            "full_name": "S\u00e9amus Kirk", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5822
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.4, 
+            "full_name": "Dermot Ahern", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6205
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.3, 
+            "full_name": "Michael Bell", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5492
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.7, 
+            "full_name": "Jimmy Mulroy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5219
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.2, 
+            "full_name": "Frank Aiken", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                3560
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.6, 
+            "full_name": "Joseph Lennon", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2709
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.8, 
+            "full_name": "Thomas Bellew", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2599
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.6, 
+            "full_name": "Arthur Morgan", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                1941
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.2, 
+            "full_name": "Fergus O'Dowd", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                570
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "Donnchadha MacRaghnaill", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                86
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Ronald Smith", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                66
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Charles Ross", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                65
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Barbara Hyland", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1987 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Louth", 
+    "quota": 9362, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 46809, 
+    "year": 1987
+}

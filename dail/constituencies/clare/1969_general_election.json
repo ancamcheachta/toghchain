@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7009
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.3, 
+            "full_name": "Sylvester Barrett", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6848
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.7, 
+            "full_name": "Patrick Hillery", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4697
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.9, 
+            "full_name": "Frank Taylor", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3690
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.3, 
+            "full_name": "Michael Howard", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3383
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.2, 
+            "full_name": "Jack Lynch", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1597
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.8, 
+            "full_name": "Flan Honan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                533
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.9, 
+            "full_name": "Terence Higgins", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1969 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Clare", 
+    "quota": 6940, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 27757, 
+    "year": 1969
+}

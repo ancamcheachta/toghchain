@@ -1,0 +1,270 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                5444, 
+                5456, 
+                5469, 
+                5507, 
+                5612, 
+                5708, 
+                5941, 
+                7280, 
+                7709
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.4, 
+            "full_name": "Gay Mitchell", 
+            "party": "Fine Gael", 
+            "transfers": 2265, 
+            "transfers_pc": 17.05
+        }, 
+        {
+            "counts": [
+                6031, 
+                6033, 
+                6047, 
+                6066, 
+                6131, 
+                6202, 
+                6399, 
+                6472, 
+                6595, 
+                8207
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.7, 
+            "full_name": "Se\u00e1n Ardagh", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2176, 
+            "transfers_pc": 16.38
+        }, 
+        {
+            "counts": [
+                4990, 
+                4994, 
+                5007, 
+                5024, 
+                5102, 
+                5165, 
+                5342, 
+                5391, 
+                5497, 
+                7364
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.3, 
+            "full_name": "Michael Mulcahy", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2374, 
+            "transfers_pc": 17.88
+        }, 
+        {
+            "counts": [
+                5591, 
+                5619, 
+                5759, 
+                5879, 
+                6099, 
+                6376, 
+                6431, 
+                6522, 
+                6892, 
+                7282, 
+                7523
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.7, 
+            "full_name": "Aengus \u00d3 Snodaigh", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 1932, 
+            "transfers_pc": 14.55
+        }, 
+        {
+            "counts": [
+                4520, 
+                4529, 
+                4593, 
+                4677, 
+                4749, 
+                4863, 
+                5110, 
+                5332, 
+                6286, 
+                6675, 
+                6963
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.3, 
+            "full_name": "Mary Upton", 
+            "party": "Labour Party", 
+            "transfers": 2443, 
+            "transfers_pc": 18.39
+        }, 
+        {
+            "counts": [
+                4159, 
+                4188, 
+                4265, 
+                4365, 
+                4436, 
+                4568, 
+                4659, 
+                4839, 
+                5438, 
+                5658, 
+                5844
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.4, 
+            "full_name": "Eric Byrne", 
+            "party": "Labour Party", 
+            "transfers": 1685, 
+            "transfers_pc": 12.69
+        }, 
+        {
+            "counts": [
+                4085, 
+                4085, 
+                4110, 
+                4160, 
+                4199, 
+                4423, 
+                4581, 
+                4676, 
+                4827
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.3, 
+            "full_name": "Marian McGennis", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 742, 
+            "transfers_pc": 5.59
+        }, 
+        {
+            "counts": [
+                2299, 
+                2311, 
+                2400, 
+                2491, 
+                2575, 
+                2771, 
+                2974, 
+                3115
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.2, 
+            "full_name": "Kristina McElroy", 
+            "party": "Green Party", 
+            "transfers": 816, 
+            "transfers_pc": 6.14
+        }, 
+        {
+            "counts": [
+                2012, 
+                2015, 
+                2025, 
+                2059, 
+                2091, 
+                2146, 
+                2259
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.6, 
+            "full_name": "Catherine Byrne", 
+            "party": "Fine Gael", 
+            "transfers": 247, 
+            "transfers_pc": 1.86
+        }, 
+        {
+            "counts": [
+                1377, 
+                1381, 
+                1395, 
+                1405, 
+                1472, 
+                1534
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.1, 
+            "full_name": "Bob Quinn", 
+            "party": "Progressive Democrats", 
+            "transfers": 157, 
+            "transfers_pc": 1.18
+        }, 
+        {
+            "counts": [
+                1142, 
+                1147, 
+                1203, 
+                1323, 
+                1411
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "Vincent Jackson", 
+            "party": "Independent", 
+            "transfers": 269, 
+            "transfers_pc": 2.03
+        }, 
+        {
+            "counts": [
+                926, 
+                930, 
+                949, 
+                966
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "\u00c1ine N\u00ed Chonaill", 
+            "party": "Independent", 
+            "transfers": 40, 
+            "transfers_pc": 0.3
+        }, 
+        {
+            "counts": [
+                553, 
+                692, 
+                782
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.3, 
+            "full_name": "Linda Kavanagh", 
+            "party": "Workers' Party", 
+            "transfers": 229, 
+            "transfers_pc": 1.72
+        }, 
+        {
+            "counts": [
+                617, 
+                633
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "Br\u00edd Smith", 
+            "party": "Socialist Workers", 
+            "transfers": 16, 
+            "transfers_pc": 0.12
+        }, 
+        {
+            "counts": [
+                270
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Shay Kelly", 
+            "party": "Workers' Party"
+        }
+    ], 
+    "counts_held": 11, 
+    "description": "2002 general election", 
+    "election_type": "dail", 
+    "electorate": 86161, 
+    "name": "Dublin South-Central", 
+    "quota": 7337, 
+    "spoilt": 752, 
+    "turnout": 44768, 
+    "valid": 44016, 
+    "year": 2002
+}

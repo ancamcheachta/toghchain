@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7610
+            ], 
+            "elected": true, 
+            "first_pref_pc": 27.2, 
+            "full_name": "Ray Burke", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6808
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.3, 
+            "full_name": "John Boland", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5001
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.9, 
+            "full_name": "Nora Owen", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3270
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.7, 
+            "full_name": "G. V. Wright", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1826
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.5, 
+            "full_name": "Thomas Caffrey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1781
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.4, 
+            "full_name": "Se\u00e1n Ryan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1679
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6, 
+            "full_name": "Bernard Malone", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "November 1982 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin North", 
+    "quota": 6994, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 27975, 
+    "year": 1982
+}

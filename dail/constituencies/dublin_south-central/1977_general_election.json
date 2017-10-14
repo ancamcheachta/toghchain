@@ -1,0 +1,117 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                5931
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.2, 
+            "full_name": "Fergus O'Brien", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3986, 
+                4024, 
+                4177, 
+                4711, 
+                6991
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.9, 
+            "full_name": "Frank Cluskey", 
+            "party": "Labour Party", 
+            "transfers": 3005, 
+            "transfers_pc": 50.94
+        }, 
+        {
+            "counts": [
+                4542, 
+                5015, 
+                5058, 
+                5239, 
+                5566
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.3, 
+            "full_name": "Thomas J. Fitzpatrick", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1024, 
+            "transfers_pc": 17.36
+        }, 
+        {
+            "counts": [
+                3218, 
+                3579, 
+                3595, 
+                3804, 
+                4018
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.7, 
+            "full_name": "Michael Campion", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 800, 
+            "transfers_pc": 13.56
+        }, 
+        {
+            "counts": [
+                2483, 
+                2523, 
+                3389, 
+                3542
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.5, 
+            "full_name": "Alexis Fitzgerald", 
+            "party": "Fine Gael", 
+            "transfers": 1059, 
+            "transfers_pc": 17.95
+        }, 
+        {
+            "counts": [
+                1313, 
+                1340, 
+                1345
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.6, 
+            "full_name": "Andy Smith", 
+            "party": "Sinn F\u00e9in (Workers' Party)", 
+            "transfers": 32, 
+            "transfers_pc": 0.54
+        }, 
+        {
+            "counts": [
+                1096, 
+                1101
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.7, 
+            "full_name": "Maurice Dockrell", 
+            "party": "Fine Gael", 
+            "transfers": 5, 
+            "transfers_pc": 0.08
+        }, 
+        {
+            "counts": [
+                959
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.1, 
+            "full_name": "Vera Kinsella", 
+            "party": "Fianna F\u00e1il"
+        }
+    ], 
+    "counts_held": 5, 
+    "description": "1977 general election", 
+    "election_type": "dail", 
+    "electorate": 37934, 
+    "name": "Dublin South-Central", 
+    "quota": 5883, 
+    "spoilt": 245, 
+    "turnout": 25773, 
+    "valid": 25528, 
+    "year": 1977
+}

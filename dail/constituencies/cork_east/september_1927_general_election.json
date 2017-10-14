@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                4208
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.8, 
+            "full_name": "Martin Corry", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5125
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.4, 
+            "full_name": "John Daly", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                5130
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.4, 
+            "full_name": "Michael Hennessy", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3851
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.8, 
+            "full_name": "Edmond Carey", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3014
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.5, 
+            "full_name": "William Kent", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2988
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.4, 
+            "full_name": "David O'Gorman", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                2918
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.2, 
+            "full_name": "Eamonn Lynch", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2888
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.1, 
+            "full_name": "John Barry", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1951
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.5, 
+            "full_name": "Brook Brasier", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                1812
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.1, 
+            "full_name": "Philip Barry", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1700
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.8, 
+            "full_name": "S\u00e9amus Fitzgerald", 
+            "party": "Fianna F\u00e1il"
+        }
+    ], 
+    "description": "September 1927 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Cork East", 
+    "quota": 5931, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 35585, 
+    "year": 1927
+}

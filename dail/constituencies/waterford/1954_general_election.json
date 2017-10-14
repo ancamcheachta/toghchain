@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7777
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.7, 
+            "full_name": "William Kenneally", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6991
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.4, 
+            "full_name": "Thaddeus Lynch", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6860
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20, 
+            "full_name": "Thomas Kyne", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5162
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.1, 
+            "full_name": "John Ormonde", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4265
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.4, 
+            "full_name": "Norman Walsh", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3234
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.4, 
+            "full_name": "Daniel Leahy", 
+            "party": "Fianna F\u00e1il"
+        }
+    ], 
+    "description": "1954 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Waterford", 
+    "quota": 6858, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 34289, 
+    "year": 1954
+}

@@ -1,0 +1,177 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [], 
+            "elected": true, 
+            "first_pref_pc": null, 
+            "full_name": "Se\u00e1n Barrett", 
+            "party": "Ceann Comhairle"
+        }, 
+        {
+            "counts": [
+                9775, 
+                10008, 
+                12215, 
+                13287, 
+                14761, 
+                15718
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.5, 
+            "full_name": "Richard Boyd Barrett", 
+            "party": "AAA\u2013PBP", 
+            "transfers": 5943, 
+            "transfers_pc": 27.41
+        }, 
+        {
+            "counts": [
+                10817, 
+                11088, 
+                11130, 
+                11433, 
+                11967, 
+                12393, 
+                14941
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.3, 
+            "full_name": "Mary Mitchell O'Connor", 
+            "party": "Fine Gael", 
+            "transfers": 4124, 
+            "transfers_pc": 19.02
+        }, 
+        {
+            "counts": [
+                10489, 
+                10882, 
+                10934, 
+                11270, 
+                11854, 
+                12422, 
+                15198
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.7, 
+            "full_name": "Maria Bailey", 
+            "party": "Fine Gael", 
+            "transfers": 4709, 
+            "transfers_pc": 21.72
+        }, 
+        {
+            "counts": [
+                6478, 
+                6709, 
+                6792, 
+                6986, 
+                7290, 
+                10221, 
+                10969
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.9, 
+            "full_name": "Mary Hanafin", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 4491, 
+            "transfers_pc": 20.72
+        }, 
+        {
+            "counts": [
+                5192, 
+                5296, 
+                5385, 
+                5739, 
+                6895, 
+                7165
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.8, 
+            "full_name": "Carrie Smyth", 
+            "party": "Labour Party", 
+            "transfers": 1973, 
+            "transfers_pc": 9.1
+        }, 
+        {
+            "counts": [
+                4665, 
+                4877, 
+                5055, 
+                5265, 
+                5564
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.9, 
+            "full_name": "Cormac Devlin", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 899, 
+            "transfers_pc": 4.15
+        }, 
+        {
+            "counts": [
+                3478, 
+                3677, 
+                3833, 
+                4750
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.9, 
+            "full_name": "Ossian Smyth", 
+            "party": "Green Party", 
+            "transfers": 1272, 
+            "transfers_pc": 5.87
+        }, 
+        {
+            "counts": [
+                3152, 
+                3410, 
+                3610
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.3, 
+            "full_name": "Carol Hunt", 
+            "party": "Independent", 
+            "transfers": 458, 
+            "transfers_pc": 2.11
+        }, 
+        {
+            "counts": [
+                3167, 
+                3209
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.3, 
+            "full_name": "Shane O'Brien", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 42, 
+            "transfers_pc": 0.19
+        }, 
+        {
+            "counts": [
+                1812
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.1, 
+            "full_name": "Frank Cronin", 
+            "party": "Renua Ireland"
+        }, 
+        {
+            "counts": [
+                213
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Raymond Whitehead", 
+            "party": "Direct\u00a0Democracy"
+        }
+    ], 
+    "counts_held": 7, 
+    "description": "2016 general election", 
+    "election_type": "dail", 
+    "electorate": 92248, 
+    "name": "D\u00fan Laoghaire", 
+    "quota": 14810, 
+    "spoilt": 401, 
+    "turnout": 59639, 
+    "valid": 59238, 
+    "year": 2016
+}

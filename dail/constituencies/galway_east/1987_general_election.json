@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6831
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.7, 
+            "full_name": "Michael P. Kitt", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6719
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.4, 
+            "full_name": "Paul Connaughton, Snr", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6762
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.5, 
+            "full_name": "Noel Treacy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5463
+            ], 
+            "elected": false, 
+            "first_pref_pc": 16.6, 
+            "full_name": "Joe Burke", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                3700
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.2, 
+            "full_name": "Ulick Burke", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3463
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.5, 
+            "full_name": "Thomas Hussey", 
+            "party": "Fianna F\u00e1il"
+        }
+    ], 
+    "description": "1987 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Galway East", 
+    "quota": 8235, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 32938, 
+    "year": 1987
+}

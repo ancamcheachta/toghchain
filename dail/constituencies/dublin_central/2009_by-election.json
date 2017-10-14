@@ -1,0 +1,147 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7639, 
+                7711, 
+                7862, 
+                8105, 
+                8341, 
+                9352, 
+                11062, 
+                13739
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26.9, 
+            "full_name": "Maureen O'Sullivan", 
+            "party": "Independent", 
+            "transfers": 6100, 
+            "transfers_pc": 42.56
+        }, 
+        {
+            "counts": [
+                6439, 
+                6461, 
+                6488, 
+                6578, 
+                6737, 
+                7412, 
+                7880, 
+                10198
+            ], 
+            "elected": false, 
+            "first_pref_pc": 22.7, 
+            "full_name": "Paschal Donohoe", 
+            "party": "Fine Gael", 
+            "transfers": 3759, 
+            "transfers_pc": 26.22
+        }, 
+        {
+            "counts": [
+                4926, 
+                4931, 
+                5008, 
+                5073, 
+                5338, 
+                5774, 
+                6537
+            ], 
+            "elected": false, 
+            "first_pref_pc": 17.3, 
+            "full_name": "Ivana Bacik", 
+            "party": "Labour Party", 
+            "transfers": 1611, 
+            "transfers_pc": 11.24
+        }, 
+        {
+            "counts": [
+                3770, 
+                3780, 
+                3902, 
+                3990, 
+                4042, 
+                4420
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.3, 
+            "full_name": "Christy Burke", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 650, 
+            "transfers_pc": 4.53
+        }, 
+        {
+            "counts": [
+                3483, 
+                3512, 
+                3526, 
+                3564, 
+                3621
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.3, 
+            "full_name": "Maurice Ahern", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 138, 
+            "transfers_pc": 0.96
+        }, 
+        {
+            "counts": [
+                819, 
+                829, 
+                849, 
+                893
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "David Geary", 
+            "party": "Green Party", 
+            "transfers": 74, 
+            "transfers_pc": 0.52
+        }, 
+        {
+            "counts": [
+                614, 
+                636, 
+                676
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.2, 
+            "full_name": "Patrick Talbot", 
+            "party": "Immigration Control", 
+            "transfers": 62, 
+            "transfers_pc": 0.43
+        }, 
+        {
+            "counts": [
+                519, 
+                528
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Malachy Steenson", 
+            "party": "Workers' Party", 
+            "transfers": 9, 
+            "transfers_pc": 0.06
+        }, 
+        {
+            "counts": [
+                203
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "Paul O'Loughlin", 
+            "party": "Christian Solidarity"
+        }
+    ], 
+    "counts_held": 8, 
+    "description": "2009 by-election", 
+    "election_type": "dail", 
+    "electorate": 62141, 
+    "name": "Dublin Central", 
+    "quota": 14207, 
+    "spoilt": 391, 
+    "turnout": 28803, 
+    "valid": 28412, 
+    "year": 2009
+}

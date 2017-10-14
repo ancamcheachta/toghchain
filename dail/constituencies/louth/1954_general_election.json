@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10778
+            ], 
+            "elected": true, 
+            "first_pref_pc": 31.9, 
+            "full_name": "George Coburn", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                8769
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26, 
+            "full_name": "Frank Aiken", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4665
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.8, 
+            "full_name": "Paddy Donegan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5945
+            ], 
+            "elected": false, 
+            "first_pref_pc": 17.6, 
+            "full_name": "Laurence Walsh", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2576
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.6, 
+            "full_name": "Roddy Connolly", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1011
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "Joseph Campbell", 
+            "party": "Sinn F\u00e9in"
+        }
+    ], 
+    "description": "1954 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Louth", 
+    "quota": 8437, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 33744, 
+    "year": 1954
+}

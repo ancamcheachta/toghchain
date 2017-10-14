@@ -1,0 +1,131 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10066
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.3, 
+            "full_name": "Michael Ring", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6945
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.2, 
+            "full_name": "Jim Higgins", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                8353
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.5, 
+            "full_name": "Beverley Flynn", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8568
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.9, 
+            "full_name": "Enda Kenny", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5735
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.3, 
+            "full_name": "Tom Moffatt", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6791
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11, 
+            "full_name": "S\u00e9amus Hughes", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5692
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.2, 
+            "full_name": "P. J. Morley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4579
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.4, 
+            "full_name": "Ernie Caffrey", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1683
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Richard Finn", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1656
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Gerry Ginty", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                938
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.5, 
+            "full_name": "Ann Crowley", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                733
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "Ciaran Sherry", 
+            "party": "National Party"
+        }, 
+        {
+            "counts": [
+                119
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Cormac Cullen", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1997 general election", 
+    "election_type": "dail", 
+    "electorate": 87719, 
+    "name": "Mayo", 
+    "quota": 10310, 
+    "spoilt": 614, 
+    "turnout": 62472, 
+    "valid": 61858, 
+    "year": 1997
+}

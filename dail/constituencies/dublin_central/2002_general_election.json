@@ -1,0 +1,150 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10896
+            ], 
+            "elected": true, 
+            "first_pref_pc": 31.9, 
+            "full_name": "Bertie Ahern", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5675, 
+                6477, 
+                6625, 
+                7242
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.6, 
+            "full_name": "Tony Gregory", 
+            "party": "Independent", 
+            "transfers": 1567, 
+            "transfers_pc": 15.81
+        }, 
+        {
+            "counts": [
+                4149, 
+                4499, 
+                4539, 
+                5046, 
+                7870
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.2, 
+            "full_name": "Joe Costello", 
+            "party": "Labour Party", 
+            "transfers": 3721, 
+            "transfers_pc": 37.55
+        }, 
+        {
+            "counts": [
+                2592, 
+                4855, 
+                4968, 
+                5043, 
+                5560, 
+                6264, 
+                6418
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.6, 
+            "full_name": "Dermot Fitzpatrick", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3826, 
+            "transfers_pc": 38.61
+        }, 
+        {
+            "counts": [
+                4979, 
+                5300, 
+                5343, 
+                5487, 
+                5818, 
+                6177, 
+                6339
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.6, 
+            "full_name": "Nicky Kehoe", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 1360, 
+            "transfers_pc": 13.72
+        }, 
+        {
+            "counts": [
+                3798, 
+                3976, 
+                4063, 
+                4268
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.1, 
+            "full_name": "Jim Mitchell", 
+            "party": "Fine Gael", 
+            "transfers": 470, 
+            "transfers_pc": 4.74
+        }, 
+        {
+            "counts": [
+                1470, 
+                1545, 
+                1652
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.3, 
+            "full_name": "Tommy Simpson", 
+            "party": "Green Party", 
+            "transfers": 182, 
+            "transfers_pc": 1.84
+        }, 
+        {
+            "counts": [
+                366, 
+                377
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "Paul O'Loughlin", 
+            "party": "Christian Solidarity", 
+            "transfers": 11, 
+            "transfers_pc": 0.11
+        }, 
+        {
+            "counts": [
+                97, 
+                103
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Tom Prendeville", 
+            "party": "Independent", 
+            "transfers": 6, 
+            "transfers_pc": 0.06
+        }, 
+        {
+            "counts": [
+                89, 
+                95
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Patrick O'Donnell", 
+            "party": "Independent", 
+            "transfers": 6, 
+            "transfers_pc": 0.06
+        }
+    ], 
+    "counts_held": 7, 
+    "description": "2002 general election", 
+    "election_type": "dail", 
+    "electorate": 62180, 
+    "name": "Dublin Central", 
+    "quota": 6807, 
+    "spoilt": 483, 
+    "turnout": 34517, 
+    "valid": 34034, 
+    "year": 2002
+}

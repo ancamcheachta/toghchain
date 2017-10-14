@@ -1,0 +1,350 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8072, 
+                8085, 
+                8098, 
+                8125, 
+                8153, 
+                8171, 
+                8526, 
+                9062, 
+                9186, 
+                11633, 
+                12066, 
+                14160
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.9, 
+            "full_name": "Ann Phelan", 
+            "party": "Labour Party", 
+            "transfers": 6088, 
+            "transfers_pc": 29.76
+        }, 
+        {
+            "counts": [
+                9531, 
+                9543, 
+                9548, 
+                9583, 
+                9595, 
+                9612, 
+                9767, 
+                9939, 
+                9999, 
+                10108, 
+                11805, 
+                12630
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.9, 
+            "full_name": "John McGuinness", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3099, 
+            "transfers_pc": 15.15
+        }, 
+        {
+            "counts": [
+                10929, 
+                10939, 
+                10949, 
+                10975, 
+                10993, 
+                11017, 
+                11183, 
+                11416, 
+                11467, 
+                11579, 
+                11711, 
+                12217, 
+                12574
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.8, 
+            "full_name": "John Paul Phelan", 
+            "party": "Fine Gael", 
+            "transfers": 1645, 
+            "transfers_pc": 8.04
+        }, 
+        {
+            "counts": [
+                10525, 
+                10537, 
+                10540, 
+                10558, 
+                10565, 
+                10587, 
+                10772, 
+                10934, 
+                10968, 
+                11120, 
+                11207, 
+                11770, 
+                11997
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.3, 
+            "full_name": "Phil Hogan", 
+            "party": "Fine Gael", 
+            "transfers": 1472, 
+            "transfers_pc": 7.2
+        }, 
+        {
+            "counts": [
+                7470, 
+                7474, 
+                7483, 
+                7491, 
+                7502, 
+                7597, 
+                7654, 
+                7964, 
+                8238, 
+                8908, 
+                9967, 
+                10335, 
+                10486
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.1, 
+            "full_name": "Pat Deering", 
+            "party": "Fine Gael", 
+            "transfers": 3016, 
+            "transfers_pc": 14.75
+        }, 
+        {
+            "counts": [
+                6762, 
+                6772, 
+                6775, 
+                6786, 
+                6796, 
+                6797, 
+                6867, 
+                6928, 
+                6961, 
+                7005, 
+                8068, 
+                8469, 
+                8610
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.2, 
+            "full_name": "Bobby Aylward", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1848, 
+            "transfers_pc": 9.03
+        }, 
+        {
+            "counts": [
+                4075, 
+                4089, 
+                4101, 
+                4121, 
+                4144, 
+                4162, 
+                4462, 
+                4573, 
+                6458, 
+                6759, 
+                7091
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.5, 
+            "full_name": "Kathleen Funchion", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 3016, 
+            "transfers_pc": 14.75
+        }, 
+        {
+            "counts": [
+                4428, 
+                4431, 
+                4434, 
+                4435, 
+                4453, 
+                4493, 
+                4533, 
+                4758, 
+                5065, 
+                5636
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6, 
+            "full_name": "Jennifer Murnane-O'Connor", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1208, 
+            "transfers_pc": 5.91
+        }, 
+        {
+            "counts": [
+                3908, 
+                3910, 
+                3919, 
+                3928, 
+                3952, 
+                3978, 
+                4091, 
+                4298, 
+                4683
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.3, 
+            "full_name": "Des Hurley", 
+            "party": "Labour Party", 
+            "transfers": 775, 
+            "transfers_pc": 3.79
+        }, 
+        {
+            "counts": [
+                2958, 
+                2959, 
+                2966, 
+                2970, 
+                3003, 
+                3034, 
+                3216, 
+                3314
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4, 
+            "full_name": "John Cassin", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 356, 
+            "transfers_pc": 1.74
+        }, 
+        {
+            "counts": [
+                2072, 
+                2077, 
+                2082, 
+                2098, 
+                2106, 
+                2135, 
+                2278
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "Mary White", 
+            "party": "Green Party", 
+            "transfers": 206, 
+            "transfers_pc": 1.01
+        }, 
+        {
+            "counts": [
+                1135, 
+                1144, 
+                1157, 
+                1179, 
+                1200, 
+                1217
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.5, 
+            "full_name": "[35]", 
+            "party": "Socialist Party", 
+            "transfers": 82, 
+            "transfers_pc": 0.4
+        }, 
+        {
+            "counts": [
+                601, 
+                625, 
+                646, 
+                681, 
+                734, 
+                820
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "Stephen Kelly", 
+            "party": "Independent", 
+            "transfers": 219, 
+            "transfers_pc": 1.07
+        }, 
+        {
+            "counts": [
+                384, 
+                390, 
+                410, 
+                423, 
+                471
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Johnny Couchman", 
+            "party": "Independent", 
+            "transfers": 87, 
+            "transfers_pc": 0.43
+        }, 
+        {
+            "counts": [
+                253, 
+                270, 
+                327, 
+                345
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "John O'Hara", 
+            "party": "Independent", 
+            "transfers": 92, 
+            "transfers_pc": 0.45
+        }, 
+        {
+            "counts": [
+                256, 
+                272, 
+                277
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Raemie Leahy", 
+            "party": "Independent", 
+            "transfers": 21, 
+            "transfers_pc": 0.1
+        }, 
+        {
+            "counts": [
+                195, 
+                207
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "David Murphy", 
+            "party": "Independent", 
+            "transfers": 12, 
+            "transfers_pc": 0.06
+        }, 
+        {
+            "counts": [
+                119
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Noel Walshe", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                70
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "John Dalton", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 13, 
+    "description": "2011 general election", 
+    "election_type": "dail", 
+    "electorate": 105449, 
+    "name": "Carlow\u2013Kilkenny", 
+    "quota": 12291, 
+    "spoilt": 821, 
+    "turnout": 74564, 
+    "valid": 73743, 
+    "year": 2011
+}

@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7274
+            ], 
+            "elected": true, 
+            "first_pref_pc": 28.2, 
+            "full_name": "Se\u00e1n Tubridy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6179
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.9, 
+            "full_name": "Gerald Bartley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3909
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.2, 
+            "full_name": "Joseph Mongan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5109
+            ], 
+            "elected": false, 
+            "first_pref_pc": 19.8, 
+            "full_name": "Eamon Corbett", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3337
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.9, 
+            "full_name": "Peter Kelly", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1937 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Galway West", 
+    "quota": 6453, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 25808, 
+    "year": 1937
+}

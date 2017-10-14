@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                13949
+            ], 
+            "elected": true, 
+            "first_pref_pc": 32.4, 
+            "full_name": "W. T. Cosgrave", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                9891
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23, 
+            "full_name": "Thomas Derrig", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2516
+            ], 
+            "elected": true, 
+            "first_pref_pc": 5.8, 
+            "full_name": "Peter de Loughry", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                4599
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.7, 
+            "full_name": "Richard Holohan", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                4956
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.5, 
+            "full_name": "Edward Doyle", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3229
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.5, 
+            "full_name": "Michael Delaney", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2541
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.9, 
+            "full_name": "Denis Gorey", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                1348
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.1, 
+            "full_name": "James Reade", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "September 1927 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Carlow\u2013Kilkenny", 
+    "quota": 7172, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 43029, 
+    "year": 1927
+}

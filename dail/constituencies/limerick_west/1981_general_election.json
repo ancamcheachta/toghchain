@@ -1,0 +1,57 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                14776
+            ], 
+            "elected": true, 
+            "first_pref_pc": 44.5, 
+            "full_name": "Gerry Collins", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8676
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26.2, 
+            "full_name": "William O'Brien", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6579, 
+                12731
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.8, 
+            "full_name": "Michael J. Noonan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 6152, 
+            "transfers_pc": 89.73
+        }, 
+        {
+            "counts": [
+                3158, 
+                3484
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.5, 
+            "full_name": "Donal Sheehan", 
+            "party": "Fine Gael", 
+            "transfers": 326, 
+            "transfers_pc": 4.75
+        }
+    ], 
+    "counts_held": 2, 
+    "description": "1981 general election", 
+    "election_type": "dail", 
+    "electorate": 41097, 
+    "name": "Limerick West", 
+    "quota": 8298, 
+    "spoilt": 387, 
+    "turnout": 33576, 
+    "valid": 33189, 
+    "year": 1981
+}

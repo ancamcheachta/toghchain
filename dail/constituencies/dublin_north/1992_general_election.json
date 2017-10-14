@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                14693
+            ], 
+            "elected": true, 
+            "first_pref_pc": 34, 
+            "full_name": "Se\u00e1n Ryan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                8745
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.3, 
+            "full_name": "Ray Burke", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5355
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.4, 
+            "full_name": "Nora Owen", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3788
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.8, 
+            "full_name": "Trevor Sargent", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                4862
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.3, 
+            "full_name": "G. V. Wright", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2157
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5, 
+            "full_name": "Marian McGennis", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1818
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.2, 
+            "full_name": "Cathal Boland", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                707
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "Betty Carr", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                639
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.5, 
+            "full_name": "Marie Blake", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                411
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Martha Ellis", 
+            "party": "Sinn F\u00e9in"
+        }
+    ], 
+    "description": "1992 general election", 
+    "election_type": "dail", 
+    "electorate": 63341, 
+    "name": "Dublin North", 
+    "quota": 8636, 
+    "spoilt": 540, 
+    "turnout": 43715, 
+    "valid": 43175, 
+    "year": 1992
+}

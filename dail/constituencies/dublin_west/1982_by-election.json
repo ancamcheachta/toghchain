@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                16777
+            ], 
+            "elected": true, 
+            "first_pref_pc": 39, 
+            "full_name": "Liam Skelly", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                17095
+            ], 
+            "elected": false, 
+            "first_pref_pc": 39.7, 
+            "full_name": "Eileen Lemass", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6357
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.8, 
+            "full_name": "Tom\u00e1s Mac Giolla", 
+            "party": "Sinn F\u00e9in (Workers' Party)"
+        }, 
+        {
+            "counts": [
+                785
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "John O'Halloran", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                703
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "Brendan O'Sullivan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                667
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "Michael Conaghan", 
+            "party": "Democratic Socialist Party"
+        }, 
+        {
+            "counts": [
+                334
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "Matt Merrigan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                233
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "John Condron", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                68
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "S\u00e9amus O'Daly", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                42
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Jim Tallon", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1982 by-election", 
+    "election_type": "dail", 
+    "electorate": 70203, 
+    "name": "Dublin West", 
+    "quota": 21531, 
+    "spoilt": null, 
+    "turnout": 61, 
+    "valid": 43061, 
+    "year": 1982
+}

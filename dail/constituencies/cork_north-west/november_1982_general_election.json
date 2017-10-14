@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8882
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26.7, 
+            "full_name": "Donal Creed", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7381
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.2, 
+            "full_name": "Frank Crowley", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5417
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.3, 
+            "full_name": "Donal Moynihan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6272
+            ], 
+            "elected": false, 
+            "first_pref_pc": 18.9, 
+            "full_name": "Jack Roche", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3086
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.3, 
+            "full_name": "James Long", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2199
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.6, 
+            "full_name": "Martin McCarthy", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "November 1982 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Cork North-West", 
+    "quota": 8310, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 33237, 
+    "year": 1982
+}

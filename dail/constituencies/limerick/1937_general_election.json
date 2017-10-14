@@ -1,0 +1,122 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                11011
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.8, 
+            "full_name": "Michael Keyes", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                8106
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.4, 
+            "full_name": "Daniel Bourke", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6131
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.4, 
+            "full_name": "George C. Bennett", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4361
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6.7, 
+            "full_name": "John O'Shaughnessy", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6955
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.6, 
+            "full_name": "Michael Colbert", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4698
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.2, 
+            "full_name": "Robert Ryan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5663
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.6, 
+            "full_name": "Donnchadh \u00d3 Briain", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5834
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.9, 
+            "full_name": "James Reidy", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4544
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.9, 
+            "full_name": "Tadhg Crowley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3537
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.4, 
+            "full_name": "Timothy O'Connell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3339
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.1, 
+            "full_name": "Liam Fraher", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1343
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "Thomas Lloyd", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1937 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Limerick", 
+    "quota": 8191, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 65522, 
+    "year": 1937
+}

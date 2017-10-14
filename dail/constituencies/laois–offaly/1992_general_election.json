@@ -1,0 +1,131 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10117
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.9, 
+            "full_name": "Brian Cowen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8361
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.6, 
+            "full_name": "Liam Hyland", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6966
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13, 
+            "full_name": "Pat Gallagher", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4316
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8, 
+            "full_name": "Ger Connolly", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5876
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11, 
+            "full_name": "Charles Flanagan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5742
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.7, 
+            "full_name": "Tom Enright", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5018
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.4, 
+            "full_name": "John Moloney", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3560
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.6, 
+            "full_name": "Cathy Honan", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                1508
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "Johnny Butterfield", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1165
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.2, 
+            "full_name": "Mary Buckley", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                665
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "John Carroll", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                244
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Joe McCormack", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                132
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Edward Delaney", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1992 general election", 
+    "election_type": "dail", 
+    "electorate": 77291, 
+    "name": "Laois\u2013Offaly", 
+    "quota": 8946, 
+    "spoilt": 753, 
+    "turnout": 54423, 
+    "valid": 53670, 
+    "year": 1992
+}

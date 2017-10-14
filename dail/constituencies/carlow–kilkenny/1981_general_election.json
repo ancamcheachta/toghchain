@@ -1,0 +1,204 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9374, 
+                9569
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.6, 
+            "full_name": "Liam Aylward", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 195, 
+            "transfers_pc": 1.41
+        }, 
+        {
+            "counts": [
+                8285, 
+                8324, 
+                8334, 
+                8487, 
+                9267, 
+                9271, 
+                9577
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.6, 
+            "full_name": "Kieran Crotty", 
+            "party": "Fine Gael", 
+            "transfers": 1292, 
+            "transfers_pc": 9.35
+        }, 
+        {
+            "counts": [
+                5669, 
+                5763, 
+                5935, 
+                6020, 
+                7183, 
+                7184, 
+                7211, 
+                10762
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.1, 
+            "full_name": "Desmond Governey", 
+            "party": "Fine Gael", 
+            "transfers": 5093, 
+            "transfers_pc": 36.88
+        }, 
+        {
+            "counts": [
+                6095, 
+                6104, 
+                6853, 
+                7547, 
+                7631, 
+                7634, 
+                7895, 
+                8720, 
+                9931
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.8, 
+            "full_name": "S\u00e9amus Pattison", 
+            "party": "Labour Party", 
+            "transfers": 3836, 
+            "transfers_pc": 27.77
+        }, 
+        {
+            "counts": [
+                7080, 
+                7563, 
+                7659, 
+                7760, 
+                7892, 
+                7935, 
+                8623, 
+                8713, 
+                8762, 
+                8834, 
+                8883
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.7, 
+            "full_name": "Tom Nolan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1803, 
+            "transfers_pc": 13.05
+        }, 
+        {
+            "counts": [
+                6177, 
+                6298, 
+                6318, 
+                6490, 
+                6540, 
+                6626, 
+                8164, 
+                8478, 
+                8581, 
+                8731, 
+                8860
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.9, 
+            "full_name": "Jim Gibbons", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2683, 
+            "transfers_pc": 19.43
+        }, 
+        {
+            "counts": [
+                4447, 
+                4465, 
+                4694, 
+                4794, 
+                5102, 
+                5103, 
+                5141
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.8, 
+            "full_name": "Dick Dowling", 
+            "party": "Fine Gael", 
+            "transfers": 694, 
+            "transfers_pc": 5.02
+        }, 
+        {
+            "counts": [
+                2708, 
+                2755, 
+                2765, 
+                2887, 
+                2901, 
+                2933
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.7, 
+            "full_name": "Mick Lanigan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 225, 
+            "transfers_pc": 1.63
+        }, 
+        {
+            "counts": [
+                2421, 
+                2449, 
+                2535, 
+                2573
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.3, 
+            "full_name": "John Browne", 
+            "party": "Fine Gael", 
+            "transfers": 152, 
+            "transfers_pc": 1.1
+        }, 
+        {
+            "counts": [
+                1881, 
+                1892, 
+                1932
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.3, 
+            "full_name": "Se\u00e1n Walsh", 
+            "party": "Sinn F\u00e9in (Workers' Party)", 
+            "transfers": 51, 
+            "transfers_pc": 0.37
+        }, 
+        {
+            "counts": [
+                1178, 
+                1189
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "Jim Townsend", 
+            "party": "Labour Party", 
+            "transfers": 11, 
+            "transfers_pc": 0.08
+        }, 
+        {
+            "counts": [
+                1176
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.9, 
+            "full_name": "Patrick Carpenter", 
+            "party": "Fianna F\u00e1il"
+        }
+    ], 
+    "counts_held": 11, 
+    "description": "1981 general election", 
+    "election_type": "dail", 
+    "electorate": 72148, 
+    "name": "Carlow\u2013Kilkenny", 
+    "quota": 9399, 
+    "spoilt": 798, 
+    "turnout": 57233, 
+    "valid": 56435, 
+    "year": 1981
+}

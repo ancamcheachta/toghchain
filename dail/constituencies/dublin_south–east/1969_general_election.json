@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8412
+            ], 
+            "elected": true, 
+            "first_pref_pc": 31.5, 
+            "full_name": "Garret FitzGerald", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5724
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.4, 
+            "full_name": "No\u00ebl Browne", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4979
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.6, 
+            "full_name": "Se\u00e1n Moore", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3047
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.4, 
+            "full_name": "Patrick Cummins", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2446
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.2, 
+            "full_name": "Michael Donnelly", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1001
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.8, 
+            "full_name": "Fergus O'Brien", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                642
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.4, 
+            "full_name": "John Kennedy", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                312
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "Robert Ellis", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                158
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Thomas Banahan", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1969 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South\u2013East", 
+    "quota": 6681, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 26721, 
+    "year": 1969
+}

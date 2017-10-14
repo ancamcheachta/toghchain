@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6438
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.9, 
+            "full_name": "Tom O'Donnell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6362
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.7, 
+            "full_name": "Stephen Coughlan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5960
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.6, 
+            "full_name": "Desmond O'Malley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4985
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.9, 
+            "full_name": "Michael Herbert", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3361
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.4, 
+            "full_name": "Hilda O'Malley", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                3222
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9, 
+            "full_name": "Michael Lipper", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2838
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.9, 
+            "full_name": "Liam Hickey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1821
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.1, 
+            "full_name": "Patrick Kennedy", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                560
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "Patrick Clancy", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                366
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Anthony Pratschke", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1969 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Limerick East", 
+    "quota": 7183, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 35913, 
+    "year": 1969
+}

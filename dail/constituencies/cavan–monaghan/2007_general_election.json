@@ -1,0 +1,132 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [], 
+            "elected": true, 
+            "first_pref_pc": null, 
+            "full_name": "Rory O'Hanlon", 
+            "party": "Ceann Comhairle"
+        }, 
+        {
+            "counts": [
+                15548
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.6, 
+            "full_name": "Brendan Smith", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                13162
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20, 
+            "full_name": "Caoimhgh\u00edn \u00d3 Caol\u00e1in", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                10978, 
+                11057, 
+                11199, 
+                13758
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.7, 
+            "full_name": "Seymour Crawford", 
+            "party": "Fine Gael", 
+            "transfers": 2780, 
+            "transfers_pc": 28.84
+        }, 
+        {
+            "counts": [
+                9303, 
+                11062, 
+                11145, 
+                13203
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.1, 
+            "full_name": "Margaret Conlon", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3900, 
+            "transfers_pc": 40.46
+        }, 
+        {
+            "counts": [
+                9550, 
+                9895, 
+                10214, 
+                11238
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.5, 
+            "full_name": "Joe O'Reilly", 
+            "party": "Fine Gael", 
+            "transfers": 1688, 
+            "transfers_pc": 17.51
+        }, 
+        {
+            "counts": [
+                3955, 
+                4034, 
+                4157
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6, 
+            "full_name": "Paudge Connolly", 
+            "party": "Independent", 
+            "transfers": 202, 
+            "transfers_pc": 2.1
+        }, 
+        {
+            "counts": [
+                2382, 
+                2445, 
+                2687
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.6, 
+            "full_name": "Vincent Martin", 
+            "party": "Green Party", 
+            "transfers": 305, 
+            "transfers_pc": 3.16
+        }, 
+        {
+            "counts": [
+                796, 
+                849
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "Des Cullen", 
+            "party": "Labour Party", 
+            "transfers": 53, 
+            "transfers_pc": 0.55
+        }, 
+        {
+            "counts": [
+                113, 
+                125
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "T. J. Fay", 
+            "party": "Independent", 
+            "transfers": 12, 
+            "transfers_pc": 0.12
+        }
+    ], 
+    "counts_held": 4, 
+    "description": "2007 general election", 
+    "election_type": "dail", 
+    "electorate": 92248, 
+    "name": "Cavan\u2013Monaghan", 
+    "quota": 13158, 
+    "spoilt": 760, 
+    "turnout": 66547, 
+    "valid": 65787, 
+    "year": 2007
+}

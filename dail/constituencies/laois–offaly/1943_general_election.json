@@ -1,0 +1,131 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6479
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.6, 
+            "full_name": "Thomas F. O'Higgins", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5727
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12, 
+            "full_name": "William Davin", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6908
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.5, 
+            "full_name": "Patrick Boland", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4029
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.5, 
+            "full_name": "Patrick Gorry", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4379
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.2, 
+            "full_name": "Oliver J. Flanagan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                4001
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.4, 
+            "full_name": "Patrick Bermingham", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                3527
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.4, 
+            "full_name": "Daniel Hogan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3282
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.9, 
+            "full_name": "George Connell", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3260
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.8, 
+            "full_name": "Laurence Brady", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2005
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.2, 
+            "full_name": "Edward Breen", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1780
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "John Condron", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1157
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.4, 
+            "full_name": "Joseph Kearney", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1103
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.3, 
+            "full_name": "Charles Delaney", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1943 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Laois\u2013Offaly", 
+    "quota": 7940, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 47637, 
+    "year": 1943
+}

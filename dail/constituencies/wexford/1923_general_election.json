@@ -1,0 +1,122 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7744
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.3, 
+            "full_name": "Richard Corish", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                7176
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.9, 
+            "full_name": "Michael Doyle", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                6751
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.7, 
+            "full_name": "Robert Lambert", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                5434
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.3, 
+            "full_name": "Osmond Esmonde", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3557
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.3, 
+            "full_name": "James Ryan", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                1976
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.2, 
+            "full_name": "Michael Jordan", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                1845
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.9, 
+            "full_name": "James Shannon", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1270
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.3, 
+            "full_name": "Thomas McCarthy", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                863
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.3, 
+            "full_name": "Daniel O'Callaghan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                625
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "John Cummins", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                500
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.3, 
+            "full_name": "Barry Brereton", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                330
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.9, 
+            "full_name": "Hector Hughes", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1923 general election", 
+    "election_type": "dail", 
+    "electorate": 60171, 
+    "name": "Wexford", 
+    "quota": 6346, 
+    "spoilt": null, 
+    "turnout": 63, 
+    "valid": 38071, 
+    "year": 1923
+}

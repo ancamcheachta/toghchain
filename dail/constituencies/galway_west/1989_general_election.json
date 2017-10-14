@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8917
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.2, 
+            "full_name": "Bobby Molloy", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                7727
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.8, 
+            "full_name": "Michael D. Higgins", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                8010
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.4, 
+            "full_name": "Frank Fahey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5902
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.1, 
+            "full_name": "M\u00e1ire Geoghegan-Quinn", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5987
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.2, 
+            "full_name": "P\u00e1draic McCormack", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5733
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.7, 
+            "full_name": "\u00c9amon \u00d3 Cu\u00edv", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5297
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.8, 
+            "full_name": "Fintan Coogan, Jnr", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1155
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.4, 
+            "full_name": "James Brick", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                127
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Dermot Shanley", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                84
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Paul O'Connor", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1989 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Galway West", 
+    "quota": 8157, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 48939, 
+    "year": 1989
+}

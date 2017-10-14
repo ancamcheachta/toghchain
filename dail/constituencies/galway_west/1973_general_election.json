@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7028
+            ], 
+            "elected": true, 
+            "first_pref_pc": 28.3, 
+            "full_name": "Bobby Molloy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4782
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.3, 
+            "full_name": "Johnny Geoghegan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3410
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.7, 
+            "full_name": "Fintan Coogan, Snr", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3346
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.5, 
+            "full_name": "Michael D. Higgins", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3156
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.7, 
+            "full_name": "John Mannion, Jnr", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1573
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.3, 
+            "full_name": "S\u00e9amus Kyne", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                703
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "Seosamh \u00d3 Tuairisg", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                416
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "Irene King", 
+            "party": "Aontacht \u00c9ireann"
+        }, 
+        {
+            "counts": [
+                411
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "P\u00e1draic Joyce", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1973 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Galway West", 
+    "quota": 6207, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 24825, 
+    "year": 1973
+}

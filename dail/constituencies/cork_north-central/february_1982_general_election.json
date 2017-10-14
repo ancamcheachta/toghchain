@@ -1,0 +1,208 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6694, 
+                6699, 
+                6733, 
+                6770, 
+                7376
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.7, 
+            "full_name": "Denis Lyons", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 682, 
+            "transfers_pc": 8.7
+        }, 
+        {
+            "counts": [
+                6407, 
+                6410, 
+                6428, 
+                6526, 
+                6584, 
+                6587, 
+                7052, 
+                8144
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.1, 
+            "full_name": "Bernard Allen", 
+            "party": "Fine Gael", 
+            "transfers": 1737, 
+            "transfers_pc": 22.16
+        }, 
+        {
+            "counts": [
+                6234, 
+                6237, 
+                6255, 
+                6300, 
+                6336, 
+                6338, 
+                6476, 
+                7502
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.6, 
+            "full_name": "Liam Burke", 
+            "party": "Fine Gael", 
+            "transfers": 1268, 
+            "transfers_pc": 16.17
+        }, 
+        {
+            "counts": [
+                5629, 
+                5635, 
+                5698, 
+                6030, 
+                6133, 
+                6140, 
+                6752, 
+                7056, 
+                7899
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.2, 
+            "full_name": "Toddy O'Sullivan", 
+            "party": "Labour Party", 
+            "transfers": 2270, 
+            "transfers_pc": 28.95
+        }, 
+        {
+            "counts": [
+                4975, 
+                4981, 
+                5005, 
+                5053, 
+                5628, 
+                5759, 
+                5969, 
+                6027, 
+                6067, 
+                6169, 
+                6263
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.7, 
+            "full_name": "Se\u00e1n French", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1288, 
+            "transfers_pc": 16.43
+        }, 
+        {
+            "counts": [
+                4798, 
+                4800, 
+                4837, 
+                4914, 
+                5450, 
+                5583, 
+                5989, 
+                6039, 
+                6058, 
+                6147, 
+                6258
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.3, 
+            "full_name": "Dan Wallace", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1460, 
+            "transfers_pc": 18.62
+        }, 
+        {
+            "counts": [
+                2562, 
+                2563, 
+                2565, 
+                2587, 
+                2592, 
+                2594, 
+                2611
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6, 
+            "full_name": "Tom\u00e1s Ryan", 
+            "party": "Fine Gael", 
+            "transfers": 49, 
+            "transfers_pc": 0.63
+        }, 
+        {
+            "counts": [
+                1785, 
+                1805, 
+                1968, 
+                2249, 
+                2283, 
+                2284
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.2, 
+            "full_name": "James Kenneally", 
+            "party": "Independent", 
+            "transfers": 499, 
+            "transfers_pc": 6.36
+        }, 
+        {
+            "counts": [
+                1894, 
+                1897, 
+                1935, 
+                1986
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "Liam \u00d3 Murch\u00fa", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 92, 
+            "transfers_pc": 1.17
+        }, 
+        {
+            "counts": [
+                962, 
+                983, 
+                1093
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.3, 
+            "full_name": "Ted Tynan", 
+            "party": "Sinn F\u00e9in (Workers' Party)", 
+            "transfers": 131, 
+            "transfers_pc": 1.67
+        }, 
+        {
+            "counts": [
+                542, 
+                560
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.3, 
+            "full_name": "Jim Lane", 
+            "party": "Irish Republican Socialist", 
+            "transfers": 18, 
+            "transfers_pc": 0.23
+        }, 
+        {
+            "counts": [
+                95
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "James Corcoran", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 11, 
+    "description": "February 1982 general election", 
+    "election_type": "dail", 
+    "electorate": 61463, 
+    "name": "Cork North-Central", 
+    "quota": 7097, 
+    "spoilt": 421, 
+    "turnout": 42998, 
+    "valid": 42577, 
+    "year": 1982
+}

@@ -1,0 +1,218 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9603
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.2, 
+            "full_name": "Dermot Ahern", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5505, 
+                5540, 
+                5686, 
+                5688, 
+                6098, 
+                6346, 
+                7740, 
+                10175
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.6, 
+            "full_name": "Fergus O'Dowd", 
+            "party": "Fine Gael", 
+            "transfers": 4670, 
+            "transfers_pc": 31.45
+        }, 
+        {
+            "counts": [
+                6495, 
+                6561, 
+                6768, 
+                6811, 
+                6993, 
+                7644, 
+                7960, 
+                9987
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.6, 
+            "full_name": "S\u00e9amus Kirk", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3492, 
+            "transfers_pc": 23.52
+        }, 
+        {
+            "counts": [
+                7121, 
+                7275, 
+                7488, 
+                7495, 
+                7805, 
+                8474, 
+                8992, 
+                9477
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.9, 
+            "full_name": "Arthur Morgan", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 2356, 
+            "transfers_pc": 15.87
+        }, 
+        {
+            "counts": [
+                4130, 
+                4207, 
+                4442, 
+                4449, 
+                4670, 
+                5394, 
+                6046, 
+                6133
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.7, 
+            "full_name": "Terry Brennan", 
+            "party": "Fine Gael", 
+            "transfers": 2003, 
+            "transfers_pc": 13.49
+        }, 
+        {
+            "counts": [
+                4653, 
+                4668, 
+                4807, 
+                4811, 
+                4946, 
+                5018, 
+                5643
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.8, 
+            "full_name": "Frank Maher", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 990, 
+            "transfers_pc": 6.67
+        }, 
+        {
+            "counts": [
+                3185, 
+                3237, 
+                3388, 
+                3391, 
+                3732, 
+                4117
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.7, 
+            "full_name": "Michael Bell", 
+            "party": "Labour Party", 
+            "transfers": 932, 
+            "transfers_pc": 6.28
+        }, 
+        {
+            "counts": [
+                2384, 
+                2496, 
+                3021, 
+                3030, 
+                3521
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5, 
+            "full_name": "Mary Grehan", 
+            "party": "Independent", 
+            "transfers": 1137, 
+            "transfers_pc": 7.66
+        }, 
+        {
+            "counts": [
+                1979, 
+                2109, 
+                2306, 
+                2309
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.2, 
+            "full_name": "Bernadette Martin", 
+            "party": "Green Party", 
+            "transfers": 330, 
+            "transfers_pc": 2.22
+        }, 
+        {
+            "counts": [
+                1307, 
+                1410
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Martin Bellew", 
+            "party": "Independent", 
+            "transfers": 103, 
+            "transfers_pc": 0.69
+        }, 
+        {
+            "counts": [
+                473, 
+                502
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Frank Godfrey", 
+            "party": "Independent", 
+            "transfers": 29, 
+            "transfers_pc": 0.2
+        }, 
+        {
+            "counts": [
+                294
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Aidan Mahon", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                239
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Liam \u00d3 Gogain", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                176
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Peter Short", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                79
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Michael Maguire", 
+            "party": "Christian Solidarity"
+        }
+    ], 
+    "counts_held": 8, 
+    "description": "2002 general election", 
+    "election_type": "dail", 
+    "electorate": 81952, 
+    "name": "Louth", 
+    "quota": 9525, 
+    "spoilt": 651, 
+    "turnout": 48274, 
+    "valid": 47623, 
+    "year": 2002
+}

@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7112
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.8, 
+            "full_name": "Denis Allen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6055
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16, 
+            "full_name": "James Ryan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6205
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.4, 
+            "full_name": "Brendan Corish", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5788
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.3, 
+            "full_name": "Se\u00e1n Browne", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5650
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.9, 
+            "full_name": "Anthony Esmonde", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5086
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.4, 
+            "full_name": "John O'Leary", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1236
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.3, 
+            "full_name": "Michael Fardy", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                759
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "Eoin O'Mahony", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1957 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Wexford", 
+    "quota": 6316, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 37891, 
+    "year": 1957
+}

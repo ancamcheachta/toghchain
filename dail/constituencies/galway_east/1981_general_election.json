@@ -1,0 +1,93 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7487, 
+                9287
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.6, 
+            "full_name": "Paul Connaughton, Snr", 
+            "party": "Fine Gael", 
+            "transfers": 1800, 
+            "transfers_pc": 19.37
+        }, 
+        {
+            "counts": [
+                5681, 
+                5890, 
+                5951, 
+                10185
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.2, 
+            "full_name": "Michael P. Kitt", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 4504, 
+            "transfers_pc": 48.46
+        }, 
+        {
+            "counts": [
+                6326, 
+                6441, 
+                6457, 
+                7582, 
+                9370
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.1, 
+            "full_name": "Johnny Callanan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3044, 
+            "transfers_pc": 32.75
+        }, 
+        {
+            "counts": [
+                4301, 
+                5559, 
+                6420, 
+                6709, 
+                6833
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13, 
+            "full_name": "Ulick Burke", 
+            "party": "Fine Gael", 
+            "transfers": 2532, 
+            "transfers_pc": 27.24
+        }, 
+        {
+            "counts": [
+                5502, 
+                5850, 
+                5929
+            ], 
+            "elected": false, 
+            "first_pref_pc": 16.6, 
+            "full_name": "Thomas Hussey", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 427, 
+            "transfers_pc": 4.59
+        }, 
+        {
+            "counts": [
+                3793
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.5, 
+            "full_name": "Joe Burke", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "counts_held": 5, 
+    "description": "1981 general election", 
+    "election_type": "dail", 
+    "electorate": 41666, 
+    "name": "Galway East", 
+    "quota": 8273, 
+    "spoilt": 272, 
+    "turnout": 33362, 
+    "valid": 33090, 
+    "year": 1981
+}

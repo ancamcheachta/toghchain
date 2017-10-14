@@ -1,0 +1,41 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                15884
+            ], 
+            "elected": true, 
+            "first_pref_pc": 49, 
+            "full_name": "James O'Mara", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                13639
+            ], 
+            "elected": false, 
+            "first_pref_pc": 42, 
+            "full_name": "Se\u00e1n Lemass", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                2928
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9, 
+            "full_name": "John O'Neill", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "March 1924 by-election", 
+    "election_type": "dail", 
+    "electorate": 76882, 
+    "name": "Dublin South", 
+    "quota": 16226, 
+    "spoilt": null, 
+    "turnout": 42, 
+    "valid": 32451, 
+    "year": 1924
+}

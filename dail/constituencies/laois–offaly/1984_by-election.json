@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                26022
+            ], 
+            "elected": true, 
+            "first_pref_pc": 54.7, 
+            "full_name": "Brian Cowen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                18173
+            ], 
+            "elected": false, 
+            "first_pref_pc": 38.2, 
+            "full_name": "P\u00e1draig Horan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1737
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "Se\u00e1n O'Brien", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1471
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.09, 
+            "full_name": "Joe McCormack", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                120
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Eoin \u00d3 Murch\u00fa", 
+            "party": "Communist Party"
+        }, 
+        {
+            "counts": [
+                58
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Jim Tallon", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1984 by-election", 
+    "election_type": "dail", 
+    "electorate": 74087, 
+    "name": "Laois\u2013Offaly", 
+    "quota": 23791, 
+    "spoilt": null, 
+    "turnout": 64, 
+    "valid": 47581, 
+    "year": 1984
+}

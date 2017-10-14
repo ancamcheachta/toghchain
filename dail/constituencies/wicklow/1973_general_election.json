@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6960
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.6, 
+            "full_name": "Godfrey Timmins", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3231
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.9, 
+            "full_name": "Liam Kavanagh", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4521
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.3, 
+            "full_name": "Ciar\u00e1n Murphy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4095
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.9, 
+            "full_name": "Jimmy Miley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2858
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.7, 
+            "full_name": "Mary Walsh", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2500
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.5, 
+            "full_name": "Paudge Brennan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2296
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.8, 
+            "full_name": "Basil Phelan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1966
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.7, 
+            "full_name": "Seamus Costello", 
+            "party": "Sinn F\u00e9in (Official)"
+        }, 
+        {
+            "counts": [
+                1094
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "Thomas Byrne", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1973 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Wicklow", 
+    "quota": 7381, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 29521, 
+    "year": 1973
+}

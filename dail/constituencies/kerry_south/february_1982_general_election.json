@@ -1,0 +1,108 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6758, 
+                6770, 
+                8292
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.8, 
+            "full_name": "Michael Begley", 
+            "party": "Fine Gael", 
+            "transfers": 1534, 
+            "transfers_pc": 24.55
+        }, 
+        {
+            "counts": [
+                7510, 
+                7515, 
+                7758, 
+                7764, 
+                8811
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.1, 
+            "full_name": "John O'Leary", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1301, 
+            "transfers_pc": 20.82
+        }, 
+        {
+            "counts": [
+                7038, 
+                7077, 
+                7732, 
+                7877, 
+                8285
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.6, 
+            "full_name": "Michael Moynihan", 
+            "party": "Labour Party", 
+            "transfers": 1247, 
+            "transfers_pc": 19.96
+        }, 
+        {
+            "counts": [
+                4977, 
+                4999, 
+                5100, 
+                5105, 
+                7094
+            ], 
+            "elected": false, 
+            "first_pref_pc": 15.3, 
+            "full_name": "John O'Donoghue", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2117, 
+            "transfers_pc": 33.88
+        }, 
+        {
+            "counts": [
+                3523, 
+                3544, 
+                3582, 
+                3585
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.8, 
+            "full_name": "Tom Fitzgerald", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 62, 
+            "transfers_pc": 0.99
+        }, 
+        {
+            "counts": [
+                2584, 
+                2599
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8, 
+            "full_name": "Michael Connor Scarteen", 
+            "party": "Fine Gael", 
+            "transfers": 15, 
+            "transfers_pc": 0.24
+        }, 
+        {
+            "counts": [
+                141
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Stephen Doyle", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 5, 
+    "description": "February 1982 general election", 
+    "election_type": "dail", 
+    "electorate": 41807, 
+    "name": "Kerry South", 
+    "quota": 8133, 
+    "spoilt": 279, 
+    "turnout": 32810, 
+    "valid": 32531, 
+    "year": 1982
+}

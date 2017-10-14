@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9295
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.4, 
+            "full_name": "Austin Deasy", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6762
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.3, 
+            "full_name": "Jackie Fahey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6419
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.4, 
+            "full_name": "Edward Collins", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6671
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.1, 
+            "full_name": "Paddy Gallagher", 
+            "party": "Sinn F\u00e9in (Workers' Party)"
+        }, 
+        {
+            "counts": [
+                5058
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.2, 
+            "full_name": "Donal Ormonde", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4623
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.1, 
+            "full_name": "Billy Kenneally", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1982
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.8, 
+            "full_name": "Brian O'Shea", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                756
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Vincent O'Toole", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "February 1982 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Waterford", 
+    "quota": 8314, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 41566, 
+    "year": 1982
+}

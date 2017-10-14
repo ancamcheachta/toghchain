@@ -1,0 +1,133 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                14262
+            ], 
+            "elected": true, 
+            "first_pref_pc": 33, 
+            "full_name": "Pearse Doherty", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                8589, 
+                9128, 
+                9287, 
+                10587, 
+                11369
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.9, 
+            "full_name": "Dinny McGinley", 
+            "party": "Fine Gael", 
+            "transfers": 2780, 
+            "transfers_pc": 21.02
+        }, 
+        {
+            "counts": [
+                5845, 
+                7031, 
+                7364, 
+                9139, 
+                10175
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.5, 
+            "full_name": "Thomas Pringle", 
+            "party": "Independent", 
+            "transfers": 4330, 
+            "transfers_pc": 32.74
+        }, 
+        {
+            "counts": [
+                4789, 
+                5147, 
+                5236, 
+                5724, 
+                8834
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.1, 
+            "full_name": "Brian \u00d3 Domhnaill", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 4045, 
+            "transfers_pc": 30.59
+        }, 
+        {
+            "counts": [
+                4956, 
+                5172, 
+                5259, 
+                5655
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.5, 
+            "full_name": "Mary Coughlan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 699, 
+            "transfers_pc": 5.29
+        }, 
+        {
+            "counts": [
+                2209, 
+                2882, 
+                3003
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.1, 
+            "full_name": "Frank McBrearty, Jnr", 
+            "party": "Labour Party", 
+            "transfers": 794, 
+            "transfers_pc": 6
+        }, 
+        {
+            "counts": [
+                1831, 
+                2037, 
+                2141
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.2, 
+            "full_name": "Stephen McCahill", 
+            "party": "Independent", 
+            "transfers": 310, 
+            "transfers_pc": 2.34
+        }, 
+        {
+            "counts": [
+                527, 
+                668
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "John Duffy", 
+            "party": "Green Party", 
+            "transfers": 141, 
+            "transfers_pc": 1.07
+        }, 
+        {
+            "counts": [
+                255, 
+                382
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Anne Sweeney", 
+            "party": "New Vision", 
+            "transfers": 127, 
+            "transfers_pc": 0.96
+        }
+    ], 
+    "counts_held": 5, 
+    "description": "2011 general election", 
+    "election_type": "dail", 
+    "electorate": 64568, 
+    "name": "Donegal South-West", 
+    "quota": 10816, 
+    "spoilt": 332, 
+    "turnout": 43595, 
+    "valid": 43263, 
+    "year": 2011
+}

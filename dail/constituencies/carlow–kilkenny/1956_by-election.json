@@ -1,0 +1,41 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                23782
+            ], 
+            "elected": true, 
+            "first_pref_pc": 57.8, 
+            "full_name": "Martin Medlar", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                11752
+            ], 
+            "elected": false, 
+            "first_pref_pc": 28.6, 
+            "full_name": "Thomas Fielding", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5617
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.7, 
+            "full_name": "Herbert Devoy", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1956 by-election", 
+    "election_type": "dail", 
+    "electorate": 58216, 
+    "name": "Carlow\u2013Kilkenny", 
+    "quota": 20576, 
+    "spoilt": null, 
+    "turnout": 70, 
+    "valid": 41151, 
+    "year": 1956
+}

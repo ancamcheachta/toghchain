@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                5122
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.4, 
+            "full_name": "Joseph Mongan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6078
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.2, 
+            "full_name": "Gerald Bartley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4790
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.1, 
+            "full_name": "Michael Lydon", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4267
+            ], 
+            "elected": false, 
+            "first_pref_pc": 17, 
+            "full_name": "John J. Keane", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3054
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.2, 
+            "full_name": "Margaret Ashe", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1813
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.2, 
+            "full_name": "Brendan Allen", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1944 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Galway West", 
+    "quota": 6282, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 25124, 
+    "year": 1944
+}

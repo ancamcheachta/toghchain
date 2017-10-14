@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9521
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.8, 
+            "full_name": "Ray MacSharry", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6483
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.2, 
+            "full_name": "Ted Nealon", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6913
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.1, 
+            "full_name": "Matt Brennan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7140
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.6, 
+            "full_name": "John Ellis", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5071
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.1, 
+            "full_name": "Joe McCartin", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2627
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.8, 
+            "full_name": "John Joe McGirl", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                2606
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.7, 
+            "full_name": "Tommy Lavin", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2584
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.7, 
+            "full_name": "Declan Bree", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2521
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.5, 
+            "full_name": "Frank Dobbs", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                240
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Noel Gorman", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1987 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Sligo\u2013Leitrim", 
+    "quota": 9142, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 45706, 
+    "year": 1987
+}

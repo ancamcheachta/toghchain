@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8656
+            ], 
+            "elected": true, 
+            "first_pref_pc": 30.6, 
+            "full_name": "John O'Leary", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6490
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.9, 
+            "full_name": "Timothy O'Connor", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4564
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.1, 
+            "full_name": "Michael Begley", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3891
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.8, 
+            "full_name": "Patrick Connor", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2652
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.4, 
+            "full_name": "Tadhg O'Sullivan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2038
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.2, 
+            "full_name": "Daniel Barry", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1969 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Kerry South", 
+    "quota": 7073, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 28291, 
+    "year": 1969
+}

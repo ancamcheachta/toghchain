@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6062
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.9, 
+            "full_name": "Michael P. Kitt", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6339
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.8, 
+            "full_name": "Paul Connaughton, Snr", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5834
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.1, 
+            "full_name": "Noel Treacy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3882
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.4, 
+            "full_name": "Joe Burke", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                2864
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.9, 
+            "full_name": "Michael Mullins", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2198
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.6, 
+            "full_name": "Patrick Finnegan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1586
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.5, 
+            "full_name": "Pat Hynes", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                306
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "Dermot Connolly", 
+            "party": "Sinn F\u00e9in"
+        }
+    ], 
+    "description": "1992 general election", 
+    "election_type": "dail", 
+    "electorate": 42672, 
+    "name": "Galway East", 
+    "quota": 7268, 
+    "spoilt": 463, 
+    "turnout": 29534, 
+    "valid": 29071, 
+    "year": 1992
+}

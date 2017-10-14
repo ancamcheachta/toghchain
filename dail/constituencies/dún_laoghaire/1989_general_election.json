@@ -1,0 +1,131 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9987
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19, 
+            "full_name": "David Andrews", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6723
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.8, 
+            "full_name": "Eamon Gilmore", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                6941
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.2, 
+            "full_name": "Se\u00e1n Barrett", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4792
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.1, 
+            "full_name": "Monica Barnes", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3795
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.2, 
+            "full_name": "Brian Hillery", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5453
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.4, 
+            "full_name": "Liam T. Cosgrave", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4713
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9, 
+            "full_name": "Geraldine Kennedy", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                3333
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.4, 
+            "full_name": "Betty Coffey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2683
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.1, 
+            "full_name": "Patricia Griffin", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                1760
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.4, 
+            "full_name": "Flor O'Mahony", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1228
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.3, 
+            "full_name": "Jane Dillon Byrne", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                938
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Kevin Fitzpatrick", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                110
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Ann McGoldrick", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1989 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "D\u00fan Laoghaire", 
+    "quota": 8743, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 52456, 
+    "year": 1989
+}

@@ -1,0 +1,122 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9457
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.9, 
+            "full_name": "John Browne", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7551
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.3, 
+            "full_name": "Hugh Byrne", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6018
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.4, 
+            "full_name": "Ivan Yates", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5518
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.4, 
+            "full_name": "Avril Doyle", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5086
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.6, 
+            "full_name": "Brendan Howlin", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6225
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.76, 
+            "full_name": "Lorcan Allen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5247
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.9, 
+            "full_name": "Michael D'Arcy", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2630
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5, 
+            "full_name": "Eoin Minihan", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                2078
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.9, 
+            "full_name": "Gerald Doyle", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                1829
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.5, 
+            "full_name": "Padge Reck", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1250
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.4, 
+            "full_name": "Michael Enright", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                33
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Jim Tallon", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1987 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Wexford", 
+    "quota": 8821, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 52922, 
+    "year": 1987
+}

@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6810
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.6, 
+            "full_name": "Bridget Redmond", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6236
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18, 
+            "full_name": "Patrick Little", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5645
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.3, 
+            "full_name": "John Ormonde", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6066
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.5, 
+            "full_name": "Thomas Kyne", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3750
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.8, 
+            "full_name": "Denis Heskin", 
+            "party": "Clann na Talmhan"
+        }, 
+        {
+            "counts": [
+                2285
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.6, 
+            "full_name": "Daniel Leahy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1582
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.6, 
+            "full_name": "Ruair\u00ed Brugha", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                1223
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.5, 
+            "full_name": "Nicholas Sheehan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1098
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.2, 
+            "full_name": "Edward Dawson", 
+            "party": "Clann na Poblachta"
+        }
+    ], 
+    "description": "1948 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Waterford", 
+    "quota": 6940, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 34695, 
+    "year": 1948
+}

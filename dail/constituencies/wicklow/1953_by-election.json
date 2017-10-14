@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6433
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.1, 
+            "full_name": "Mark Deering", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7788
+            ], 
+            "elected": false, 
+            "first_pref_pc": 27.9, 
+            "full_name": "Paudge Brennan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6915
+            ], 
+            "elected": false, 
+            "first_pref_pc": 24.8, 
+            "full_name": "James J. McCrea", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2568
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.2, 
+            "full_name": "William Clarke", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                2164
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.8, 
+            "full_name": "William Lawless", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2029
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.3, 
+            "full_name": "Elizabeth Bobbett", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1953 by-election", 
+    "election_type": "dail", 
+    "electorate": 37470, 
+    "name": "Wicklow", 
+    "quota": 13949, 
+    "spoilt": null, 
+    "turnout": 74, 
+    "valid": 27897, 
+    "year": 1953
+}

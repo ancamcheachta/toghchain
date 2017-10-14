@@ -1,0 +1,194 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                18572, 
+                18713, 
+                18845, 
+                19223, 
+                19480, 
+                19898, 
+                20950, 
+                22826, 
+                26529
+            ], 
+            "elected": true, 
+            "first_pref_pc": 27.8, 
+            "full_name": "Bobby Aylward", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 7957, 
+            "transfers_pc": 23.05
+        }, 
+        {
+            "counts": [
+                13744, 
+                13826, 
+                13895, 
+                14174, 
+                14289, 
+                15058, 
+                16612, 
+                18875, 
+                21632
+            ], 
+            "elected": false, 
+            "first_pref_pc": 20.6, 
+            "full_name": "David Fitzgerald", 
+            "party": "Fine Gael", 
+            "transfers": 7888, 
+            "transfers_pc": 22.85
+        }, 
+        {
+            "counts": [
+                10806, 
+                11006, 
+                11501, 
+                11974, 
+                13113, 
+                13879, 
+                14632, 
+                16437
+            ], 
+            "elected": false, 
+            "first_pref_pc": 16.2, 
+            "full_name": "Kathleen Funchion", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 5631, 
+            "transfers_pc": 16.31
+        }, 
+        {
+            "counts": [
+                6365, 
+                6530, 
+                6736, 
+                7225, 
+                7678, 
+                8532, 
+                9269
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.5, 
+            "full_name": "Patrick McKee", 
+            "party": "Renua Ireland", 
+            "transfers": 2904, 
+            "transfers_pc": 8.41
+        }, 
+        {
+            "counts": [
+                4673, 
+                4803, 
+                4853, 
+                4954, 
+                5252, 
+                5775
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7, 
+            "full_name": "Willie Quinn", 
+            "party": "Labour Party", 
+            "transfers": 1102, 
+            "transfers_pc": 3.19
+        }, 
+        {
+            "counts": [
+                3549, 
+                3651, 
+                3836, 
+                4257, 
+                4528
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.3, 
+            "full_name": "Malcolm Noonan", 
+            "party": "Green Party", 
+            "transfers": 979, 
+            "transfers_pc": 2.84
+        }, 
+        {
+            "counts": [
+                2377, 
+                2644, 
+                3256, 
+                3640
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.6, 
+            "full_name": "Adrienne Wallace", 
+            "party": "People Before Profit", 
+            "transfers": 1263, 
+            "transfers_pc": 3.66
+        }, 
+        {
+            "counts": [
+                2792, 
+                3016, 
+                3226
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.2, 
+            "full_name": "Breda Gardner", 
+            "party": "Independent", 
+            "transfers": 434, 
+            "transfers_pc": 1.26
+        }, 
+        {
+            "counts": [
+                2194, 
+                2296
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.3, 
+            "full_name": "Conor MacLiam", 
+            "party": "Anti-Austerity Alliance", 
+            "transfers": 102, 
+            "transfers_pc": 0.3
+        }, 
+        {
+            "counts": [
+                930
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "Peter O'Loughlin", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                374
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Daith\u00ed Holohan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                243
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Noel Walsh", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                215
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Elizabeth Hourihane", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 9, 
+    "description": "2015 by-election", 
+    "election_type": "dail", 
+    "electorate": 105449, 
+    "name": "Carlow\u2013Kilkenny", 
+    "quota": 33418, 
+    "spoilt": 2066, 
+    "turnout": 68900, 
+    "valid": 66834, 
+    "year": 2015
+}

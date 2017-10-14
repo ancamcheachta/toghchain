@@ -1,0 +1,145 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9258, 
+                9317, 
+                9390, 
+                9662, 
+                10771
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.2, 
+            "full_name": "Eamon Scanlon", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1513, 
+            "transfers_pc": 14.1
+        }, 
+        {
+            "counts": [
+                7910, 
+                7952, 
+                8086, 
+                9493, 
+                10363
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.8, 
+            "full_name": "John Perry", 
+            "party": "Fine Gael", 
+            "transfers": 2453, 
+            "transfers_pc": 22.87
+        }, 
+        {
+            "counts": [
+                7102, 
+                7168, 
+                7288, 
+                7904, 
+                9187
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.8, 
+            "full_name": "Jimmy Devins", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2085, 
+            "transfers_pc": 19.44
+        }, 
+        {
+            "counts": [
+                4936, 
+                5016, 
+                5171, 
+                6732, 
+                7757
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.4, 
+            "full_name": "Michael Comiskey", 
+            "party": "Fine Gael", 
+            "transfers": 2821, 
+            "transfers_pc": 26.3
+        }, 
+        {
+            "counts": [
+                4684, 
+                4784, 
+                5075, 
+                5769
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.7, 
+            "full_name": "Se\u00e1n MacManus", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 1085, 
+            "transfers_pc": 10.11
+        }, 
+        {
+            "counts": [
+                2837, 
+                2863, 
+                2987
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.1, 
+            "full_name": "Imelda Henry", 
+            "party": "Fine Gael", 
+            "transfers": 150, 
+            "transfers_pc": 1.4
+        }, 
+        {
+            "counts": [
+                1555, 
+                1571, 
+                1829
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.9, 
+            "full_name": "Jim McGarry", 
+            "party": "Labour Party", 
+            "transfers": 274, 
+            "transfers_pc": 2.55
+        }, 
+        {
+            "counts": [
+                1209, 
+                1240
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "Brian Scanlon", 
+            "party": "Green Party", 
+            "transfers": 31, 
+            "transfers_pc": 0.29
+        }, 
+        {
+            "counts": [
+                353
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.9, 
+            "full_name": "Andy McSharry", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                89
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "John Higgins", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 5, 
+    "description": "2007 general election", 
+    "election_type": "dail", 
+    "electorate": 57517, 
+    "name": "Sligo\u2013North Leitrim", 
+    "quota": 9984, 
+    "spoilt": 396, 
+    "turnout": 40330, 
+    "valid": 39934, 
+    "year": 2007
+}

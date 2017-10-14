@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6300
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.8, 
+            "full_name": "Toddy O'Sullivan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                7791
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.5, 
+            "full_name": "Peter Barry", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5527
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.3, 
+            "full_name": "Pearse Wyse", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                6564
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.2, 
+            "full_name": "Miche\u00e1l Martin", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5586
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.4, 
+            "full_name": "John Dennehy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6012
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.2, 
+            "full_name": "Batt O'Keeffe", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5899
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11, 
+            "full_name": "Jim Corr", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4457
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.3, 
+            "full_name": "Kathleen Lynch", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                3652
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.8, 
+            "full_name": "Barry Cogan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1679
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.1, 
+            "full_name": "John Coleman", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                150
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "William Fitzsimon", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1989 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Cork South-Central", 
+    "quota": 8937, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 53617, 
+    "year": 1989
+}

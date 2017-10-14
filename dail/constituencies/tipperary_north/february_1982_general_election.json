@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7763
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.5, 
+            "full_name": "John Ryan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6602
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.8, 
+            "full_name": "David Molony", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7126
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.5, 
+            "full_name": "Michael O'Kennedy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6182
+            ], 
+            "elected": false, 
+            "first_pref_pc": 19.5, 
+            "full_name": "Michael Smith", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2278
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.2, 
+            "full_name": "Jane Hanafin", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1583
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5, 
+            "full_name": "Tom Berkery", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                175
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Peter Treacy", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "February 1982 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Tipperary North", 
+    "quota": 7928, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 31709, 
+    "year": 1982
+}

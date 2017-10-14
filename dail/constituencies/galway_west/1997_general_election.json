@@ -1,0 +1,140 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9321
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.3, 
+            "full_name": "Frank Fahey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8250
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.1, 
+            "full_name": "\u00c9amon \u00d3 Cu\u00edv", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7221
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15, 
+            "full_name": "P\u00e1draic McCormack", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4856
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.1, 
+            "full_name": "Michael D. Higgins", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5914
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.3, 
+            "full_name": "Bobby Molloy", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                2941
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.1, 
+            "full_name": "Margaret Cox", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1807
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.8, 
+            "full_name": "P\u00f3l \u00d3 Foighil", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1660
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.4, 
+            "full_name": "Pat Fitzpatrick", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                1639
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.4, 
+            "full_name": "Se\u00e1n \u00d3 Neachtain", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1682
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.5, 
+            "full_name": "Thomas O'Malley", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1209
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.5, 
+            "full_name": "Mike Egan", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                959
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "Liam Downes", 
+            "party": "National Party"
+        }, 
+        {
+            "counts": [
+                548
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "Luke 'Ming' Flanagan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                205
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Maria N\u00ed Dhomhnaill", 
+            "party": "Natural Law"
+        }
+    ], 
+    "description": "1997 general election", 
+    "election_type": "dail", 
+    "electorate": 78064, 
+    "name": "Galway West", 
+    "quota": 8036, 
+    "spoilt": 400, 
+    "turnout": 48612, 
+    "valid": 48212, 
+    "year": 1997
+}

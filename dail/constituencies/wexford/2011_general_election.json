@@ -1,0 +1,209 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                13329
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.6, 
+            "full_name": "Mick Wallace", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                11005, 
+                11166, 
+                11662, 
+                14514
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.6, 
+            "full_name": "Brendan Howlin", 
+            "party": "Labour Party", 
+            "transfers": 3509, 
+            "transfers_pc": 18.91
+        }, 
+        {
+            "counts": [
+                7352, 
+                7394, 
+                7470, 
+                7749, 
+                8175, 
+                8400, 
+                12757
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.7, 
+            "full_name": "John Browne", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 5405, 
+            "transfers_pc": 29.12
+        }, 
+        {
+            "counts": [
+                9230, 
+                9349, 
+                9525, 
+                9693, 
+                10453, 
+                10874, 
+                11596
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.2, 
+            "full_name": "Liam Twomey", 
+            "party": "Fine Gael", 
+            "transfers": 2366, 
+            "transfers_pc": 12.75
+        }, 
+        {
+            "counts": [
+                8386, 
+                8459, 
+                8627, 
+                9125, 
+                9674, 
+                10256, 
+                11046
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.1, 
+            "full_name": "Paul Kehoe", 
+            "party": "Fine Gael", 
+            "transfers": 2660, 
+            "transfers_pc": 14.33
+        }, 
+        {
+            "counts": [
+                8418, 
+                8466, 
+                8595, 
+                8960, 
+                9492, 
+                9986, 
+                10410
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.1, 
+            "full_name": "Michael W. D'Arcy", 
+            "party": "Fine Gael", 
+            "transfers": 1992, 
+            "transfers_pc": 10.73
+        }, 
+        {
+            "counts": [
+                6675, 
+                6744, 
+                7014, 
+                7144, 
+                7396, 
+                7515
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.8, 
+            "full_name": "Se\u00e1n Connick", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 840, 
+            "transfers_pc": 4.53
+        }, 
+        {
+            "counts": [
+                4353, 
+                4422, 
+                4901, 
+                5181
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.8, 
+            "full_name": "Anthony Kelly", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 828, 
+            "transfers_pc": 4.46
+        }, 
+        {
+            "counts": [
+                4457, 
+                4505, 
+                4752
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.9, 
+            "full_name": "Pat Cody", 
+            "party": "Labour Party", 
+            "transfers": 295, 
+            "transfers_pc": 1.59
+        }, 
+        {
+            "counts": [
+                908, 
+                943
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "John Dwyer", 
+            "party": "Independent", 
+            "transfers": 35, 
+            "transfers_pc": 0.19
+        }, 
+        {
+            "counts": [
+                741, 
+                778
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "[36]", 
+            "party": "People Before Profit", 
+            "transfers": 37, 
+            "transfers_pc": 0.2
+        }, 
+        {
+            "counts": [
+                391, 
+                399
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Danny Forde", 
+            "party": "Green Party", 
+            "transfers": 8, 
+            "transfers_pc": 0.04
+        }, 
+        {
+            "counts": [
+                175, 
+                195
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Siobh\u00e1n Roseingrave", 
+            "party": "Independent", 
+            "transfers": 20, 
+            "transfers_pc": 0.11
+        }, 
+        {
+            "counts": [
+                119, 
+                129
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Ruair\u00ed de Valera", 
+            "party": "Independent", 
+            "transfers": 10, 
+            "transfers_pc": 0.05
+        }
+    ], 
+    "counts_held": 7, 
+    "description": "2011 general election", 
+    "election_type": "dail", 
+    "electorate": 111063, 
+    "name": "Wexford", 
+    "quota": 12590, 
+    "spoilt": 812, 
+    "turnout": 76351, 
+    "valid": 75539, 
+    "year": 2011
+}

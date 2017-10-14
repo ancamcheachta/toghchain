@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9658
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.8, 
+            "full_name": "Willie O'Dea", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                9168
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.8, 
+            "full_name": "Jim Kemmy", 
+            "party": "Democratic Socialist Party"
+        }, 
+        {
+            "counts": [
+                8385
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.1, 
+            "full_name": "Desmond O'Malley", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                5805
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.5, 
+            "full_name": "Michael Noonan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4233
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.1, 
+            "full_name": "Peadar Clohessy", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                3073
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.6, 
+            "full_name": "Eddie Wade", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2715
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.9, 
+            "full_name": "Mary Jackman", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2298
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5, 
+            "full_name": "Anthony Brommel", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1006
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.2, 
+            "full_name": "Declan Leddin", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1989 general election", 
+    "election_type": "dail", 
+    "electorate": 66471, 
+    "name": "Limerick East", 
+    "quota": 7724, 
+    "spoilt": 499, 
+    "turnout": 46840, 
+    "valid": 46341, 
+    "year": 1989
+}

@@ -1,0 +1,167 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9216
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.5, 
+            "full_name": "Bobby Molloy", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                6488
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.3, 
+            "full_name": "Frank Fahey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4476
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.5, 
+            "full_name": "John Donnellan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3878
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.4, 
+            "full_name": "Michael D. Higgins", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4607
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.7, 
+            "full_name": "M\u00e1ire Geoghegan-Quinn", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5053
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.6, 
+            "full_name": "Mark Killilea, Jnr", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4206
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8, 
+            "full_name": "Fintan Coogan, Jnr", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3831
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.3, 
+            "full_name": "\u00c9amon \u00d3 Cu\u00edv", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3139
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6, 
+            "full_name": "Michael Fahy", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2144
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.1, 
+            "full_name": "Michael O'Neill", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                1724
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.3, 
+            "full_name": "Peadar \u00d3 Tuathail", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1567
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.97, 
+            "full_name": "James Brick", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                918
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.74, 
+            "full_name": "John O'Malley", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                862
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "Mary Duffy", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                511
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Margaret Sweeney", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                101
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Brian Mannion", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                41
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Dermot Shanley", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1987 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Galway West", 
+    "quota": 8794, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 52762, 
+    "year": 1987
+}

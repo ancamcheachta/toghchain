@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                12627
+            ], 
+            "elected": true, 
+            "first_pref_pc": 45.3, 
+            "full_name": "M\u00e1ire Geoghegan-Quinn", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7234
+            ], 
+            "elected": false, 
+            "first_pref_pc": 26, 
+            "full_name": "John Mannion, Jnr", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5269
+            ], 
+            "elected": false, 
+            "first_pref_pc": 18.9, 
+            "full_name": "Michael D. Higgins", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2096
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.5, 
+            "full_name": "P\u00f3l \u00d3 Foighil", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                656
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.4, 
+            "full_name": "Renee Prendergast", 
+            "party": "Sinn F\u00e9in (Official)"
+        }
+    ], 
+    "description": "1975 by-election", 
+    "election_type": "dail", 
+    "electorate": 44350, 
+    "name": "Galway West", 
+    "quota": 13942, 
+    "spoilt": null, 
+    "turnout": 62, 
+    "valid": 27882, 
+    "year": 1975
+}

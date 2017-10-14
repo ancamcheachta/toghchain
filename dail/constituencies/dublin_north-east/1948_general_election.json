@@ -1,0 +1,149 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                13066
+            ], 
+            "elected": true, 
+            "first_pref_pc": 29.3, 
+            "full_name": "Alfie Byrne", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                11808
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26.5, 
+            "full_name": "Oscar Traynor", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1869
+            ], 
+            "elected": true, 
+            "first_pref_pc": 4.2, 
+            "full_name": "Harry Colley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4692
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.5, 
+            "full_name": "Peadar Cowan", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                3529
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.9, 
+            "full_name": "Jack Belton", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2286
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.1, 
+            "full_name": "James Trainor", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1419
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.2, 
+            "full_name": "Kathleen Clarke", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                1034
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.3, 
+            "full_name": "John Phelan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1009
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.3, 
+            "full_name": "Archibald Heron", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                995
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.2, 
+            "full_name": "John Smithers", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                832
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.9, 
+            "full_name": "Eugene Timmons", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                815
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Daniel Sheridan", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                476
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "Frank Robbins", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                440
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Se\u00e1n O'Moore", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                297
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "James Sweetman", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1948 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin North-East", 
+    "quota": 7428, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 44567, 
+    "year": 1948
+}

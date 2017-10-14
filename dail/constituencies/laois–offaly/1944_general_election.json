@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9856
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22, 
+            "full_name": "Oliver J. Flanagan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                7831
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.4, 
+            "full_name": "Patrick Boland", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6354
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.2, 
+            "full_name": "Thomas F. O'Higgins", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4439
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.9, 
+            "full_name": "Patrick Gorry", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4426
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.9, 
+            "full_name": "William Davin", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3929
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.8, 
+            "full_name": "George Connell", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3047
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.8, 
+            "full_name": "Patrick Bermingham", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2100
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.7, 
+            "full_name": "Michael Collier", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1378
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.1, 
+            "full_name": "James Clarke", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1233
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "Richard Hipwell", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                305
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "Patrick Kavanagh", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1944 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Laois\u2013Offaly", 
+    "quota": 7484, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 44898, 
+    "year": 1944
+}

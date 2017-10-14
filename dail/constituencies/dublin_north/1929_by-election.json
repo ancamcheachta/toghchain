@@ -1,0 +1,32 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                28445
+            ], 
+            "elected": true, 
+            "first_pref_pc": 50.1, 
+            "full_name": "Thomas F. O'Higgins", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                28294
+            ], 
+            "elected": false, 
+            "first_pref_pc": 49.9, 
+            "full_name": "Oscar Traynor", 
+            "party": "Fianna F\u00e1il"
+        }
+    ], 
+    "description": "1929 by-election", 
+    "election_type": "dail", 
+    "electorate": 96748, 
+    "name": "Dublin North", 
+    "quota": 28370, 
+    "spoilt": null, 
+    "turnout": 58, 
+    "valid": 56739, 
+    "year": 1929
+}

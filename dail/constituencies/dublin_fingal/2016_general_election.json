@@ -1,0 +1,252 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10826
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.9, 
+            "full_name": "Darragh O'Brien", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                9480, 
+                9552, 
+                9827, 
+                10566
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.7, 
+            "full_name": "Clare Daly", 
+            "party": "Independents 4 Change", 
+            "transfers": 1086, 
+            "transfers_pc": 6.23
+        }, 
+        {
+            "counts": [
+                7514, 
+                7563, 
+                7627, 
+                7664, 
+                7672, 
+                8082, 
+                8244, 
+                8709, 
+                8969, 
+                9965
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.4, 
+            "full_name": "Alan Farrell", 
+            "party": "Fine Gael", 
+            "transfers": 2451, 
+            "transfers_pc": 14.07
+        }, 
+        {
+            "counts": [
+                6009, 
+                6054, 
+                6125, 
+                6193, 
+                6210, 
+                6358, 
+                6800, 
+                7794, 
+                8424, 
+                9406
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10, 
+            "full_name": "Brendan Ryan", 
+            "party": "Labour Party", 
+            "transfers": 3397, 
+            "transfers_pc": 19.49
+        }, 
+        {
+            "counts": [
+                5228, 
+                5246, 
+                5314, 
+                5621, 
+                5719, 
+                5858, 
+                6193, 
+                6465, 
+                7911, 
+                8771
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.7, 
+            "full_name": "Louise O'Reilly", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 3543, 
+            "transfers_pc": 20.33
+        }, 
+        {
+            "counts": [
+                4666, 
+                4699, 
+                4735, 
+                4767, 
+                4769, 
+                4955, 
+                5259, 
+                5549, 
+                5756, 
+                6215
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.7, 
+            "full_name": "James Reilly", 
+            "party": "Fine Gael", 
+            "transfers": 1549, 
+            "transfers_pc": 8.89
+        }, 
+        {
+            "counts": [
+                3359, 
+                3788, 
+                3871, 
+                3937, 
+                3953, 
+                4339, 
+                4705, 
+                5099, 
+                5595
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.6, 
+            "full_name": "Lorraine Clifford Lee", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2236, 
+            "transfers_pc": 12.83
+        }, 
+        {
+            "counts": [
+                2412, 
+                2424, 
+                2694, 
+                3126, 
+                3404, 
+                3649, 
+                4298, 
+                5077
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4, 
+            "full_name": "Barry Martin", 
+            "party": "Independents 4 Change", 
+            "transfers": 2665, 
+            "transfers_pc": 15.29
+        }, 
+        {
+            "counts": [
+                2783, 
+                2802, 
+                2964, 
+                3105, 
+                3125, 
+                3430, 
+                3758
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.6, 
+            "full_name": "Joe O'Brien", 
+            "party": "Green Party", 
+            "transfers": 975, 
+            "transfers_pc": 5.6
+        }, 
+        {
+            "counts": [
+                2503, 
+                2520, 
+                2679, 
+                2863, 
+                2896, 
+                3104
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.1, 
+            "full_name": "Tony Murphy", 
+            "party": "Independent Alliance", 
+            "transfers": 601, 
+            "transfers_pc": 3.45
+        }, 
+        {
+            "counts": [
+                2091, 
+                2139, 
+                2219, 
+                2326, 
+                2355
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.5, 
+            "full_name": "Gerry Molloy", 
+            "party": "Renua Ireland", 
+            "transfers": 264, 
+            "transfers_pc": 1.51
+        }, 
+        {
+            "counts": [
+                2067, 
+                2076, 
+                2210
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.4, 
+            "full_name": "Terry Kelleher", 
+            "party": "AAA\u2013PBP", 
+            "transfers": 143, 
+            "transfers_pc": 0.82
+        }, 
+        {
+            "counts": [
+                772, 
+                775
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.3, 
+            "full_name": "Roslyn Fuller", 
+            "party": "Independent", 
+            "transfers": 3, 
+            "transfers_pc": 0.02
+        }, 
+        {
+            "counts": [
+                627, 
+                633
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Marcus de Brun", 
+            "party": "Independent", 
+            "transfers": 6, 
+            "transfers_pc": 0.03
+        }, 
+        {
+            "counts": [
+                51, 
+                52
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Fergal O'Connell", 
+            "party": "Independent", 
+            "transfers": 1, 
+            "transfers_pc": 0.01
+        }
+    ], 
+    "counts_held": 10, 
+    "description": "2016 general election", 
+    "election_type": "dail", 
+    "electorate": 93486, 
+    "name": "Dublin Fingal", 
+    "quota": 10065, 
+    "spoilt": 462, 
+    "turnout": 65, 
+    "valid": 60388, 
+    "year": 2016
+}

@@ -1,0 +1,76 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                13626
+            ], 
+            "elected": true, 
+            "first_pref_pc": 35.1, 
+            "full_name": "Se\u00e1n Fleming", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8242, 
+                9562, 
+                10092
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.2, 
+            "full_name": "Brian Stanley", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 1850, 
+            "transfers_pc": 47.34
+        }, 
+        {
+            "counts": [
+                8370, 
+                9298, 
+                9525
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.5, 
+            "full_name": "Charles Flanagan", 
+            "party": "Fine Gael", 
+            "transfers": 1155, 
+            "transfers_pc": 29.55
+        }, 
+        {
+            "counts": [
+                4233, 
+                4735, 
+                5140
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.9, 
+            "full_name": "Thomasina Connell", 
+            "party": "Fine Gael", 
+            "transfers": 907, 
+            "transfers_pc": 23.21
+        }, 
+        {
+            "counts": [
+                2856, 
+                3394, 
+                3896
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.3, 
+            "full_name": "John Whelan", 
+            "party": "Labour Party", 
+            "transfers": 1040, 
+            "transfers_pc": 26.61
+        }
+    ], 
+    "counts_held": 3, 
+    "description": "2016 general election", 
+    "election_type": "dail", 
+    "electorate": 63295, 
+    "name": "Laois", 
+    "quota": 9718, 
+    "spoilt": 352, 
+    "turnout": 61, 
+    "valid": 38868, 
+    "year": 2016
+}

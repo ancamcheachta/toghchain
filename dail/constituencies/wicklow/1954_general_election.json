@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7527
+            ], 
+            "elected": true, 
+            "first_pref_pc": 27.8, 
+            "full_name": "Mark Deering", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7115
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26.3, 
+            "full_name": "James Everett", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5741
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.2, 
+            "full_name": "Paudge Brennan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3053
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.3, 
+            "full_name": "Patrick Cogan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2046
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.6, 
+            "full_name": "Mary Ledwidge", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1581
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.8, 
+            "full_name": "Brendan Donnelly", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1954 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Wicklow", 
+    "quota": 6766, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 27063, 
+    "year": 1954
+}

@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8242
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.8, 
+            "full_name": "Joe McCartin", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6682
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.4, 
+            "full_name": "Ted Nealon", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                8167
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.6, 
+            "full_name": "Matt Brennan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7897
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17, 
+            "full_name": "Ray MacSharry", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8552
+            ], 
+            "elected": false, 
+            "first_pref_pc": 18.4, 
+            "full_name": "John Ellis", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4317
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.3, 
+            "full_name": "Tommy Lavin", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1832
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4, 
+            "full_name": "Declan Bree", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                562
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "James Finan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                180
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Noel Gorman", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "November 1982 general election", 
+    "election_type": "dail", 
+    "electorate": 59268, 
+    "name": "Sligo\u2013Leitrim", 
+    "quota": 9287, 
+    "spoilt": null, 
+    "turnout": 78, 
+    "valid": 46431, 
+    "year": 1982
+}

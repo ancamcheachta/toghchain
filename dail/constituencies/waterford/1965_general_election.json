@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7444
+            ], 
+            "elected": true, 
+            "first_pref_pc": 27.4, 
+            "full_name": "Billy Kenneally", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6694
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.6, 
+            "full_name": "Thomas Kyne", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5380
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.8, 
+            "full_name": "Thaddeus Lynch", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5652
+            ], 
+            "elected": false, 
+            "first_pref_pc": 20.8, 
+            "full_name": "John Ormonde", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2033
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.5, 
+            "full_name": "Richard Walsh", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1965 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Waterford", 
+    "quota": 6801, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 27203, 
+    "year": 1965
+}

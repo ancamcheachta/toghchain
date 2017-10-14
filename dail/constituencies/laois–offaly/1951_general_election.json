@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                11034
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.6, 
+            "full_name": "Oliver J. Flanagan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                7541
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.1, 
+            "full_name": "Tom O'Higgins, Jnr", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5675
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.1, 
+            "full_name": "Patrick Boland", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3882
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.3, 
+            "full_name": "William Davin", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5367
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.5, 
+            "full_name": "Peadar Maher", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3534
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.6, 
+            "full_name": "Daniel Hogan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3404
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.3, 
+            "full_name": "Nicholas Egan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2968
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.4, 
+            "full_name": "Patrick Gorry", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2127
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.6, 
+            "full_name": "Redmond Kerin", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1229
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "James Flanagan", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1951 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Laois\u2013Offaly", 
+    "quota": 7794, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 46761, 
+    "year": 1951
+}

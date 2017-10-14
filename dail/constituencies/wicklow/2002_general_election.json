@@ -1,0 +1,251 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9213
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.9, 
+            "full_name": "Dick Roche", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7595, 
+                7612, 
+                7636, 
+                7693, 
+                7901, 
+                8120, 
+                8310, 
+                10520
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.9, 
+            "full_name": "Liz McManus", 
+            "party": "Labour Party", 
+            "transfers": 2925, 
+            "transfers_pc": 29.82
+        }, 
+        {
+            "counts": [
+                7372, 
+                7377, 
+                7388, 
+                7398, 
+                7466, 
+                8396, 
+                8476, 
+                9110
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.5, 
+            "full_name": "Billy Timmins", 
+            "party": "Fine Gael", 
+            "transfers": 1738, 
+            "transfers_pc": 17.72
+        }, 
+        {
+            "counts": [
+                7836, 
+                7899, 
+                7913, 
+                7926, 
+                8045, 
+                8073, 
+                8306, 
+                8969, 
+                9125
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.4, 
+            "full_name": "Joe Jacob", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1289, 
+            "transfers_pc": 13.14
+        }, 
+        {
+            "counts": [
+                6324, 
+                6342, 
+                6364, 
+                6410, 
+                6642, 
+                6726, 
+                6975, 
+                8247, 
+                8669, 
+                8688
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.6, 
+            "full_name": "Mildred Fox", 
+            "party": "Independent", 
+            "transfers": 2364, 
+            "transfers_pc": 24.1
+        }, 
+        {
+            "counts": [
+                6529, 
+                6532, 
+                6536, 
+                6555, 
+                6662, 
+                6691, 
+                6910, 
+                7809, 
+                8657, 
+                8669
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12, 
+            "full_name": "Nicky Kelly", 
+            "party": "Labour Party", 
+            "transfers": 2140, 
+            "transfers_pc": 21.81
+        }, 
+        {
+            "counts": [
+                3208, 
+                3212, 
+                3240, 
+                3277, 
+                3500, 
+                3561, 
+                4026
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.9, 
+            "full_name": "D\u00e9irdre de B\u00farca", 
+            "party": "Green Party", 
+            "transfers": 818, 
+            "transfers_pc": 8.34
+        }, 
+        {
+            "counts": [
+                2029, 
+                2031, 
+                2032, 
+                2032, 
+                2128, 
+                2148, 
+                2188
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "Jimmy O'Shaughnessy", 
+            "party": "Labour Party", 
+            "transfers": 159, 
+            "transfers_pc": 1.62
+        }, 
+        {
+            "counts": [
+                1527, 
+                1530, 
+                1536, 
+                1546, 
+                1649, 
+                1659
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "Mair\u00e9ad Keane", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 132, 
+            "transfers_pc": 1.35
+        }, 
+        {
+            "counts": [
+                1332, 
+                1333, 
+                1353, 
+                1372, 
+                1397
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.4, 
+            "full_name": "Raymond O'Rourke", 
+            "party": "Fine Gael", 
+            "transfers": 65, 
+            "transfers_pc": 0.66
+        }, 
+        {
+            "counts": [
+                399, 
+                400, 
+                412, 
+                425
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "Catherine Kennedy", 
+            "party": "Socialist Workers", 
+            "transfers": 26, 
+            "transfers_pc": 0.27
+        }, 
+        {
+            "counts": [
+                406, 
+                406, 
+                412, 
+                418
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "Robert Kearns", 
+            "party": "Independent", 
+            "transfers": 12, 
+            "transfers_pc": 0.12
+        }, 
+        {
+            "counts": [
+                383, 
+                384, 
+                392, 
+                404
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "Charlie Keddy", 
+            "party": "Independent", 
+            "transfers": 21, 
+            "transfers_pc": 0.21
+        }, 
+        {
+            "counts": [
+                236, 
+                237, 
+                247
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Brian Kenny", 
+            "party": "Independent", 
+            "transfers": 11, 
+            "transfers_pc": 0.11
+        }, 
+        {
+            "counts": [
+                171, 
+                171
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Barbara Hyland", 
+            "party": "Independent", 
+            "transfers": 0, 
+            "transfers_pc": 0
+        }
+    ], 
+    "counts_held": 10, 
+    "description": "2002 general election", 
+    "election_type": "dail", 
+    "electorate": 89797, 
+    "name": "Wicklow", 
+    "quota": 9094, 
+    "spoilt": 736, 
+    "turnout": 55296, 
+    "valid": 54560, 
+    "year": 2002
+}

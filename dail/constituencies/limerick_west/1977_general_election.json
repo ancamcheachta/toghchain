@@ -1,0 +1,85 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10081
+            ], 
+            "elected": true, 
+            "first_pref_pc": 30.2, 
+            "full_name": "Gerry Collins", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                9749
+            ], 
+            "elected": true, 
+            "first_pref_pc": 29.2, 
+            "full_name": "Michael J. Noonan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7596, 
+                8153, 
+                8887
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.7, 
+            "full_name": "William O'Brien", 
+            "party": "Fine Gael", 
+            "transfers": 1291, 
+            "transfers_pc": 41.35
+        }, 
+        {
+            "counts": [
+                3165, 
+                3526, 
+                3775
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.5, 
+            "full_name": "Ailish Jones Cassidy", 
+            "party": "Fine Gael", 
+            "transfers": 610, 
+            "transfers_pc": 19.54
+        }, 
+        {
+            "counts": [
+                1444, 
+                1950, 
+                2299
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.3, 
+            "full_name": "Edward Dwyer", 
+            "party": "Labour Party", 
+            "transfers": 855, 
+            "transfers_pc": 27.39
+        }, 
+        {
+            "counts": [
+                1379, 
+                1682, 
+                1745
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.1, 
+            "full_name": "Se\u00e1n Broderick", 
+            "party": "Fine Gael", 
+            "transfers": 366, 
+            "transfers_pc": 11.72
+        }
+    ], 
+    "counts_held": 3, 
+    "description": "1977 general election", 
+    "election_type": "dail", 
+    "electorate": 42037, 
+    "name": "Limerick West", 
+    "quota": 8354, 
+    "spoilt": 266, 
+    "turnout": 33680, 
+    "valid": 33414, 
+    "year": 1977
+}

@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                15167
+            ], 
+            "elected": true, 
+            "first_pref_pc": 46.5, 
+            "full_name": "William Davin", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6792
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.8, 
+            "full_name": "Kevin O'Higgins", 
+            "party": "Sinn F\u00e9in (Pro-Treaty)"
+        }, 
+        {
+            "counts": [
+                6446
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.8, 
+            "full_name": "Francis Bulfin", 
+            "party": "Sinn F\u00e9in (Pro-Treaty)"
+        }, 
+        {
+            "counts": [
+                2796
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.6, 
+            "full_name": "Patrick McCartan", 
+            "party": "Sinn F\u00e9in (Pro-Treaty)"
+        }, 
+        {
+            "counts": [
+                1391
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.3, 
+            "full_name": "Joseph Lynch", 
+            "party": "Sinn F\u00e9in (Pro-Treaty)"
+        }
+    ], 
+    "description": "1922 general election", 
+    "election_type": "dail", 
+    "electorate": 46031, 
+    "name": "Laois\u2013Offaly", 
+    "quota": 6519, 
+    "spoilt": null, 
+    "turnout": 70, 
+    "valid": 32592, 
+    "year": 1922
+}

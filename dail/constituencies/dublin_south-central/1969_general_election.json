@@ -1,0 +1,140 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                5958
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.9, 
+            "full_name": "Richie Ryan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2450
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7, 
+            "full_name": "John O'Donovan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5527
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.7, 
+            "full_name": "Philip Brady", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5035
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.3, 
+            "full_name": "Ben Briscoe", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3868
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11, 
+            "full_name": "John Kelly", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2661
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.6, 
+            "full_name": "Louis Maguire", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2488
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.1, 
+            "full_name": "Dermot O'Rourke", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2475
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7, 
+            "full_name": "Maurice O'Connell", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1757
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5, 
+            "full_name": "Emmet Boyle", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1392
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4, 
+            "full_name": "John Clarke", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                677
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.9, 
+            "full_name": "Patrick Kelly", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                602
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "Michael McShane", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                166
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Patrick Dunne", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                149
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "James Hiney", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1969 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South-Central", 
+    "quota": 7042, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 35205, 
+    "year": 1969
+}

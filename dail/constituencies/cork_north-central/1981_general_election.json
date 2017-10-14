@@ -1,0 +1,122 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7163
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.8, 
+            "full_name": "Toddy O'Sullivan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6497
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.3, 
+            "full_name": "Liam Burke", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4308
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.5, 
+            "full_name": "Bernard Allen", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5394
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.9, 
+            "full_name": "Denis Lyons", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4913
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.8, 
+            "full_name": "Se\u00e1n French", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3614
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8, 
+            "full_name": "M\u00e1ir\u00edn Quill", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3327
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.3, 
+            "full_name": "Dan Wallace", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2751
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.1, 
+            "full_name": "Mair\u00e9ad Farrell", 
+            "party": "Anti H-Block"
+        }, 
+        {
+            "counts": [
+                2614
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.8, 
+            "full_name": "Tom\u00e1s Ryan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2046
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.5, 
+            "full_name": "John Blair", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1501
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.3, 
+            "full_name": "Ted Tynan", 
+            "party": "Sinn F\u00e9in (Workers' Party)"
+        }, 
+        {
+            "counts": [
+                1324
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "James Kenneally", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1981 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Cork North-Central", 
+    "quota": 7576, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 45452, 
+    "year": 1981
+}

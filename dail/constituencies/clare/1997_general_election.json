@@ -1,0 +1,122 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8169
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.4, 
+            "full_name": "Tony Killeen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8025
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.1, 
+            "full_name": "S\u00edle de Valera", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7781
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.6, 
+            "full_name": "Donal Carey", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7420
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.8, 
+            "full_name": "Brendan Daly", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6325
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.5, 
+            "full_name": "Madeleine Taylor-Quinn", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3250
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.9, 
+            "full_name": "Mary Mannion", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                1682
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.6, 
+            "full_name": "Brian Meaney", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                1684
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.6, 
+            "full_name": "Br\u00edd\u00edn Twist", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                876
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.9, 
+            "full_name": "Rita O'Connor", 
+            "party": "National Party"
+        }, 
+        {
+            "counts": [
+                944
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "Brigid Makowski", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                499
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "Joe Aston", 
+            "party": "Christian Solidarity"
+        }, 
+        {
+            "counts": [
+                234
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Michael McInerney", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1997 general election", 
+    "election_type": "dail", 
+    "electorate": 71491, 
+    "name": "Clare", 
+    "quota": 9378, 
+    "spoilt": 477, 
+    "turnout": 47366, 
+    "valid": 46889, 
+    "year": 1997
+}

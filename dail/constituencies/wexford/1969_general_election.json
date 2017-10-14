@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6939
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.5, 
+            "full_name": "Brendan Corish", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6380
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17, 
+            "full_name": "Anthony Esmonde", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6632
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.7, 
+            "full_name": "Lorcan Allen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4354
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.6, 
+            "full_name": "Se\u00e1n Browne", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3730
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.9, 
+            "full_name": "Se\u00e1n O'Gorman", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3115
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.3, 
+            "full_name": "Andrew Doyle", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2229
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.9, 
+            "full_name": "James Jenkins", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1601
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.3, 
+            "full_name": "Michael Hart", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                900
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.4, 
+            "full_name": "Leo Carty", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                817
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.2, 
+            "full_name": "Patrick McDonald", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                813
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.2, 
+            "full_name": "James Mahoney", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1969 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Wexford", 
+    "quota": 7503, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 37510, 
+    "year": 1969
+}

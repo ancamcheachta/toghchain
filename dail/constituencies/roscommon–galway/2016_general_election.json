@@ -1,0 +1,193 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                13936
+            ], 
+            "elected": true, 
+            "first_pref_pc": 30.5, 
+            "full_name": "Denis Naughten", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                9750, 
+                10964, 
+                10996, 
+                11073, 
+                11275, 
+                11630
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.3, 
+            "full_name": "Michael Fitzmaurice", 
+            "party": "Independent", 
+            "transfers": 1880, 
+            "transfers_pc": 17.27
+        }, 
+        {
+            "counts": [
+                6813, 
+                7157, 
+                7162, 
+                7192, 
+                7260, 
+                7368, 
+                7565, 
+                10104
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.9, 
+            "full_name": "Eugene Murphy", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3291, 
+            "transfers_pc": 30.24
+        }, 
+        {
+            "counts": [
+                6812, 
+                7317, 
+                7324, 
+                7428, 
+                7555, 
+                7698, 
+                8388, 
+                9313
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.9, 
+            "full_name": "Maura Hopkins", 
+            "party": "Fine Gael", 
+            "transfers": 2501, 
+            "transfers_pc": 22.98
+        }, 
+        {
+            "counts": [
+                3075, 
+                3196, 
+                3207, 
+                3256, 
+                3301, 
+                3591, 
+                3826
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.7, 
+            "full_name": "Claire Kerrane", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 751, 
+            "transfers_pc": 6.9
+        }, 
+        {
+            "counts": [
+                2006, 
+                2164, 
+                2168, 
+                2198, 
+                2240, 
+                2294, 
+                2389
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "Shane Curran", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 383, 
+            "transfers_pc": 3.52
+        }, 
+        {
+            "counts": [
+                1211, 
+                1254, 
+                1258, 
+                1320, 
+                1373, 
+                1442
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "John Kelly", 
+            "party": "Labour Party", 
+            "transfers": 231, 
+            "transfers_pc": 2.12
+        }, 
+        {
+            "counts": [
+                982, 
+                1008, 
+                1015, 
+                1146, 
+                1172
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "Eddie Conroy", 
+            "party": "AAA\u2013PBP", 
+            "transfers": 190, 
+            "transfers_pc": 1.75
+        }, 
+        {
+            "counts": [
+                520, 
+                577, 
+                580, 
+                616
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "Anne Farrell", 
+            "party": "Renua Ireland", 
+            "transfers": 96, 
+            "transfers_pc": 0.88
+        }, 
+        {
+            "counts": [
+                286, 
+                305, 
+                307
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Miriam Hennesy", 
+            "party": "Green Party", 
+            "transfers": 21, 
+            "transfers_pc": 0.19
+        }, 
+        {
+            "counts": [
+                214, 
+                229, 
+                237
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Anthony Coleman", 
+            "party": "Independent", 
+            "transfers": 23, 
+            "transfers_pc": 0.21
+        }, 
+        {
+            "counts": [
+                75, 
+                88
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Thomas Fallon", 
+            "party": "Independent", 
+            "transfers": 13, 
+            "transfers_pc": 0.12
+        }
+    ], 
+    "counts_held": 8, 
+    "description": "2016 general election", 
+    "election_type": "dail", 
+    "electorate": 64235, 
+    "name": "Roscommon\u2013Galway", 
+    "quota": 11421, 
+    "spoilt": 315, 
+    "turnout": 71, 
+    "valid": 45680, 
+    "year": 2016
+}

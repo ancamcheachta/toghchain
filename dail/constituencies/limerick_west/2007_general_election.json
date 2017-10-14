@@ -1,0 +1,96 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10396
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.7, 
+            "full_name": "Niall Collins", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8701, 
+                8823, 
+                10355
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.5, 
+            "full_name": "John Cregan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1654, 
+            "transfers_pc": 30.24
+        }, 
+        {
+            "counts": [
+                8314, 
+                8504, 
+                10018
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.6, 
+            "full_name": "Dan Neville", 
+            "party": "Fine Gael", 
+            "transfers": 1704, 
+            "transfers_pc": 31.16
+        }, 
+        {
+            "counts": [
+                7839, 
+                7975, 
+                9027
+            ], 
+            "elected": false, 
+            "first_pref_pc": 19.4, 
+            "full_name": "Michael Finucane", 
+            "party": "Fine Gael", 
+            "transfers": 1188, 
+            "transfers_pc": 21.72
+        }, 
+        {
+            "counts": [
+                2277, 
+                2687
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.6, 
+            "full_name": "James Heffernan", 
+            "party": "Labour Party", 
+            "transfers": 410, 
+            "transfers_pc": 7.5
+        }, 
+        {
+            "counts": [
+                1935, 
+                1993
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.8, 
+            "full_name": "Michael Brennan", 
+            "party": "Progressive Democrats", 
+            "transfers": 58, 
+            "transfers_pc": 1.06
+        }, 
+        {
+            "counts": [
+                969
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.4, 
+            "full_name": "James Nix", 
+            "party": "Green Party"
+        }
+    ], 
+    "counts_held": 3, 
+    "description": "2007 general election", 
+    "election_type": "dail", 
+    "electorate": 58712, 
+    "name": "Limerick West", 
+    "quota": 10108, 
+    "spoilt": 381, 
+    "turnout": 40812, 
+    "valid": 40431, 
+    "year": 2007
+}

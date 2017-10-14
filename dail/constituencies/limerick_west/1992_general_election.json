@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10913
+            ], 
+            "elected": true, 
+            "first_pref_pc": 34.3, 
+            "full_name": "Gerry Collins", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4173
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.1, 
+            "full_name": "Michael J. Noonan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5164
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.2, 
+            "full_name": "Michael Finucane", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4657
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.6, 
+            "full_name": "Dan Neville", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3447
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.8, 
+            "full_name": "Mary Kelly", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2343
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.4, 
+            "full_name": "Se\u00e1n Liston", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                645
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "Bridget Randles", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                346
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "Coireall MacCurtain", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                129
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "John Fitzgibbon", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1992 general election", 
+    "election_type": "dail", 
+    "electorate": 44848, 
+    "name": "Limerick West", 
+    "quota": 7955, 
+    "spoilt": 524, 
+    "turnout": 32341, 
+    "valid": 31817, 
+    "year": 1992
+}

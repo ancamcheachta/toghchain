@@ -1,0 +1,229 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                11108
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.7, 
+            "full_name": "Catherine Murphy", 
+            "party": "Social Democrats"
+        }, 
+        {
+            "counts": [
+                7461, 
+                7592, 
+                7696, 
+                7737, 
+                7919, 
+                8003, 
+                8256, 
+                8850, 
+                9444
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.25, 
+            "full_name": "James Lawless", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1983, 
+            "transfers_pc": 14.38
+        }, 
+        {
+            "counts": [
+                6147, 
+                6268, 
+                6302, 
+                6322, 
+                6472, 
+                6531, 
+                6740, 
+                6974, 
+                8890
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.56, 
+            "full_name": "Bernard Durkan", 
+            "party": "Fine Gael", 
+            "transfers": 2743, 
+            "transfers_pc": 19.89
+        }, 
+        {
+            "counts": [
+                6341, 
+                6486, 
+                6528, 
+                6562, 
+                6711, 
+                6879, 
+                7138, 
+                7684, 
+                8479
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.96, 
+            "full_name": "Frank O'Rourke", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2138, 
+            "transfers_pc": 15.5
+        }, 
+        {
+            "counts": [
+                5406, 
+                5490, 
+                5544, 
+                5572, 
+                5714, 
+                5767, 
+                6046, 
+                6213, 
+                7402
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.05, 
+            "full_name": "Anthony Lawlor", 
+            "party": "Fine Gael", 
+            "transfers": 1996, 
+            "transfers_pc": 14.47
+        }, 
+        {
+            "counts": [
+                4087, 
+                4288, 
+                4349, 
+                4408, 
+                4488, 
+                4632, 
+                5181, 
+                5775
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.35, 
+            "full_name": "Emmet Stagg", 
+            "party": "Labour Party", 
+            "transfers": 1688, 
+            "transfers_pc": 12.24
+        }, 
+        {
+            "counts": [
+                3205, 
+                3323, 
+                3390, 
+                3621, 
+                3708, 
+                4146, 
+                4497
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.55, 
+            "full_name": "R\u00e9ada Cronin", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 1292, 
+            "transfers_pc": 9.37
+        }, 
+        {
+            "counts": [
+                1485, 
+                1649, 
+                1715, 
+                1804, 
+                2020, 
+                2419
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.03, 
+            "full_name": "Maebh N\u00ed Fhall\u00fain", 
+            "party": "Green Party", 
+            "transfers": 934, 
+            "transfers_pc": 6.77
+        }, 
+        {
+            "counts": [
+                1200, 
+                1323, 
+                1467, 
+                1737, 
+                1858
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.45, 
+            "full_name": "Brendan Young", 
+            "party": "Independent", 
+            "transfers": 658, 
+            "transfers_pc": 4.77
+        }, 
+        {
+            "counts": [
+                994, 
+                1086, 
+                1154, 
+                1236
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.03, 
+            "full_name": "Shane Fitzgerald", 
+            "party": "Renua Ireland", 
+            "transfers": 242, 
+            "transfers_pc": 1.75
+        }, 
+        {
+            "counts": [
+                781, 
+                873, 
+                943
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "Ashling Merriman", 
+            "party": "AAA\u2013PBP", 
+            "transfers": 162, 
+            "transfers_pc": 1.17
+        }, 
+        {
+            "counts": [
+                372, 
+                389
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.76, 
+            "full_name": "Michael Beirne", 
+            "party": "Independent", 
+            "transfers": 17, 
+            "transfers_pc": 0.12
+        }, 
+        {
+            "counts": [
+                249, 
+                261
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.51, 
+            "full_name": "Gerard Dunne", 
+            "party": "Independent", 
+            "transfers": 12, 
+            "transfers_pc": 0.09
+        }, 
+        {
+            "counts": [
+                99, 
+                119
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Elizabeth O'Sullivan", 
+            "party": "Independent", 
+            "transfers": 20, 
+            "transfers_pc": 0.15
+        }
+    ], 
+    "counts_held": 9, 
+    "description": "2016 general election", 
+    "election_type": "dail", 
+    "electorate": 77609, 
+    "name": "Kildare North", 
+    "quota": 9788, 
+    "spoilt": 291, 
+    "turnout": 49226, 
+    "valid": 48935, 
+    "year": 2016
+}

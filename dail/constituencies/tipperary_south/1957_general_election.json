@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7563
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.4, 
+            "full_name": "Michael Davern", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6359
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.9, 
+            "full_name": "Dan Breen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4407
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.1, 
+            "full_name": "Richard Mulcahy", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4579
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.6, 
+            "full_name": "Frank Loughman", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4456
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.2, 
+            "full_name": "Patrick Crowe", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4352
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.9, 
+            "full_name": "Se\u00e1n Treacy", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1990
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.9, 
+            "full_name": "John Morrissey", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1957 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Tipperary South", 
+    "quota": 6742, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 33706, 
+    "year": 1957
+}

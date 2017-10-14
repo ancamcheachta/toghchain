@@ -1,0 +1,131 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10896
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24, 
+            "full_name": "Brendan Daly", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8574
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.9, 
+            "full_name": "Sylvester Barrett", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5881
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13, 
+            "full_name": "Madeleine Taylor", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4444
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.8, 
+            "full_name": "Bill Loughnane", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5203
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.5, 
+            "full_name": "Donal Carey", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2818
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.2, 
+            "full_name": "Michael Howard", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2676
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.9, 
+            "full_name": "Bernard McNamara", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2471
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.5, 
+            "full_name": "Agnes McCarthy", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2120
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.7, 
+            "full_name": "Thomas McAllister", 
+            "party": "Anti H-Block"
+        }, 
+        {
+            "counts": [
+                106
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Desmond Crowley", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                62
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Laurence Griffin", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                57
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Gerard Nix", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                21
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Hugh O'Brien", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1981 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Clare", 
+    "quota": 9066, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 45329, 
+    "year": 1981
+}

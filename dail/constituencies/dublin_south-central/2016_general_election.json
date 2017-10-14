@@ -1,0 +1,217 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6639, 
+                6690, 
+                6715, 
+                6734, 
+                6927, 
+                7061, 
+                9566
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.5, 
+            "full_name": "Aengus \u00d3 Snodaigh", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 2927, 
+            "transfers_pc": 20.79
+        }, 
+        {
+            "counts": [
+                6195, 
+                6303, 
+                6374, 
+                6461, 
+                7034, 
+                7666, 
+                8168, 
+                8618
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.5, 
+            "full_name": "Joan Collins", 
+            "party": "Independents 4 Change", 
+            "transfers": 2423, 
+            "transfers_pc": 17.21
+        }, 
+        {
+            "counts": [
+                6130, 
+                6154, 
+                6317, 
+                6516, 
+                6679, 
+                7037, 
+                7090, 
+                7111, 
+                9723
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.3, 
+            "full_name": "Catherine Byrne", 
+            "party": "Fine Gael", 
+            "transfers": 3593, 
+            "transfers_pc": 25.52
+        }, 
+        {
+            "counts": [
+                4374, 
+                4476, 
+                4527, 
+                4729, 
+                5193, 
+                5853, 
+                6208, 
+                6643, 
+                7410, 
+                7836, 
+                7879
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.2, 
+            "full_name": "Br\u00edd Smith", 
+            "party": "AAA\u2013PBP", 
+            "transfers": 3505, 
+            "transfers_pc": 24.9
+        }, 
+        {
+            "counts": [
+                5441, 
+                5508, 
+                5698, 
+                5817, 
+                6064, 
+                6439, 
+                6556, 
+                6617, 
+                7116, 
+                7841, 
+                7844
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.7, 
+            "full_name": "Catherine Ardagh", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2403, 
+            "transfers_pc": 17.07
+        }, 
+        {
+            "counts": [
+                3297, 
+                3314, 
+                3372, 
+                3645, 
+                3822, 
+                4481, 
+                4531, 
+                4558
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.7, 
+            "full_name": "Eric Byrne", 
+            "party": "Labour Party", 
+            "transfers": 1261, 
+            "transfers_pc": 8.96
+        }, 
+        {
+            "counts": [
+                3332, 
+                3363, 
+                3389, 
+                3423, 
+                3531, 
+                3686
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.8, 
+            "full_name": "Maire Devine", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 354, 
+            "transfers_pc": 2.51
+        }, 
+        {
+            "counts": [
+                2434, 
+                2486, 
+                2595, 
+                2998, 
+                3256
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.7, 
+            "full_name": "Liam Coyne", 
+            "party": "Social Democrats", 
+            "transfers": 822, 
+            "transfers_pc": 5.84
+        }, 
+        {
+            "counts": [
+                2011, 
+                2100, 
+                2222, 
+                2358
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.7, 
+            "full_name": "Paul Hand", 
+            "party": "Independent", 
+            "transfers": 347, 
+            "transfers_pc": 2.46
+        }, 
+        {
+            "counts": [
+                1410, 
+                1431, 
+                1514
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.3, 
+            "full_name": "Ois\u00edn \u00d3 hAlmhain", 
+            "party": "Green Party", 
+            "transfers": 104, 
+            "transfers_pc": 0.74
+        }, 
+        {
+            "counts": [
+                893, 
+                943
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "Michael Gargan", 
+            "party": "Renua Ireland", 
+            "transfers": 50, 
+            "transfers_pc": 0.36
+        }, 
+        {
+            "counts": [
+                407
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Neville Bradley", 
+            "party": "Direct\u00a0Democracy"
+        }, 
+        {
+            "counts": [
+                294
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "Richard Murray", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 11, 
+    "description": "2016 general election", 
+    "election_type": "dail", 
+    "electorate": 74942, 
+    "name": "Dublin South-Central", 
+    "quota": 8572, 
+    "spoilt": 694, 
+    "turnout": 43551, 
+    "valid": 42857, 
+    "year": 2016
+}

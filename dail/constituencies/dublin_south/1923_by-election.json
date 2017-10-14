@@ -1,0 +1,32 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                23676
+            ], 
+            "elected": true, 
+            "first_pref_pc": 67.3, 
+            "full_name": "Hugh Kennedy", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                11502
+            ], 
+            "elected": false, 
+            "first_pref_pc": 32.7, 
+            "full_name": "Michael O'Mullane", 
+            "party": "Republican"
+        }
+    ], 
+    "description": "1923 by-election", 
+    "election_type": "dail", 
+    "electorate": 78017, 
+    "name": "Dublin South", 
+    "quota": 17590, 
+    "spoilt": null, 
+    "turnout": 45, 
+    "valid": 35178, 
+    "year": 1923
+}

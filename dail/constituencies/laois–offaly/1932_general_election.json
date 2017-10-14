@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8082
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.3, 
+            "full_name": "Patrick Boland", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6687
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.3, 
+            "full_name": "William Davin", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3713
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.9, 
+            "full_name": "Eugene O'Brien", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                4811
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.3, 
+            "full_name": "Thomas F. O'Higgins", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                5693
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.2, 
+            "full_name": "Patrick Gorry", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4087
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.7, 
+            "full_name": "Eamon Donnelly", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3820
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.2, 
+            "full_name": "Patrick Doyle", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3448
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.4, 
+            "full_name": "James Bowles", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2711
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.8, 
+            "full_name": "James Dwyer", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                2240
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.8, 
+            "full_name": "John Gill", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1553
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.3, 
+            "full_name": "Daniel Kennedy", 
+            "party": "Farmers' Party"
+        }
+    ], 
+    "description": "1932 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Laois\u2013Offaly", 
+    "quota": 7808, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 46845, 
+    "year": 1932
+}

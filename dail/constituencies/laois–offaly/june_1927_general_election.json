@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9973
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.1, 
+            "full_name": "William Davin", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3411
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.9, 
+            "full_name": "James Dwyer", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                6095
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.1, 
+            "full_name": "Patrick Boland", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3730
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.6, 
+            "full_name": "John Gill", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3240
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.5, 
+            "full_name": "Thomas Tynan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3488
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.1, 
+            "full_name": "Patrick Egan", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3257
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.6, 
+            "full_name": "William Cobbe", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                3162
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.3, 
+            "full_name": "Patrick Gorry", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2838
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.6, 
+            "full_name": "Francis Bulfin", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                2835
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.6, 
+            "full_name": "Richard Hipwell", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1105
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "Michael Cahill", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "June 1927 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Laois\u2013Offaly", 
+    "quota": 7190, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 43134, 
+    "year": 1927
+}

@@ -1,0 +1,93 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9082
+            ], 
+            "elected": true, 
+            "first_pref_pc": 27.5, 
+            "full_name": "Charlie McCreevy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7051, 
+                7168, 
+                8005, 
+                9472
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.4, 
+            "full_name": "Emmet Stagg", 
+            "party": "Labour Party", 
+            "transfers": 2421, 
+            "transfers_pc": 35.98
+        }, 
+        {
+            "counts": [
+                5786, 
+                5859, 
+                6177, 
+                7341, 
+                8025
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.5, 
+            "full_name": "Bernard Durkan", 
+            "party": "Fine Gael", 
+            "transfers": 2239, 
+            "transfers_pc": 33.27
+        }, 
+        {
+            "counts": [
+                5168, 
+                5681, 
+                5923, 
+                7382, 
+                7890
+            ], 
+            "elected": false, 
+            "first_pref_pc": 15.7, 
+            "full_name": "Paul Kelly", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2722, 
+            "transfers_pc": 40.45
+        }, 
+        {
+            "counts": [
+                3919, 
+                4027, 
+                4473
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.9, 
+            "full_name": "Kate Walsh", 
+            "party": "Progressive Democrats", 
+            "transfers": 554, 
+            "transfers_pc": 8.23
+        }, 
+        {
+            "counts": [
+                1974, 
+                1999
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6, 
+            "full_name": "Anne Kelly McCormack", 
+            "party": "Green Party", 
+            "transfers": 25, 
+            "transfers_pc": 0.37
+        }
+    ], 
+    "counts_held": 5, 
+    "description": "2002 general election", 
+    "election_type": "dail", 
+    "electorate": 60094, 
+    "name": "Kildare North", 
+    "quota": 8246, 
+    "spoilt": 291, 
+    "turnout": 33271, 
+    "valid": 32980, 
+    "year": 2002
+}

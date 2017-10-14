@@ -1,0 +1,140 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9223
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17, 
+            "full_name": "Se\u00e1n Barrett", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                8933
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.5, 
+            "full_name": "David Andrews", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7576
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.9, 
+            "full_name": "Monica Barnes", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5079
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.4, 
+            "full_name": "Mary Hanafin", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7534
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.9, 
+            "full_name": "Eamon Gilmore", 
+            "party": "Democratic Left"
+        }, 
+        {
+            "counts": [
+                4698
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.6, 
+            "full_name": "Niamh Bhreathnach", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4636
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.6, 
+            "full_name": "Helen Keogh", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                2762
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.1, 
+            "full_name": "Vincent MacDowell", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                2000
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "Gerard Casey", 
+            "party": "Christian Solidarity"
+        }, 
+        {
+            "counts": [
+                1082
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "Paddy Madigan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                348
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Olaf Paul Tyaransen", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                288
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Jog Monster Raving Looney Abum", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                53
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Hazel Allshire Tyrrell", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                41
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Rory Stokes", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1997 general election", 
+    "election_type": "dail", 
+    "electorate": 87994, 
+    "name": "D\u00fan Laoghaire", 
+    "quota": 9043, 
+    "spoilt": 393, 
+    "turnout": 54646, 
+    "valid": 54253, 
+    "year": 1997
+}

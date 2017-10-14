@@ -1,0 +1,149 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                12257
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.4, 
+            "full_name": "S\u00e9amus Burke", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                9026
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.5, 
+            "full_name": "Dan Breen", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                2793
+            ], 
+            "elected": true, 
+            "first_pref_pc": 5.1, 
+            "full_name": "Louis Dalton", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                5088
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.3, 
+            "full_name": "Se\u00e1n McCurtin", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                5507
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.1, 
+            "full_name": "Patrick Ryan", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                5580
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.2, 
+            "full_name": "Daniel Morrissey", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3130
+            ], 
+            "elected": true, 
+            "first_pref_pc": 5.7, 
+            "full_name": "Michael Heffernan", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                2955
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.4, 
+            "full_name": "Patrick Doherty", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1609
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "Martin Meagher", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                1569
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "William Quirke", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                1427
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "Martin Dwyer", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                1321
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.4, 
+            "full_name": "John O'Meara", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                1037
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.9, 
+            "full_name": "Patrick Ryan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                733
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.3, 
+            "full_name": "Peter Moloney", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                655
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "William Gleeson", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1923 general election", 
+    "election_type": "dail", 
+    "electorate": 86703, 
+    "name": "Tipperary", 
+    "quota": 6836, 
+    "spoilt": null, 
+    "turnout": 63, 
+    "valid": 54687, 
+    "year": 1923
+}

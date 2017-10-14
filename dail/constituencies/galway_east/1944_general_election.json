@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                null
+            ], 
+            "elected": true, 
+            "first_pref_pc": null, 
+            "full_name": "Frank Fahy", 
+            "party": "Ceann Comhairle"
+        }, 
+        {
+            "counts": [
+                11475
+            ], 
+            "elected": true, 
+            "first_pref_pc": 35.2, 
+            "full_name": "Patrick Beegan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                10235
+            ], 
+            "elected": true, 
+            "first_pref_pc": 31.4, 
+            "full_name": "Michael Donnellan", 
+            "party": "Clann na Talmhan"
+        }, 
+        {
+            "counts": [
+                8449
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.9, 
+            "full_name": "Mark Killilea, Snr", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2484
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.6, 
+            "full_name": "Edward Stankard", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1944 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Galway East", 
+    "quota": 8161, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 32643, 
+    "year": 1944
+}

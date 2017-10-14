@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8398
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26.8, 
+            "full_name": "John O'Leary", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8375
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26.7, 
+            "full_name": "John O'Donoghue", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6408
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.5, 
+            "full_name": "Michael Moynihan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6477
+            ], 
+            "elected": false, 
+            "first_pref_pc": 20.7, 
+            "full_name": "Michael Begley", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1458
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.7, 
+            "full_name": "John Kelly", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                202
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Barbara Hyland", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1989 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Kerry South", 
+    "quota": 7830, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 31318, 
+    "year": 1989
+}

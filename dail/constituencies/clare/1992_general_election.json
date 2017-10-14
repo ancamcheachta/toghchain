@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6567
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.7, 
+            "full_name": "Donal Carey", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6814
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.3, 
+            "full_name": "Tony Killeen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5113
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.5, 
+            "full_name": "Moosajee Bhamjee", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6752
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.1, 
+            "full_name": "S\u00edle de Valera", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5940
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.3, 
+            "full_name": "Brendan Daly", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4873
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.9, 
+            "full_name": "Madeleine Taylor-Quinn", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3582
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8, 
+            "full_name": "Colm Wiley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3112
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.9, 
+            "full_name": "Mary Mannion", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                977
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.2, 
+            "full_name": "Frankie Neylon", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                459
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Mike McKee", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                419
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.9, 
+            "full_name": "Michael McInerney", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1992 general election", 
+    "election_type": "dail", 
+    "electorate": 66042, 
+    "name": "Clare", 
+    "quota": 8922, 
+    "spoilt": 537, 
+    "turnout": 45145, 
+    "valid": 44608, 
+    "year": 1992
+}

@@ -1,0 +1,131 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                17637
+            ], 
+            "elected": true, 
+            "first_pref_pc": 43.5, 
+            "full_name": "Charles Haughey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6304
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.5, 
+            "full_name": "George Birmingham", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5031
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.4, 
+            "full_name": "No\u00ebl Browne", 
+            "party": "Socialist Labour Party"
+        }, 
+        {
+            "counts": [
+                1818
+            ], 
+            "elected": true, 
+            "first_pref_pc": 4.5, 
+            "full_name": "Vincent Brady", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2899
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.1, 
+            "full_name": "Paddy Belton", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1481
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "Vincent Doherty", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1209
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "Eugene Timmons", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1138
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "Mary Byrne", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1093
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Michael O'Halloran", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1039
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "Hannah Barlow", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                730
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Michael Martin", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                156
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "John Curley", 
+            "party": "Communist Party"
+        }, 
+        {
+            "counts": [
+                46
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Andrew Dillon", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1981 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin North-Central", 
+    "quota": 8117, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 40581, 
+    "year": 1981
+}

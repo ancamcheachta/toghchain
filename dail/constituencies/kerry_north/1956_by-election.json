@@ -1,0 +1,32 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                18176
+            ], 
+            "elected": true, 
+            "first_pref_pc": 53.5, 
+            "full_name": "Kathleen O'Connor", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                15828
+            ], 
+            "elected": false, 
+            "first_pref_pc": 46.6, 
+            "full_name": "Daniel Moloney", 
+            "party": "Fianna F\u00e1il"
+        }
+    ], 
+    "description": "1956 by-election", 
+    "election_type": "dail", 
+    "electorate": 45841, 
+    "name": "Kerry North", 
+    "quota": 17003, 
+    "spoilt": null, 
+    "turnout": 74, 
+    "valid": 34004, 
+    "year": 1956
+}

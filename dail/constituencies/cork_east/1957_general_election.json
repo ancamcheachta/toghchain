@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6873
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25, 
+            "full_name": "Martin Corry", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6628
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.1, 
+            "full_name": "John Moher", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5255
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.1, 
+            "full_name": "Richard Barry", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4618
+            ], 
+            "elected": false, 
+            "first_pref_pc": 16.8, 
+            "full_name": "Patrick O'Gorman", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2365
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.6, 
+            "full_name": "Liam \u00d3 Mochloir", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                1750
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.4, 
+            "full_name": "Michael Devane", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1957 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Cork East", 
+    "quota": 6873, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 27489, 
+    "year": 1957
+}

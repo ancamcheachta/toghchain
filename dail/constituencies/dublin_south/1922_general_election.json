@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                5540
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.1, 
+            "full_name": "Daniel McCarthy", 
+            "party": "Sinn F\u00e9in (Pro-Treaty)"
+        }, 
+        {
+            "counts": [
+                4363
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.6, 
+            "full_name": "Myles Keogh", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                4734
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18, 
+            "full_name": "William X. O'Brien", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4344
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.5, 
+            "full_name": "Thomas Kelly", 
+            "party": "Sinn F\u00e9in (Pro-Treaty)"
+        }, 
+        {
+            "counts": [
+                3951
+            ], 
+            "elected": false, 
+            "first_pref_pc": 15, 
+            "full_name": "Constance Markievicz", 
+            "party": "Sinn F\u00e9in (Anti-Treaty)"
+        }, 
+        {
+            "counts": [
+                2068
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.9, 
+            "full_name": "John O'Connell", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1308
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5, 
+            "full_name": "Cathal \u00d3 Murchadha", 
+            "party": "Sinn F\u00e9in (Anti-Treaty)"
+        }
+    ], 
+    "description": "1922 general election", 
+    "election_type": "dail", 
+    "electorate": 41466, 
+    "name": "Dublin South", 
+    "quota": 5262, 
+    "spoilt": null, 
+    "turnout": 63, 
+    "valid": 26308, 
+    "year": 1922
+}

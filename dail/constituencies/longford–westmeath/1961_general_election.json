@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                5719
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.8, 
+            "full_name": "Se\u00e1n Mac Eoin", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5891
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.3, 
+            "full_name": "Frank Carter", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4822
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.1, 
+            "full_name": "Michael Kennedy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4561
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.4, 
+            "full_name": "Joseph Sheridan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                3862
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.3, 
+            "full_name": "Gerry L'Estrange", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2598
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.6, 
+            "full_name": "Ruair\u00ed \u00d3 Br\u00e1daigh", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                2593
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.6, 
+            "full_name": "Patrick Lenihan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2540
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.4, 
+            "full_name": "Patrick Cooney", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1563
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.6, 
+            "full_name": "Thomas Darcy", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1961 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Longford\u2013Westmeath", 
+    "quota": 6830, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 34149, 
+    "year": 1961
+}

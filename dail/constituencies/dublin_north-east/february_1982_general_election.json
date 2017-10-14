@@ -1,0 +1,179 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9662
+            ], 
+            "elected": true, 
+            "first_pref_pc": 30.3, 
+            "full_name": "Michael Woods", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6098, 
+                6236, 
+                6261, 
+                6338, 
+                6871
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.1, 
+            "full_name": "Michael Joe Cosgrave", 
+            "party": "Fine Gael", 
+            "transfers": 773, 
+            "transfers_pc": 8.29
+        }, 
+        {
+            "counts": [
+                4076, 
+                4133, 
+                4150, 
+                4232, 
+                4739, 
+                5118, 
+                5824, 
+                6670
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.8, 
+            "full_name": "Maurice Manning", 
+            "party": "Fine Gael", 
+            "transfers": 2594, 
+            "transfers_pc": 27.82
+        }, 
+        {
+            "counts": [
+                3261, 
+                4424, 
+                4449, 
+                4474, 
+                4583, 
+                4599, 
+                5083, 
+                5551, 
+                5700
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.2, 
+            "full_name": "Ned Brennan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2439, 
+            "transfers_pc": 26.16
+        }, 
+        {
+            "counts": [
+                2751, 
+                4367, 
+                4402, 
+                4430, 
+                4580, 
+                4597, 
+                4977, 
+                5473, 
+                5616
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.6, 
+            "full_name": "Liam Fitzgerald", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2865, 
+            "transfers_pc": 30.73
+        }, 
+        {
+            "counts": [
+                1825, 
+                1899, 
+                1969, 
+                2020, 
+                2381, 
+                2412, 
+                2826
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.7, 
+            "full_name": "Pat McCartan", 
+            "party": "Sinn F\u00e9in (Workers' Party)", 
+            "transfers": 1001, 
+            "transfers_pc": 10.74
+        }, 
+        {
+            "counts": [
+                1814, 
+                1935, 
+                1990, 
+                2033, 
+                2210, 
+                2239
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.7, 
+            "full_name": "Se\u00e1n Dublin Bay Rockall Loftus", 
+            "party": "Independent", 
+            "transfers": 425, 
+            "transfers_pc": 4.56
+        }, 
+        {
+            "counts": [
+                1452, 
+                1515, 
+                1537, 
+                1966
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.6, 
+            "full_name": "Se\u00e1n Kenny", 
+            "party": "Labour Party", 
+            "transfers": 514, 
+            "transfers_pc": 5.51
+        }, 
+        {
+            "counts": [
+                685, 
+                715, 
+                742
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.2, 
+            "full_name": "Bernard Malone", 
+            "party": "Labour Party", 
+            "transfers": 57, 
+            "transfers_pc": 0.61
+        }, 
+        {
+            "counts": [
+                155, 
+                170
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Michael O'Donoghue", 
+            "party": "Independent", 
+            "transfers": 15, 
+            "transfers_pc": 0.16
+        }, 
+        {
+            "counts": [
+                108, 
+                115
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "James Connolly", 
+            "party": "Independent", 
+            "transfers": 7, 
+            "transfers_pc": 0.08
+        }
+    ], 
+    "counts_held": 9, 
+    "description": "February 1982 general election", 
+    "election_type": "dail", 
+    "electorate": 43179, 
+    "name": "Dublin North-East", 
+    "quota": 6378, 
+    "spoilt": 299, 
+    "turnout": 32186, 
+    "valid": 31887, 
+    "year": 1982
+}

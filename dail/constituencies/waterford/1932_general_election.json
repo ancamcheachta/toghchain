@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7276
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.8, 
+            "full_name": "William Redmond", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                5835
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.7, 
+            "full_name": "Se\u00e1n Goulding", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4691
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.4, 
+            "full_name": "John Kiersey", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                5316
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.2, 
+            "full_name": "Patrick Little", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4548
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13, 
+            "full_name": "Michael Mansfield", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4165
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.9, 
+            "full_name": "Vincent White", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3147
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9, 
+            "full_name": "Daniel Foley", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1932 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Waterford", 
+    "quota": 6996, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 34978, 
+    "year": 1932
+}

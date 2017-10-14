@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6693
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.8, 
+            "full_name": "Se\u00e1n Mac Eoin", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5800
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.7, 
+            "full_name": "Charles Fagan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5941
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14, 
+            "full_name": "Frank Carter", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4573
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.8, 
+            "full_name": "Erskine H. Childers", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5284
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.5, 
+            "full_name": "Michael Kennedy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4188
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.9, 
+            "full_name": "Joseph Sheridan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3666
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.7, 
+            "full_name": "Brian Lenihan, Snr", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2172
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.1, 
+            "full_name": "Thomas Darcy", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1695
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4, 
+            "full_name": "Alfred Faulkner", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                1216
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "Michael Heavey", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1144
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Hubert Wilson", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1954 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Longford\u2013Westmeath", 
+    "quota": 7063, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 42372, 
+    "year": 1954
+}

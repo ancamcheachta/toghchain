@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6897
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.4, 
+            "full_name": "Paddy Donegan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6617
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.4, 
+            "full_name": "P\u00e1draig Faulkner", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6679
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.6, 
+            "full_name": "Frank Aiken", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4605
+            ], 
+            "elected": false, 
+            "first_pref_pc": 16.3, 
+            "full_name": "Patrick O'Hare", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3461
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.3, 
+            "full_name": "Proinsias Mac Aonghusa", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1965 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Louth", 
+    "quota": 7065, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 28259, 
+    "year": 1965
+}

@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8005
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.6, 
+            "full_name": "James Ryan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7644
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.7, 
+            "full_name": "Denis Allen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6864
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.9, 
+            "full_name": "John O'Leary", 
+            "party": "National Labour Party"
+        }, 
+        {
+            "counts": [
+                5118
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.9, 
+            "full_name": "Richard Corish", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5937
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.8, 
+            "full_name": "John Keating", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5337
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.4, 
+            "full_name": "John Esmonde", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2543
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.9, 
+            "full_name": "Robert Moran", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1173
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Thomas Byrne", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                536
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "John Kelly", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1944 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Wexford", 
+    "quota": 7193, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 43157, 
+    "year": 1944
+}

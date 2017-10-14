@@ -1,0 +1,131 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6378
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.7, 
+            "full_name": "Liam Fitzgerald", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3658
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.6, 
+            "full_name": "Michael Joe Cosgrave", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5927
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.5, 
+            "full_name": "Michael Woods", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3297
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.6, 
+            "full_name": "Pat McCartan", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                4222
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11, 
+            "full_name": "Se\u00e1n Haughey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3585
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.4, 
+            "full_name": "Maurice Manning", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3136
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.2, 
+            "full_name": "Ned Brennan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2691
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7, 
+            "full_name": "Neil Holman", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                2227
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.8, 
+            "full_name": "Se\u00e1n Kenny", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1964
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.1, 
+            "full_name": "Martin McGettigan", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                655
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "Pamela Kane", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                430
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "Paddy Healy", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                109
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Barbara Hyland", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1987 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin North-East", 
+    "quota": 7656, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 38279, 
+    "year": 1987
+}

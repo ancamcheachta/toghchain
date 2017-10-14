@@ -1,0 +1,50 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8738
+            ], 
+            "elected": true, 
+            "first_pref_pc": 37.2, 
+            "full_name": "Neil Blaney", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5686
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.2, 
+            "full_name": "Liam Cunningham", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5427
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.1, 
+            "full_name": "Paddy Harte", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3650
+            ], 
+            "elected": false, 
+            "first_pref_pc": 15.5, 
+            "full_name": "Se\u00e1n McLaughlin", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1961 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Donegal North-East", 
+    "quota": 5876, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 23501, 
+    "year": 1961
+}

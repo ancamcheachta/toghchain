@@ -1,0 +1,232 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                5407, 
+                5562, 
+                5800, 
+                6147, 
+                6600, 
+                7555
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.5, 
+            "full_name": "Ruairi Quinn", 
+            "party": "Labour Party", 
+            "transfers": 2148, 
+            "transfers_pc": 22.06
+        }, 
+        {
+            "counts": [
+                6619, 
+                6694, 
+                6801, 
+                6855, 
+                6969, 
+                7428
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19, 
+            "full_name": "Lucinda Creighton", 
+            "party": "Fine Gael", 
+            "transfers": 809, 
+            "transfers_pc": 8.31
+        }, 
+        {
+            "counts": [
+                5783, 
+                5843, 
+                5891, 
+                5938, 
+                6136, 
+                6534, 
+                6636, 
+                6915, 
+                8356
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.6, 
+            "full_name": "Eoghan Murphy", 
+            "party": "Fine Gael", 
+            "transfers": 2573, 
+            "transfers_pc": 26.42
+        }, 
+        {
+            "counts": [
+                3450, 
+                3568, 
+                3764, 
+                4059, 
+                4294, 
+                4674, 
+                5019, 
+                5057, 
+                5894, 
+                6421
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.9, 
+            "full_name": "Kevin Humphreys", 
+            "party": "Labour Party", 
+            "transfers": 2971, 
+            "transfers_pc": 30.51
+        }, 
+        {
+            "counts": [
+                3922, 
+                3981, 
+                4059, 
+                4160, 
+                4248, 
+                4498, 
+                4545, 
+                4594, 
+                4950, 
+                5193
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.2, 
+            "full_name": "Chris Andrews", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1271, 
+            "transfers_pc": 13.05
+        }, 
+        {
+            "counts": [
+                2343, 
+                2492, 
+                2621, 
+                2815, 
+                3196, 
+                3457, 
+                3534, 
+                3566
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.7, 
+            "full_name": "Paul Sommerville", 
+            "party": "Independent", 
+            "transfers": 1223, 
+            "transfers_pc": 12.56
+        }, 
+        {
+            "counts": [
+                2370, 
+                2435, 
+                2547, 
+                2659, 
+                2908
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.8, 
+            "full_name": "John Gormley", 
+            "party": "Green Party", 
+            "transfers": 538, 
+            "transfers_pc": 5.52
+        }, 
+        {
+            "counts": [
+                1383, 
+                1492, 
+                1754, 
+                1928
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4, 
+            "full_name": "Dylan Haskins", 
+            "party": "Independent", 
+            "transfers": 545, 
+            "transfers_pc": 5.6
+        }, 
+        {
+            "counts": [
+                1272, 
+                1405, 
+                1549
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.6, 
+            "full_name": "Ruadh\u00e1n Mac Aodh\u00e1in", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 277, 
+            "transfers_pc": 2.84
+        }, 
+        {
+            "counts": [
+                1248, 
+                1403
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.6, 
+            "full_name": "Gerard Mannix Flynn", 
+            "party": "Independent", 
+            "transfers": 155, 
+            "transfers_pc": 1.59
+        }, 
+        {
+            "counts": [
+                629
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "[24]", 
+            "party": "People Before Profit"
+        }, 
+        {
+            "counts": [
+                195
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Hugh Sheehy", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                164
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "James Coyle", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                89
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Noel Watson", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                27
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "John Keigher", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                18
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Peadar \u00d3 Ceallaigh", 
+            "party": "F\u00eds Nua"
+        }
+    ], 
+    "counts_held": 10, 
+    "description": "2011 general election", 
+    "election_type": "dail", 
+    "electorate": 58217, 
+    "name": "Dublin South\u2013East", 
+    "quota": 6984, 
+    "spoilt": 327, 
+    "turnout": 35246, 
+    "valid": 34919, 
+    "year": 2011
+}

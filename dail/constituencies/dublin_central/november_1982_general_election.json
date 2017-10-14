@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10542
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.7, 
+            "full_name": "Bertie Ahern", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7945
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.9, 
+            "full_name": "Michael Keating", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5622
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.6, 
+            "full_name": "George Colley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6237
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14, 
+            "full_name": "Tony Gregory", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                3723
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.4, 
+            "full_name": "Alice Glenn", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3337
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.5, 
+            "full_name": "Jimmy Somers", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2513
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.7, 
+            "full_name": "John Colgan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2396
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.4, 
+            "full_name": "Tom Leonard", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2161
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.9, 
+            "full_name": "Michael White", 
+            "party": "Workers' Party"
+        }
+    ], 
+    "description": "November 1982 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin Central", 
+    "quota": 7413, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 44476, 
+    "year": 1982
+}

@@ -1,0 +1,180 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                12332
+            ], 
+            "elected": true, 
+            "first_pref_pc": 29.5, 
+            "full_name": "Terence Flanagan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                10006, 
+                10738
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.9, 
+            "full_name": "Tommy Broughan", 
+            "party": "Labour Party", 
+            "transfers": 732, 
+            "transfers_pc": 6.11
+        }, 
+        {
+            "counts": [
+                4365, 
+                4728, 
+                4885, 
+                4985, 
+                5216, 
+                5580, 
+                6000, 
+                7013, 
+                9369
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.4, 
+            "full_name": "Se\u00e1n Kenny", 
+            "party": "Labour Party", 
+            "transfers": 5004, 
+            "transfers_pc": 41.78
+        }, 
+        {
+            "counts": [
+                5032, 
+                5120, 
+                5143, 
+                5179, 
+                5477, 
+                5554, 
+                5754, 
+                6262, 
+                6923
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12, 
+            "full_name": "Larry O'Toole", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 1891, 
+            "transfers_pc": 15.79
+        }, 
+        {
+            "counts": [
+                4794, 
+                5013, 
+                5036, 
+                5109, 
+                5134, 
+                5314, 
+                5579, 
+                6041
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.5, 
+            "full_name": "Averil Power", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1247, 
+            "transfers_pc": 10.41
+        }, 
+        {
+            "counts": [
+                1773, 
+                1894, 
+                1913, 
+                2099, 
+                2233, 
+                2401, 
+                2955
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.2, 
+            "full_name": "Eamonn Blaney", 
+            "party": "New Vision", 
+            "transfers": 1182, 
+            "transfers_pc": 9.87
+        }, 
+        {
+            "counts": [
+                1285, 
+                1419, 
+                1447, 
+                1572, 
+                1685, 
+                1799
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.1, 
+            "full_name": "Jimmy Guerin", 
+            "party": "Independent", 
+            "transfers": 514, 
+            "transfers_pc": 4.29
+        }, 
+        {
+            "counts": [
+                792, 
+                919, 
+                934, 
+                987, 
+                1049
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.9, 
+            "full_name": "David Healy", 
+            "party": "Green Party", 
+            "transfers": 257, 
+            "transfers_pc": 2.15
+        }, 
+        {
+            "counts": [
+                869, 
+                893, 
+                897, 
+                935
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "[28]", 
+            "party": "Socialist Party", 
+            "transfers": 66, 
+            "transfers_pc": 0.55
+        }, 
+        {
+            "counts": [
+                351, 
+                391, 
+                397
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "Raymond Sexton", 
+            "party": "Independent", 
+            "transfers": 46, 
+            "transfers_pc": 0.38
+        }, 
+        {
+            "counts": [
+                242, 
+                264, 
+                267
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Robert Eastwood", 
+            "party": "Independent", 
+            "transfers": 25, 
+            "transfers_pc": 0.21
+        }
+    ], 
+    "counts_held": 9, 
+    "description": "2011 general election", 
+    "election_type": "dail", 
+    "electorate": 58542, 
+    "name": "Dublin North-East", 
+    "quota": 10460, 
+    "spoilt": 448, 
+    "turnout": 42287, 
+    "valid": 41839, 
+    "year": 2011
+}

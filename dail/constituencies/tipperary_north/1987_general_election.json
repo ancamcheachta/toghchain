@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8978
+            ], 
+            "elected": true, 
+            "first_pref_pc": 27, 
+            "full_name": "Michael Smith", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8121
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.4, 
+            "full_name": "Michael O'Kennedy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5821
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.5, 
+            "full_name": "Michael Lowry", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4558
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.7, 
+            "full_name": "John Ryan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2444
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.3, 
+            "full_name": "Frank Dwan", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                2038
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.1, 
+            "full_name": "Denis Ryan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                878
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "James Nolan", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                322
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Se\u00e1n Deegan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                131
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Donal Kealy", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1987 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Tipperary North", 
+    "quota": 8323, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 33291, 
+    "year": 1987
+}

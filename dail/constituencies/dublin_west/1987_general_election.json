@@ -1,0 +1,194 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8278
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16, 
+            "full_name": "Brian Lenihan, Snr", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6651
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.9, 
+            "full_name": "Tom\u00e1s Mac Giolla", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                6585
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.7, 
+            "full_name": "Jim Mitchell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3308
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6.4, 
+            "full_name": "Patrick O'Malley", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                7020
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.6, 
+            "full_name": "Liam Lawlor", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5622
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.9, 
+            "full_name": "Olga Bennett", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4011
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.8, 
+            "full_name": "Brian Fleming", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2706
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.2, 
+            "full_name": "James Fay", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                1734
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.4, 
+            "full_name": "Liam Skelly", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1185
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.3, 
+            "full_name": "Eamon Tuffy", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1041
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "James Delaney", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                860
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "Eithne Loftus", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                675
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.3, 
+            "full_name": "Se\u00e1n Lyons", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                600
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "Michael Conaghan", 
+            "party": "Democratic Socialist Party"
+        }, 
+        {
+            "counts": [
+                587
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "Bridin O'Connor", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                312
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Gerry Gallagher", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                239
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Brian McMenamy", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                183
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "John Montgomery", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                72
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Jean Roche", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                43
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Barbara Hyland", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1987 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin West", 
+    "quota": 8619, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 51712, 
+    "year": 1987
+}

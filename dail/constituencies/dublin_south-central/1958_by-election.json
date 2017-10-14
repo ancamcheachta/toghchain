@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6014
+            ], 
+            "elected": true, 
+            "first_pref_pc": 34.2, 
+            "full_name": "Patrick Cummins", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3089
+            ], 
+            "elected": false, 
+            "first_pref_pc": 17.6, 
+            "full_name": "John Hegarty", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3030
+            ], 
+            "elected": false, 
+            "first_pref_pc": 17.2, 
+            "full_name": "Se\u00e1n MacBride", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                2762
+            ], 
+            "elected": false, 
+            "first_pref_pc": 15.7, 
+            "full_name": "Frank Cluskey", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2688
+            ], 
+            "elected": false, 
+            "first_pref_pc": 15.3, 
+            "full_name": "Noel Hartnett", 
+            "party": "National Progressive Democrats"
+        }
+    ], 
+    "description": "1958 by-election", 
+    "election_type": "dail", 
+    "electorate": 51567, 
+    "name": "Dublin South-Central", 
+    "quota": 8792, 
+    "spoilt": null, 
+    "turnout": 34, 
+    "valid": 17583, 
+    "year": 1958
+}

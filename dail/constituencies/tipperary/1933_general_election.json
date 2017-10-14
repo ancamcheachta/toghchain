@@ -1,0 +1,131 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9362
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.5, 
+            "full_name": "Andrew Fogarty", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5104
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.4, 
+            "full_name": "Daniel Morrissey", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                6896
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10, 
+            "full_name": "Richard Curran", 
+            "party": "National Centre Party"
+        }, 
+        {
+            "counts": [
+                4940
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.1, 
+            "full_name": "S\u00e9amus Burke", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                6909
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10, 
+            "full_name": "Se\u00e1n Hayes", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6732
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.7, 
+            "full_name": "Martin Ryan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5811
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.4, 
+            "full_name": "Dan Breen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5707
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.2, 
+            "full_name": "Timothy Sheehy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4405
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.4, 
+            "full_name": "Joseph McCann", 
+            "party": "National Centre Party"
+        }, 
+        {
+            "counts": [
+                4102
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.9, 
+            "full_name": "William X. O'Brien", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3997
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.8, 
+            "full_name": "Jeremiah Ryan", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3252
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.7, 
+            "full_name": "Se\u00e1n McCurtin", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                2005
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "Michael Heffernan", 
+            "party": "Cumann na nGaedheal"
+        }
+    ], 
+    "description": "1933 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Tipperary", 
+    "quota": 8653, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 69222, 
+    "year": 1933
+}

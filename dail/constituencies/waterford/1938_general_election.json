@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8067
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.5, 
+            "full_name": "Michael Morrissey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7514
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.1, 
+            "full_name": "Bridget Redmond", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4832
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.7, 
+            "full_name": "William Broderick", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7381
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.8, 
+            "full_name": "Patrick Little", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7094
+            ], 
+            "elected": false, 
+            "first_pref_pc": 17.1, 
+            "full_name": "Se\u00e1n Goulding", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4248
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.3, 
+            "full_name": "Nicholas Wall", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2323
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.6, 
+            "full_name": "Charles O'Rourke", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1938 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Waterford", 
+    "quota": 8292, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 41459, 
+    "year": 1938
+}

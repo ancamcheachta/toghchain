@@ -1,0 +1,110 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                14104
+            ], 
+            "elected": true, 
+            "first_pref_pc": 29.2, 
+            "full_name": "Michael Lowry", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                11425, 
+                12130
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.7, 
+            "full_name": "Noel Coonan", 
+            "party": "Fine Gael", 
+            "transfers": 705, 
+            "transfers_pc": 9.73
+        }, 
+        {
+            "counts": [
+                9559, 
+                10104, 
+                12065
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.8, 
+            "full_name": "Alan Kelly", 
+            "party": "Labour Party", 
+            "transfers": 2506, 
+            "transfers_pc": 34.6
+        }, 
+        {
+            "counts": [
+                7978, 
+                8356, 
+                9441
+            ], 
+            "elected": false, 
+            "first_pref_pc": 16.5, 
+            "full_name": "M\u00e1ire Hoctor", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1463, 
+            "transfers_pc": 20.2
+        }, 
+        {
+            "counts": [
+                3034, 
+                3180
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.3, 
+            "full_name": "S\u00e9amus Morris", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 146, 
+            "transfers_pc": 2.02
+        }, 
+        {
+            "counts": [
+                1442, 
+                1653
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "Billy Clancy", 
+            "party": "New Vision", 
+            "transfers": 211, 
+            "transfers_pc": 2.91
+        }, 
+        {
+            "counts": [
+                409, 
+                429
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "Olwyn O'Malley", 
+            "party": "Green Party", 
+            "transfers": 20, 
+            "transfers_pc": 0.28
+        }, 
+        {
+            "counts": [
+                322, 
+                352
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "Kate Bopp", 
+            "party": "Independent", 
+            "transfers": 30, 
+            "transfers_pc": 0.41
+        }
+    ], 
+    "counts_held": 3, 
+    "description": "2011 general election", 
+    "election_type": "dail", 
+    "electorate": 63235, 
+    "name": "Tipperary North", 
+    "quota": 12069, 
+    "spoilt": 516, 
+    "turnout": 48789, 
+    "valid": 48273, 
+    "year": 2011
+}

@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6651
+            ], 
+            "elected": true, 
+            "first_pref_pc": 27.1, 
+            "full_name": "Frank Aiken", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                5663
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.1, 
+            "full_name": "James Murphy", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                5798
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.7, 
+            "full_name": "Peter Hughes", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3877
+            ], 
+            "elected": false, 
+            "first_pref_pc": 15.8, 
+            "full_name": "Patrick McGee", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                2517
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.3, 
+            "full_name": "Cathal O'Shannon", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1923 general election", 
+    "election_type": "dail", 
+    "electorate": 38548, 
+    "name": "Louth", 
+    "quota": 6127, 
+    "spoilt": null, 
+    "turnout": 63, 
+    "valid": 24506, 
+    "year": 1923
+}

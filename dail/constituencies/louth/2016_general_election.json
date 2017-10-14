@@ -1,0 +1,265 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9099, 
+                9146, 
+                9220, 
+                9609, 
+                9931, 
+                12192
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.47, 
+            "full_name": "Declan Breathnach", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3093, 
+            "transfers_pc": 14.89
+        }, 
+        {
+            "counts": [
+                10661, 
+                10774, 
+                10826, 
+                10908, 
+                11096, 
+                11278
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.79, 
+            "full_name": "Gerry Adams", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 617, 
+            "transfers_pc": 2.97
+        }, 
+        {
+            "counts": [
+                8829, 
+                9061, 
+                9103, 
+                9224, 
+                9356, 
+                9563, 
+                9712, 
+                9995, 
+                10992, 
+                13029
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.07, 
+            "full_name": "Imelda Munster", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 4200, 
+            "transfers_pc": 20.22
+        }, 
+        {
+            "counts": [
+                6814, 
+                6838, 
+                6943, 
+                7271, 
+                7418, 
+                7586, 
+                7680, 
+                8115, 
+                8827, 
+                9124, 
+                9256
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.09, 
+            "full_name": "Fergus O'Dowd", 
+            "party": "Fine Gael", 
+            "transfers": 2442, 
+            "transfers_pc": 11.76
+        }, 
+        {
+            "counts": [
+                6408, 
+                6417, 
+                6591, 
+                6693, 
+                6969, 
+                7113, 
+                7206, 
+                7977, 
+                8231, 
+                8931, 
+                9132
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.49, 
+            "full_name": "Peter Fitzpatrick", 
+            "party": "Fine Gael", 
+            "transfers": 2724, 
+            "transfers_pc": 13.11
+        }, 
+        {
+            "counts": [
+                4945, 
+                4976, 
+                5293, 
+                5472, 
+                5593, 
+                5760, 
+                5895, 
+                6715, 
+                7888, 
+                8454, 
+                8746
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.32, 
+            "full_name": "Ged Nash", 
+            "party": "Labour Party", 
+            "transfers": 3801, 
+            "transfers_pc": 18.3
+        }, 
+        {
+            "counts": [
+                3462, 
+                3644, 
+                3690, 
+                3816, 
+                4468, 
+                4586, 
+                4675, 
+                5588, 
+                6290
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.13, 
+            "full_name": "Garrett Weldon", 
+            "party": "AAA\u2013PBP", 
+            "transfers": 2828, 
+            "transfers_pc": 13.61
+        }, 
+        {
+            "counts": [
+                3541, 
+                3683, 
+                3701, 
+                4030, 
+                4388, 
+                4592, 
+                4779, 
+                5224
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.24, 
+            "full_name": "Kevin Callan", 
+            "party": "Independent", 
+            "transfers": 1683, 
+            "transfers_pc": 8.1
+        }, 
+        {
+            "counts": [
+                3187, 
+                3225, 
+                3363, 
+                3530, 
+                4099, 
+                4327, 
+                4517
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.72, 
+            "full_name": "Mark Dearey", 
+            "party": "Green Party", 
+            "transfers": 1330, 
+            "transfers_pc": 6.4
+        }, 
+        {
+            "counts": [
+                3422, 
+                3442, 
+                3496, 
+                3622, 
+                3819
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.07, 
+            "full_name": "Emma Coffey", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 397, 
+            "transfers_pc": 1.91
+        }, 
+        {
+            "counts": [
+                2746, 
+                2814, 
+                2953, 
+                3138
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.07, 
+            "full_name": "Maeve Yore", 
+            "party": "Independent", 
+            "transfers": 392, 
+            "transfers_pc": 1.89
+        }, 
+        {
+            "counts": [
+                2095, 
+                2219, 
+                2242
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.1, 
+            "full_name": "Michael O'Dowd", 
+            "party": "Renua Ireland", 
+            "transfers": 147, 
+            "transfers_pc": 0.71
+        }, 
+        {
+            "counts": [
+                1198, 
+                1211
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.77, 
+            "full_name": "Mary Moran", 
+            "party": "Labour Party", 
+            "transfers": 13, 
+            "transfers_pc": 0.06
+        }, 
+        {
+            "counts": [
+                676
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Anthony Connor", 
+            "party": "Direct\u00a0Democracy"
+        }, 
+        {
+            "counts": [
+                319
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.47, 
+            "full_name": "David Bradley", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                127
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.19, 
+            "full_name": "Pat Greene", 
+            "party": "Direct\u00a0Democracy"
+        }
+    ], 
+    "counts_held": 11, 
+    "description": "2016 general election", 
+    "election_type": "dail", 
+    "electorate": 104696, 
+    "name": "Louth", 
+    "quota": 11255, 
+    "spoilt": 749, 
+    "turnout": 68278, 
+    "valid": 79273, 
+    "year": 2016
+}

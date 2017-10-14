@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7493
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.6, 
+            "full_name": "Frank Aiken", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6672
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.8, 
+            "full_name": "James Coburn", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5996
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.5, 
+            "full_name": "Laurence Walsh", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5000
+            ], 
+            "elected": false, 
+            "first_pref_pc": 17.1, 
+            "full_name": "Frank Jeffers", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                3287
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.2, 
+            "full_name": "Roddy Connolly", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                795
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Eoin \u00d3 Coigligh", 
+            "party": "Ailtir\u00ed na hAis\u00e9irghe"
+        }
+    ], 
+    "description": "1944 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Louth", 
+    "quota": 7311, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 29243, 
+    "year": 1944
+}

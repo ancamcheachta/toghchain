@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10923
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25, 
+            "full_name": "Martin Corry", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7712
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.6, 
+            "full_name": "William Kent", 
+            "party": "National Centre Party"
+        }, 
+        {
+            "counts": [
+                5092
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.6, 
+            "full_name": "Patrick Murphy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4432
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.1, 
+            "full_name": "William Broderick", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3645
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.3, 
+            "full_name": "Patrick Daly", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                4389
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10, 
+            "full_name": "Brook Brasier", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                4244
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.7, 
+            "full_name": "Patrick O'Brien", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3324
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.6, 
+            "full_name": "Edward Cronin", 
+            "party": "Cumann na nGaedheal"
+        }
+    ], 
+    "description": "1933 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Cork East", 
+    "quota": 7294, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 43761, 
+    "year": 1933
+}

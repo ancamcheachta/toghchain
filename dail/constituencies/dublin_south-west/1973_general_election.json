@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9865
+            ], 
+            "elected": true, 
+            "first_pref_pc": 32.7, 
+            "full_name": "John O'Connell", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4633
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.4, 
+            "full_name": "Declan Costello", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3939
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.1, 
+            "full_name": "Joseph Dowling", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4705
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.6, 
+            "full_name": "Noel Lemass, Jnr", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2603
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.6, 
+            "full_name": "Thomas Dalton", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1340
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "Se\u00e1n Sherwin", 
+            "party": "Aontacht \u00c9ireann"
+        }, 
+        {
+            "counts": [
+                1194
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4, 
+            "full_name": "Jim Mitchell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                972
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.2, 
+            "full_name": "James Spooner", 
+            "party": "Sinn F\u00e9in (Official)"
+        }, 
+        {
+            "counts": [
+                541
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Patrick O'Mahony", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                369
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "Pat Sweeney", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1973 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South-West", 
+    "quota": 6033, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 30161, 
+    "year": 1973
+}

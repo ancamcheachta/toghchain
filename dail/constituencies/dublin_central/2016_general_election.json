@@ -1,0 +1,247 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                5770, 
+                5780, 
+                5806, 
+                5825, 
+                5854, 
+                6016
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.4, 
+            "full_name": "Mary Lou McDonald", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 246, 
+            "transfers_pc": 2.37
+        }, 
+        {
+            "counts": [
+                3226, 
+                3228, 
+                3231, 
+                3276, 
+                3393, 
+                3405, 
+                3480, 
+                4478, 
+                4481, 
+                5127, 
+                5447
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.6, 
+            "full_name": "Paschal Donohoe", 
+            "party": "Fine Gael", 
+            "transfers": 2221, 
+            "transfers_pc": 21.37
+        }, 
+        {
+            "counts": [
+                1990, 
+                2009, 
+                2058, 
+                2085, 
+                2181, 
+                2377, 
+                2792, 
+                3181, 
+                3214, 
+                3923, 
+                5269
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.4, 
+            "full_name": "Maureen O'Sullivan", 
+            "party": "Independent", 
+            "transfers": 3279, 
+            "transfers_pc": 31.55
+        }, 
+        {
+            "counts": [
+                2307, 
+                2327, 
+                2387, 
+                2411, 
+                2601, 
+                2832, 
+                3117, 
+                3514, 
+                3549, 
+                3931, 
+                4948
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.7, 
+            "full_name": "Gary Gannon", 
+            "party": "Social Democrats", 
+            "transfers": 2641, 
+            "transfers_pc": 25.41
+        }, 
+        {
+            "counts": [
+                2406, 
+                2411, 
+                2418, 
+                2440, 
+                2452, 
+                2503, 
+                2822, 
+                3066, 
+                3083, 
+                3658
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.2, 
+            "full_name": "Christy Burke", 
+            "party": "Independent", 
+            "transfers": 1252, 
+            "transfers_pc": 12.05
+        }, 
+        {
+            "counts": [
+                2508, 
+                2510, 
+                2517, 
+                2601, 
+                2632, 
+                2655, 
+                2810, 
+                2978, 
+                2984
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.6, 
+            "full_name": "Mary Fitzpatrick", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 476, 
+            "transfers_pc": 4.58
+        }, 
+        {
+            "counts": [
+                2092, 
+                2102, 
+                2121, 
+                2132, 
+                2245, 
+                2281, 
+                2345
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.8, 
+            "full_name": "Joe Costello", 
+            "party": "Labour Party", 
+            "transfers": 253, 
+            "transfers_pc": 2.43
+        }, 
+        {
+            "counts": [
+                1242, 
+                1258, 
+                1294, 
+                1309, 
+                1333, 
+                1492
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.2, 
+            "full_name": "Cieran Perry", 
+            "party": "Independent", 
+            "transfers": 250, 
+            "transfers_pc": 2.41
+        }, 
+        {
+            "counts": [
+                721, 
+                749, 
+                830, 
+                845, 
+                909
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "Diana O'Dwyer", 
+            "party": "AAA\u2013PBP", 
+            "transfers": 188, 
+            "transfers_pc": 1.81
+        }, 
+        {
+            "counts": [
+                644, 
+                651, 
+                674, 
+                696
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Ian Noel Smyth", 
+            "party": "Green Party", 
+            "transfers": 52, 
+            "transfers_pc": 0.5
+        }, 
+        {
+            "counts": [
+                330, 
+                339, 
+                339
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "Jacqui Gilbourne", 
+            "party": "Renua Ireland", 
+            "transfers": 9, 
+            "transfers_pc": 0.09
+        }, 
+        {
+            "counts": [
+                303, 
+                316
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.3, 
+            "full_name": "\u00c9ilis Ryan", 
+            "party": "Workers' Party", 
+            "transfers": 13, 
+            "transfers_pc": 0.13
+        }, 
+        {
+            "counts": [
+                62
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Cormac McKay", 
+            "party": "Direct\u00a0Democracy"
+        }, 
+        {
+            "counts": [
+                58
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Kerry Guinan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                27
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "William DJ Gorman", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 11, 
+    "description": "2016 general election", 
+    "election_type": "dail", 
+    "electorate": 45747, 
+    "name": "Dublin Central", 
+    "quota": 5922, 
+    "spoilt": 304, 
+    "turnout": 23990, 
+    "valid": 23686, 
+    "year": 2016
+}

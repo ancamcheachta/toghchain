@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9014
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.4, 
+            "full_name": "Brendan Corish", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6042
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17, 
+            "full_name": "Anthony Esmonde", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5269
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.8, 
+            "full_name": "James Kennedy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5362
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.1, 
+            "full_name": "Lorcan Allen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3935
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.1, 
+            "full_name": "Se\u00e1n Browne", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3450
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.7, 
+            "full_name": "William Rackard", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2443
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.9, 
+            "full_name": "Martin Dunbar", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1965 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Wexford", 
+    "quota": 7104, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 35515, 
+    "year": 1965
+}

@@ -1,0 +1,50 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9986
+            ], 
+            "elected": true, 
+            "first_pref_pc": 31.1, 
+            "full_name": "Paddy Keaveney", 
+            "party": "Independent Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                10188
+            ], 
+            "elected": false, 
+            "first_pref_pc": 31.8, 
+            "full_name": "Joachim Loughrey", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                9865
+            ], 
+            "elected": false, 
+            "first_pref_pc": 30.7, 
+            "full_name": "Hugh Conaghan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2053
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.4, 
+            "full_name": "Tony Gill", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1976 by-election", 
+    "election_type": "dail", 
+    "electorate": 42390, 
+    "name": "Donegal North-East", 
+    "quota": 16047, 
+    "spoilt": null, 
+    "turnout": 75, 
+    "valid": 32092, 
+    "year": 1976
+}

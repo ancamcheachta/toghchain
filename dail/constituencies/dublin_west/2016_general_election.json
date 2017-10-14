@@ -1,0 +1,159 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8247, 
+                8328, 
+                9021
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.7, 
+            "full_name": "Leo Varadkar", 
+            "party": "Fine Gael", 
+            "transfers": 774, 
+            "transfers_pc": 9.94
+        }, 
+        {
+            "counts": [
+                6520, 
+                6626, 
+                6690, 
+                7011, 
+                8548
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.5, 
+            "full_name": "Ruth Coppinger", 
+            "party": "AAA\u2013PBP", 
+            "transfers": 2028, 
+            "transfers_pc": 26.04
+        }, 
+        {
+            "counts": [
+                6917, 
+                7148, 
+                7236, 
+                7330, 
+                8315
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.5, 
+            "full_name": "Jack Chambers", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1398, 
+            "transfers_pc": 17.95
+        }, 
+        {
+            "counts": [
+                6445, 
+                6508, 
+                6668, 
+                6769, 
+                8009
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.4, 
+            "full_name": "Joan Burton", 
+            "party": "Labour Party", 
+            "transfers": 1564, 
+            "transfers_pc": 20.08
+        }, 
+        {
+            "counts": [
+                6034, 
+                6073, 
+                6093, 
+                6188, 
+                7091
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.4, 
+            "full_name": "Paul Donnelly", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 1057, 
+            "transfers_pc": 13.57
+        }, 
+        {
+            "counts": [
+                2991, 
+                3081, 
+                3112, 
+                3405
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.1, 
+            "full_name": "David McGuinness", 
+            "party": "Independent", 
+            "transfers": 414, 
+            "transfers_pc": 5.32
+        }, 
+        {
+            "counts": [
+                1730, 
+                1839, 
+                1864, 
+                2098
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.1, 
+            "full_name": "Roderic O'Gorman", 
+            "party": "Green Party", 
+            "transfers": 368, 
+            "transfers_pc": 4.72
+        }, 
+        {
+            "counts": [
+                1092, 
+                1191, 
+                1214
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "T J Clare", 
+            "party": "Independent", 
+            "transfers": 122, 
+            "transfers_pc": 1.57
+        }, 
+        {
+            "counts": [
+                1074, 
+                1125
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "Catherine Noone", 
+            "party": "Fine Gael", 
+            "transfers": 51, 
+            "transfers_pc": 0.65
+        }, 
+        {
+            "counts": [
+                677
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "Jo O'Brien", 
+            "party": "Renua Ireland"
+        }, 
+        {
+            "counts": [
+                225
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Dermot Casey", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 5, 
+    "description": "2016 general election", 
+    "election_type": "dail", 
+    "electorate": 64639, 
+    "name": "Dublin West", 
+    "quota": 8391, 
+    "spoilt": 320, 
+    "turnout": 64959, 
+    "valid": 41952, 
+    "year": 2016
+}

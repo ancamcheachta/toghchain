@@ -1,0 +1,198 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9456
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.3, 
+            "full_name": "Billy Kelleher", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6866, 
+                6935, 
+                7066, 
+                7267, 
+                7515, 
+                8193, 
+                9258
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.2, 
+            "full_name": "Bernard Allen", 
+            "party": "Fine Gael", 
+            "transfers": 2392, 
+            "transfers_pc": 21.16
+        }, 
+        {
+            "counts": [
+                5680, 
+                6298, 
+                6410, 
+                6531, 
+                6612, 
+                7043, 
+                7646
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.4, 
+            "full_name": "Noel O'Flynn", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1966, 
+            "transfers_pc": 17.4
+        }, 
+        {
+            "counts": [
+                5221, 
+                5315, 
+                5513, 
+                6104, 
+                6673, 
+                7366, 
+                9061
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.3, 
+            "full_name": "Kathleen Lynch", 
+            "party": "Labour Party", 
+            "transfers": 3840, 
+            "transfers_pc": 33.98
+        }, 
+        {
+            "counts": [
+                4808, 
+                4890, 
+                5025, 
+                5251, 
+                5352, 
+                5533, 
+                5893
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.4, 
+            "full_name": "Gerry Kelly", 
+            "party": "Fine Gael", 
+            "transfers": 1085, 
+            "transfers_pc": 9.6
+        }, 
+        {
+            "counts": [
+                3456, 
+                3487, 
+                3621, 
+                3776, 
+                4333, 
+                5074
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.2, 
+            "full_name": "Jonathan O'Brien", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 1618, 
+            "transfers_pc": 14.32
+        }, 
+        {
+            "counts": [
+                2492, 
+                2533, 
+                2662, 
+                2776, 
+                3064
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.9, 
+            "full_name": "Dave McCarthy", 
+            "party": "Independent", 
+            "transfers": 572, 
+            "transfers_pc": 5.06
+        }, 
+        {
+            "counts": [
+                1700, 
+                1707, 
+                1841, 
+                1995
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4, 
+            "full_name": "Mick Barry", 
+            "party": "Socialist Party", 
+            "transfers": 295, 
+            "transfers_pc": 2.61
+        }, 
+        {
+            "counts": [
+                1503, 
+                1528, 
+                1690
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.5, 
+            "full_name": "Chris O'Leary", 
+            "party": "Green Party", 
+            "transfers": 187, 
+            "transfers_pc": 1.65
+        }, 
+        {
+            "counts": [
+                702, 
+                713
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "John McCarthy", 
+            "party": "Independent", 
+            "transfers": 11, 
+            "transfers_pc": 0.1
+        }, 
+        {
+            "counts": [
+                263, 
+                267
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Ted Tynan", 
+            "party": "Workers' Party", 
+            "transfers": 4, 
+            "transfers_pc": 0.04
+        }, 
+        {
+            "counts": [
+                116, 
+                119
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Stephen Saleh", 
+            "party": "Independent", 
+            "transfers": 3, 
+            "transfers_pc": 0.03
+        }, 
+        {
+            "counts": [
+                84, 
+                85
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Niall Brennan", 
+            "party": "Fathers Rights", 
+            "transfers": 1, 
+            "transfers_pc": 0.01
+        }
+    ], 
+    "counts_held": 7, 
+    "description": "2007 general election", 
+    "election_type": "dail", 
+    "electorate": 67777, 
+    "name": "Cork North-Central", 
+    "quota": 8470, 
+    "spoilt": 471, 
+    "turnout": 42818, 
+    "valid": 42347, 
+    "year": 2007
+}

@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7712
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.2, 
+            "full_name": "Patrick Little", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6113
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.1, 
+            "full_name": "Michael Morrissey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8254
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.4, 
+            "full_name": "Bridget Redmond", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4784
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.8, 
+            "full_name": "Nicholas Wall", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5528
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.7, 
+            "full_name": "Se\u00e1n Goulding", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4235
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.5, 
+            "full_name": "John Butler", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3179
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.9, 
+            "full_name": "Daniel Foley", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                592
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.5, 
+            "full_name": "William Jones", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1937 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Waterford", 
+    "quota": 8080, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 40397, 
+    "year": 1937
+}

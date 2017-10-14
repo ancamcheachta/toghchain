@@ -1,0 +1,32 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                21526
+            ], 
+            "elected": true, 
+            "first_pref_pc": 72.2, 
+            "full_name": "Patrick Shanahan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8299
+            ], 
+            "elected": false, 
+            "first_pref_pc": 27.8, 
+            "full_name": "Edward Monahan", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1945 by-election", 
+    "election_type": "dail", 
+    "electorate": 60993, 
+    "name": "Clare", 
+    "quota": 14913, 
+    "spoilt": null, 
+    "turnout": 48, 
+    "valid": 29825, 
+    "year": 1945
+}

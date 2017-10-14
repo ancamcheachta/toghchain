@@ -1,0 +1,100 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10333
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.3, 
+            "full_name": "Christy O'Sullivan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7560, 
+                7813, 
+                8471, 
+                10667
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.8, 
+            "full_name": "Jim O'Keeffe", 
+            "party": "Fine Gael", 
+            "transfers": 3107, 
+            "transfers_pc": 34.12
+        }, 
+        {
+            "counts": [
+                7739, 
+                7976, 
+                8387, 
+                10126
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.2, 
+            "full_name": "P. J. Sheehan", 
+            "party": "Fine Gael", 
+            "transfers": 2387, 
+            "transfers_pc": 26.22
+        }, 
+        {
+            "counts": [
+                7760, 
+                8008, 
+                8417, 
+                9420
+            ], 
+            "elected": false, 
+            "first_pref_pc": 18.3, 
+            "full_name": "Denis O'Donovan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1660, 
+            "transfers_pc": 18.23
+        }, 
+        {
+            "counts": [
+                4095, 
+                4471, 
+                5912
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.6, 
+            "full_name": "Michael McCarthy", 
+            "party": "Labour Party", 
+            "transfers": 1817, 
+            "transfers_pc": 19.96
+        }, 
+        {
+            "counts": [
+                2860, 
+                3293
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.7, 
+            "full_name": "Quentin Gargan", 
+            "party": "Green Party", 
+            "transfers": 433, 
+            "transfers_pc": 4.76
+        }, 
+        {
+            "counts": [
+                2150
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.1, 
+            "full_name": "Cionnaith \u00d3 S\u00failleabh\u00e1in", 
+            "party": "Sinn F\u00e9in"
+        }
+    ], 
+    "counts_held": 4, 
+    "description": "2007 general election", 
+    "election_type": "dail", 
+    "electorate": 61577, 
+    "name": "Cork South-West", 
+    "quota": 10625, 
+    "spoilt": 410, 
+    "turnout": 42907, 
+    "valid": 42497, 
+    "year": 2007
+}

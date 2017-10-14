@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8317
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.4, 
+            "full_name": "Cecilia Keaveney", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7484
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.1, 
+            "full_name": "Harry Blaney", 
+            "party": "Independent Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6538
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.4, 
+            "full_name": "Jim McDaid", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4969
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14, 
+            "full_name": "Paddy Harte", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2881
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.1, 
+            "full_name": "Pat Doherty", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                1948
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.5, 
+            "full_name": "Sean Maloney", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1735
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.9, 
+            "full_name": "Jim Sheridan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1657
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.7, 
+            "full_name": "Jim Devenney", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1997 general election", 
+    "election_type": "dail", 
+    "electorate": 52576, 
+    "name": "Donegal North-East", 
+    "quota": 7106, 
+    "spoilt": 422, 
+    "turnout": 35951, 
+    "valid": 35529, 
+    "year": 1997
+}

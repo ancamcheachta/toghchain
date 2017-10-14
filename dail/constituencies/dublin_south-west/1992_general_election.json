@@ -1,0 +1,158 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10871
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.5, 
+            "full_name": "Mervyn Taylor", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6596
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.5, 
+            "full_name": "Chris Flood", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3594
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.4, 
+            "full_name": "Eamonn Walsh", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4964
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.6, 
+            "full_name": "Mary Harney", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                3743
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.8, 
+            "full_name": "Pat Rabbitte", 
+            "party": "Democratic Left"
+        }, 
+        {
+            "counts": [
+                2288
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.4, 
+            "full_name": "Colm McGrath", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2614
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.1, 
+            "full_name": "Michael Keating", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1832
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.3, 
+            "full_name": "John Hannon", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1511
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.5, 
+            "full_name": "Peter Keogh", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1701
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4, 
+            "full_name": "Charlie O'Connor", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                871
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "David Cotter", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                846
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "Se\u00e1n Crowe", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                581
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "Bob Byrne", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                293
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "Esther Kelly", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                184
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Anthony Hubbard", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                159
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Harry Richards", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1992 general election", 
+    "election_type": "dail", 
+    "electorate": 69922, 
+    "name": "Dublin South-West", 
+    "quota": 7109, 
+    "spoilt": 709, 
+    "turnout": 43357, 
+    "valid": 42648, 
+    "year": 1992
+}

@@ -1,0 +1,131 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6995
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.6, 
+            "full_name": "Brian Lenihan, Jnr", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6743
+            ], 
+            "elected": false, 
+            "first_pref_pc": 23.7, 
+            "full_name": "[24]", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                3728
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.1, 
+            "full_name": "Tom Morrissey", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2909
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.2, 
+            "full_name": "Tom\u00e1s Mac Giolla", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                1286
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.5, 
+            "full_name": "Paul Gogarty", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                1574
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.5, 
+            "full_name": "John McCann", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                1314
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.6, 
+            "full_name": "Sheila Terry", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                1131
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4, 
+            "full_name": "Vincent Jackson", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1058
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "Michael O'Donovan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                768
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Gerard Casey", 
+            "party": "Christian Solidarity"
+        }, 
+        {
+            "counts": [
+                514
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Sean Lyons", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                369
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.3, 
+            "full_name": "John O'Halloran", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                21
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Benny Cooney", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1996 by-election", 
+    "election_type": "dail", 
+    "electorate": 62534, 
+    "name": "Dublin West", 
+    "quota": 14206, 
+    "spoilt": null, 
+    "turnout": 45, 
+    "valid": 28410, 
+    "year": 1996
+}

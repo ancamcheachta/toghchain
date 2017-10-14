@@ -1,0 +1,140 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8787
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.3, 
+            "full_name": "Thomas Derrig", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6055
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.3, 
+            "full_name": "Joseph Hughes", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5438
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.9, 
+            "full_name": "Patrick Crotty", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4707
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.3, 
+            "full_name": "James Pattison", 
+            "party": "National Labour Party"
+        }, 
+        {
+            "counts": [
+                4468
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.8, 
+            "full_name": "Thomas Walsh", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4301
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.4, 
+            "full_name": "Francis Humphreys", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2797
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.1, 
+            "full_name": "M. J. Barry", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                2537
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.6, 
+            "full_name": "Patrick Bergin", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1543
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.4, 
+            "full_name": "David Burke", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1506
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.3, 
+            "full_name": "Joseph Rice", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1186
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "Charles Sheehan", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                991
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.2, 
+            "full_name": "W. J. Cleere", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                809
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Patrick Gleeson", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                527
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "Stephen Carroll", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1948 general election", 
+    "election_type": "dail", 
+    "electorate": 61031, 
+    "name": "Carlow\u2013Kilkenny", 
+    "quota": 7609, 
+    "spoilt": null, 
+    "turnout": 74, 
+    "valid": 45652, 
+    "year": 1948
+}

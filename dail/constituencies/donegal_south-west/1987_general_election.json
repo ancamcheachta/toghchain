@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9698
+            ], 
+            "elected": true, 
+            "first_pref_pc": 30.7, 
+            "full_name": "Mary Coughlan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8686
+            ], 
+            "elected": true, 
+            "first_pref_pc": 27.5, 
+            "full_name": "Pat the Cope Gallagher", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6331
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.1, 
+            "full_name": "Dinny McGinley", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3072
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.7, 
+            "full_name": "Francis O'Kelly", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2512
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8, 
+            "full_name": "S\u00e9amus Rodgers", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                1276
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4, 
+            "full_name": "Eamonn Monaghan", 
+            "party": "Sinn F\u00e9in"
+        }
+    ], 
+    "description": "1987 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Donegal South-West", 
+    "quota": 7894, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 31575, 
+    "year": 1987
+}

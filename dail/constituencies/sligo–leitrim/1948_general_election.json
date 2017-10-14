@@ -1,0 +1,167 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                5688
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.4, 
+            "full_name": "Eugene Gilbride", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5141
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.3, 
+            "full_name": "Mary Reynolds", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4910
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.8, 
+            "full_name": "Stephen Flynn", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5054
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.1, 
+            "full_name": "Joseph Roddy", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4757
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.5, 
+            "full_name": "Bernard Maguire", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                4582
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.1, 
+            "full_name": "Michael McDonagh", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4324
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.6, 
+            "full_name": "Patrick Rogers", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2227
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "Laurence Harte", 
+            "party": "Clann na Talmhan"
+        }, 
+        {
+            "counts": [
+                2088
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.2, 
+            "full_name": "Francis Higgins", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1952
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.9, 
+            "full_name": "Robert Flanagan", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                1840
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "Francis Gannon", 
+            "party": "Clann na Talmhan"
+        }, 
+        {
+            "counts": [
+                1785
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.6, 
+            "full_name": "James Flynn", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1776
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.5, 
+            "full_name": "Michael McGowan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1338
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Owen Dolan", 
+            "party": "Clann na Talmhan"
+        }, 
+        {
+            "counts": [
+                1177
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.4, 
+            "full_name": "Patrick Kiernan", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                1158
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.3, 
+            "full_name": "John Leonard", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                323
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "William Hargadon", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1948 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Sligo\u2013Leitrim", 
+    "quota": 8354, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 50120, 
+    "year": 1948
+}

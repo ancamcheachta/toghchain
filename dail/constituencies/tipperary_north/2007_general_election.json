@@ -1,0 +1,138 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                12919
+            ], 
+            "elected": true, 
+            "first_pref_pc": 29.1, 
+            "full_name": "Michael Lowry", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                7061, 
+                7569, 
+                7763, 
+                7981, 
+                8440, 
+                11499
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.9, 
+            "full_name": "Noel Coonan", 
+            "party": "Fine Gael", 
+            "transfers": 4438, 
+            "transfers_pc": 40.28
+        }, 
+        {
+            "counts": [
+                7374, 
+                7664, 
+                7905, 
+                8249, 
+                8793, 
+                10167
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.6, 
+            "full_name": "M\u00e1ire Hoctor", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2793, 
+            "transfers_pc": 25.35
+        }, 
+        {
+            "counts": [
+                7871, 
+                8107, 
+                8223, 
+                8480, 
+                8975, 
+                9607
+            ], 
+            "elected": false, 
+            "first_pref_pc": 17.7, 
+            "full_name": "Michael Smith", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1736, 
+            "transfers_pc": 15.76
+        }, 
+        {
+            "counts": [
+                4561, 
+                4859, 
+                5218, 
+                5748, 
+                6311
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.3, 
+            "full_name": "Kathleen O'Meara", 
+            "party": "Labour Party", 
+            "transfers": 1750, 
+            "transfers_pc": 15.88
+        }, 
+        {
+            "counts": [
+                1844, 
+                2193, 
+                2283, 
+                2564
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.2, 
+            "full_name": "Jim Ryan", 
+            "party": "Independent", 
+            "transfers": 720, 
+            "transfers_pc": 6.54
+        }, 
+        {
+            "counts": [
+                1672, 
+                1754, 
+                1881
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.8, 
+            "full_name": "S\u00e9amus Morris", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 209, 
+            "transfers_pc": 1.9
+        }, 
+        {
+            "counts": [
+                634, 
+                658
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "Tony Sheary", 
+            "party": "Progressive Democrats", 
+            "transfers": 24, 
+            "transfers_pc": 0.22
+        }, 
+        {
+            "counts": [
+                495, 
+                519
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "Paul McNally", 
+            "party": "Green Party", 
+            "transfers": 24, 
+            "transfers_pc": 0.22
+        }
+    ], 
+    "counts_held": 6, 
+    "description": "2007 general election", 
+    "election_type": "dail", 
+    "electorate": 57084, 
+    "name": "Tipperary North", 
+    "quota": 11108, 
+    "spoilt": 332, 
+    "turnout": 44783, 
+    "valid": 44431, 
+    "year": 2007
+}

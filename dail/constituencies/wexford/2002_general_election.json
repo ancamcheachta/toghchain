@@ -1,0 +1,186 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9150, 
+                9181, 
+                9518, 
+                9609, 
+                10178
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.1, 
+            "full_name": "John Browne", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1028, 
+            "transfers_pc": 6.7
+        }, 
+        {
+            "counts": [
+                7995, 
+                8073, 
+                8201, 
+                8924, 
+                10135
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.2, 
+            "full_name": "Brendan Howlin", 
+            "party": "Labour Party", 
+            "transfers": 2140, 
+            "transfers_pc": 13.95
+        }, 
+        {
+            "counts": [
+                7048, 
+                7099, 
+                7387, 
+                8791, 
+                9195, 
+                12631
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.7, 
+            "full_name": "Paul Kehoe", 
+            "party": "Fine Gael", 
+            "transfers": 5583, 
+            "transfers_pc": 36.4
+        }, 
+        {
+            "counts": [
+                5815, 
+                6010, 
+                6213, 
+                6574, 
+                8062, 
+                8740, 
+                10082
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.6, 
+            "full_name": "Liam Twomey", 
+            "party": "Independent", 
+            "transfers": 4267, 
+            "transfers_pc": 27.82
+        }, 
+        {
+            "counts": [
+                7520, 
+                7560, 
+                7635, 
+                7793, 
+                8196, 
+                8823, 
+                9102, 
+                9150
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.4, 
+            "full_name": "Tony Dempsey", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1630, 
+            "transfers_pc": 10.63
+        }, 
+        {
+            "counts": [
+                7556, 
+                7574, 
+                7620, 
+                7755, 
+                8236, 
+                8702, 
+                9013, 
+                9072
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.5, 
+            "full_name": "Hugh Byrne", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1516, 
+            "transfers_pc": 9.88
+        }, 
+        {
+            "counts": [
+                4564, 
+                4597, 
+                4625, 
+                5645, 
+                5835
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.5, 
+            "full_name": "Michael D'Arcy", 
+            "party": "Fine Gael", 
+            "transfers": 1271, 
+            "transfers_pc": 8.29
+        }, 
+        {
+            "counts": [
+                4964, 
+                5020, 
+                5148, 
+                5217
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.2, 
+            "full_name": "John Dwyer", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 253, 
+            "transfers_pc": 1.65
+        }, 
+        {
+            "counts": [
+                3940, 
+                3969, 
+                4011
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.5, 
+            "full_name": "Avril Doyle", 
+            "party": "Fine Gael", 
+            "transfers": 71, 
+            "transfers_pc": 0.46
+        }, 
+        {
+            "counts": [
+                1274, 
+                1315
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "Se\u00e1n Doyle", 
+            "party": "Independent", 
+            "transfers": 41, 
+            "transfers_pc": 0.27
+        }, 
+        {
+            "counts": [
+                424
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "Miranda \u00d3 Bulguidhir", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                173
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Michael O'Connor", 
+            "party": "Christian Solidarity"
+        }
+    ], 
+    "counts_held": 8, 
+    "description": "2002 general election", 
+    "election_type": "dail", 
+    "electorate": 94586, 
+    "name": "Wexford", 
+    "quota": 10071, 
+    "spoilt": 1017, 
+    "turnout": 61440, 
+    "valid": 60423, 
+    "year": 2002
+}

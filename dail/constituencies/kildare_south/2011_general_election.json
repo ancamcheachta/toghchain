@@ -1,0 +1,125 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                12755
+            ], 
+            "elected": true, 
+            "first_pref_pc": 33.3, 
+            "full_name": "Martin Heydon", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                10645
+            ], 
+            "elected": true, 
+            "first_pref_pc": 27.8, 
+            "full_name": "Jack Wall", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4514, 
+                4961, 
+                5097, 
+                5177, 
+                5315, 
+                5552, 
+                8707
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.8, 
+            "full_name": "Se\u00e1n \u00d3 Feargha\u00edl", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 4193, 
+            "transfers_pc": 35.49
+        }, 
+        {
+            "counts": [
+                2806, 
+                3825, 
+                4081, 
+                4387, 
+                5156, 
+                6841, 
+                7710
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.3, 
+            "full_name": "Paddy Kennedy", 
+            "party": "Independent", 
+            "transfers": 4904, 
+            "transfers_pc": 41.51
+        }, 
+        {
+            "counts": [
+                3793, 
+                4307, 
+                4445, 
+                4542, 
+                4650, 
+                4888
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.9, 
+            "full_name": "Se\u00e1n Power", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1095, 
+            "transfers_pc": 9.27
+        }, 
+        {
+            "counts": [
+                2308, 
+                2610, 
+                2882, 
+                2905, 
+                3253
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6, 
+            "full_name": "Jason Turner", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 945, 
+            "transfers_pc": 8
+        }, 
+        {
+            "counts": [
+                926, 
+                1410, 
+                1644, 
+                1873
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.4, 
+            "full_name": "Clifford T. Reid", 
+            "party": "Independent", 
+            "transfers": 947, 
+            "transfers_pc": 8.02
+        }, 
+        {
+            "counts": [
+                523, 
+                944, 
+                1045
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "Vivian Cummins", 
+            "party": "Green Party", 
+            "transfers": 522, 
+            "transfers_pc": 4.42
+        }
+    ], 
+    "counts_held": 7, 
+    "description": "2011 general election", 
+    "election_type": "dail", 
+    "electorate": 58867, 
+    "name": "Kildare South", 
+    "quota": 9568, 
+    "spoilt": 353, 
+    "turnout": 38623, 
+    "valid": 38270, 
+    "year": 2011
+}

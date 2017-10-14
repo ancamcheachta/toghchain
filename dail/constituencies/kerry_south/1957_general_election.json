@@ -1,0 +1,50 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                5899
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26.6, 
+            "full_name": "Patrick Palmer", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5632
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.4, 
+            "full_name": "Honor Crowley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5582
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.1, 
+            "full_name": "John Joe Rice", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                5101
+            ], 
+            "elected": false, 
+            "first_pref_pc": 23, 
+            "full_name": "John Flynn", 
+            "party": "Fianna F\u00e1il"
+        }
+    ], 
+    "description": "1957 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Kerry South", 
+    "quota": 5554, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 22214, 
+    "year": 1957
+}

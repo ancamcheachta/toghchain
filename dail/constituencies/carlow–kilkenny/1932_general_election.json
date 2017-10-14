@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                11848
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.2, 
+            "full_name": "Thomas Derrig", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8672
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.4, 
+            "full_name": "Desmond FitzGerald", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                4749
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.1, 
+            "full_name": "Se\u00e1n Gibbons", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4629
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.8, 
+            "full_name": "Francis Humphreys", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2799
+            ], 
+            "elected": true, 
+            "first_pref_pc": 5.9, 
+            "full_name": "Denis Gorey", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                4272
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.1, 
+            "full_name": "James Hughes", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                4105
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.7, 
+            "full_name": "James Pattison", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2688
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.7, 
+            "full_name": "Richard Holohan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2540
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.4, 
+            "full_name": "Edward Doyle", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                718
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.5, 
+            "full_name": "Thomas Bolger", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1932 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Carlow\u2013Kilkenny", 
+    "quota": 7837, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 47020, 
+    "year": 1932
+}

@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                14723
+            ], 
+            "elected": true, 
+            "first_pref_pc": 29.7, 
+            "full_name": "\u00c9amon de Valera", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7270
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.7, 
+            "full_name": "Se\u00e1n O'Grady", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3079
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6.2, 
+            "full_name": "Peter O'Loghlen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6525
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.2, 
+            "full_name": "Thomas Burke", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                6280
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.7, 
+            "full_name": "Patrick Burke", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5713
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.5, 
+            "full_name": "Patrick Hogan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4305
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.7, 
+            "full_name": "Martin Sexton", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1686
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.4, 
+            "full_name": "Edmund Carroll", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1938 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Clare", 
+    "quota": 8264, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 49581, 
+    "year": 1938
+}

@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7501
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.7, 
+            "full_name": "Donogh O'Malley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5178
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.3, 
+            "full_name": "Paddy Clohessy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5623
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.5, 
+            "full_name": "Ted Russell", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                4193
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.6, 
+            "full_name": "John Carew", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3455
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.5, 
+            "full_name": "Patrick Maguire", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3395
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.4, 
+            "full_name": "Stephen Coughlan", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                3085
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.5, 
+            "full_name": "P\u00e1draig \u00d3 Maolcathaigh", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                2098
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.8, 
+            "full_name": "Christopher Keyes", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1690
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.7, 
+            "full_name": "Patrick Donegan", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1957 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Limerick East", 
+    "quota": 7244, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 36218, 
+    "year": 1957
+}

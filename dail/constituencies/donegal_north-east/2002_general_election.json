@@ -1,0 +1,107 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9614
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26.5, 
+            "full_name": "Jim McDaid", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8340, 
+                8463, 
+                8712, 
+                9724
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.9, 
+            "full_name": "Cecilia Keaveney", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1384, 
+            "transfers_pc": 15.25
+        }, 
+        {
+            "counts": [
+                6124, 
+                6261, 
+                6392, 
+                7667, 
+                8031, 
+                8789
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.8, 
+            "full_name": "Niall Blaney", 
+            "party": "Independent Fianna F\u00e1il", 
+            "transfers": 2665, 
+            "transfers_pc": 29.37
+        }, 
+        {
+            "counts": [
+                3694, 
+                4081, 
+                4181, 
+                4627, 
+                4680, 
+                7432
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.3, 
+            "full_name": "Sean Maloney", 
+            "party": "Fine Gael", 
+            "transfers": 3738, 
+            "transfers_pc": 41.2
+        }, 
+        {
+            "counts": [
+                3914, 
+                4101, 
+                4111, 
+                4376, 
+                4551
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.8, 
+            "full_name": "Bernard McGuinness", 
+            "party": "Fine Gael", 
+            "transfers": 637, 
+            "transfers_pc": 7.02
+        }, 
+        {
+            "counts": [
+                3611, 
+                3714, 
+                3751
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.9, 
+            "full_name": "P\u00e1draig Mac Lochlainn", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 140, 
+            "transfers_pc": 1.54
+        }, 
+        {
+            "counts": [
+                1021
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "Jackie McNair", 
+            "party": "Labour Party"
+        }
+    ], 
+    "counts_held": 6, 
+    "description": "2002 general election", 
+    "election_type": "dail", 
+    "electorate": 58208, 
+    "name": "Donegal North-East", 
+    "quota": 9087, 
+    "spoilt": 549, 
+    "turnout": 36896, 
+    "valid": 36347, 
+    "year": 2002
+}

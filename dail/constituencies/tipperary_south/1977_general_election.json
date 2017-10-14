@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                null
+            ], 
+            "elected": true, 
+            "first_pref_pc": null, 
+            "full_name": "Se\u00e1n Treacy", 
+            "party": "Ceann Comhairle"
+        }, 
+        {
+            "counts": [
+                11715
+            ], 
+            "elected": true, 
+            "first_pref_pc": 34.8, 
+            "full_name": "Noel Davern", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6298
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.7, 
+            "full_name": "Brendan Griffin", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6412
+            ], 
+            "elected": false, 
+            "first_pref_pc": 19.1, 
+            "full_name": "Se\u00e1n Byrne", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5462
+            ], 
+            "elected": false, 
+            "first_pref_pc": 16.2, 
+            "full_name": "Michael Ferris", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3400
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.1, 
+            "full_name": "Hubert Burke", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                275
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "Patrick Leahy", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                104
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Paschal Ryan", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1977 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Tipperary South", 
+    "quota": 11223, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 33666, 
+    "year": 1977
+}

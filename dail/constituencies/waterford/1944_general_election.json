@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8061
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.6, 
+            "full_name": "Bridget Redmond", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7562
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.3, 
+            "full_name": "Patrick Little", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6772
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.2, 
+            "full_name": "Michael Morrissey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5615
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.1, 
+            "full_name": "Denis Heskin", 
+            "party": "Clann na Talmhan"
+        }, 
+        {
+            "counts": [
+                4925
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.2, 
+            "full_name": "Se\u00e1n Goulding", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3634
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.7, 
+            "full_name": "David Hanly", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                739
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "Liam Walsh", 
+            "party": "Ailtir\u00ed na hAis\u00e9irghe"
+        }
+    ], 
+    "description": "1944 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Waterford", 
+    "quota": 7462, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 37308, 
+    "year": 1944
+}

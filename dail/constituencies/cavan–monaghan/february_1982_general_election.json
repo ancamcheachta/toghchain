@@ -1,0 +1,166 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9776
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.8, 
+            "full_name": "John Wilson", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8585, 
+                8614, 
+                8427, 
+                8857, 
+                9890
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.8, 
+            "full_name": "Jimmy Leonard", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1305, 
+            "transfers_pc": 12.32
+        }, 
+        {
+            "counts": [
+                6651, 
+                6692, 
+                6798, 
+                6857, 
+                8697, 
+                10159
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.4, 
+            "full_name": "Rory O'Hanlon", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3508, 
+            "transfers_pc": 33.11
+        }, 
+        {
+            "counts": [
+                8317, 
+                8386, 
+                8427, 
+                8956, 
+                9236, 
+                9753
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.3, 
+            "full_name": "Thomas J. Fitzpatrick", 
+            "party": "Fine Gael", 
+            "transfers": 1436, 
+            "transfers_pc": 13.55
+        }, 
+        {
+            "counts": [
+                7486, 
+                7512, 
+                7603, 
+                8545, 
+                8613, 
+                9051
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.9, 
+            "full_name": "John Conlan", 
+            "party": "Fine Gael", 
+            "transfers": 1565, 
+            "transfers_pc": 14.77
+        }, 
+        {
+            "counts": [
+                6808, 
+                6833, 
+                6867, 
+                7191, 
+                7268, 
+                7378
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.7, 
+            "full_name": "Robert Fausset", 
+            "party": "Fine Gael", 
+            "transfers": 570, 
+            "transfers_pc": 5.38
+        }, 
+        {
+            "counts": [
+                3974, 
+                4079, 
+                4183, 
+                4243, 
+                4365
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.8, 
+            "full_name": "S\u00e9amus McElwaine", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 391, 
+            "transfers_pc": 3.69
+        }, 
+        {
+            "counts": [
+                3399, 
+                3481, 
+                3526, 
+                3584
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.9, 
+            "full_name": "Michael Smith", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 185, 
+            "transfers_pc": 1.75
+        }, 
+        {
+            "counts": [
+                2152, 
+                2167, 
+                2191
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "Thomas O'Reilly", 
+            "party": "Fine Gael", 
+            "transfers": 39, 
+            "transfers_pc": 0.37
+        }, 
+        {
+            "counts": [
+                529, 
+                567
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.9, 
+            "full_name": "Francis O'Donoghue", 
+            "party": "Sinn F\u00e9in (Workers' Party)", 
+            "transfers": 38, 
+            "transfers_pc": 0.36
+        }, 
+        {
+            "counts": [
+                455
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "James Kelly", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 6, 
+    "description": "February 1982 general election", 
+    "election_type": "dail", 
+    "electorate": 73601, 
+    "name": "Cavan\u2013Monaghan", 
+    "quota": 9689, 
+    "spoilt": 491, 
+    "turnout": 58623, 
+    "valid": 58132, 
+    "year": 1982
+}

@@ -1,0 +1,149 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                5299
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.2, 
+            "full_name": "Conor Byrne", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                5147
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.8, 
+            "full_name": "Patrick Shaw", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                4452
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.8, 
+            "full_name": "John Lyons", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2757
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.9, 
+            "full_name": "James Killane", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                3274
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.4, 
+            "full_name": "Patrick McKenna", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                3454
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.9, 
+            "full_name": "Francis McGuinness", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                1991
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.7, 
+            "full_name": "Hugh Garahan", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                1654
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.7, 
+            "full_name": "James Victory", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                1590
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.6, 
+            "full_name": "Hubert Wilson", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1285
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "Thomas Redmond", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1150
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.3, 
+            "full_name": "John Gavin", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                1091
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.1, 
+            "full_name": "Francis Phillips", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                877
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.5, 
+            "full_name": "Thomas Groarke", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                708
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "James Carrigy", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                136
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Se\u00e1n O'Farrell", 
+            "party": "National Democratic Party"
+        }
+    ], 
+    "description": "1923 general election", 
+    "election_type": "dail", 
+    "electorate": 58884, 
+    "name": "Longford\u2013Westmeath", 
+    "quota": 5811, 
+    "spoilt": null, 
+    "turnout": 59, 
+    "valid": 34865, 
+    "year": 1923
+}

@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7093
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26.4, 
+            "full_name": "James Coburn", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                6851
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.5, 
+            "full_name": "Frank Aiken", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3787
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.1, 
+            "full_name": "James Murphy", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3886
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.5, 
+            "full_name": "Peter Hughes", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                1867
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.9, 
+            "full_name": "Michael Connor", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1738
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.5, 
+            "full_name": "Matthew Campbell", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                930
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.5, 
+            "full_name": "Thomas O'Hanlon", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                748
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "Laurence McKenna", 
+            "party": "Fianna F\u00e1il"
+        }
+    ], 
+    "description": "June 1927 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Louth", 
+    "quota": 6726, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 26900, 
+    "year": 1927
+}

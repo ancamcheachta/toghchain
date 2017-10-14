@@ -1,0 +1,140 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                12581
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.3, 
+            "full_name": "Willie O'Dea", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                10092
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.3, 
+            "full_name": "Michael Noonan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4798
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.7, 
+            "full_name": "Eddie Wade", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4358
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.8, 
+            "full_name": "Desmond O'Malley", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                2702
+            ], 
+            "elected": true, 
+            "first_pref_pc": 5.4, 
+            "full_name": "Jim Kemmy", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3084
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.2, 
+            "full_name": "Mary Jackman", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3403
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.9, 
+            "full_name": "John Ryan", 
+            "party": "Democratic Left"
+        }, 
+        {
+            "counts": [
+                2362
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.8, 
+            "full_name": "Peter Power", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1866
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.8, 
+            "full_name": "Jan O'Sullivan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1817
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "Eddie Creighton", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                1533
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.1, 
+            "full_name": "Nora Bennis", 
+            "party": "National Party"
+        }, 
+        {
+            "counts": [
+                802
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "Eric Sheppard", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                195
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Noel Hannon", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                108
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Denis Riordan", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1997 general election", 
+    "election_type": "dail", 
+    "electorate": 76705, 
+    "name": "Limerick East", 
+    "quota": 8284, 
+    "spoilt": 348, 
+    "turnout": 50049, 
+    "valid": 49701, 
+    "year": 1997
+}

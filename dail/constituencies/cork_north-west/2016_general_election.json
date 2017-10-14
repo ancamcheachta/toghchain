@@ -1,0 +1,204 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8869, 
+                9024, 
+                9174, 
+                9327, 
+                9566, 
+                9747, 
+                10078, 
+                14957
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.7, 
+            "full_name": "Michael Creed", 
+            "party": "Fine Gael", 
+            "transfers": 6088, 
+            "transfers_pc": 35.77
+        }, 
+        {
+            "counts": [
+                8924, 
+                9004, 
+                9201, 
+                9367, 
+                9678, 
+                9956, 
+                10755, 
+                11141, 
+                11959
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.8, 
+            "full_name": "Aindrias Moynihan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3035, 
+            "transfers_pc": 17.83
+        }, 
+        {
+            "counts": [
+                7332, 
+                7344, 
+                7374, 
+                7519, 
+                7758, 
+                8144, 
+                8388, 
+                9228, 
+                9929
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.5, 
+            "full_name": "Michael Moynihan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2597, 
+            "transfers_pc": 15.26
+        }, 
+        {
+            "counts": [
+                4814, 
+                4919, 
+                5033, 
+                5444, 
+                5723, 
+                6687, 
+                7897, 
+                8549, 
+                9680
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.2, 
+            "full_name": "John Paul O'Shea", 
+            "party": "Independent", 
+            "transfers": 4866, 
+            "transfers_pc": 28.59
+        }, 
+        {
+            "counts": [
+                6237, 
+                6297, 
+                6495, 
+                6685, 
+                6944, 
+                7191, 
+                7388
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.2, 
+            "full_name": "\u00c1ine Collins", 
+            "party": "Fine Gael", 
+            "transfers": 1151, 
+            "transfers_pc": 6.76
+        }, 
+        {
+            "counts": [
+                3238, 
+                3334, 
+                3485, 
+                3633, 
+                3783, 
+                4256
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.8, 
+            "full_name": "Nigel Dennehy", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 1018, 
+            "transfers_pc": 5.98
+        }, 
+        {
+            "counts": [
+                2159, 
+                2317, 
+                2499, 
+                2727, 
+                2930
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.6, 
+            "full_name": "Diarmuid O'Flynn", 
+            "party": "Independent", 
+            "transfers": 771, 
+            "transfers_pc": 4.53
+        }, 
+        {
+            "counts": [
+                1568, 
+                1633, 
+                1760, 
+                1880
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.3, 
+            "full_name": "Jason Fitzgerald", 
+            "party": "Renua Ireland", 
+            "transfers": 312, 
+            "transfers_pc": 1.83
+        }, 
+        {
+            "counts": [
+                1361, 
+                1530, 
+                1728
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "Steven O'Riordan", 
+            "party": "Independent", 
+            "transfers": 367, 
+            "transfers_pc": 2.16
+        }, 
+        {
+            "counts": [
+                1354, 
+                1501
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "Cormac Manning", 
+            "party": "Green Party", 
+            "transfers": 147, 
+            "transfers_pc": 0.86
+        }, 
+        {
+            "counts": [
+                478
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Jerry O'Sullivan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                439
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.9, 
+            "full_name": "Shirley Griffin", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                185
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Michael O'Donnell", 
+            "party": "Communist Party"
+        }
+    ], 
+    "counts_held": 9, 
+    "description": "2016 general election", 
+    "election_type": "dail", 
+    "electorate": 67589, 
+    "name": "Cork North-West", 
+    "quota": 11740, 
+    "spoilt": 395, 
+    "turnout": 47353, 
+    "valid": 46958, 
+    "year": 2016
+}

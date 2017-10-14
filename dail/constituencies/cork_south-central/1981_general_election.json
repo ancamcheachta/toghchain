@@ -1,0 +1,154 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9010
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.1, 
+            "full_name": "Peter Barry", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7819, 
+                7827, 
+                8533
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.7, 
+            "full_name": "Pearse Wyse", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 714, 
+            "transfers_pc": 7.97
+        }, 
+        {
+            "counts": [
+                7889, 
+                7898, 
+                8295, 
+                8413
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.8, 
+            "full_name": "Gene Fitzgerald", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 524, 
+            "transfers_pc": 5.85
+        }, 
+        {
+            "counts": [
+                6961, 
+                7001, 
+                7261, 
+                7273, 
+                7861, 
+                8900
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.9, 
+            "full_name": "Eileen Desmond", 
+            "party": "Labour Party", 
+            "transfers": 1939, 
+            "transfers_pc": 21.63
+        }, 
+        {
+            "counts": [
+                5274, 
+                5492, 
+                5629, 
+                5638, 
+                6256, 
+                6647, 
+                6946
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.6, 
+            "full_name": "Hugh Coveney", 
+            "party": "Fine Gael", 
+            "transfers": 1672, 
+            "transfers_pc": 18.65
+        }, 
+        {
+            "counts": [
+                4705, 
+                5055, 
+                5153, 
+                5158, 
+                5958, 
+                6364, 
+                6571
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.4, 
+            "full_name": "Jim Corr", 
+            "party": "Fine Gael", 
+            "transfers": 1866, 
+            "transfers_pc": 20.82
+        }, 
+        {
+            "counts": [
+                3821, 
+                3831, 
+                4439, 
+                4503, 
+                4602
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.7, 
+            "full_name": "Barry Cogan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 781, 
+            "transfers_pc": 8.71
+        }, 
+        {
+            "counts": [
+                2109, 
+                2155, 
+                2206, 
+                2210
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.2, 
+            "full_name": "Denis Cregan", 
+            "party": "Fine Gael", 
+            "transfers": 101, 
+            "transfers_pc": 1.13
+        }, 
+        {
+            "counts": [
+                1988, 
+                1993
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.9, 
+            "full_name": "Chrissie Ahern", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 5, 
+            "transfers_pc": 0.06
+        }, 
+        {
+            "counts": [
+                358, 
+                359
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "Sean Twomey", 
+            "party": "Independent", 
+            "transfers": 1, 
+            "transfers_pc": 0.01
+        }
+    ], 
+    "counts_held": 7, 
+    "description": "1981 general election", 
+    "election_type": "dail", 
+    "electorate": 64507, 
+    "name": "Cork South-Central", 
+    "quota": 8323, 
+    "spoilt": 399, 
+    "turnout": 50333, 
+    "valid": 49934, 
+    "year": 1981
+}

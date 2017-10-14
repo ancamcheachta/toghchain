@@ -1,0 +1,149 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8522
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.1, 
+            "full_name": "Se\u00e1n Lemass", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8183
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.5, 
+            "full_name": "James Beckett", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                6575
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.4, 
+            "full_name": "Vincent Rice", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                4026
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.6, 
+            "full_name": "Constance Markievicz", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5290
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10, 
+            "full_name": "Myles Keogh", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                4428
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.4, 
+            "full_name": "Peadar Doyle", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                2826
+            ], 
+            "elected": true, 
+            "first_pref_pc": 5.3, 
+            "full_name": "Thomas Lawlor", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2555
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.8, 
+            "full_name": "John O'Neill", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                2211
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.2, 
+            "full_name": "Cathal \u00d3 Murchadha", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                2121
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4, 
+            "full_name": "Michael O'Mullane", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1825
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.5, 
+            "full_name": "Se\u00e1n Campbell", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1705
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.2, 
+            "full_name": "Robert Briscoe", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                921
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "Patrick Morgan", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                918
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "Denis Healy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                821
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "Thomas Nagle", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "June 1927 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South", 
+    "quota": 6616, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 52927, 
+    "year": 1927
+}

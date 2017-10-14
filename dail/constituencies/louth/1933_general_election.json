@@ -1,0 +1,50 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10235
+            ], 
+            "elected": true, 
+            "first_pref_pc": 34.9, 
+            "full_name": "Frank Aiken", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7632
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26, 
+            "full_name": "James Murphy", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                7282
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.8, 
+            "full_name": "James Coburn", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                4175
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.2, 
+            "full_name": "John O'Dowd", 
+            "party": "Fianna F\u00e1il"
+        }
+    ], 
+    "description": "1933 general election", 
+    "election_type": "dail", 
+    "electorate": 36803, 
+    "name": "Louth", 
+    "quota": 7332, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 29324, 
+    "year": 1933
+}

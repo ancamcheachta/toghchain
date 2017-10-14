@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9565
+            ], 
+            "elected": true, 
+            "first_pref_pc": 28.1, 
+            "full_name": "Ray Burke", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5417
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.9, 
+            "full_name": "John Boland", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4402
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.9, 
+            "full_name": "G. V. Wright", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4008
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.8, 
+            "full_name": "Vincent Gaul", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                3461
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.2, 
+            "full_name": "Nora Owen", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2575
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.6, 
+            "full_name": "Se\u00e1n Gilbride", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2350
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.9, 
+            "full_name": "Se\u00e1n Ryan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1083
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.2, 
+            "full_name": "Bernard Malone", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1061
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.2, 
+            "full_name": "Trevor Sargent", 
+            "party": "Green Alliance"
+        }, 
+        {
+            "counts": [
+                96
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Barbara Hyland", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1987 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin North", 
+    "quota": 8505, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 34018, 
+    "year": 1987
+}

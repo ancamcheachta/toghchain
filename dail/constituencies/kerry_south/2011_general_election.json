@@ -1,0 +1,144 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8808, 
+                8943, 
+                10014, 
+                10865, 
+                12636
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.8, 
+            "full_name": "Brendan Griffin", 
+            "party": "Fine Gael", 
+            "transfers": 3828, 
+            "transfers_pc": 22.77
+        }, 
+        {
+            "counts": [
+                6416, 
+                6548, 
+                7357, 
+                8746, 
+                10389, 
+                10697
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.5, 
+            "full_name": "Tom Fleming", 
+            "party": "Independent", 
+            "transfers": 4281, 
+            "transfers_pc": 25.46
+        }, 
+        {
+            "counts": [
+                6670, 
+                6789, 
+                7412, 
+                9146, 
+                10129, 
+                10326
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15, 
+            "full_name": "Michael Healy-Rae", 
+            "party": "Independent", 
+            "transfers": 3656, 
+            "transfers_pc": 21.75
+        }, 
+        {
+            "counts": [
+                5674, 
+                5736, 
+                6577, 
+                7326, 
+                8668, 
+                9409
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.8, 
+            "full_name": "Tom Sheahan", 
+            "party": "Fine Gael", 
+            "transfers": 3735, 
+            "transfers_pc": 22.22
+        }, 
+        {
+            "counts": [
+                4939, 
+                5222, 
+                6378, 
+                7037
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.1, 
+            "full_name": "Michael Gleeson", 
+            "party": "South Kerry Independent", 
+            "transfers": 2098, 
+            "transfers_pc": 12.48
+        }, 
+        {
+            "counts": [
+                5917, 
+                5960, 
+                6200
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.3, 
+            "full_name": "John O'Donoghue", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 283, 
+            "transfers_pc": 1.68
+        }, 
+        {
+            "counts": [
+                4926, 
+                5132
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.1, 
+            "full_name": "Marie Moloney", 
+            "party": "Labour Party", 
+            "transfers": 206, 
+            "transfers_pc": 1.23
+        }, 
+        {
+            "counts": [
+                401
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.9, 
+            "full_name": "Oonagh Comerford", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                348
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "Richard Behal", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                281
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Dermot Finn", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 6, 
+    "description": "2011 general election", 
+    "election_type": "dail", 
+    "electorate": 59629, 
+    "name": "Kerry South", 
+    "quota": 11096, 
+    "spoilt": 299, 
+    "turnout": 44679, 
+    "valid": 44380, 
+    "year": 2011
+}

@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9003
+            ], 
+            "elected": true, 
+            "first_pref_pc": 35.5, 
+            "full_name": "Neil Blaney", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6039
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.8, 
+            "full_name": "Liam Cunningham", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6016
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.7, 
+            "full_name": "Paddy Harte", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3170
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.5, 
+            "full_name": "Se\u00e1n McLaughlin", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1147
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.5, 
+            "full_name": "Dominick McCauley", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1965 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Donegal North-East", 
+    "quota": 6344, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 25375, 
+    "year": 1965
+}

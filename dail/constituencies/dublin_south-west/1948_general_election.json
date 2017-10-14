@@ -1,0 +1,131 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8648
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.8, 
+            "full_name": "Se\u00e1n MacBride", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                5102
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.9, 
+            "full_name": "Peadar Doyle", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5956
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15, 
+            "full_name": "Bernard Butler", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5961
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.1, 
+            "full_name": "Robert Briscoe", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3243
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.2, 
+            "full_name": "Michael O'Higgins", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2806
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.1, 
+            "full_name": "William Croly", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2476
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.3, 
+            "full_name": "Cearbhall \u00d3 D\u00e1laigh", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1737
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "Joseph Deasy", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1196
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "Richard Batterberry", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                820
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "Thomas Teevan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                605
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.5, 
+            "full_name": "May Laverty", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                564
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "John Heery", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                490
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "John Moran", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1948 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South-West", 
+    "quota": 6601, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 39604, 
+    "year": 1948
+}

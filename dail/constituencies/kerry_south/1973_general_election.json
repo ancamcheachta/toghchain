@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8286
+            ], 
+            "elected": true, 
+            "first_pref_pc": 30.3, 
+            "full_name": "John O'Leary", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5819
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.3, 
+            "full_name": "Timothy O'Connor", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5390
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.7, 
+            "full_name": "Michael Begley", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3806
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.9, 
+            "full_name": "Michael Moynihan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3025
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.1, 
+            "full_name": "Daniel Barry", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1014
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "Patrick O'Callaghan", 
+            "party": "Sinn F\u00e9in (Official)"
+        }
+    ], 
+    "description": "1973 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Kerry South", 
+    "quota": 6836, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 27340, 
+    "year": 1973
+}

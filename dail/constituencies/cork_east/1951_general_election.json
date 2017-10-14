@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7430
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.6, 
+            "full_name": "Martin Corry", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4688
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.5, 
+            "full_name": "Patrick O'Gorman", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5296
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.6, 
+            "full_name": "Se\u00e1n Keane, Snr", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5261
+            ], 
+            "elected": false, 
+            "first_pref_pc": 17.4, 
+            "full_name": "John Moher", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4337
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.4, 
+            "full_name": "Richard Barry", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1792
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.9, 
+            "full_name": "John Ryall", 
+            "party": "Clann na Talmhan"
+        }, 
+        {
+            "counts": [
+                1360
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.5, 
+            "full_name": "Veronica Hartland", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1951 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Cork East", 
+    "quota": 7542, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 30164, 
+    "year": 1951
+}

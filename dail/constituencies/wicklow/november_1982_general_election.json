@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7681
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.3, 
+            "full_name": "Liam Kavanagh", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                7552
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18, 
+            "full_name": "Gemma Hussey", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7886
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.8, 
+            "full_name": "Godfrey Timmins", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5806
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.8, 
+            "full_name": "Paudge Brennan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4938
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.8, 
+            "full_name": "Ciar\u00e1n Murphy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3431
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.2, 
+            "full_name": "John McManus", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                2614
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.2, 
+            "full_name": "Declan Connolly", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1624
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.9, 
+            "full_name": "Johnny Fox", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                463
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "Liam de Siuin", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "November 1982 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Wicklow", 
+    "quota": 8400, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 41995, 
+    "year": 1982
+}

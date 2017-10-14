@@ -1,0 +1,341 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                11843
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.8, 
+            "full_name": "Liam Kavanagh", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6475, 
+                6813, 
+                6819, 
+                6877, 
+                6939, 
+                7048, 
+                7107, 
+                7772, 
+                7863, 
+                8258, 
+                8651
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.5, 
+            "full_name": "Joe Jacob", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2176, 
+            "transfers_pc": 13.07
+        }, 
+        {
+            "counts": [
+                4612, 
+                5010, 
+                5014, 
+                5055, 
+                5111, 
+                5254, 
+                5481, 
+                5600, 
+                5700, 
+                5833, 
+                6627, 
+                9520
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.9, 
+            "full_name": "Godfrey Timmins", 
+            "party": "Fine Gael", 
+            "transfers": 4908, 
+            "transfers_pc": 29.48
+        }, 
+        {
+            "counts": [
+                5510, 
+                6530, 
+                6543, 
+                6706, 
+                6804, 
+                6875, 
+                7068, 
+                7096, 
+                7752, 
+                8088, 
+                8484, 
+                9162
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.6, 
+            "full_name": "Liz McManus", 
+            "party": "Democratic Left", 
+            "transfers": 3652, 
+            "transfers_pc": 21.94
+        }, 
+        {
+            "counts": [
+                4749, 
+                5056, 
+                5062, 
+                5154, 
+                5413, 
+                5631, 
+                5801, 
+                5842, 
+                6208, 
+                6350, 
+                6498, 
+                6846, 
+                7456, 
+                7656
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.2, 
+            "full_name": "Johnny Fox", 
+            "party": "Independent", 
+            "transfers": 2907, 
+            "transfers_pc": 17.46
+        }, 
+        {
+            "counts": [
+                5250, 
+                5394, 
+                5394, 
+                5465, 
+                5569, 
+                5660, 
+                5778, 
+                6347, 
+                6462, 
+                6531, 
+                6604, 
+                6858, 
+                7119, 
+                7227
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.1, 
+            "full_name": "Dick Roche", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1977, 
+            "transfers_pc": 11.88
+        }, 
+        {
+            "counts": [
+                2903, 
+                3107, 
+                3107, 
+                3128, 
+                3170, 
+                3336, 
+                3749, 
+                3786, 
+                3972, 
+                3995, 
+                4626
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.6, 
+            "full_name": "Shane Ross", 
+            "party": "Fine Gael", 
+            "transfers": 1723, 
+            "transfers_pc": 10.35
+        }, 
+        {
+            "counts": [
+                1676, 
+                1832, 
+                1835, 
+                1853, 
+                1877, 
+                1918, 
+                2046, 
+                2067, 
+                2149, 
+                2914
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.2, 
+            "full_name": "Tom Honan", 
+            "party": "Fine Gael", 
+            "transfers": 1238, 
+            "transfers_pc": 7.44
+        }, 
+        {
+            "counts": [
+                1806, 
+                1950, 
+                1953, 
+                1975, 
+                2010, 
+                2024, 
+                2055, 
+                2070, 
+                2135
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.5, 
+            "full_name": "Vincent McElheron", 
+            "party": "Independent", 
+            "transfers": 329, 
+            "transfers_pc": 1.98
+        }, 
+        {
+            "counts": [
+                1346, 
+                1493, 
+                1500, 
+                1612, 
+                1723, 
+                1836, 
+                1964, 
+                1985
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "Nuala Ahern", 
+            "party": "Green Party", 
+            "transfers": 639, 
+            "transfers_pc": 3.84
+        }, 
+        {
+            "counts": [
+                1376, 
+                1404, 
+                1404, 
+                1422, 
+                1439, 
+                1630, 
+                1660
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Eamon Kane", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 284, 
+            "transfers_pc": 1.71
+        }, 
+        {
+            "counts": [
+                1367, 
+                1475, 
+                1476, 
+                1488, 
+                1514, 
+                1587
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "Liam Nolan", 
+            "party": "Progressive Democrats", 
+            "transfers": 220, 
+            "transfers_pc": 1.32
+        }, 
+        {
+            "counts": [
+                1311, 
+                1350, 
+                1359, 
+                1377, 
+                1395
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.5, 
+            "full_name": "Pat Dunlea", 
+            "party": "Independent", 
+            "transfers": 84, 
+            "transfers_pc": 0.5
+        }, 
+        {
+            "counts": [
+                906, 
+                931, 
+                934, 
+                959
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "John Hartnett", 
+            "party": "Independent", 
+            "transfers": 53, 
+            "transfers_pc": 0.32
+        }, 
+        {
+            "counts": [
+                299, 
+                314, 
+                316
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Ken O'Connell", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 17, 
+            "transfers_pc": 0.1
+        }, 
+        {
+            "counts": [
+                139, 
+                227, 
+                229
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Frank Hayes", 
+            "party": "Workers' Party", 
+            "transfers": 90, 
+            "transfers_pc": 0.54
+        }, 
+        {
+            "counts": [
+                179, 
+                191, 
+                192
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Gerry O'Neill", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 13, 
+            "transfers_pc": 0.08
+        }, 
+        {
+            "counts": [
+                87, 
+                97, 
+                100
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Barbara Hyland", 
+            "party": "Independent", 
+            "transfers": 13, 
+            "transfers_pc": 0.08
+        }, 
+        {
+            "counts": [
+                57, 
+                68
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Leo Armstrong", 
+            "party": "Independent", 
+            "transfers": 11, 
+            "transfers_pc": 0.07
+        }
+    ], 
+    "counts_held": 14, 
+    "description": "1992 general election", 
+    "election_type": "dail", 
+    "electorate": 77133, 
+    "name": "Wicklow", 
+    "quota": 8649, 
+    "spoilt": 743, 
+    "turnout": 52634, 
+    "valid": 51891, 
+    "year": 1992
+}

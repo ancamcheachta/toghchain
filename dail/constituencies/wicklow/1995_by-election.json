@@ -1,0 +1,122 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                11724
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26.9, 
+            "full_name": "Mildred Fox", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                10060
+            ], 
+            "elected": false, 
+            "first_pref_pc": 23.1, 
+            "full_name": "Dick Roche", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5503
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.6, 
+            "full_name": "Tom Honan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5064
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.6, 
+            "full_name": "Tim Collins", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4556
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.5, 
+            "full_name": "Nicky Kelly", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2841
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.5, 
+            "full_name": "John McManus", 
+            "party": "Democratic Left"
+        }, 
+        {
+            "counts": [
+                1565
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.6, 
+            "full_name": "Emer Singleton", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                1627
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "Susan Philips", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                254
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Charlie Keddy", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                211
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Frank Hayes", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                104
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Desmond Garrett", 
+            "party": "Natural Law"
+        }, 
+        {
+            "counts": [
+                80
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Jim Tallon", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1995 by-election", 
+    "election_type": "dail", 
+    "electorate": 81525, 
+    "name": "Wicklow", 
+    "quota": 21795, 
+    "spoilt": null, 
+    "turnout": 53, 
+    "valid": 43589, 
+    "year": 1995
+}

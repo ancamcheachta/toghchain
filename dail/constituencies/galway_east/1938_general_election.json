@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                null
+            ], 
+            "elected": true, 
+            "first_pref_pc": null, 
+            "full_name": "Frank Fahy", 
+            "party": "Ceann Comhairle"
+        }, 
+        {
+            "counts": [
+                9526
+            ], 
+            "elected": true, 
+            "first_pref_pc": 27.2, 
+            "full_name": "Mark Killilea, Snr", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8804
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.1, 
+            "full_name": "Patrick Beegan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6339
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.1, 
+            "full_name": "Se\u00e1n Broderick", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4140
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.8, 
+            "full_name": "Patrick Cawley", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3468
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.9, 
+            "full_name": "Martin Regan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2753
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.9, 
+            "full_name": "Robert Burke", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1938 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Galway East", 
+    "quota": 8758, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 35030, 
+    "year": 1938
+}

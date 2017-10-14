@@ -1,0 +1,140 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8873
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.2, 
+            "full_name": "Se\u00e1n Kenny", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6850
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.1, 
+            "full_name": "Michael Woods", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3162
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.9, 
+            "full_name": "Tommy Broughan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4011
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10, 
+            "full_name": "Liam Fitzgerald", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3311
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.3, 
+            "full_name": "Michael Joe Cosgrave", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3743
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.4, 
+            "full_name": "Pat McCartan", 
+            "party": "Democratic Left"
+        }, 
+        {
+            "counts": [
+                2181
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.5, 
+            "full_name": "Joan Maher", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2673
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.7, 
+            "full_name": "Martin Brady", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2034
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.1, 
+            "full_name": "Stephen O'Byrnes", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                931
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.3, 
+            "full_name": "Sadhbh O'Neill", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                1088
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Larry O'Toole", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                795
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "David Healy", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                239
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Marian Donnelly", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                118
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "John Burns", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1992 general election", 
+    "election_type": "dail", 
+    "electorate": 58433, 
+    "name": "Dublin North-East", 
+    "quota": 8002, 
+    "spoilt": 640, 
+    "turnout": 40649, 
+    "valid": 40009, 
+    "year": 1992
+}

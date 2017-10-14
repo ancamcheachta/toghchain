@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                18574
+            ], 
+            "elected": true, 
+            "first_pref_pc": 42.1, 
+            "full_name": "\u00c9amon de Valera", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3289
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.5, 
+            "full_name": "Patrick Houlihan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5254
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.9, 
+            "full_name": "Patrick Burke", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                4307
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.8, 
+            "full_name": "Patrick Hogan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3079
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7, 
+            "full_name": "Se\u00e1n O'Grady", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4041
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.2, 
+            "full_name": "Patrick Baxter", 
+            "party": "National Centre Party"
+        }, 
+        {
+            "counts": [
+                3618
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.2, 
+            "full_name": "Martin Sexton", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1993
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.5, 
+            "full_name": "Thomas Flavey", 
+            "party": "Cumann na nGaedheal"
+        }
+    ], 
+    "description": "1933 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Clare", 
+    "quota": 7360, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 44155, 
+    "year": 1933
+}

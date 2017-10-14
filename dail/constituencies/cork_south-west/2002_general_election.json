@@ -1,0 +1,158 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7695, 
+                7774, 
+                7862, 
+                8277, 
+                8863, 
+                10179
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.4, 
+            "full_name": "Denis O'Donovan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2484, 
+            "transfers_pc": 23.37
+        }, 
+        {
+            "counts": [
+                7187, 
+                7271, 
+                7395, 
+                7706, 
+                8119, 
+                8997, 
+                9387
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.1, 
+            "full_name": "Joe Walsh", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2200, 
+            "transfers_pc": 20.7
+        }, 
+        {
+            "counts": [
+                6358, 
+                6476, 
+                6622, 
+                6835, 
+                7724, 
+                8496, 
+                8591
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.9, 
+            "full_name": "Jim O'Keeffe", 
+            "party": "Fine Gael", 
+            "transfers": 2233, 
+            "transfers_pc": 21.01
+        }, 
+        {
+            "counts": [
+                5831, 
+                5864, 
+                5932, 
+                6156, 
+                6987, 
+                8287, 
+                8556
+            ], 
+            "elected": false, 
+            "first_pref_pc": 15.5, 
+            "full_name": "P. J. Sheehan", 
+            "party": "Fine Gael", 
+            "transfers": 2725, 
+            "transfers_pc": 25.64
+        }, 
+        {
+            "counts": [
+                3609, 
+                3684, 
+                3849, 
+                4303, 
+                5144
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.6, 
+            "full_name": "Christy O'Sullivan", 
+            "party": "Independent", 
+            "transfers": 1535, 
+            "transfers_pc": 14.44
+        }, 
+        {
+            "counts": [
+                3442, 
+                3505, 
+                3636, 
+                4030
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.1, 
+            "full_name": "Michael McCarthy", 
+            "party": "Labour Party", 
+            "transfers": 588, 
+            "transfers_pc": 5.53
+        }, 
+        {
+            "counts": [
+                1308, 
+                1329, 
+                1372
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.5, 
+            "full_name": "Cionnaith \u00d3 S\u00failleabh\u00e1in", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 64, 
+            "transfers_pc": 0.6
+        }, 
+        {
+            "counts": [
+                899, 
+                908, 
+                945
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.4, 
+            "full_name": "Anne O'Leary", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 46, 
+            "transfers_pc": 0.43
+        }, 
+        {
+            "counts": [
+                748, 
+                864
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.9, 
+            "full_name": "Theresa Heaney", 
+            "party": "Independent", 
+            "transfers": 116, 
+            "transfers_pc": 1.09
+        }, 
+        {
+            "counts": [
+                621
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "Edmund Butler", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 7, 
+    "description": "2002 general election", 
+    "election_type": "dail", 
+    "electorate": 54274, 
+    "name": "Cork South-West", 
+    "quota": 9425, 
+    "spoilt": 434, 
+    "turnout": 38132, 
+    "valid": 37698, 
+    "year": 2002
+}

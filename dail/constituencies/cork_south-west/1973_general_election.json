@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6420
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.1, 
+            "full_name": "John O'Sullivan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6597
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.7, 
+            "full_name": "Michael Murphy", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                7251
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.8, 
+            "full_name": "Flor Crowley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5989
+            ], 
+            "elected": false, 
+            "first_pref_pc": 19.7, 
+            "full_name": "Terence Sullivan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4204
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.8, 
+            "full_name": "P. J. Sheehan", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1973 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Cork South-West", 
+    "quota": 7616, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 30461, 
+    "year": 1973
+}

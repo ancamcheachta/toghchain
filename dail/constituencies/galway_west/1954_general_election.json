@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                3945
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.9, 
+            "full_name": "Gerald Bartley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3939
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.8, 
+            "full_name": "Johnny Geoghegan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3066
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.7, 
+            "full_name": "Fintan Coogan, Snr", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4206
+            ], 
+            "elected": false, 
+            "first_pref_pc": 20.1, 
+            "full_name": "John Mannion, Snr", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3299
+            ], 
+            "elected": false, 
+            "first_pref_pc": 15.8, 
+            "full_name": "Michael Lydon", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1813
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.7, 
+            "full_name": "Fursa Walsh", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                650
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.1, 
+            "full_name": "John O'Connell", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1954 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Galway West", 
+    "quota": 5230, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 20918, 
+    "year": 1954
+}

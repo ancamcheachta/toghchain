@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                14071
+            ], 
+            "elected": true, 
+            "first_pref_pc": 37.9, 
+            "full_name": "Oscar Traynor", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8591
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.2, 
+            "full_name": "Alfie Byrne", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                3938
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.6, 
+            "full_name": "Harry Colley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4815
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13, 
+            "full_name": "James Trainor", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4489
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.1, 
+            "full_name": "James Larkin", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                856
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.3, 
+            "full_name": "Michael Colgan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                355
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Frank Robbins", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1944 general election", 
+    "election_type": "dail", 
+    "electorate": 54377, 
+    "name": "Dublin North-East", 
+    "quota": 9279, 
+    "spoilt": null, 
+    "turnout": 68, 
+    "valid": 37115, 
+    "year": 1944
+}

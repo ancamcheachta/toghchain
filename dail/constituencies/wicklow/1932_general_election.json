@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7034
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26.8, 
+            "full_name": "Dermot O'Mahony", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                6157
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.5, 
+            "full_name": "James Everett", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5135
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.6, 
+            "full_name": "S\u00e9amus Moore", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4325
+            ], 
+            "elected": false, 
+            "first_pref_pc": 16.5, 
+            "full_name": "Christopher Byrne", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1837
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7, 
+            "full_name": "Laurence O'Toole", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                1736
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.6, 
+            "full_name": "Robert Devereux", 
+            "party": "Fianna F\u00e1il"
+        }
+    ], 
+    "description": "1932 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Wicklow", 
+    "quota": 6557, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 26224, 
+    "year": 1932
+}

@@ -1,0 +1,122 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                11125
+            ], 
+            "elected": true, 
+            "first_pref_pc": 32.7, 
+            "full_name": "Brian Lenihan, Jnr", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6928, 
+                7199, 
+                7360, 
+                7753, 
+                8710
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.4, 
+            "full_name": "Leo Varadkar", 
+            "party": "Fine Gael", 
+            "transfers": 1782, 
+            "transfers_pc": 23.16
+        }, 
+        {
+            "counts": [
+                5799, 
+                6101, 
+                6215, 
+                6673, 
+                7905
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.1, 
+            "full_name": "Joan Burton", 
+            "party": "Labour Party", 
+            "transfers": 2106, 
+            "transfers_pc": 27.38
+        }, 
+        {
+            "counts": [
+                5066, 
+                5270, 
+                5325, 
+                5607, 
+                7472
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.9, 
+            "full_name": "Joe Higgins", 
+            "party": "Socialist Party", 
+            "transfers": 2406, 
+            "transfers_pc": 31.28
+        }, 
+        {
+            "counts": [
+                1624, 
+                1677, 
+                1683, 
+                1777
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.8, 
+            "full_name": "Felix Gallagher", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 153, 
+            "transfers_pc": 1.99
+        }, 
+        {
+            "counts": [
+                1601, 
+                3214, 
+                3455, 
+                3587
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.7, 
+            "full_name": "Gerry Lynam", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1986, 
+            "transfers_pc": 25.82
+        }, 
+        {
+            "counts": [
+                1286, 
+                1349, 
+                1417
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.8, 
+            "full_name": "Roderic O'Gorman", 
+            "party": "Green Party", 
+            "transfers": 131, 
+            "transfers_pc": 1.7
+        }, 
+        {
+            "counts": [
+                553, 
+                676
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "Mags Murray", 
+            "party": "Progressive Democrats", 
+            "transfers": 123, 
+            "transfers_pc": 1.6
+        }
+    ], 
+    "counts_held": 5, 
+    "description": "2007 general election", 
+    "election_type": "dail", 
+    "electorate": 52193, 
+    "name": "Dublin West", 
+    "quota": 8496, 
+    "spoilt": 206, 
+    "turnout": 34188, 
+    "valid": 33982, 
+    "year": 2007
+}

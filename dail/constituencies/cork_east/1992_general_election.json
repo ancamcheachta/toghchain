@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8380
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.2, 
+            "full_name": "Ned O'Keeffe", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6750
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.3, 
+            "full_name": "Paul Bradford", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7418
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.9, 
+            "full_name": "Michael Ahern", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5703
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.8, 
+            "full_name": "John Mulvihill", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4594
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.1, 
+            "full_name": "Patrick Hegarty", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5351
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.9, 
+            "full_name": "Joe Sherlock", 
+            "party": "Democratic Left"
+        }, 
+        {
+            "counts": [
+                2562
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.2, 
+            "full_name": "Michael Hegarty", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                366
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.9, 
+            "full_name": "Kieran McCarthy", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                212
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Maurice Quinlan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                153
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Sandra Doyle Condon", 
+            "party": "Workers' Party"
+        }
+    ], 
+    "description": "1992 general election", 
+    "election_type": "dail", 
+    "electorate": 58556, 
+    "name": "Cork East", 
+    "quota": 8298, 
+    "spoilt": 684, 
+    "turnout": 42173, 
+    "valid": 41489, 
+    "year": 1992
+}

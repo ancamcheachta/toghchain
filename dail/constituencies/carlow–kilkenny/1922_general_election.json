@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10875
+            ], 
+            "elected": true, 
+            "first_pref_pc": 34.8, 
+            "full_name": "Patrick Gaffney", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                7071
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.6, 
+            "full_name": "W. T. Cosgrave", 
+            "party": "Sinn F\u00e9in (Pro-Treaty)"
+        }, 
+        {
+            "counts": [
+                6122
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.6, 
+            "full_name": "Denis Gorey", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                2681
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.6, 
+            "full_name": "Gear\u00f3id O'Sullivan", 
+            "party": "Sinn F\u00e9in (Pro-Treaty)"
+        }, 
+        {
+            "counts": [
+                3365
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.8, 
+            "full_name": "Edward Aylward", 
+            "party": "Sinn F\u00e9in (Anti-Treaty)"
+        }, 
+        {
+            "counts": [
+                1113
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.6, 
+            "full_name": "James Lennon", 
+            "party": "Sinn F\u00e9in (Anti-Treaty)"
+        }
+    ], 
+    "description": "1922 general election", 
+    "election_type": "dail", 
+    "electorate": 51012, 
+    "name": "Carlow\u2013Kilkenny", 
+    "quota": 6246, 
+    "spoilt": null, 
+    "turnout": 61, 
+    "valid": 31227, 
+    "year": 1922
+}

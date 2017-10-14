@@ -1,0 +1,32 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                20059
+            ], 
+            "elected": true, 
+            "first_pref_pc": 55.8, 
+            "full_name": "John McCann", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                15877
+            ], 
+            "elected": false, 
+            "first_pref_pc": 44.2, 
+            "full_name": "Patrick Cahill", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1939 by-election", 
+    "election_type": "dail", 
+    "electorate": 80961, 
+    "name": "Dublin South", 
+    "quota": 17969, 
+    "spoilt": null, 
+    "turnout": 44, 
+    "valid": 35936, 
+    "year": 1939
+}

@@ -1,0 +1,186 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                13064
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.8, 
+            "full_name": "Michael Lowry", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                11237, 
+                11781, 
+                12819, 
+                13064
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.4, 
+            "full_name": "Mattie McGrath", 
+            "party": "Independent", 
+            "transfers": 1827, 
+            "transfers_pc": 7.34
+        }, 
+        {
+            "counts": [
+                7414, 
+                7542, 
+                9103, 
+                9530, 
+                10114, 
+                15062
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.5, 
+            "full_name": "Jackie Cahill", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 7648, 
+            "transfers_pc": 30.73
+        }, 
+        {
+            "counts": [
+                7452, 
+                7834, 
+                8477, 
+                8572, 
+                11427, 
+                12029, 
+                12874
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.6, 
+            "full_name": "Seamus Healy", 
+            "party": "Independent", 
+            "transfers": 5422, 
+            "transfers_pc": 21.78
+        }, 
+        {
+            "counts": [
+                7746, 
+                8209, 
+                8387, 
+                9456, 
+                9958, 
+                11067, 
+                11750
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.9, 
+            "full_name": "Alan Kelly", 
+            "party": "Labour Party", 
+            "transfers": 4004, 
+            "transfers_pc": 16.09
+        }, 
+        {
+            "counts": [
+                6218, 
+                6821, 
+                7026, 
+                9373, 
+                9560, 
+                9943, 
+                10437
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8, 
+            "full_name": "Tom Hayes", 
+            "party": "Fine Gael", 
+            "transfers": 4219, 
+            "transfers_pc": 16.95
+        }, 
+        {
+            "counts": [
+                6718, 
+                6817, 
+                7565, 
+                8165, 
+                8891
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.6, 
+            "full_name": "Michael Smith", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2173, 
+            "transfers_pc": 8.73
+        }, 
+        {
+            "counts": [
+                5724, 
+                5921, 
+                6038, 
+                6205
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.3, 
+            "full_name": "Seamus Morris", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 481, 
+            "transfers_pc": 1.93
+        }, 
+        {
+            "counts": [
+                4782, 
+                5140, 
+                5193
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.1, 
+            "full_name": "Noel Coonan", 
+            "party": "Fine Gael", 
+            "transfers": 411, 
+            "transfers_pc": 1.65
+        }, 
+        {
+            "counts": [
+                4472, 
+                4687
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.7, 
+            "full_name": "Siobh\u00e1n Ambrose", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 215, 
+            "transfers_pc": 0.86
+        }, 
+        {
+            "counts": [
+                1542
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "Marie Murphy", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1341
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "Gear\u00f3id Fitzgibbon", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                238
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Michael Dillon", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 7, 
+    "description": "2016 general election", 
+    "election_type": "dail", 
+    "electorate": 112615, 
+    "name": "Tipperary", 
+    "quota": 12992, 
+    "spoilt": 646, 
+    "turnout": 69, 
+    "valid": 77948, 
+    "year": 2016
+}

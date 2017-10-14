@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                5881
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.3, 
+            "full_name": "Ciar\u00e1n Murphy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6899
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.8, 
+            "full_name": "Godfrey Timmins", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5019
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.2, 
+            "full_name": "Paudge Brennan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5894
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.4, 
+            "full_name": "Liam Kavanagh", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5524
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.5, 
+            "full_name": "Gemma Hussey", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3763
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.2, 
+            "full_name": "Declan Connolly", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2974
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.2, 
+            "full_name": "John McManus", 
+            "party": "Sinn F\u00e9in (Workers' Party)"
+        }, 
+        {
+            "counts": [
+                2372
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.8, 
+            "full_name": "Jim Ruttle", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1925
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.7, 
+            "full_name": "George Jones", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                734
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Richard O'Carroll", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                65
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Jim Tallon", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1981 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Wicklow", 
+    "quota": 8211, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 41050, 
+    "year": 1981
+}

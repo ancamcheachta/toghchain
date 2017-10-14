@@ -1,0 +1,291 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9855, 
+                9865, 
+                9879, 
+                9896, 
+                9917, 
+                9949, 
+                10084, 
+                10207, 
+                10479, 
+                10988, 
+                13334
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17, 
+            "full_name": "Pat Breen", 
+            "party": "Fine Gael", 
+            "transfers": 3479, 
+            "transfers_pc": 18.94
+        }, 
+        {
+            "counts": [
+                8572, 
+                8581, 
+                8615, 
+                8659, 
+                8697, 
+                8871, 
+                9071, 
+                9584, 
+                9985, 
+                10552, 
+                11883
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.8, 
+            "full_name": "Michael McNamara", 
+            "party": "Labour Party", 
+            "transfers": 3311, 
+            "transfers_pc": 18.02
+        }, 
+        {
+            "counts": [
+                7840, 
+                7859, 
+                7876, 
+                7888, 
+                7906, 
+                7953, 
+                8028, 
+                8160, 
+                8334, 
+                8617, 
+                10961, 
+                12489
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.5, 
+            "full_name": "Joe Carey", 
+            "party": "Fine Gael", 
+            "transfers": 4649, 
+            "transfers_pc": 25.31
+        }, 
+        {
+            "counts": [
+                6789, 
+                6795, 
+                6806, 
+                6813, 
+                6823, 
+                6858, 
+                6906, 
+                6963, 
+                7071, 
+                10597, 
+                10965, 
+                11021
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.7, 
+            "full_name": "Timmy Dooley", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 4232, 
+            "transfers_pc": 23.04
+        }, 
+        {
+            "counts": [
+                6491, 
+                6546, 
+                6583, 
+                6599, 
+                6662, 
+                6795, 
+                7029, 
+                7136, 
+                7678, 
+                8732, 
+                9354, 
+                9520
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.2, 
+            "full_name": "James Breen", 
+            "party": "Independent", 
+            "transfers": 3029, 
+            "transfers_pc": 16.49
+        }, 
+        {
+            "counts": [
+                6829, 
+                6832, 
+                6861, 
+                6866, 
+                6881, 
+                6932, 
+                6980, 
+                7106, 
+                7228, 
+                7438
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.8, 
+            "full_name": "Tony Mulcahy", 
+            "party": "Fine Gael", 
+            "transfers": 609, 
+            "transfers_pc": 3.32
+        }, 
+        {
+            "counts": [
+                6015, 
+                6020, 
+                6044, 
+                6053, 
+                6066, 
+                6093, 
+                6161, 
+                6242, 
+                6468
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.4, 
+            "full_name": "John Hillery", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 453, 
+            "transfers_pc": 2.47
+        }, 
+        {
+            "counts": [
+                1543, 
+                1547, 
+                1565, 
+                1585, 
+                1637, 
+                1825, 
+                2064, 
+                2157
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Brian Markham", 
+            "party": "Independent", 
+            "transfers": 614, 
+            "transfers_pc": 3.34
+        }, 
+        {
+            "counts": [
+                1154, 
+                1158, 
+                1163, 
+                1172, 
+                1187, 
+                1266, 
+                1339
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "Brian Meaney", 
+            "party": "Green Party", 
+            "transfers": 185, 
+            "transfers_pc": 1.01
+        }, 
+        {
+            "counts": [
+                978, 
+                1002, 
+                1015, 
+                1031, 
+                1075, 
+                1216
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "Jim Connolly", 
+            "party": "Independent", 
+            "transfers": 238, 
+            "transfers_pc": 1.3
+        }, 
+        {
+            "counts": [
+                428, 
+                429, 
+                450, 
+                487, 
+                509
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "Madeline McAleer", 
+            "party": "Independent", 
+            "transfers": 81, 
+            "transfers_pc": 0.44
+        }, 
+        {
+            "counts": [
+                419, 
+                429, 
+                440, 
+                497, 
+                521
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "Ann Cronin", 
+            "party": "Independent", 
+            "transfers": 102, 
+            "transfers_pc": 0.56
+        }, 
+        {
+            "counts": [
+                328, 
+                332, 
+                340, 
+                352
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Gerry Walshe", 
+            "party": "Independent", 
+            "transfers": 24, 
+            "transfers_pc": 0.13
+        }, 
+        {
+            "counts": [
+                252, 
+                260, 
+                265
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Sarah Ferrigan", 
+            "party": "Independent", 
+            "transfers": 13, 
+            "transfers_pc": 0.07
+        }, 
+        {
+            "counts": [
+                248, 
+                252
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "J. J. McCabe", 
+            "party": "Independent", 
+            "transfers": 4, 
+            "transfers_pc": 0.02
+        }, 
+        {
+            "counts": [
+                175
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Patrick Brassil", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 12, 
+    "description": "2011 general election", 
+    "election_type": "dail", 
+    "electorate": 82745, 
+    "name": "Clare", 
+    "quota": 11584, 
+    "spoilt": 579, 
+    "turnout": 58495, 
+    "valid": 57916, 
+    "year": 2011
+}

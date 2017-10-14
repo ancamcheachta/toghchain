@@ -1,0 +1,131 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                4542
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.9, 
+            "full_name": "Brendan Griffin", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5126
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.4, 
+            "full_name": "Se\u00e1n Treacy", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                6877
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.6, 
+            "full_name": "Se\u00e1n McCarthy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5412
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13, 
+            "full_name": "Noel Davern", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5372
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.9, 
+            "full_name": "Se\u00e1n Byrne", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3938
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.5, 
+            "full_name": "John Crowe", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3820
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.2, 
+            "full_name": "Michael Ferris", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2524
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.1, 
+            "full_name": "Anthony Kehoe", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                1878
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.5, 
+            "full_name": "Thomas Lonergan", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                1457
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.5, 
+            "full_name": "S\u00e9amus Healy", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                407
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Se\u00e1n Hill", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                76
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Nicholas Quigley", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                72
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Patrick Ryan", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1987 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Tipperary South", 
+    "quota": 8301, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 41501, 
+    "year": 1987
+}

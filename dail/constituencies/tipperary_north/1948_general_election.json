@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                4602
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.3, 
+            "full_name": "Patrick Kinane", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                5656
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20, 
+            "full_name": "Daniel Morrissey", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4601
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.3, 
+            "full_name": "Mary Ryan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4408
+            ], 
+            "elected": false, 
+            "first_pref_pc": 15.6, 
+            "full_name": "John Murphy", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4377
+            ], 
+            "elected": false, 
+            "first_pref_pc": 15.5, 
+            "full_name": "Andrew Fogarty", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2227
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.9, 
+            "full_name": "Thomas MacDonagh", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1638
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.8, 
+            "full_name": "Michael Cronin", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                708
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.5, 
+            "full_name": "Joubert Powell", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1948 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Tipperary North", 
+    "quota": 7055, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 28217, 
+    "year": 1948
+}

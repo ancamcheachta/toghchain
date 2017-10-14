@@ -1,0 +1,156 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7614, 
+                7655, 
+                7718, 
+                8028
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19, 
+            "full_name": "Se\u00e1n Haughey", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 414, 
+            "transfers_pc": 3.74
+        }, 
+        {
+            "counts": [
+                5159, 
+                5195, 
+                6247, 
+                6362, 
+                6750, 
+                9045
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.9, 
+            "full_name": "Richard Bruton", 
+            "party": "Fine Gael", 
+            "transfers": 3886, 
+            "transfers_pc": 35.12
+        }, 
+        {
+            "counts": [
+                6896, 
+                6937, 
+                7035, 
+                7213, 
+                7438, 
+                7833
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.2, 
+            "full_name": "Ivor Callely", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 937, 
+            "transfers_pc": 8.47
+        }, 
+        {
+            "counts": [
+                3781, 
+                3893, 
+                4021, 
+                4698, 
+                5756, 
+                7638
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.5, 
+            "full_name": "Finian McGrath", 
+            "party": "Ind. Health Alliance", 
+            "transfers": 3857, 
+            "transfers_pc": 34.86
+        }, 
+        {
+            "counts": [
+                5533, 
+                5564, 
+                5627, 
+                5802, 
+                6101, 
+                6527
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.8, 
+            "full_name": "Deirdre Heney", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 994, 
+            "transfers_pc": 8.98
+        }, 
+        {
+            "counts": [
+                4203, 
+                4285, 
+                4431, 
+                4719, 
+                5548
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.5, 
+            "full_name": "Derek McDowell", 
+            "party": "Labour Party", 
+            "transfers": 1345, 
+            "transfers_pc": 12.16
+        }, 
+        {
+            "counts": [
+                2275, 
+                2403, 
+                2486, 
+                3058
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.7, 
+            "full_name": "Bronwen Maher", 
+            "party": "Green Party", 
+            "transfers": 783, 
+            "transfers_pc": 7.08
+        }, 
+        {
+            "counts": [
+                2299, 
+                2445, 
+                2459
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.7, 
+            "full_name": "Frances McCole", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 160, 
+            "transfers_pc": 1.45
+        }, 
+        {
+            "counts": [
+                1650, 
+                1661
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.1, 
+            "full_name": "Gerry Breen", 
+            "party": "Fine Gael", 
+            "transfers": 11, 
+            "transfers_pc": 0.1
+        }, 
+        {
+            "counts": [
+                638
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "Ritchie Brown", 
+            "party": "Socialist Workers"
+        }
+    ], 
+    "counts_held": 6, 
+    "description": "2002 general election", 
+    "election_type": "dail", 
+    "electorate": 65583, 
+    "name": "Dublin North-Central", 
+    "quota": 8010, 
+    "spoilt": 427, 
+    "turnout": 40475, 
+    "valid": 40048, 
+    "year": 2002
+}

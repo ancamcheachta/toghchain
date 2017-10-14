@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7270
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.6, 
+            "full_name": "Denis Allen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5987
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.3, 
+            "full_name": "James Ryan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6362
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.3, 
+            "full_name": "Osmond Esmonde", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3944
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.1, 
+            "full_name": "Michael Jordan", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                4989
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.7, 
+            "full_name": "Richard Corish", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4546
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.6, 
+            "full_name": "James Shannon", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3407
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.7, 
+            "full_name": "Michael Doyle", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                2654
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.8, 
+            "full_name": "John Keating", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "September 1927 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Wexford", 
+    "quota": 6527, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 39159, 
+    "year": 1927
+}

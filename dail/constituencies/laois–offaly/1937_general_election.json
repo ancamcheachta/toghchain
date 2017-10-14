@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8317
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.5, 
+            "full_name": "William Davin", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                7571
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.9, 
+            "full_name": "Patrick Boland", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6774
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.2, 
+            "full_name": "Patrick Gorry", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5127
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.8, 
+            "full_name": "Jack Finlay", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6122
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.9, 
+            "full_name": "Thomas F. O'Higgins", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3974
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.4, 
+            "full_name": "Patrick Doyle", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3795
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8, 
+            "full_name": "Daniel Hogan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3390
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.1, 
+            "full_name": "Laurence Brady", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2517
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.3, 
+            "full_name": "Edward Breen", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1937 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Laois\u2013Offaly", 
+    "quota": 7932, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 47587, 
+    "year": 1937
+}

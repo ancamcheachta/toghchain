@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                5453
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.8, 
+            "full_name": "William Broderick", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                4477
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.3, 
+            "full_name": "John Daly", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                4245
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.7, 
+            "full_name": "Brook Brasier", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                5518
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.9, 
+            "full_name": "Patrick Murphy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4939
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.5, 
+            "full_name": "Martin Corry", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4870
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.3, 
+            "full_name": "William Kent", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3519
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.9, 
+            "full_name": "Edmond Carey", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                2703
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.8, 
+            "full_name": "Michael Hennessy", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                2154
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.4, 
+            "full_name": "Eamonn Lynch", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1746
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "David O'Gorman", 
+            "party": "Farmers' Party"
+        }
+    ], 
+    "description": "1932 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Cork East", 
+    "quota": 6605, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 39624, 
+    "year": 1932
+}

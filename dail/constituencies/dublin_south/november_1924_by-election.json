@@ -1,0 +1,32 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                17297
+            ], 
+            "elected": true, 
+            "first_pref_pc": 51.4, 
+            "full_name": "Se\u00e1n Lemass", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                16340
+            ], 
+            "elected": false, 
+            "first_pref_pc": 48.6, 
+            "full_name": "S\u00e9amus Hughes", 
+            "party": "Cumann na nGaedheal"
+        }
+    ], 
+    "description": "November 1924 by-election", 
+    "election_type": "dail", 
+    "electorate": 78682, 
+    "name": "Dublin South", 
+    "quota": 16819, 
+    "spoilt": null, 
+    "turnout": 42, 
+    "valid": 33637, 
+    "year": 1924
+}

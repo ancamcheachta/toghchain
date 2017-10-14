@@ -1,0 +1,131 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8901
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.6, 
+            "full_name": "Ray Burke", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7007
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17, 
+            "full_name": "G. V. Wright", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5956
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.5, 
+            "full_name": "Nora Owen", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5614
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.6, 
+            "full_name": "Trevor Sargent", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                5616
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.6, 
+            "full_name": "Se\u00e1n Ryan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2971
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.2, 
+            "full_name": "Clare Daly", 
+            "party": "Socialist Party"
+        }, 
+        {
+            "counts": [
+                1857
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.5, 
+            "full_name": "Philip Jenkinson", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1431
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.5, 
+            "full_name": "Finian Fallon", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                669
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "Annie Ryan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                666
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "Angela Keaveney", 
+            "party": "Christian Solidarity"
+        }, 
+        {
+            "counts": [
+                376
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.9, 
+            "full_name": "Tim O'Brien", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                52
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Barbara Hyland", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                42
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Paul Coyle", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1997 general election", 
+    "election_type": "dail", 
+    "electorate": 64030, 
+    "name": "Dublin North", 
+    "quota": 8232, 
+    "spoilt": 364, 
+    "turnout": 41522, 
+    "valid": 41158, 
+    "year": 1997
+}

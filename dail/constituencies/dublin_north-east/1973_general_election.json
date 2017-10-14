@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                12901
+            ], 
+            "elected": true, 
+            "first_pref_pc": 30.1, 
+            "full_name": "Charles Haughey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7774
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.1, 
+            "full_name": "Conor Cruise O'Brien", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                7771
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.1, 
+            "full_name": "Paddy Belton", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3358
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.8, 
+            "full_name": "Eugene Timmons", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3106
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.2, 
+            "full_name": "Paddy Dunne", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2414
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.6, 
+            "full_name": "Timothy Killeen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1678
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.9, 
+            "full_name": "James Kelly", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1451
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.4, 
+            "full_name": "Joseph O'Connor", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1325
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.1, 
+            "full_name": "Michael Gleeson", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1110
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "Christopher Hoey", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1973 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin North-East", 
+    "quota": 8578, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 42888, 
+    "year": 1973
+}

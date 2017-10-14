@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10022
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.5, 
+            "full_name": "Thomas Derrig", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6078
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.9, 
+            "full_name": "Desmond FitzGerald", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                6167
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12, 
+            "full_name": "Se\u00e1n Gibbons", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6833
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.3, 
+            "full_name": "James Pattison", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5029
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.8, 
+            "full_name": "Richard Holohan", 
+            "party": "National Centre Party"
+        }, 
+        {
+            "counts": [
+                5614
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11, 
+            "full_name": "Francis Humphreys", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5293
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.3, 
+            "full_name": "Edward Dundon", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                4801
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.4, 
+            "full_name": "Denis Gorey", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                1453
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "James Murphy", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1933 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Carlow\u2013Kilkenny", 
+    "quota": 8549, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 51290, 
+    "year": 1933
+}

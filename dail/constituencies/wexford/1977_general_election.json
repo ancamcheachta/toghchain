@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7886
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.8, 
+            "full_name": "Brendan Corish", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                8701
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.7, 
+            "full_name": "Se\u00e1n Browne", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4541
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.3, 
+            "full_name": "Michael D'Arcy", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7733
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.5, 
+            "full_name": "Lorcan Allen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5139
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.6, 
+            "full_name": "S\u00e9amus Whelan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4142
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.4, 
+            "full_name": "John Esmonde", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2681
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.1, 
+            "full_name": "Pat Codd", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2036
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.6, 
+            "full_name": "Denis North", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1406
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.2, 
+            "full_name": "William Rossiter", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1977 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Wexford", 
+    "quota": 8854, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 44265, 
+    "year": 1977
+}

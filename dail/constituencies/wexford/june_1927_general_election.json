@@ -1,0 +1,122 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6644
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.6, 
+            "full_name": "Richard Corish", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5166
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.9, 
+            "full_name": "James Ryan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4022
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.1, 
+            "full_name": "Michael Doyle", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                3402
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.5, 
+            "full_name": "John Keating", 
+            "party": "National League Party"
+        }, 
+        {
+            "counts": [
+                3757
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.4, 
+            "full_name": "James Shannon", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4059
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.1, 
+            "full_name": "Denis Allen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3533
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.8, 
+            "full_name": "Michael Jordan", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                2667
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.7, 
+            "full_name": "Patrick Fanning", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1965
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.9, 
+            "full_name": "John Roche", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1733
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.3, 
+            "full_name": "James Stafford", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                1673
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.2, 
+            "full_name": "Se\u00e1n O'Kennedy", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                1411
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.5, 
+            "full_name": "Thomas McCarthy", 
+            "party": "Cumann na nGaedheal"
+        }
+    ], 
+    "description": "June 1927 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Wexford", 
+    "quota": 6673, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 40032, 
+    "year": 1927
+}

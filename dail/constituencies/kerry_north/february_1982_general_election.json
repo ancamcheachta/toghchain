@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8552
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.8, 
+            "full_name": "Dick Spring", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6754, 
+                7076, 
+                9585
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.4, 
+            "full_name": "Tom McEllistrim, Jnr", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2831, 
+            "transfers_pc": 41.7
+        }, 
+        {
+            "counts": [
+                5646, 
+                6098, 
+                7950, 
+                9123
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.1, 
+            "full_name": "Denis Foley", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3477, 
+            "transfers_pc": 51.22
+        }, 
+        {
+            "counts": [
+                5643, 
+                5836, 
+                6513, 
+                6647
+            ], 
+            "elected": false, 
+            "first_pref_pc": 17.1, 
+            "full_name": "Robert Pierse", 
+            "party": "Fine Gael", 
+            "transfers": 1004, 
+            "transfers_pc": 14.79
+        }, 
+        {
+            "counts": [
+                5297, 
+                5416
+            ], 
+            "elected": false, 
+            "first_pref_pc": 16, 
+            "full_name": "Dan Kiely", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 119, 
+            "transfers_pc": 1.75
+        }, 
+        {
+            "counts": [
+                1218
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "Denis Foley", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 4, 
+    "description": "February 1982 general election", 
+    "election_type": "dail", 
+    "electorate": 42856, 
+    "name": "Kerry North", 
+    "quota": 8278, 
+    "spoilt": 240, 
+    "turnout": 33350, 
+    "valid": 33110, 
+    "year": 1982
+}

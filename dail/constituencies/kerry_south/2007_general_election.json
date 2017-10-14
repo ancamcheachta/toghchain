@@ -1,0 +1,119 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9128, 
+                9407, 
+                9956
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.4, 
+            "full_name": "John O'Donoghue", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 828, 
+            "transfers_pc": 7.16
+        }, 
+        {
+            "counts": [
+                5600, 
+                5819, 
+                7927, 
+                7960, 
+                11010
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.3, 
+            "full_name": "Tom Sheahan", 
+            "party": "Fine Gael", 
+            "transfers": 5410, 
+            "transfers_pc": 46.75
+        }, 
+        {
+            "counts": [
+                5993, 
+                6356, 
+                6828, 
+                6882, 
+                8526, 
+                9315
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.4, 
+            "full_name": "Jackie Healy-Rae", 
+            "party": "Independent", 
+            "transfers": 3322, 
+            "transfers_pc": 28.71
+        }, 
+        {
+            "counts": [
+                6740, 
+                6972, 
+                7221, 
+                7278, 
+                8393, 
+                8855
+            ], 
+            "elected": false, 
+            "first_pref_pc": 17.3, 
+            "full_name": "Tom Fleming", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2115, 
+            "transfers_pc": 18.28
+        }, 
+        {
+            "counts": [
+                5263, 
+                5904, 
+                6774, 
+                6827
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.5, 
+            "full_name": "Breeda Moynihan-Cronin", 
+            "party": "Labour Party", 
+            "transfers": 1564, 
+            "transfers_pc": 13.52
+        }, 
+        {
+            "counts": [
+                4195, 
+                4419
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.7, 
+            "full_name": "S\u00e9amus Cosa\u00ed FitzGerald", 
+            "party": "Fine Gael", 
+            "transfers": 224, 
+            "transfers_pc": 1.94
+        }, 
+        {
+            "counts": [
+                1375
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.5, 
+            "full_name": "Lynn N\u00ed Bhaoigheallain", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                738
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.9, 
+            "full_name": "John Hickey", 
+            "party": "Green Party"
+        }
+    ], 
+    "counts_held": 6, 
+    "description": "2007 general election", 
+    "election_type": "dail", 
+    "electorate": 53660, 
+    "name": "Kerry South", 
+    "quota": 9759, 
+    "spoilt": 293, 
+    "turnout": 39325, 
+    "valid": 39032, 
+    "year": 2007
+}

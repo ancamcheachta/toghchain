@@ -1,0 +1,131 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9356, 
+                9547, 
+                11473
+            ], 
+            "elected": true, 
+            "first_pref_pc": 38.5, 
+            "full_name": "Helen McEntee", 
+            "party": "Fine Gael", 
+            "transfers": 2117, 
+            "transfers_pc": 30.46
+        }, 
+        {
+            "counts": [
+                8002, 
+                8106, 
+                9582
+            ], 
+            "elected": false, 
+            "first_pref_pc": 32.9, 
+            "full_name": "Thomas Byrne", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1580, 
+            "transfers_pc": 22.73
+        }, 
+        {
+            "counts": [
+                3165, 
+                3370
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13, 
+            "full_name": "Darren O'Rourke", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 205, 
+            "transfers_pc": 2.95
+        }, 
+        {
+            "counts": [
+                1568, 
+                1793
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.5, 
+            "full_name": "Ben Gilroy", 
+            "party": "Direct\u00a0Democracy", 
+            "transfers": 225, 
+            "transfers_pc": 3.24
+        }, 
+        {
+            "counts": [
+                1112, 
+                1245
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.6, 
+            "full_name": "Eoin Holmes", 
+            "party": "Labour Party", 
+            "transfers": 133, 
+            "transfers_pc": 1.91
+        }, 
+        {
+            "counts": [
+                423
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "Se\u00e1n \u00d3 Buachalla", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                263
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "Seamus McDonagh", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                190
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "Mick Martin", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                110
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Charlie Keddy", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                73
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Gerard O'Brien", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                47
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Jim Tallon", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 3, 
+    "description": "2013 by-election", 
+    "election_type": "dail", 
+    "electorate": 64164, 
+    "name": "Meath East", 
+    "quota": 12155, 
+    "spoilt": 259, 
+    "turnout": 38, 
+    "valid": 24309, 
+    "year": 2013
+}

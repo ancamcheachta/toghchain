@@ -1,0 +1,204 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8570
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.7, 
+            "full_name": "Bertie Ahern", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8000
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.5, 
+            "full_name": "Michael Keating", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7542, 
+                8174
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.5, 
+            "full_name": "George Colley", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 632, 
+            "transfers_pc": 6.17
+        }, 
+        {
+            "counts": [
+                4703, 
+                4730, 
+                4752, 
+                4768, 
+                4815, 
+                4861, 
+                5414, 
+                6458, 
+                6555, 
+                7737
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.3, 
+            "full_name": "Tony Gregory", 
+            "party": "Independent", 
+            "transfers": 3034, 
+            "transfers_pc": 29.64
+        }, 
+        {
+            "counts": [
+                5042, 
+                5063, 
+                5137, 
+                5151, 
+                5183, 
+                5210, 
+                5320, 
+                5715, 
+                6012, 
+                6511
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11, 
+            "full_name": "Michael O'Leary", 
+            "party": "Labour Party", 
+            "transfers": 1469, 
+            "transfers_pc": 14.35
+        }, 
+        {
+            "counts": [
+                2971, 
+                2991, 
+                3164, 
+                3168, 
+                3180, 
+                3193, 
+                3239, 
+                3337, 
+                5061, 
+                5412
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.5, 
+            "full_name": "Alice Glenn", 
+            "party": "Fine Gael", 
+            "transfers": 2441, 
+            "transfers_pc": 23.85
+        }, 
+        {
+            "counts": [
+                2990, 
+                3131, 
+                3137, 
+                3551, 
+                3558, 
+                4113, 
+                4276, 
+                4485, 
+                4525
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.5, 
+            "full_name": "Tom Leonard", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1535, 
+            "transfers_pc": 15
+        }, 
+        {
+            "counts": [
+                2023, 
+                2046, 
+                2138, 
+                2140, 
+                2147, 
+                2162, 
+                2187, 
+                2246
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "Luke Belton", 
+            "party": "Fine Gael", 
+            "transfers": 223, 
+            "transfers_pc": 2.18
+        }, 
+        {
+            "counts": [
+                1672, 
+                1678, 
+                1681, 
+                1684, 
+                1710, 
+                1740, 
+                2084
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "Michael White", 
+            "party": "Sinn F\u00e9in (Workers' Party)", 
+            "transfers": 412, 
+            "transfers_pc": 4.03
+        }, 
+        {
+            "counts": [
+                1458, 
+                1472, 
+                1475, 
+                1479, 
+                1485, 
+                1505
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.2, 
+            "full_name": "Christy Burke", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 47, 
+            "transfers_pc": 0.46
+        }, 
+        {
+            "counts": [
+                611, 
+                670, 
+                672, 
+                764, 
+                776
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.3, 
+            "full_name": "Michael Ward", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 165, 
+            "transfers_pc": 1.61
+        }, 
+        {
+            "counts": [
+                160, 
+                163, 
+                164, 
+                165
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Leo Martin", 
+            "party": "Independent", 
+            "transfers": 5, 
+            "transfers_pc": 0.05
+        }
+    ], 
+    "counts_held": 10, 
+    "description": "February 1982 general election", 
+    "election_type": "dail", 
+    "electorate": 74713, 
+    "name": "Dublin Central", 
+    "quota": 7624, 
+    "spoilt": 438, 
+    "turnout": 46180, 
+    "valid": 45742, 
+    "year": 1982
+}

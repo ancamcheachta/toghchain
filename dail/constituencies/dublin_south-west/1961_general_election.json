@@ -1,0 +1,140 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                5574
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.6, 
+            "full_name": "Robert Briscoe", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4496
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.4, 
+            "full_name": "Richie Ryan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4961
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.8, 
+            "full_name": "Noel Lemass, Jnr", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3378
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.1, 
+            "full_name": "James Carroll", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2276
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6.8, 
+            "full_name": "James O'Keeffe", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3293
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.8, 
+            "full_name": "Joseph Dowling", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2135
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.4, 
+            "full_name": "Se\u00e1n MacBride", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                1814
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.4, 
+            "full_name": "Joseph Christle", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1442
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.3, 
+            "full_name": "Joseph Mack", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1111
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.3, 
+            "full_name": "Michael O'Connor", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                964
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "Cecilia Keeble", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                930
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "Hilda Larkin", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                754
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.3, 
+            "full_name": "Patrick Coghlan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                444
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.3, 
+            "full_name": "S\u00e9amus McGuinness", 
+            "party": "Sinn F\u00e9in"
+        }
+    ], 
+    "description": "1961 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South-West", 
+    "quota": 5596, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 33572, 
+    "year": 1961
+}

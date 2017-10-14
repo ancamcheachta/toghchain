@@ -1,0 +1,157 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10773
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.7, 
+            "full_name": "Liam Aylward", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                9319, 
+                9529, 
+                9634
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.2, 
+            "full_name": "M. J. Nolan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 315, 
+            "transfers_pc": 1.46
+        }, 
+        {
+            "counts": [
+                7358, 
+                7423, 
+                8061, 
+                8418, 
+                8962, 
+                10347
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.8, 
+            "full_name": "S\u00e9amus Pattison", 
+            "party": "Labour Party", 
+            "transfers": 2989, 
+            "transfers_pc": 13.83
+        }, 
+        {
+            "counts": [
+                5107, 
+                5153, 
+                5244, 
+                5370, 
+                7883, 
+                8303, 
+                8444
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.9, 
+            "full_name": "Kieran Crotty", 
+            "party": "Fine Gael", 
+            "transfers": 3337, 
+            "transfers_pc": 15.44
+        }, 
+        {
+            "counts": [
+                4511, 
+                4569, 
+                4766, 
+                6782, 
+                7353, 
+                8113, 
+                8322
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.8, 
+            "full_name": "Martin Gibbons", 
+            "party": "Progressive Democrats", 
+            "transfers": 3811, 
+            "transfers_pc": 17.64
+        }, 
+        {
+            "counts": [
+                5376, 
+                5406, 
+                5479, 
+                5593, 
+                6700, 
+                7420
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.4, 
+            "full_name": "Phil Hogan", 
+            "party": "Fine Gael", 
+            "transfers": 2044, 
+            "transfers_pc": 9.46
+        }, 
+        {
+            "counts": [
+                5435, 
+                6155, 
+                6350, 
+                6493, 
+                6592
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.5, 
+            "full_name": "Pat Millea", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1157, 
+            "transfers_pc": 5.35
+        }, 
+        {
+            "counts": [
+                4390, 
+                4409, 
+                4445, 
+                5221
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.6, 
+            "full_name": "John Browne", 
+            "party": "Fine Gael", 
+            "transfers": 831, 
+            "transfers_pc": 3.85
+        }, 
+        {
+            "counts": [
+                3552, 
+                3566, 
+                3675
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.2, 
+            "full_name": "Michael Kearns", 
+            "party": "Progressive Democrats", 
+            "transfers": 123, 
+            "transfers_pc": 0.57
+        }, 
+        {
+            "counts": [
+                1664, 
+                1694
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "Joseph Butler", 
+            "party": "Workers' Party", 
+            "transfers": 30, 
+            "transfers_pc": 0.14
+        }
+    ], 
+    "counts_held": 7, 
+    "description": "1987 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Carlow\u2013Kilkenny", 
+    "quota": 9581, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 57485, 
+    "year": 1987
+}

@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9483
+            ], 
+            "elected": true, 
+            "first_pref_pc": 29.5, 
+            "full_name": "Clement Coughlan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8544
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26.5, 
+            "full_name": "Dinny McGinley", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                8165
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.4, 
+            "full_name": "Pat the Cope Gallagher", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4035
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.5, 
+            "full_name": "Francis O'Kelly", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1972
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.1, 
+            "full_name": "S\u00e9amus Rodgers", 
+            "party": "Workers' Party"
+        }
+    ], 
+    "description": "November 1982 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Donegal South-West", 
+    "quota": 8050, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 32199, 
+    "year": 1982
+}

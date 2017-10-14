@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8476
+            ], 
+            "elected": true, 
+            "first_pref_pc": 33.4, 
+            "full_name": "James Collins", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7213
+            ], 
+            "elected": true, 
+            "first_pref_pc": 28.5, 
+            "full_name": "Denis Jones", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5343
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.1, 
+            "full_name": "Donnchadh \u00d3 Briain", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2304
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.1, 
+            "full_name": "Edward Dwyer", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2020
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8, 
+            "full_name": "Brendan Danaher", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1965 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Limerick West", 
+    "quota": 6340, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 25356, 
+    "year": 1965
+}

@@ -1,0 +1,41 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                14384
+            ], 
+            "elected": true, 
+            "first_pref_pc": 53.8, 
+            "full_name": "Gerry Collins", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                10327
+            ], 
+            "elected": false, 
+            "first_pref_pc": 38.6, 
+            "full_name": "William Madden", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2048
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.7, 
+            "full_name": "Edward Dwyer", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1967 by-election", 
+    "election_type": "dail", 
+    "electorate": 32958, 
+    "name": "Limerick West", 
+    "quota": 13380, 
+    "spoilt": null, 
+    "turnout": 81, 
+    "valid": 26759, 
+    "year": 1967
+}

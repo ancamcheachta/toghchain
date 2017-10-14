@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7638
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.7, 
+            "full_name": "John Flynn", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7364
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.2, 
+            "full_name": "Eamonn Kissane", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6266
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.4, 
+            "full_name": "Fion\u00e1n Lynch", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                6930
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.5, 
+            "full_name": "Tom McEllistrim", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7134
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.8, 
+            "full_name": "Frederick Crowley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6691
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.1, 
+            "full_name": "Thomas O'Reilly", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5686
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.4, 
+            "full_name": "John O'Sullivan", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                4644
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.7, 
+            "full_name": "James Crowley", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                4548
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.5, 
+            "full_name": "Patrick Trant", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                3409
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.7, 
+            "full_name": "John Moore", 
+            "party": "Cumann na nGaedheal"
+        }
+    ], 
+    "description": "1932 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Kerry", 
+    "quota": 7539, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 60310, 
+    "year": 1932
+}

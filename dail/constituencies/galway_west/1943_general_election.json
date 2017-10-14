@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                5344
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.3, 
+            "full_name": "Joseph Mongan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5968
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.6, 
+            "full_name": "Gerald Bartley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3693
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.3, 
+            "full_name": "Eamon Corbett", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3204
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.6, 
+            "full_name": "John J. Keane", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2287
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.3, 
+            "full_name": "Bartley Keane", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2186
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.9, 
+            "full_name": "Margaret Ashe", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2019
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.3, 
+            "full_name": "Patrick Morris", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1733
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.3, 
+            "full_name": "Joseph Ridge", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                810
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "William Higgins", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                442
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "Michael \u00d3 Maol\u00e1in", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1943 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Galway West", 
+    "quota": 6922, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 27686, 
+    "year": 1943
+}

@@ -1,0 +1,140 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8910
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.7, 
+            "full_name": "Michael D. Higgins", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                8430
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.7, 
+            "full_name": "\u00c9amon \u00d3 Cu\u00edv", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5776
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.5, 
+            "full_name": "P\u00e1draic McCormack", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6749
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.4, 
+            "full_name": "Bobby Molloy", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                6844
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.6, 
+            "full_name": "M\u00e1ire Geoghegan-Quinn", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6782
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.5, 
+            "full_name": "Frank Fahey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2747
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.5, 
+            "full_name": "Fintan Coogan, Jnr", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1308
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "Darina Costelloe", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1151
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.3, 
+            "full_name": "Paddy Lally", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                750
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.5, 
+            "full_name": "P\u00f3l \u00d3 Foighil", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                392
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "Jacqueline O'Dowd", 
+            "party": "Democratic Left"
+        }, 
+        {
+            "counts": [
+                349
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "Mike Egan", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                138
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "John Finnegan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                60
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Jim Walsh", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1992 general election", 
+    "election_type": "dail", 
+    "electorate": 79008, 
+    "name": "Galway West", 
+    "quota": 8398, 
+    "spoilt": 653, 
+    "turnout": 51039, 
+    "valid": 50386, 
+    "year": 1992
+}

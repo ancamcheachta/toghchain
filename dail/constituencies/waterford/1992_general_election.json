@@ -1,0 +1,171 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                11235
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26.1, 
+            "full_name": "Brian O'Shea", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                7723, 
+                8305, 
+                8364, 
+                8634
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18, 
+            "full_name": "Austin Deasy", 
+            "party": "Fine Gael", 
+            "transfers": 911, 
+            "transfers_pc": 8.72
+        }, 
+        {
+            "counts": [
+                6793, 
+                7055, 
+                7148, 
+                7416, 
+                7527, 
+                7756, 
+                8380
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.8, 
+            "full_name": "Brendan Kenneally", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1587, 
+            "transfers_pc": 15.19
+        }, 
+        {
+            "counts": [
+                4015, 
+                4440, 
+                4497, 
+                4670, 
+                4917, 
+                5915, 
+                6739
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.3, 
+            "full_name": "Martin Cullen", 
+            "party": "Progressive Democrats", 
+            "transfers": 2724, 
+            "transfers_pc": 26.07
+        }, 
+        {
+            "counts": [
+                5410, 
+                5548, 
+                5616, 
+                5800, 
+                5876, 
+                5974, 
+                6367
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13, 
+            "full_name": "Jackie Fahey", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 957, 
+            "transfers_pc": 9.16
+        }, 
+        {
+            "counts": [
+                3000, 
+                3451, 
+                3617, 
+                3739, 
+                4338, 
+                4676
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7, 
+            "full_name": "Martin O'Regan", 
+            "party": "Workers' Party", 
+            "transfers": 1676, 
+            "transfers_pc": 16.04
+        }, 
+        {
+            "counts": [
+                1788, 
+                1984, 
+                2009, 
+                2126, 
+                2282
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.2, 
+            "full_name": "Maurice Cummins", 
+            "party": "Fine Gael", 
+            "transfers": 494, 
+            "transfers_pc": 4.73
+        }, 
+        {
+            "counts": [
+                1039, 
+                1459, 
+                1513, 
+                1568
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.4, 
+            "full_name": "Paddy Gallagher", 
+            "party": "Democratic Left", 
+            "transfers": 529, 
+            "transfers_pc": 5.06
+        }, 
+        {
+            "counts": [
+                1312, 
+                1411, 
+                1488
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.1, 
+            "full_name": "Tony Scott", 
+            "party": "Independent", 
+            "transfers": 176, 
+            "transfers_pc": 1.68
+        }, 
+        {
+            "counts": [
+                511, 
+                539
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "Denis O'Brien", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 28, 
+            "transfers_pc": 0.27
+        }, 
+        {
+            "counts": [
+                161, 
+                197
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Breda Hayden", 
+            "party": "Independent", 
+            "transfers": 36, 
+            "transfers_pc": 0.34
+        }
+    ], 
+    "counts_held": 7, 
+    "description": "1992 general election", 
+    "election_type": "dail", 
+    "electorate": 64037, 
+    "name": "Waterford", 
+    "quota": 8598, 
+    "spoilt": 676, 
+    "turnout": 43663, 
+    "valid": 42987, 
+    "year": 1992
+}

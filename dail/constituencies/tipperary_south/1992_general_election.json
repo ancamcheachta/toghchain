@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                null
+            ], 
+            "elected": true, 
+            "first_pref_pc": null, 
+            "full_name": "Se\u00e1n Treacy", 
+            "party": "Ceann Comhairle"
+        }, 
+        {
+            "counts": [
+                8103
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.4, 
+            "full_name": "Theresa Ahearn", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7463
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.8, 
+            "full_name": "Noel Davern", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8306
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.9, 
+            "full_name": "Michael Ferris", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4023
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.1, 
+            "full_name": "S\u00e9amus Healy", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                3851
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.7, 
+            "full_name": "Se\u00e1n Byrne", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3849
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.7, 
+            "full_name": "Se\u00e1n McCarthy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2854
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.2, 
+            "full_name": "Brendan Griffin", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1016
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "Joe O'Gorman", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                205
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Terry Crowe", 
+            "party": "Sinn F\u00e9in"
+        }
+    ], 
+    "description": "1992 general election", 
+    "election_type": "dail", 
+    "electorate": 56800, 
+    "name": "Tipperary South", 
+    "quota": 9918, 
+    "spoilt": 533, 
+    "turnout": 40203, 
+    "valid": 39670, 
+    "year": 1992
+}

@@ -1,0 +1,41 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                12499
+            ], 
+            "elected": true, 
+            "first_pref_pc": 45.9, 
+            "full_name": "John O'Leary", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                9875
+            ], 
+            "elected": false, 
+            "first_pref_pc": 36.3, 
+            "full_name": "Michael Begley", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4849
+            ], 
+            "elected": false, 
+            "first_pref_pc": 17.8, 
+            "full_name": "Michael Moynihan", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1966 by-election", 
+    "election_type": "dail", 
+    "electorate": 35832, 
+    "name": "Kerry South", 
+    "quota": 13612, 
+    "spoilt": null, 
+    "turnout": 76, 
+    "valid": 27223, 
+    "year": 1966
+}

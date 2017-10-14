@@ -1,0 +1,140 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7746
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.6, 
+            "full_name": "Bernard Allen", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5527
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.6, 
+            "full_name": "Liam Burke", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5273
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12, 
+            "full_name": "Dan Wallace", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5419
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.3, 
+            "full_name": "Billy Kelleher", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4943
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.2, 
+            "full_name": "Noel O'Flynn", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3146
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.2, 
+            "full_name": "Kathleen Lynch", 
+            "party": "Democratic Left"
+        }, 
+        {
+            "counts": [
+                3304
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.5, 
+            "full_name": "M\u00e1ir\u00edn Quill", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                2321
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.3, 
+            "full_name": "Sheila O'Sullivan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1654
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.8, 
+            "full_name": "Don O'Leary", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                1340
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "Jane Power", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                1114
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.5, 
+            "full_name": "Con O'Leary", 
+            "party": "National Party"
+        }, 
+        {
+            "counts": [
+                899
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "Paddy Mulcahy", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                777
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Eddie Mullins", 
+            "party": "Christian Solidarity"
+        }, 
+        {
+            "counts": [
+                545
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "Jimmy Homan", 
+            "party": "Workers' Party"
+        }
+    ], 
+    "description": "1997 general election", 
+    "election_type": "dail", 
+    "electorate": 71873, 
+    "name": "Cork North-Central", 
+    "quota": 7335, 
+    "spoilt": 408, 
+    "turnout": 44416, 
+    "valid": 44008, 
+    "year": 1997
+}

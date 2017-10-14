@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                5945
+            ], 
+            "elected": true, 
+            "first_pref_pc": 29.2, 
+            "full_name": "Vivion de Valera", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5168
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.4, 
+            "full_name": "Patrick McGilligan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1443
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.1, 
+            "full_name": "Maureen O'Carroll", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2420
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.9, 
+            "full_name": "Fion\u00e1n Breathnach", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                2278
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.2, 
+            "full_name": "Colm Gallagher", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1915
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.4, 
+            "full_name": "John Hedigan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1215
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6, 
+            "full_name": "Thomas Herlihy", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1954 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin North-Central", 
+    "quota": 5097, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 20384, 
+    "year": 1954
+}

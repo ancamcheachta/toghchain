@@ -1,0 +1,153 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7311
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.2, 
+            "full_name": "Se\u00e1n Walsh", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6266, 
+                6302, 
+                6421, 
+                7121, 
+                8751
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.3, 
+            "full_name": "Larry McMahon", 
+            "party": "Fine Gael", 
+            "transfers": 2485, 
+            "transfers_pc": 24.83
+        }, 
+        {
+            "counts": [
+                5522, 
+                6197, 
+                6517, 
+                6737, 
+                7188, 
+                7514
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.3, 
+            "full_name": "Mervyn Taylor", 
+            "party": "Labour Party", 
+            "transfers": 1992, 
+            "transfers_pc": 19.91
+        }, 
+        {
+            "counts": [
+                4192, 
+                4222, 
+                4626, 
+                4783, 
+                4861, 
+                4879, 
+                7822
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.6, 
+            "full_name": "Mary Harney", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3630, 
+            "transfers_pc": 36.27
+        }, 
+        {
+            "counts": [
+                2946, 
+                2990, 
+                3107, 
+                3813, 
+                4567, 
+                5712, 
+                5863
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.2, 
+            "full_name": "Conal Brennan", 
+            "party": "Fine Gael", 
+            "transfers": 2917, 
+            "transfers_pc": 29.15
+        }, 
+        {
+            "counts": [
+                2916, 
+                2931, 
+                3171, 
+                3224, 
+                3276, 
+                3304
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.1, 
+            "full_name": "Richard Conroy", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 388, 
+            "transfers_pc": 3.88
+        }, 
+        {
+            "counts": [
+                2444, 
+                2470, 
+                2522, 
+                3002
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.7, 
+            "full_name": "George Laing", 
+            "party": "Fine Gael", 
+            "transfers": 558, 
+            "transfers_pc": 5.58
+        }, 
+        {
+            "counts": [
+                2154, 
+                2207, 
+                2289
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.9, 
+            "full_name": "John Garvey", 
+            "party": "Fine Gael", 
+            "transfers": 135, 
+            "transfers_pc": 1.35
+        }, 
+        {
+            "counts": [
+                1519, 
+                1535
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.2, 
+            "full_name": "Kevin Boland", 
+            "party": "Independent", 
+            "transfers": 16, 
+            "transfers_pc": 0.16
+        }, 
+        {
+            "counts": [
+                897
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.5, 
+            "full_name": "Brendan Byrne", 
+            "party": "Labour Party"
+        }
+    ], 
+    "counts_held": 7, 
+    "description": "1981 general election", 
+    "election_type": "dail", 
+    "electorate": 51182, 
+    "name": "Dublin South-West", 
+    "quota": 7234, 
+    "spoilt": 389, 
+    "turnout": 36556, 
+    "valid": 36167, 
+    "year": 1981
+}

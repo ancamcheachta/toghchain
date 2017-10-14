@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6866
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.3, 
+            "full_name": "Fion\u00e1n Lynch", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                6296
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.3, 
+            "full_name": "John O'Sullivan", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                5651
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.1, 
+            "full_name": "James Crowley", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                6190
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.1, 
+            "full_name": "Tom McEllistrim", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5993
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.7, 
+            "full_name": "William O'Leary", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5762
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.3, 
+            "full_name": "Frederick Crowley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6039
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.8, 
+            "full_name": "Thomas O'Reilly", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5027
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9, 
+            "full_name": "Michael O'Donnell", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3473
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.2, 
+            "full_name": "Thomas Slattery", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                2903
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.2, 
+            "full_name": "Patrick O'Shea", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                1691
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "Maurice Lawlor", 
+            "party": "Farmers' Party"
+        }
+    ], 
+    "description": "September 1927 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Kerry", 
+    "quota": 6987, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 55891, 
+    "year": 1927
+}

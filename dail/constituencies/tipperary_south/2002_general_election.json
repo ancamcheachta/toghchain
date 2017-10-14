@@ -1,0 +1,109 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8997, 
+                9133, 
+                10724
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.5, 
+            "full_name": "Tom Hayes", 
+            "party": "Fine Gael", 
+            "transfers": 1727, 
+            "transfers_pc": 27.86
+        }, 
+        {
+            "counts": [
+                8888, 
+                9085, 
+                10029
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.2, 
+            "full_name": "Noel Davern", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1141, 
+            "transfers_pc": 18.41
+        }, 
+        {
+            "counts": [
+                7350, 
+                7765, 
+                9477
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.1, 
+            "full_name": "S\u00e9amus Healy", 
+            "party": "Independent", 
+            "transfers": 2127, 
+            "transfers_pc": 34.32
+        }, 
+        {
+            "counts": [
+                5233, 
+                5433, 
+                5888
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.3, 
+            "full_name": "Martin Mansergh", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 655, 
+            "transfers_pc": 10.57
+        }, 
+        {
+            "counts": [
+                3353, 
+                3555
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.1, 
+            "full_name": "Denis Landy", 
+            "party": "Labour Party", 
+            "transfers": 202, 
+            "transfers_pc": 3.26
+        }, 
+        {
+            "counts": [
+                1515, 
+                1631
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.1, 
+            "full_name": "Tom Wood", 
+            "party": "Independent", 
+            "transfers": 116, 
+            "transfers_pc": 1.87
+        }, 
+        {
+            "counts": [
+                1210
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.3, 
+            "full_name": "Muiris \u00d3 Suilleabh\u00e1in", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                120
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Michael Larkin", 
+            "party": "Christian Solidarity"
+        }
+    ], 
+    "counts_held": 3, 
+    "description": "2002 general election", 
+    "election_type": "dail", 
+    "electorate": 56092, 
+    "name": "Tipperary South", 
+    "quota": 9167, 
+    "spoilt": 390, 
+    "turnout": 37056, 
+    "valid": 36666, 
+    "year": 2002
+}

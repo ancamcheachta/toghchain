@@ -1,0 +1,135 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9819
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.5, 
+            "full_name": "Brendan Daly", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8840
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.3, 
+            "full_name": "Bill Loughnane", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7216, 
+                8078, 
+                8111, 
+                8031, 
+                8511, 
+                8855
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.6, 
+            "full_name": "Sylvester Barrett", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1639, 
+            "transfers_pc": 34.48
+        }, 
+        {
+            "counts": [
+                7570, 
+                7635, 
+                7660, 
+                7680, 
+                7855, 
+                8778
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.4, 
+            "full_name": "Donal Carey", 
+            "party": "Fine Gael", 
+            "transfers": 1208, 
+            "transfers_pc": 25.42
+        }, 
+        {
+            "counts": [
+                6602, 
+                6718, 
+                6729, 
+                6741, 
+                6952, 
+                7662
+            ], 
+            "elected": false, 
+            "first_pref_pc": 15.2, 
+            "full_name": "Madeleine Taylor", 
+            "party": "Fine Gael", 
+            "transfers": 1060, 
+            "transfers_pc": 22.3
+        }, 
+        {
+            "counts": [
+                1957, 
+                1985, 
+                2001, 
+                2048, 
+                2214
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.5, 
+            "full_name": "Agnes McCarthy", 
+            "party": "Labour Party", 
+            "transfers": 257, 
+            "transfers_pc": 5.41
+        }, 
+        {
+            "counts": [
+                1233, 
+                1255, 
+                1262, 
+                1378
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "Joe O'Connell", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 145, 
+            "transfers_pc": 3.05
+        }, 
+        {
+            "counts": [
+                232, 
+                238, 
+                243
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Brigid Makowski", 
+            "party": "Irish Republican Socialist", 
+            "transfers": 11, 
+            "transfers_pc": 0.23
+        }, 
+        {
+            "counts": [
+                100, 
+                106
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Frank McTigue", 
+            "party": "Independent Fianna F\u00e1il", 
+            "transfers": 6, 
+            "transfers_pc": 0.13
+        }
+    ], 
+    "counts_held": 6, 
+    "description": "February 1982 general election", 
+    "election_type": "dail", 
+    "electorate": 58727, 
+    "name": "Clare", 
+    "quota": 8714, 
+    "spoilt": 347, 
+    "turnout": 43916, 
+    "valid": 43569, 
+    "year": 1982
+}

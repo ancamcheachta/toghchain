@@ -1,0 +1,123 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9103, 
+                9507, 
+                10421, 
+                12065
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.8, 
+            "full_name": "Frank Feighan", 
+            "party": "Fine Gael", 
+            "transfers": 2962, 
+            "transfers_pc": 29.19
+        }, 
+        {
+            "counts": [
+                9982, 
+                10135, 
+                10529, 
+                12017
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.7, 
+            "full_name": "Michael Finneran", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2035, 
+            "transfers_pc": 20.05
+        }, 
+        {
+            "counts": [
+                8928, 
+                9354, 
+                9670, 
+                11048
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.4, 
+            "full_name": "Denis Naughten", 
+            "party": "Fine Gael", 
+            "transfers": 2120, 
+            "transfers_pc": 20.89
+        }, 
+        {
+            "counts": [
+                7915, 
+                8060, 
+                9347, 
+                9650
+            ], 
+            "elected": false, 
+            "first_pref_pc": 17.2, 
+            "full_name": "John Ellis", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1735, 
+            "transfers_pc": 17.1
+        }, 
+        {
+            "counts": [
+                4539, 
+                4839, 
+                5522
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.9, 
+            "full_name": "John Kelly", 
+            "party": "Independent", 
+            "transfers": 983, 
+            "transfers_pc": 9.69
+        }, 
+        {
+            "counts": [
+                3876, 
+                4118
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.4, 
+            "full_name": "Martin Kenny", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 242, 
+            "transfers_pc": 2.38
+        }, 
+        {
+            "counts": [
+                836
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Garreth McDaid", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                832
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Hughie Baxter", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                66
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Noel O'Gara", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 4, 
+    "description": "2007 general election", 
+    "election_type": "dail", 
+    "electorate": 62437, 
+    "name": "Roscommon\u2013South Leitrim", 
+    "quota": 11520, 
+    "spoilt": null, 
+    "turnout": 73, 
+    "valid": 46077, 
+    "year": 2007
+}

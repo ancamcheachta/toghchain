@@ -1,0 +1,122 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8417
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20, 
+            "full_name": "Robert Briscoe", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6529
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.6, 
+            "full_name": "Bernard Butler", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5823
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.9, 
+            "full_name": "Peadar Doyle", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5842
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.9, 
+            "full_name": "Michael ffrench-O'Carroll", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2853
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6.8, 
+            "full_name": "Se\u00e1n MacBride", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                2754
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.6, 
+            "full_name": "Michael O'Higgins", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2682
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.4, 
+            "full_name": "Cearbhall \u00d3 D\u00e1laigh", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2572
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.1, 
+            "full_name": "Thomas Reynolds", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2335
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.6, 
+            "full_name": "Richard Deasy", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1211
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "James O'Keeffe", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                684
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "Richard Batterberry", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                295
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "Michael O'Riordan", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1951 general election", 
+    "election_type": "dail", 
+    "electorate": 60934, 
+    "name": "Dublin South-West", 
+    "quota": 7000, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 41997, 
+    "year": 1951
+}

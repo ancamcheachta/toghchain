@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10152
+            ], 
+            "elected": true, 
+            "first_pref_pc": 35.3, 
+            "full_name": "Se\u00e1n Mac Eoin", 
+            "party": "Sinn F\u00e9in (Pro-Treaty)"
+        }, 
+        {
+            "counts": [
+                7073
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.6, 
+            "full_name": "John Lyons", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                5022
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.5, 
+            "full_name": "Laurence Ginnell", 
+            "party": "Sinn F\u00e9in (Anti-Treaty)"
+        }, 
+        {
+            "counts": [
+                2280
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.9, 
+            "full_name": "Francis McGuinness", 
+            "party": "Sinn F\u00e9in (Pro-Treaty)"
+        }, 
+        {
+            "counts": [
+                2258
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.9, 
+            "full_name": "Patrick Belton", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1996
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.9, 
+            "full_name": "Lorcan Robbins", 
+            "party": "Sinn F\u00e9in (Pro-Treaty)"
+        }
+    ], 
+    "description": "1922 general election", 
+    "election_type": "dail", 
+    "electorate": 47078, 
+    "name": "Longford\u2013Westmeath", 
+    "quota": 5757, 
+    "spoilt": null, 
+    "turnout": 61, 
+    "valid": 28781, 
+    "year": 1922
+}

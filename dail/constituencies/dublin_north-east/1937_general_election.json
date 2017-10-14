@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                12063
+            ], 
+            "elected": true, 
+            "first_pref_pc": 33.3, 
+            "full_name": "Alfie Byrne", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                9693
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26.8, 
+            "full_name": "Oscar Traynor", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5970
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.5, 
+            "full_name": "James Larkin", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                5192
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.3, 
+            "full_name": "Richard Mulcahy", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3285
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.1, 
+            "full_name": "Thomas O'Reilly", 
+            "party": "Fianna F\u00e1il"
+        }
+    ], 
+    "description": "1937 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin North-East", 
+    "quota": 9051, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 36203, 
+    "year": 1937
+}

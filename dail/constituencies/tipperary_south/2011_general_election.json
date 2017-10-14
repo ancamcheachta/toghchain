@@ -1,0 +1,116 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8818, 
+                9542, 
+                11265
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.3, 
+            "full_name": "S\u00e9amus Healy[24]", 
+            "party": "Workers and Unemployed Action", 
+            "transfers": 2447, 
+            "transfers_pc": 20.11
+        }, 
+        {
+            "counts": [
+                8896, 
+                9214, 
+                10186, 
+                10463
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.5, 
+            "full_name": "Tom Hayes", 
+            "party": "Fine Gael", 
+            "transfers": 1567, 
+            "transfers_pc": 12.87
+        }, 
+        {
+            "counts": [
+                6074, 
+                6349, 
+                7078, 
+                7413, 
+                9978
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.7, 
+            "full_name": "Mattie McGrath", 
+            "party": "Independent", 
+            "transfers": 3904, 
+            "transfers_pc": 32.08
+        }, 
+        {
+            "counts": [
+                5402, 
+                5563, 
+                6404, 
+                6633, 
+                7948
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.1, 
+            "full_name": "Michael Murphy", 
+            "party": "Fine Gael", 
+            "transfers": 2546, 
+            "transfers_pc": 20.92
+        }, 
+        {
+            "counts": [
+                5419, 
+                5588, 
+                5865, 
+                5948
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.1, 
+            "full_name": "Martin Mansergh", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 529, 
+            "transfers_pc": 4.35
+        }, 
+        {
+            "counts": [
+                4525, 
+                4966
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.9, 
+            "full_name": "Phil Prendergast", 
+            "party": "Labour Party", 
+            "transfers": 441, 
+            "transfers_pc": 3.62
+        }, 
+        {
+            "counts": [
+                1860
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.5, 
+            "full_name": "Michael Browne", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                367
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.9, 
+            "full_name": "Paul McNally", 
+            "party": "Green Party"
+        }
+    ], 
+    "counts_held": 5, 
+    "description": "2011 general election", 
+    "election_type": "dail", 
+    "electorate": 57420, 
+    "name": "Tipperary South", 
+    "quota": 10341, 
+    "spoilt": 432, 
+    "turnout": 41793, 
+    "valid": 41361, 
+    "year": 2011
+}

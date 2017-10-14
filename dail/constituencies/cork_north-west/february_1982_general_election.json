@@ -1,0 +1,90 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7025, 
+                7433, 
+                10037
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.9, 
+            "full_name": "Thomas Meaney", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3012, 
+            "transfers_pc": 44.38
+        }, 
+        {
+            "counts": [
+                7240, 
+                8342, 
+                8754
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.6, 
+            "full_name": "Frank Crowley", 
+            "party": "Fine Gael", 
+            "transfers": 1514, 
+            "transfers_pc": 22.31
+        }, 
+        {
+            "counts": [
+                7305, 
+                8038, 
+                8115, 
+                8142
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.8, 
+            "full_name": "Donal Creed", 
+            "party": "Fine Gael", 
+            "transfers": 837, 
+            "transfers_pc": 12.33
+        }, 
+        {
+            "counts": [
+                5137, 
+                5356, 
+                6095, 
+                7731
+            ], 
+            "elected": false, 
+            "first_pref_pc": 15.3, 
+            "full_name": "Donal Moynihan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2594, 
+            "transfers_pc": 38.22
+        }, 
+        {
+            "counts": [
+                3726, 
+                3953
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.1, 
+            "full_name": "Michael Donegan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 227, 
+            "transfers_pc": 3.34
+        }, 
+        {
+            "counts": [
+                3061
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.2, 
+            "full_name": "Michael Smith", 
+            "party": "Labour Party"
+        }
+    ], 
+    "counts_held": 4, 
+    "description": "February 1982 general election", 
+    "election_type": "dail", 
+    "electorate": 40156, 
+    "name": "Cork North-West", 
+    "quota": 8374, 
+    "spoilt": 237, 
+    "turnout": 33731, 
+    "valid": 33494, 
+    "year": 1982
+}

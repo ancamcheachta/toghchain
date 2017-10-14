@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10970
+            ], 
+            "elected": true, 
+            "first_pref_pc": 30.9, 
+            "full_name": "Ray MacSharry", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6152
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.3, 
+            "full_name": "James Gallagher", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7988
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.4, 
+            "full_name": "Eugene Gilhawley", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5786
+            ], 
+            "elected": false, 
+            "first_pref_pc": 16.2, 
+            "full_name": "Joseph McLoughlin", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2399
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.7, 
+            "full_name": "Se\u00e1n McManus", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1282
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.6, 
+            "full_name": "Declan Bree", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1074
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "Thomas Higgins", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1977 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Sligo\u2013Leitrim", 
+    "quota": 8913, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 35651, 
+    "year": 1977
+}

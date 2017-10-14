@@ -1,0 +1,140 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                5977, 
+                6112, 
+                6744, 
+                7342, 
+                8807, 
+                12334
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.6, 
+            "full_name": "Ruth Coppinger", 
+            "party": "Socialist Party", 
+            "transfers": 6357, 
+            "transfers_pc": 35.46
+        }, 
+        {
+            "counts": [
+                5053, 
+                5156, 
+                5691, 
+                6789, 
+                8163, 
+                9237
+            ], 
+            "elected": false, 
+            "first_pref_pc": 17.5, 
+            "full_name": "David McGuinness", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 4184, 
+            "transfers_pc": 23.34
+        }, 
+        {
+            "counts": [
+                6056, 
+                6120, 
+                6296, 
+                6516, 
+                7028
+            ], 
+            "elected": false, 
+            "first_pref_pc": 20.9, 
+            "full_name": "Paul Donnelly", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 972, 
+            "transfers_pc": 5.42
+        }, 
+        {
+            "counts": [
+                3803, 
+                4133, 
+                4783, 
+                5846
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.1, 
+            "full_name": "David Hall", 
+            "party": "Independent", 
+            "transfers": 2043, 
+            "transfers_pc": 11.4
+        }, 
+        {
+            "counts": [
+                3715, 
+                3788, 
+                4693
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.8, 
+            "full_name": "Eamonn Coghlan", 
+            "party": "Fine Gael", 
+            "transfers": 978, 
+            "transfers_pc": 5.46
+        }, 
+        {
+            "counts": [
+                1856, 
+                1951
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.4, 
+            "full_name": "Roderic O'Gorman", 
+            "party": "Green Party", 
+            "transfers": 95, 
+            "transfers_pc": 0.53
+        }, 
+        {
+            "counts": [
+                1505, 
+                1540
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.2, 
+            "full_name": "Lorraine Mulligan", 
+            "party": "Labour Party", 
+            "transfers": 35, 
+            "transfers_pc": 0.2
+        }, 
+        {
+            "counts": [
+                649
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.2, 
+            "full_name": "Se\u00e1n Lyons", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                228
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "John Kidd", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                113
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Daniel Boyne", 
+            "party": "F\u00eds Nua"
+        }
+    ], 
+    "counts_held": 6, 
+    "description": "2014 by-election", 
+    "election_type": "dail", 
+    "electorate": 63521, 
+    "name": "Dublin West", 
+    "quota": 14478, 
+    "spoilt": 395, 
+    "turnout": 29350, 
+    "valid": 28955, 
+    "year": 2014
+}

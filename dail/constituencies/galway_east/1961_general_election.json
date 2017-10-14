@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                5750
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.4, 
+            "full_name": "Michael F. Kitt", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5903
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.7, 
+            "full_name": "Michael Donnellan", 
+            "party": "Clann na Talmhan"
+        }, 
+        {
+            "counts": [
+                6325
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.8, 
+            "full_name": "Anthony Millar", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6266
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.7, 
+            "full_name": "Michael Carty", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4988
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.5, 
+            "full_name": "Brigid Hogan-O'Higgins", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3729
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.3, 
+            "full_name": "Sean Purcell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5714
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.8, 
+            "full_name": "Mark Killilea, Snr", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3478
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.7, 
+            "full_name": "P\u00e1draig \u00d3 Ceallaigh", 
+            "party": "Sinn F\u00e9in"
+        }
+    ], 
+    "description": "1961 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Galway East", 
+    "quota": 6665, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 39986, 
+    "year": 1961
+}

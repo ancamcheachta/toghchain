@@ -1,0 +1,149 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                17762
+            ], 
+            "elected": true, 
+            "first_pref_pc": 45, 
+            "full_name": "\u00c9amon de Valera", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                8196
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.8, 
+            "full_name": "Eoin MacNeill", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                114
+            ], 
+            "elected": true, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Brian O'Higgins", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                1914
+            ], 
+            "elected": true, 
+            "first_pref_pc": 4.9, 
+            "full_name": "Conor Hogan", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                2083
+            ], 
+            "elected": true, 
+            "first_pref_pc": 5.3, 
+            "full_name": "Patrick Hogan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2140
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.4, 
+            "full_name": "Patrick MacNamara", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1809
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.6, 
+            "full_name": "Michael Hehir", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                1556
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.9, 
+            "full_name": "Batt Skehan", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                1313
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.3, 
+            "full_name": "Patrick Ryan", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                918
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.3, 
+            "full_name": "James O'Regan", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                588
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.5, 
+            "full_name": "Patrick Kelly", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                482
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "Frank Barrett", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                237
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Peter O'Loughlin", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                219
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Michael Comyn", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                114
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Thomas Honan", 
+            "party": "Republican"
+        }
+    ], 
+    "description": "1923 general election", 
+    "election_type": "dail", 
+    "electorate": 58495, 
+    "name": "Clare", 
+    "quota": 6575, 
+    "spoilt": null, 
+    "turnout": 67, 
+    "valid": 39445, 
+    "year": 1923
+}

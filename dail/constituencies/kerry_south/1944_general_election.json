@@ -1,0 +1,50 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6693
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26.6, 
+            "full_name": "Frederick Crowley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6526
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.9, 
+            "full_name": "John Healy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6057
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.1, 
+            "full_name": "Fion\u00e1n Lynch", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5908
+            ], 
+            "elected": false, 
+            "first_pref_pc": 23.5, 
+            "full_name": "Edmund Horan", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1944 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Kerry South", 
+    "quota": 6297, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 25184, 
+    "year": 1944
+}

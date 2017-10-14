@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7202
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.5, 
+            "full_name": "James Geoghegan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6249
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.2, 
+            "full_name": "Se\u00e1n Mac Eoin", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                6128
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.9, 
+            "full_name": "Patrick Shaw", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                6484
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.8, 
+            "full_name": "Michael Kennedy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3796
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.2, 
+            "full_name": "Francis Gormley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3974
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.7, 
+            "full_name": "James Victory", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3765
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.2, 
+            "full_name": "Henry Broderick", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3463
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.4, 
+            "full_name": "Patrick Connolly", 
+            "party": "Cumann na nGaedheal"
+        }
+    ], 
+    "description": "1932 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Longford\u2013Westmeath", 
+    "quota": 6844, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 41061, 
+    "year": 1932
+}

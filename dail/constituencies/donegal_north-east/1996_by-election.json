@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9872
+            ], 
+            "elected": true, 
+            "first_pref_pc": 32.2, 
+            "full_name": "Cecilia Keaveney", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8943
+            ], 
+            "elected": false, 
+            "first_pref_pc": 29.2, 
+            "full_name": "Harry Blaney", 
+            "party": "Independent Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5679
+            ], 
+            "elected": false, 
+            "first_pref_pc": 18.5, 
+            "full_name": "Jim Sheridan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3791
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.4, 
+            "full_name": "Sean Maloney", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2340
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.6, 
+            "full_name": "Pat Doherty", 
+            "party": "Sinn F\u00e9in"
+        }
+    ], 
+    "description": "1996 by-election", 
+    "election_type": "dail", 
+    "electorate": 50443, 
+    "name": "Donegal North-East", 
+    "quota": 15313, 
+    "spoilt": null, 
+    "turnout": 60, 
+    "valid": 30625, 
+    "year": 1996
+}

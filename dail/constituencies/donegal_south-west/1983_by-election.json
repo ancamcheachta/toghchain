@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                17960
+            ], 
+            "elected": true, 
+            "first_pref_pc": 56.6, 
+            "full_name": "Cathal Coughlan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                9870
+            ], 
+            "elected": false, 
+            "first_pref_pc": 31.1, 
+            "full_name": "J J Reid", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2992
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.4, 
+            "full_name": "S\u00e9amus Rodgers", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                530
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "Eamon \u00d3 Gallachoir", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                373
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "Leo Armstrong", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                37
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Jim Tallon", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1983 by-election", 
+    "election_type": "dail", 
+    "electorate": 45823, 
+    "name": "Donegal South-West", 
+    "quota": 15882, 
+    "spoilt": null, 
+    "turnout": 69, 
+    "valid": 31762, 
+    "year": 1983
+}

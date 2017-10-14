@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                11109
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26.6, 
+            "full_name": "John Donnellan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4309
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.3, 
+            "full_name": "Brigid Hogan-O'Higgins", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5458
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.1, 
+            "full_name": "Michael F. Kitt", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5790
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.9, 
+            "full_name": "Anthony Millar", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4656
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.2, 
+            "full_name": "Michael Carty", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4276
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.3, 
+            "full_name": "Thomas Hussey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2468
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.9, 
+            "full_name": "Patrick Fahey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1607
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.9, 
+            "full_name": "P\u00e1draig \u00d3 Ceallaigh", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1381
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.3, 
+            "full_name": "Sean Purcell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                650
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "Gus Hynes", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1965 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Galway East", 
+    "quota": 6951, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 41704, 
+    "year": 1965
+}

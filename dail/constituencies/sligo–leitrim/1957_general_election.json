@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7007
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.7, 
+            "full_name": "John Joe McGirl", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                5962
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.4, 
+            "full_name": "Mary Reynolds", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5303
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.9, 
+            "full_name": "Eugene Gilbride", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2879
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6.5, 
+            "full_name": "Stephen Flynn", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4001
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9, 
+            "full_name": "Patrick Rogers", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4429
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.9, 
+            "full_name": "Joseph Roddy", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4422
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.9, 
+            "full_name": "Michael McDonagh", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3601
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.1, 
+            "full_name": "Bernard Maguire", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2912
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.5, 
+            "full_name": "Leo McAlinden", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2696
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6, 
+            "full_name": "Luke Colleran", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1392
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.1, 
+            "full_name": "Gerald Foley", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1957 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Sligo\u2013Leitrim", 
+    "quota": 7435, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 44604, 
+    "year": 1957
+}

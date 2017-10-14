@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8163
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.7, 
+            "full_name": "Ciar\u00e1n Murphy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6291
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.1, 
+            "full_name": "Godfrey Timmins", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6540
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.8, 
+            "full_name": "Liam Kavanagh", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4465
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.5, 
+            "full_name": "Bernard Keating", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2939
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.9, 
+            "full_name": "Charles Keating", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2437
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.4, 
+            "full_name": "Jimmy Miley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1231
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "John McManus", 
+            "party": "Sinn F\u00e9in (Workers' Party)"
+        }, 
+        {
+            "counts": [
+                955
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "Seamus Costello", 
+            "party": "Irish Republican Socialist"
+        }
+    ], 
+    "description": "1977 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Wicklow", 
+    "quota": 8256, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 33021, 
+    "year": 1977
+}

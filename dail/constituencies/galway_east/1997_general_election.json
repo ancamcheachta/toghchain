@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6445
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15, 
+            "full_name": "Paul Connaughton, Snr", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6931
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.2, 
+            "full_name": "Ulick Burke", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5436
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.7, 
+            "full_name": "Michael P. Kitt", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6531
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.2, 
+            "full_name": "Noel Treacy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6221
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.5, 
+            "full_name": "Joe Callanan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3400
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.9, 
+            "full_name": "Colm Keaveney", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3182
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.4, 
+            "full_name": "Joe Burke", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                2670
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.2, 
+            "full_name": "Patrick Finnegan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1298
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "Pat Hynes", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                705
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "Sheila Ganly", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                98
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Paul Campbell", 
+            "party": "Natural Law"
+        }
+    ], 
+    "description": "1997 general election", 
+    "election_type": "dail", 
+    "electorate": 61075, 
+    "name": "Galway East", 
+    "quota": 8584, 
+    "spoilt": 451, 
+    "turnout": 43368, 
+    "valid": 42917, 
+    "year": 1997
+}

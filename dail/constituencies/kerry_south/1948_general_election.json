@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                4091
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.7, 
+            "full_name": "Honor Crowley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4107
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.7, 
+            "full_name": "John Flynn", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                4924
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.9, 
+            "full_name": "Patrick Palmer", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3992
+            ], 
+            "elected": false, 
+            "first_pref_pc": 15.3, 
+            "full_name": "John Healy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3179
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.2, 
+            "full_name": "P\u00e1draig O'Donoghue", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                2278
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.7, 
+            "full_name": "Donal O'Donoghue", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2121
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.1, 
+            "full_name": "Patrick Jones", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                1424
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.5, 
+            "full_name": "Patrick O'Shea", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1948 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Kerry South", 
+    "quota": 6530, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 26116, 
+    "year": 1948
+}

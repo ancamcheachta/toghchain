@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                13902
+            ], 
+            "elected": true, 
+            "first_pref_pc": 34.3, 
+            "full_name": "\u00c9amon de Valera", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3003
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.4, 
+            "full_name": "Patrick Houlihan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5646
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.9, 
+            "full_name": "Patrick Kelly", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                4683
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.6, 
+            "full_name": "Patrick Hogan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3506
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.7, 
+            "full_name": "Martin Sexton", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4201
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.4, 
+            "full_name": "Patrick Burke", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                2481
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.1, 
+            "full_name": "Thomas Falvey", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                2136
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.3, 
+            "full_name": "Se\u00e1n O'Dea", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                977
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.4, 
+            "full_name": "John O'Dwyer", 
+            "party": "Fianna F\u00e1il"
+        }
+    ], 
+    "description": "September 1927 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Clare", 
+    "quota": 6756, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 40535, 
+    "year": 1927
+}

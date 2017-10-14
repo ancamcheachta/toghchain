@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7144
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.6, 
+            "full_name": "James Everett", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4485
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.1, 
+            "full_name": "Christopher Byrne", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5130
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.4, 
+            "full_name": "Patrick Cogan", 
+            "party": "Clann na Talmhan"
+        }, 
+        {
+            "counts": [
+                3691
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.2, 
+            "full_name": "Thomas Brennan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3452
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.4, 
+            "full_name": "Ralph Barry", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2554
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.1, 
+            "full_name": "Jacob Bourne", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1476
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.3, 
+            "full_name": "Peter O'Reilly", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1943 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Wicklow", 
+    "quota": 6984, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 27932, 
+    "year": 1943
+}

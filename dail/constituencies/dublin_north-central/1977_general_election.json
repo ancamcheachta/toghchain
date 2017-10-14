@@ -1,0 +1,139 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                4678, 
+                4700, 
+                4814, 
+                5861
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.9, 
+            "full_name": "Vincent Brady", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1183, 
+            "transfers_pc": 14.91
+        }, 
+        {
+            "counts": [
+                4729, 
+                5319, 
+                5641, 
+                5754, 
+                6014
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.2, 
+            "full_name": "Michael O'Leary", 
+            "party": "Labour Party", 
+            "transfers": 1285, 
+            "transfers_pc": 16.19
+        }, 
+        {
+            "counts": [
+                2912, 
+                3003, 
+                3058, 
+                3093, 
+                4933, 
+                5826
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.4, 
+            "full_name": "Michael Keating", 
+            "party": "Fine Gael", 
+            "transfers": 2914, 
+            "transfers_pc": 36.72
+        }, 
+        {
+            "counts": [
+                3198, 
+                3216, 
+                3318, 
+                3840, 
+                3894, 
+                4612
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.6, 
+            "full_name": "Noel Mulcahy", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1414, 
+            "transfers_pc": 17.82
+        }, 
+        {
+            "counts": [
+                1903, 
+                1942, 
+                2287, 
+                2376, 
+                2466
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.1, 
+            "full_name": "Kevin Byrne", 
+            "party": "Independent", 
+            "transfers": 563, 
+            "transfers_pc": 7.1
+        }, 
+        {
+            "counts": [
+                2166, 
+                2258, 
+                2285, 
+                2328
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.2, 
+            "full_name": "Ray Fay", 
+            "party": "Fine Gael", 
+            "transfers": 162, 
+            "transfers_pc": 2.04
+        }, 
+        {
+            "counts": [
+                1775, 
+                1808, 
+                1878
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.6, 
+            "full_name": "William Doran", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 103, 
+            "transfers_pc": 1.3
+        }, 
+        {
+            "counts": [
+                1138, 
+                1179
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.9, 
+            "full_name": "Raymond McGran", 
+            "party": "Sinn F\u00e9in (Workers' Party)", 
+            "transfers": 41, 
+            "transfers_pc": 0.52
+        }, 
+        {
+            "counts": [
+                953
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4, 
+            "full_name": "William Cummiskey", 
+            "party": "Labour Party"
+        }
+    ], 
+    "counts_held": 6, 
+    "description": "1977 general election", 
+    "election_type": "dail", 
+    "electorate": 37934, 
+    "name": "Dublin North-Central", 
+    "quota": 5883, 
+    "spoilt": 245, 
+    "turnout": 25773, 
+    "valid": 25528, 
+    "year": 1977
+}

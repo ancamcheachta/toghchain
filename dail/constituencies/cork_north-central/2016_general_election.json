@@ -1,0 +1,232 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                14286
+            ], 
+            "elected": true, 
+            "first_pref_pc": 27.9, 
+            "full_name": "Billy Kelleher", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8041, 
+                8713, 
+                8904, 
+                9138, 
+                9347, 
+                10097, 
+                10714
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.7, 
+            "full_name": "Mick Barry", 
+            "party": "AAA\u2013PBP", 
+            "transfers": 2673, 
+            "transfers_pc": 15.12
+        }, 
+        {
+            "counts": [
+                6231, 
+                6641, 
+                6754, 
+                6865, 
+                6939, 
+                7260, 
+                7462, 
+                11079
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.2, 
+            "full_name": "Jonathan O'Brien", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 4848, 
+            "transfers_pc": 27.42
+        }, 
+        {
+            "counts": [
+                5264, 
+                5718, 
+                5746, 
+                5800, 
+                5957, 
+                6008, 
+                6166, 
+                6250, 
+                6369, 
+                6403, 
+                9256
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.3, 
+            "full_name": "Dara Murphy", 
+            "party": "Fine Gael", 
+            "transfers": 3992, 
+            "transfers_pc": 22.58
+        }, 
+        {
+            "counts": [
+                3723, 
+                4358, 
+                4419, 
+                4506, 
+                4608, 
+                4718, 
+                5286, 
+                5436, 
+                5805, 
+                5973, 
+                7491
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.3, 
+            "full_name": "Kathleen Lynch", 
+            "party": "Labour Party", 
+            "transfers": 3768, 
+            "transfers_pc": 21.31
+        }, 
+        {
+            "counts": [
+                3841, 
+                4283, 
+                4364, 
+                4443, 
+                4687, 
+                4771, 
+                5138, 
+                5225, 
+                5488, 
+                5581
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.5, 
+            "full_name": "Julie O'Leary", 
+            "party": "Fine Gael", 
+            "transfers": 1740, 
+            "transfers_pc": 9.84
+        }, 
+        {
+            "counts": [
+                3773, 
+                4047, 
+                4100, 
+                4175, 
+                4236, 
+                4398, 
+                4458
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.4, 
+            "full_name": "Thomas Gould", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 685, 
+            "transfers_pc": 3.87
+        }, 
+        {
+            "counts": [
+                1693, 
+                1936, 
+                2011, 
+                2108, 
+                2331, 
+                2490
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.3, 
+            "full_name": "Oliver Moran", 
+            "party": "Green Party", 
+            "transfers": 797, 
+            "transfers_pc": 4.51
+        }, 
+        {
+            "counts": [
+                1419, 
+                1615, 
+                1694, 
+                1805, 
+                1919
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "Ted Tynan", 
+            "party": "Workers' Party", 
+            "transfers": 500, 
+            "transfers_pc": 2.83
+        }, 
+        {
+            "counts": [
+                1120, 
+                1445, 
+                1520, 
+                1716
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.2, 
+            "full_name": "Paddy O'Leary", 
+            "party": "Renua Ireland", 
+            "transfers": 596, 
+            "transfers_pc": 3.37
+        }, 
+        {
+            "counts": [
+                912, 
+                1152, 
+                1300
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Ger Keohane", 
+            "party": "Independent", 
+            "transfers": 388, 
+            "transfers_pc": 2.19
+        }, 
+        {
+            "counts": [
+                473, 
+                548
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.9, 
+            "full_name": "Thomas Kiely", 
+            "party": "Independent", 
+            "transfers": 75, 
+            "transfers_pc": 0.42
+        }, 
+        {
+            "counts": [
+                215, 
+                265
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Mick Murphy", 
+            "party": "Independent", 
+            "transfers": 50, 
+            "transfers_pc": 0.28
+        }, 
+        {
+            "counts": [
+                183, 
+                218
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Peter O'Loughlin", 
+            "party": "Identity Ireland", 
+            "transfers": 35, 
+            "transfers_pc": 0.2
+        }
+    ], 
+    "counts_held": 11, 
+    "description": "2016 general election", 
+    "election_type": "dail", 
+    "electorate": 81609, 
+    "name": "Cork North-Central", 
+    "quota": 10235, 
+    "spoilt": 516, 
+    "turnout": 51690, 
+    "valid": 51174, 
+    "year": 2016
+}

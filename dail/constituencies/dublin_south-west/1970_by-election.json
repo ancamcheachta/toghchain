@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7678
+            ], 
+            "elected": true, 
+            "first_pref_pc": 33, 
+            "full_name": "Se\u00e1n Sherwin", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5004
+            ], 
+            "elected": false, 
+            "first_pref_pc": 21.5, 
+            "full_name": "Matt Merrigan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4481
+            ], 
+            "elected": false, 
+            "first_pref_pc": 19.2, 
+            "full_name": "Lauri Corcoran", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                4062
+            ], 
+            "elected": false, 
+            "first_pref_pc": 17.4, 
+            "full_name": "Jim Mitchell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2062
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.9, 
+            "full_name": "Cora Dunne", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1970 by-election", 
+    "election_type": "dail", 
+    "electorate": 40690, 
+    "name": "Dublin South-West", 
+    "quota": 11644, 
+    "spoilt": null, 
+    "turnout": 57, 
+    "valid": 23287, 
+    "year": 1970
+}

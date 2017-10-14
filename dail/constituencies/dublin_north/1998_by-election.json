@@ -1,0 +1,185 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                11012
+            ], 
+            "elected": true, 
+            "first_pref_pc": 33.3, 
+            "full_name": "Se\u00e1n Ryan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                10334
+            ], 
+            "elected": false, 
+            "first_pref_pc": 31.3, 
+            "full_name": "Michael Kennedy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3185
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.6, 
+            "full_name": "Philip Jenkinson", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2692
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.2, 
+            "full_name": "Clare Daly", 
+            "party": "Socialist Party"
+        }, 
+        {
+            "counts": [
+                1092
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.3, 
+            "full_name": "Paul Martin", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                1088
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.3, 
+            "full_name": "Paul Donnelly", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                780
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.4, 
+            "full_name": "Rena Condrot Ruigrok", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                682
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "Ciaran Goulding", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                565
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "Angela Keaveney", 
+            "party": "Christian Solidarity"
+        }, 
+        {
+            "counts": [
+                533
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "Finian Fallon", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                452
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "Gertie Shields", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                225
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "Joe Holohan", 
+            "party": "Democratic Left"
+        }, 
+        {
+            "counts": [
+                176
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Elaine Rooney", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                107
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "John McDonald", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                44
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Alan Nagle", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                34
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Peter Farrelly", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                18
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Benny Cooney", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                15
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Noel O'Neill", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                12
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Jim Tallon", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1998 by-election", 
+    "election_type": "dail", 
+    "electorate": 66112, 
+    "name": "Dublin North", 
+    "quota": 16524, 
+    "spoilt": null, 
+    "turnout": 33046, 
+    "valid": 33046, 
+    "year": 1998
+}

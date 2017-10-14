@@ -1,0 +1,220 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                5904, 
+                5928, 
+                5979, 
+                6112, 
+                6292, 
+                6508, 
+                6909, 
+                7086, 
+                9350
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.7, 
+            "full_name": "John Curran", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3446, 
+            "transfers_pc": 31.98
+        }, 
+        {
+            "counts": [
+                5706, 
+                5719, 
+                5732, 
+                5812, 
+                5953, 
+                6196, 
+                6348, 
+                6924, 
+                7524
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20, 
+            "full_name": "Mary Harney", 
+            "party": "Progressive Democrats", 
+            "transfers": 1818, 
+            "transfers_pc": 16.87
+        }, 
+        {
+            "counts": [
+                3508, 
+                3523, 
+                3541, 
+                3627, 
+                3870, 
+                3947, 
+                4594, 
+                5260, 
+                5645, 
+                6345
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.3, 
+            "full_name": "Paul Gogarty", 
+            "party": "Green Party", 
+            "transfers": 2837, 
+            "transfers_pc": 26.33
+        }, 
+        {
+            "counts": [
+                2563, 
+                2566, 
+                2602, 
+                2744, 
+                2891, 
+                3199, 
+                3594, 
+                4495, 
+                4808, 
+                5371
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9, 
+            "full_name": "Joanna Tuffy", 
+            "party": "Labour Party", 
+            "transfers": 2808, 
+            "transfers_pc": 26.06
+        }, 
+        {
+            "counts": [
+                3218, 
+                3232, 
+                3237, 
+                3290, 
+                3381, 
+                3434, 
+                3625, 
+                3737
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.3, 
+            "full_name": "Des Kelly", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 519, 
+            "transfers_pc": 4.82
+        }, 
+        {
+            "counts": [
+                2008, 
+                2017, 
+                2023, 
+                2051, 
+                2100, 
+                2573, 
+                2687
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.1, 
+            "full_name": "Austin Currie", 
+            "party": "Fine Gael", 
+            "transfers": 679, 
+            "transfers_pc": 6.3
+        }, 
+        {
+            "counts": [
+                1855, 
+                1861, 
+                1912, 
+                2031, 
+                2244, 
+                2326
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.5, 
+            "full_name": "Tony Flannery", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 471, 
+            "transfers_pc": 4.37
+        }, 
+        {
+            "counts": [
+                1268, 
+                1271, 
+                1314, 
+                1419, 
+                1536
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.5, 
+            "full_name": "Therese Ridge", 
+            "party": "Fine Gael", 
+            "transfers": 268, 
+            "transfers_pc": 2.49
+        }, 
+        {
+            "counts": [
+                1078, 
+                1092, 
+                1170, 
+                1313
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.8, 
+            "full_name": "David Green", 
+            "party": "Independent", 
+            "transfers": 235, 
+            "transfers_pc": 2.18
+        }, 
+        {
+            "counts": [
+                487, 
+                488, 
+                521
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "Colm McGrath", 
+            "party": "Independent", 
+            "transfers": 34, 
+            "transfers_pc": 0.32
+        }, 
+        {
+            "counts": [
+                393, 
+                393, 
+                407
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "Andrew McGuinness", 
+            "party": "Workers' Party", 
+            "transfers": 14, 
+            "transfers_pc": 0.13
+        }, 
+        {
+            "counts": [
+                361, 
+                362
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.3, 
+            "full_name": "Michael O'Mara", 
+            "party": "Independent", 
+            "transfers": 1, 
+            "transfers_pc": 0.01
+        }, 
+        {
+            "counts": [
+                107
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Colm Callanan", 
+            "party": "Christian Solidarity"
+        }
+    ], 
+    "counts_held": 10, 
+    "description": "2002 general election", 
+    "election_type": "dail", 
+    "electorate": 55184, 
+    "name": "Dublin Mid-West", 
+    "quota": 7115, 
+    "spoilt": 237, 
+    "turnout": 28693, 
+    "valid": 28456, 
+    "year": 2002
+}

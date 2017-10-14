@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9948
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.6, 
+            "full_name": "Thomas Walsh", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8492
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.4, 
+            "full_name": "Patrick Crotty", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5053
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11, 
+            "full_name": "Joseph Hughes", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6164
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.4, 
+            "full_name": "Thomas Derrig", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5522
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12, 
+            "full_name": "James Pattison", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5216
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.3, 
+            "full_name": "Francis Humphreys", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2413
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.2, 
+            "full_name": "Thomas Fielding", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2248
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.9, 
+            "full_name": "William Nolan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1106
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.4, 
+            "full_name": "Daniel Maguire", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1954 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Carlow\u2013Kilkenny", 
+    "quota": 7694, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 46162, 
+    "year": 1954
+}

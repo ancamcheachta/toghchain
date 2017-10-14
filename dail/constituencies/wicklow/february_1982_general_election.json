@@ -1,0 +1,114 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8026
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20, 
+            "full_name": "Liam Kavanagh", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                7112, 
+                7137, 
+                7178, 
+                8042
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.8, 
+            "full_name": "Gemma Hussey", 
+            "party": "Fine Gael", 
+            "transfers": 930, 
+            "transfers_pc": 23.32
+        }, 
+        {
+            "counts": [
+                7400, 
+                7426, 
+                7473, 
+                7904
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.5, 
+            "full_name": "Godfrey Timmins", 
+            "party": "Fine Gael", 
+            "transfers": 504, 
+            "transfers_pc": 12.64
+        }, 
+        {
+            "counts": [
+                6616, 
+                6632, 
+                7186, 
+                7902
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.5, 
+            "full_name": "Ciar\u00e1n Murphy", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1286, 
+            "transfers_pc": 32.25
+        }, 
+        {
+            "counts": [
+                6930, 
+                6954, 
+                7340, 
+                7750
+            ], 
+            "elected": false, 
+            "first_pref_pc": 17.3, 
+            "full_name": "Paudge Brennan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 820, 
+            "transfers_pc": 20.56
+        }, 
+        {
+            "counts": [
+                2739, 
+                2783, 
+                2820
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.8, 
+            "full_name": "John McManus", 
+            "party": "Sinn F\u00e9in (Workers' Party)", 
+            "transfers": 81, 
+            "transfers_pc": 2.03
+        }, 
+        {
+            "counts": [
+                1072, 
+                1086
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Denis Teevan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 14, 
+            "transfers_pc": 0.35
+        }, 
+        {
+            "counts": [
+                163
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Jim Tallon", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 4, 
+    "description": "February 1982 general election", 
+    "election_type": "dail", 
+    "electorate": 56097, 
+    "name": "Wicklow", 
+    "quota": 8012, 
+    "spoilt": 324, 
+    "turnout": 40382, 
+    "valid": 40058, 
+    "year": 1982
+}

@@ -1,0 +1,103 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6868, 
+                7808, 
+                8561
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.9, 
+            "full_name": "Jim O'Keeffe", 
+            "party": "Fine Gael", 
+            "transfers": 1693, 
+            "transfers_pc": 24.07
+        }, 
+        {
+            "counts": [
+                6834, 
+                7626, 
+                8451
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.8, 
+            "full_name": "P. J. Sheehan", 
+            "party": "Fine Gael", 
+            "transfers": 1617, 
+            "transfers_pc": 22.99
+        }, 
+        {
+            "counts": [
+                7145, 
+                7323, 
+                7561, 
+                8748
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.8, 
+            "full_name": "Joe Walsh", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1603, 
+            "transfers_pc": 22.79
+        }, 
+        {
+            "counts": [
+                4940, 
+                5024, 
+                5289, 
+                6660
+            ], 
+            "elected": false, 
+            "first_pref_pc": 15.1, 
+            "full_name": "Flor Crowley", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1720, 
+            "transfers_pc": 24.45
+        }, 
+        {
+            "counts": [
+                2640, 
+                2677, 
+                2831
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.1, 
+            "full_name": "D. F. O'Sullivan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 191, 
+            "transfers_pc": 2.72
+        }, 
+        {
+            "counts": [
+                2215, 
+                2346
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.7, 
+            "full_name": "Michael Calnan", 
+            "party": "Labour Party", 
+            "transfers": 131, 
+            "transfers_pc": 1.86
+        }, 
+        {
+            "counts": [
+                2179
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.6, 
+            "full_name": "John McCarthy", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "counts_held": 4, 
+    "description": "February 1982 general election", 
+    "election_type": "dail", 
+    "electorate": 40969, 
+    "name": "Cork South-West", 
+    "quota": 8206, 
+    "spoilt": 208, 
+    "turnout": 33029, 
+    "valid": 32821, 
+    "year": 1982
+}

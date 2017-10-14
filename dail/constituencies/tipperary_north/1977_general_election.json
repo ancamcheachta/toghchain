@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9218
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26.1, 
+            "full_name": "Michael O'Kennedy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5667
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.1, 
+            "full_name": "Michael Smith", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7989
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.6, 
+            "full_name": "John Ryan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6296
+            ], 
+            "elected": false, 
+            "first_pref_pc": 17.8, 
+            "full_name": "Thomas Dunne", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4488
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.7, 
+            "full_name": "Des Hanafin", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1652
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.7, 
+            "full_name": "Liam Whyte", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1977 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Tipperary North", 
+    "quota": 8828, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 35310, 
+    "year": 1977
+}

@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7213
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.2, 
+            "full_name": "Michael Woods", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6343
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.5, 
+            "full_name": "Michael Joe Cosgrave", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3418
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.5, 
+            "full_name": "Liam Fitzgerald", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4390
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.5, 
+            "full_name": "Maurice Manning", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3281
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.1, 
+            "full_name": "Ned Brennan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3056
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.4, 
+            "full_name": "Pat McCartan", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                2236
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.9, 
+            "full_name": "Se\u00e1n Kenny", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1718
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.3, 
+            "full_name": "Se\u00e1n Dublin Bay Rockall Loftus", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                853
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "Vincent Manning", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "November 1982 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin North-East", 
+    "quota": 6502, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 32508, 
+    "year": 1982
+}

@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6941
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.9, 
+            "full_name": "Flor Crowley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6647
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.9, 
+            "full_name": "Michael Murphy", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4654
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.3, 
+            "full_name": "John O'Sullivan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4562
+            ], 
+            "elected": false, 
+            "first_pref_pc": 15, 
+            "full_name": "P. J. Sheehan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4352
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.3, 
+            "full_name": "John Cahalane", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3216
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.6, 
+            "full_name": "Se\u00e1n Collins", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1969 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Cork South-West", 
+    "quota": 7594, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 30372, 
+    "year": 1969
+}

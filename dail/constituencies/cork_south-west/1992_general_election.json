@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9376
+            ], 
+            "elected": true, 
+            "first_pref_pc": 28.2, 
+            "full_name": "Joe Walsh", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7113
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.4, 
+            "full_name": "P. J. Sheehan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6345
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.1, 
+            "full_name": "Jim O'Keeffe", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4268
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.8, 
+            "full_name": "Denis O'Donovan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3757
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.3, 
+            "full_name": "Michael Calnan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1424
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.3, 
+            "full_name": "Mary O'Donnell", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                379
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "Timothy O'Donovan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                330
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Ann O'Leary", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                158
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Kathleen Dwyer", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                149
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Andrew Dillon", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1992 general election", 
+    "election_type": "dail", 
+    "electorate": 45769, 
+    "name": "Cork South-West", 
+    "quota": 8325, 
+    "spoilt": 623, 
+    "turnout": 33922, 
+    "valid": 33299, 
+    "year": 1992
+}

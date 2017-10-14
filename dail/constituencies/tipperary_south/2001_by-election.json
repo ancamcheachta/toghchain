@@ -1,0 +1,50 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                11446
+            ], 
+            "elected": true, 
+            "first_pref_pc": 35.9, 
+            "full_name": "Tom Hayes", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7897
+            ], 
+            "elected": false, 
+            "first_pref_pc": 24.8, 
+            "full_name": "Phil Prendergast", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                8461
+            ], 
+            "elected": false, 
+            "first_pref_pc": 26.5, 
+            "full_name": "Michael Maguire", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4103
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.9, 
+            "full_name": "Denis Landy", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "2001 by-election", 
+    "election_type": "dail", 
+    "electorate": 54542, 
+    "name": "Tipperary South", 
+    "quota": 15954, 
+    "spoilt": null, 
+    "turnout": 58, 
+    "valid": 31907, 
+    "year": 2001
+}

@@ -1,0 +1,149 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                12358
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.9, 
+            "full_name": "Desmond O'Malley", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                9268
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.7, 
+            "full_name": "Willie O'Dea", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6069
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.2, 
+            "full_name": "Peadar Clohessy", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                5920
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.9, 
+            "full_name": "Jim Kemmy", 
+            "party": "Democratic Socialist Party"
+        }, 
+        {
+            "counts": [
+                5913
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.9, 
+            "full_name": "Michael Noonan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2968
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6, 
+            "full_name": "Tom O'Donnell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2201
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "Frank Prendergast", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2111
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.3, 
+            "full_name": "Richard O'Flaherty", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1254
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.5, 
+            "full_name": "Michael Parkes", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                565
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "P\u00e1draig Malone", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                353
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "Martin Nugent", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                246
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Fergal Grant", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                241
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Declan O'Lehane", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                87
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Denis Riordan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                59
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "John Donovan", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1987 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Limerick East", 
+    "quota": 8269, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 49613, 
+    "year": 1987
+}

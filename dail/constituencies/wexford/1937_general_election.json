@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10078
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.6, 
+            "full_name": "Denis Allen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                9163
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.6, 
+            "full_name": "James Ryan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8410
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18, 
+            "full_name": "Richard Corish", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5932
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.7, 
+            "full_name": "John Esmonde", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6142
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.1, 
+            "full_name": "John Keating", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4421
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.5, 
+            "full_name": "James Bowe", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2594
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.6, 
+            "full_name": "Thomas Redmond", 
+            "party": "Fianna F\u00e1il"
+        }
+    ], 
+    "description": "1937 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Wexford", 
+    "quota": 7791, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 46740, 
+    "year": 1937
+}

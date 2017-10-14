@@ -1,0 +1,32 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                18129
+            ], 
+            "elected": true, 
+            "first_pref_pc": 56.5, 
+            "full_name": "Patrick Byrne", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                13950
+            ], 
+            "elected": false, 
+            "first_pref_pc": 43.5, 
+            "full_name": "Charles Haughey", 
+            "party": "Fianna F\u00e1il"
+        }
+    ], 
+    "description": "1956 by-election", 
+    "election_type": "dail", 
+    "electorate": 64903, 
+    "name": "Dublin North-East", 
+    "quota": 16040, 
+    "spoilt": null, 
+    "turnout": 49, 
+    "valid": 32079, 
+    "year": 1956
+}

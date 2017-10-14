@@ -1,0 +1,140 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                11923
+            ], 
+            "elected": true, 
+            "first_pref_pc": 29.6, 
+            "full_name": "Pat Upton", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6662
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.6, 
+            "full_name": "Gay Mitchell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5825
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.5, 
+            "full_name": "John O'Connell", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4385
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.9, 
+            "full_name": "Ben Briscoe", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2990
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.4, 
+            "full_name": "Eric Byrne", 
+            "party": "Democratic Left"
+        }, 
+        {
+            "counts": [
+                1886
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.7, 
+            "full_name": "C\u00e1it Keane", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                1295
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.2, 
+            "full_name": "Mary Bowers", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                1684
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.2, 
+            "full_name": "Michael Mulcahy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                717
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Rita Whelan", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                1005
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.5, 
+            "full_name": "Edie Wynne", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                832
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "Eamonn Murphy", 
+            "party": "Christian Centrist"
+        }, 
+        {
+            "counts": [
+                675
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "Martina Gibney", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                235
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Davy Johnston", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                128
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Mary Daly", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1992 general election", 
+    "election_type": "dail", 
+    "electorate": 63718, 
+    "name": "Dublin South-Central", 
+    "quota": 8049, 
+    "spoilt": 892, 
+    "turnout": 41134, 
+    "valid": 40242, 
+    "year": 1992
+}

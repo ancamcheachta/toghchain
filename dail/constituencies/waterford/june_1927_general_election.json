@@ -1,0 +1,122 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7687
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.3, 
+            "full_name": "William Redmond", 
+            "party": "National League Party"
+        }, 
+        {
+            "counts": [
+                3806
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.1, 
+            "full_name": "Vincent White", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3769
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.9, 
+            "full_name": "Patrick Little", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3579
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.3, 
+            "full_name": "Caitl\u00edn Brugha", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                2534
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8, 
+            "full_name": "John Butler", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2187
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.9, 
+            "full_name": "Nicholas Wall", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                1988
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.3, 
+            "full_name": "Michael O'Ryan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1453
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.6, 
+            "full_name": "Declan Conway", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1299
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.1, 
+            "full_name": "Richard Keane", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1297
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.1, 
+            "full_name": "James Daly", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                1189
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.8, 
+            "full_name": "Michael O'Brien", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                795
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.5, 
+            "full_name": "Thomas Dunne", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "June 1927 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Waterford", 
+    "quota": 6317, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 31583, 
+    "year": 1927
+}

@@ -1,0 +1,41 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                12181
+            ], 
+            "elected": true, 
+            "first_pref_pc": 42.6, 
+            "full_name": "Fad Browne", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                9617
+            ], 
+            "elected": false, 
+            "first_pref_pc": 33.7, 
+            "full_name": "Edward Collins", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6783
+            ], 
+            "elected": false, 
+            "first_pref_pc": 23.7, 
+            "full_name": "John Griffin", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1966 by-election", 
+    "election_type": "dail", 
+    "electorate": 36986, 
+    "name": "Waterford", 
+    "quota": 14291, 
+    "spoilt": null, 
+    "turnout": 77, 
+    "valid": 28581, 
+    "year": 1966
+}

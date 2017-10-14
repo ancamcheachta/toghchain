@@ -1,0 +1,32 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                23565
+            ], 
+            "elected": true, 
+            "first_pref_pc": 55.5, 
+            "full_name": "Kieran Egan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                18863
+            ], 
+            "elected": false, 
+            "first_pref_pc": 44.5, 
+            "full_name": "Michael Davin", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1956 by-election", 
+    "election_type": "dail", 
+    "electorate": 59075, 
+    "name": "Laois\u2013Offaly", 
+    "quota": 21215, 
+    "spoilt": null, 
+    "turnout": 71, 
+    "valid": 42428, 
+    "year": 1956
+}

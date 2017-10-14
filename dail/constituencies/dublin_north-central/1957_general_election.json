@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                5421
+            ], 
+            "elected": true, 
+            "first_pref_pc": 33.7, 
+            "full_name": "Vivion de Valera", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2985
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.6, 
+            "full_name": "Patrick McGilligan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2330
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.5, 
+            "full_name": "Colm Gallagher", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2425
+            ], 
+            "elected": false, 
+            "first_pref_pc": 15.1, 
+            "full_name": "Frank Sherwin", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1088
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.8, 
+            "full_name": "Maureen O'Carroll", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                669
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.2, 
+            "full_name": "Kathleen Swanton", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                594
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "Frederick Mullen", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                569
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.5, 
+            "full_name": "Tom\u00e1s Doherty", 
+            "party": "Clann na Poblachta"
+        }
+    ], 
+    "description": "1957 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin North-Central", 
+    "quota": 4021, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 16081, 
+    "year": 1957
+}

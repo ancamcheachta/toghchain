@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10672
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.6, 
+            "full_name": "James White", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                10499
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.3, 
+            "full_name": "Neil Blaney", 
+            "party": "Independent Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8483
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.9, 
+            "full_name": "Paddy Harte", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6448
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.6, 
+            "full_name": "Joseph Brennan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5413
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.9, 
+            "full_name": "Hugh Conaghan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5693
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.4, 
+            "full_name": "Bernard McGlinchey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4583
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.5, 
+            "full_name": "Patrick Delap", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3325
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.5, 
+            "full_name": "Paddy Keaveney", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2946
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.8, 
+            "full_name": "S\u00e9amus Gill", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2505
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.1, 
+            "full_name": "S\u00e9amus Rodgers", 
+            "party": "Sinn F\u00e9in (Workers' Party)"
+        }, 
+        {
+            "counts": [
+                256
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Charles Long", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1977 general election", 
+    "election_type": "dail", 
+    "electorate": 77813, 
+    "name": "Donegal", 
+    "quota": 10138, 
+    "spoilt": null, 
+    "turnout": 78, 
+    "valid": 60823, 
+    "year": 1977
+}

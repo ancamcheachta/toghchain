@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8461
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.4, 
+            "full_name": "Myra Barry", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                8324
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20, 
+            "full_name": "Ned O'Keeffe", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7662
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.4, 
+            "full_name": "Patrick Hegarty", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                8061
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.4, 
+            "full_name": "Michael Ahern", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6186
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.9, 
+            "full_name": "Joe Sherlock", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                1565
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.8, 
+            "full_name": "Tommy Sheahan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1191
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "Tom\u00e1s \u00d3 Conaill", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                117
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Mary Duggan", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "November 1982 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Cork East", 
+    "quota": 8314, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 41567, 
+    "year": 1982
+}

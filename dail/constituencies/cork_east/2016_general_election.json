@@ -1,0 +1,244 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6949, 
+                7124, 
+                7394, 
+                7486, 
+                7780, 
+                8674, 
+                8986, 
+                9916, 
+                11803
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.2, 
+            "full_name": "Se\u00e1n Sherlock", 
+            "party": "Labour Party", 
+            "transfers": 4854, 
+            "transfers_pc": 23.71
+        }, 
+        {
+            "counts": [
+                7171, 
+                7296, 
+                7401, 
+                7484, 
+                7593, 
+                8312, 
+                9099, 
+                9647, 
+                11558
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.6, 
+            "full_name": "David Stanton", 
+            "party": "Fine Gael", 
+            "transfers": 4387, 
+            "transfers_pc": 21.43
+        }, 
+        {
+            "counts": [
+                8264, 
+                8290, 
+                8347, 
+                8416, 
+                8548, 
+                8875, 
+                9254, 
+                9880, 
+                11035
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.6, 
+            "full_name": "Kevin O'Keeffe", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2771, 
+            "transfers_pc": 13.54
+        }, 
+        {
+            "counts": [
+                5358, 
+                5437, 
+                5572, 
+                5969, 
+                6776, 
+                6861, 
+                7681, 
+                8175, 
+                8457, 
+                8639
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.1, 
+            "full_name": "Pat Buckley", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 3281, 
+            "transfers_pc": 16.03
+        }, 
+        {
+            "counts": [
+                4594, 
+                4635, 
+                4730, 
+                4824, 
+                4986, 
+                5081, 
+                5553, 
+                6216, 
+                6432, 
+                6781
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.7, 
+            "full_name": "Barbara Ahern", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2187, 
+            "transfers_pc": 10.68
+        }, 
+        {
+            "counts": [
+                4406, 
+                4425, 
+                4479, 
+                4565, 
+                4718, 
+                5688, 
+                5779, 
+                6203
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.3, 
+            "full_name": "Noel McCarthy", 
+            "party": "Fine Gael", 
+            "transfers": 1797, 
+            "transfers_pc": 8.78
+        }, 
+        {
+            "counts": [
+                3244, 
+                3327, 
+                3460, 
+                3531, 
+                3834, 
+                4191, 
+                4596
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.1, 
+            "full_name": "Paul Bradford", 
+            "party": "Renua Ireland", 
+            "transfers": 1352, 
+            "transfers_pc": 6.6
+        }, 
+        {
+            "counts": [
+                3145, 
+                3280, 
+                3365, 
+                3515, 
+                4104, 
+                4132
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6, 
+            "full_name": "Mary Linehan Foley", 
+            "party": "Independent", 
+            "transfers": 987, 
+            "transfers_pc": 4.82
+        }, 
+        {
+            "counts": [
+                3461, 
+                3495, 
+                3520, 
+                3532, 
+                3573
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.6, 
+            "full_name": "Tom Barry", 
+            "party": "Fine Gael", 
+            "transfers": 112, 
+            "transfers_pc": 0.55
+        }, 
+        {
+            "counts": [
+                1999, 
+                2176, 
+                2586, 
+                3237
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.8, 
+            "full_name": "Ciara Leonardi Roche", 
+            "party": "AAA\u2013PBP", 
+            "transfers": 1238, 
+            "transfers_pc": 6.05
+        }, 
+        {
+            "counts": [
+                1635, 
+                1692, 
+                1813
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.1, 
+            "full_name": "Kieran McCarthy", 
+            "party": "Independent", 
+            "transfers": 178, 
+            "transfers_pc": 0.87
+        }, 
+        {
+            "counts": [
+                1386, 
+                1570
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "Ken Curtin", 
+            "party": "Social Democrats", 
+            "transfers": 184, 
+            "transfers_pc": 0.9
+        }, 
+        {
+            "counts": [
+                806
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.5, 
+            "full_name": "Natasha Harty", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                241
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Patrick Bullman", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                147
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Ross Cannon", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 10, 
+    "description": "2016 general election", 
+    "election_type": "dail", 
+    "electorate": 83236, 
+    "name": "Cork East", 
+    "quota": 10562, 
+    "spoilt": 445, 
+    "turnout": 64, 
+    "valid": 52806, 
+    "year": 2016
+}

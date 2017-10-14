@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                17709
+            ], 
+            "elected": true, 
+            "first_pref_pc": 44.1, 
+            "full_name": "W. T. Cosgrave", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3702
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.2, 
+            "full_name": "Denis Gorey", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                615
+            ], 
+            "elected": true, 
+            "first_pref_pc": 1.5, 
+            "full_name": "Se\u00e1n Gibbons", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                4783
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.9, 
+            "full_name": "Edward Doyle", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5641
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.1, 
+            "full_name": "Michael Skelly", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                4355
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.8, 
+            "full_name": "Michael Barry", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                1830
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.6, 
+            "full_name": "Edward Broughan", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                803
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "Patrick Gaffney", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                723
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Thomas Bolger", 
+            "party": "Cumann na nGaedheal"
+        }
+    ], 
+    "description": "1923 general election", 
+    "election_type": "dail", 
+    "electorate": 62937, 
+    "name": "Carlow\u2013Kilkenny", 
+    "quota": 6694, 
+    "spoilt": null, 
+    "turnout": 63, 
+    "valid": 40161, 
+    "year": 1923
+}

@@ -1,0 +1,92 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7884, 
+                10285
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.2, 
+            "full_name": "Tom McEllistrim", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2401, 
+            "transfers_pc": 54.97
+        }, 
+        {
+            "counts": [
+                9436, 
+                10016
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.1, 
+            "full_name": "Martin Ferris", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 580, 
+            "transfers_pc": 13.28
+        }, 
+        {
+            "counts": [
+                8652, 
+                9538, 
+                9842
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.1, 
+            "full_name": "Jimmy Deenihan", 
+            "party": "Fine Gael", 
+            "transfers": 1190, 
+            "transfers_pc": 27.24
+        }, 
+        {
+            "counts": [
+                8773, 
+                9166, 
+                9353
+            ], 
+            "elected": false, 
+            "first_pref_pc": 22.4, 
+            "full_name": "Dick Spring", 
+            "party": "Labour Party", 
+            "transfers": 580, 
+            "transfers_pc": 13.28
+        }, 
+        {
+            "counts": [
+                3927
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10, 
+            "full_name": "Dan Kiely", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                233
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "James Kennedy", 
+            "party": "Ind. Health Alliance"
+        }, 
+        {
+            "counts": [
+                208
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Anthony O'Connor", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 3, 
+    "description": "2002 general election", 
+    "election_type": "dail", 
+    "electorate": 55476, 
+    "name": "Kerry North", 
+    "quota": 9794, 
+    "spoilt": 351, 
+    "turnout": 39524, 
+    "valid": 39173, 
+    "year": 2002
+}

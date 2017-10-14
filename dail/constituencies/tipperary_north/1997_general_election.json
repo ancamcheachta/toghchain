@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                11638
+            ], 
+            "elected": true, 
+            "first_pref_pc": 29.1, 
+            "full_name": "Michael Lowry", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                9895
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.8, 
+            "full_name": "Michael O'Kennedy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6999
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.5, 
+            "full_name": "Michael Smith", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4521
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.3, 
+            "full_name": "Tom Berkery", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4126
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.3, 
+            "full_name": "Kathleen O'Meara", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1390
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.5, 
+            "full_name": "Joe Hennessy", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                1295
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.2, 
+            "full_name": "Margaret Carey", 
+            "party": "National Party"
+        }, 
+        {
+            "counts": [
+                88
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Gillies MacBain", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1997 general election", 
+    "election_type": "dail", 
+    "electorate": 53888, 
+    "name": "Tipperary North", 
+    "quota": 9989, 
+    "spoilt": 337, 
+    "turnout": 40289, 
+    "valid": 39952, 
+    "year": 1997
+}

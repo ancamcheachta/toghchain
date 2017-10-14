@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7263
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26, 
+            "full_name": "Tom McEllistrim, Jnr", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5856
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21, 
+            "full_name": "Dan Spring", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4592
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.5, 
+            "full_name": "Gerard Lynch", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5786
+            ], 
+            "elected": false, 
+            "first_pref_pc": 20.7, 
+            "full_name": "Kit Ahern", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1938
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7, 
+            "full_name": "John Blennerhassett", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1773
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.4, 
+            "full_name": "John Larkin", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                695
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.5, 
+            "full_name": "Joseph Keohane", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1973 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Kerry North", 
+    "quota": 6976, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 27903, 
+    "year": 1973
+}

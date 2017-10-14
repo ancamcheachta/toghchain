@@ -1,0 +1,158 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                14369
+            ], 
+            "elected": true, 
+            "first_pref_pc": 30.3, 
+            "full_name": "Oliver J. Flanagan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                7366
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.6, 
+            "full_name": "Patrick Boland", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5458
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.5, 
+            "full_name": "Tom O'Higgins, Jnr", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3505
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.4, 
+            "full_name": "Patrick Gorry", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2636
+            ], 
+            "elected": true, 
+            "first_pref_pc": 5.6, 
+            "full_name": "William Davin", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3030
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.4, 
+            "full_name": "Daniel Hogan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2929
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.2, 
+            "full_name": "Gerard Harkin", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1899
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4, 
+            "full_name": "Edward Colton", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1141
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.4, 
+            "full_name": "James Flanagan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                942
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "James O'Connor", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                916
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.9, 
+            "full_name": "Patrick Doyle", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                903
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.9, 
+            "full_name": "Thomas Murphy", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                847
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Con Lehane", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                683
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "Patrick Muldowney", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                422
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.9, 
+            "full_name": "Matthew Moore", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                327
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "William Milner", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1948 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Laois\u2013Offaly", 
+    "quota": 7896, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 47373, 
+    "year": 1948
+}

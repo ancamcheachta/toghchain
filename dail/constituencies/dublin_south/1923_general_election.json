@@ -1,0 +1,194 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                16011
+            ], 
+            "elected": true, 
+            "first_pref_pc": 34.7, 
+            "full_name": "Philip Cosgrave", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                5832
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.6, 
+            "full_name": "Constance Markievicz", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                4565
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.9, 
+            "full_name": "Daniel McCarthy", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                1409
+            ], 
+            "elected": true, 
+            "first_pref_pc": 3, 
+            "full_name": "Peadar Doyle", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                2778
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6, 
+            "full_name": "Michael Hayes", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3010
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6.5, 
+            "full_name": "Myles Keogh", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1893
+            ], 
+            "elected": true, 
+            "first_pref_pc": 4.1, 
+            "full_name": "Cathal \u00d3 Murchadha", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                2451
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.3, 
+            "full_name": "Andrew Beattie", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1315
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "Michael O'Mullane", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                933
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "William X. O'Brien", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                832
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Patrick Medlar", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                809
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "John Farrelly", 
+            "party": "Dublin Trades Council"
+        }, 
+        {
+            "counts": [
+                793
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "William McCabe", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                715
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.5, 
+            "full_name": "George Lyons", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                709
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.5, 
+            "full_name": "Edward O'Kelly", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                582
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.3, 
+            "full_name": "Bernard Shields", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                484
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "James Shanks", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                391
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "Edward Tucker", 
+            "party": "Dublin Trades Council"
+        }, 
+        {
+            "counts": [
+                385
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "Patrick Byrne", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                265
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Patrick Munden", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1923 general election", 
+    "election_type": "dail", 
+    "electorate": 78017, 
+    "name": "Dublin South", 
+    "quota": 5771, 
+    "spoilt": null, 
+    "turnout": 59, 
+    "valid": 46162, 
+    "year": 1923
+}

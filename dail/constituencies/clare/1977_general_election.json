@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                11933
+            ], 
+            "elected": true, 
+            "first_pref_pc": 34.9, 
+            "full_name": "Brendan Daly", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                11626
+            ], 
+            "elected": true, 
+            "first_pref_pc": 34, 
+            "full_name": "Sylvester Barrett", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5080
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.9, 
+            "full_name": "Frank Taylor", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3923
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.5, 
+            "full_name": "Donal Carey", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1495
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "Agnes McCarthy", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                153
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Hugh O'Brien", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1977 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Clare", 
+    "quota": 8553, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 34210, 
+    "year": 1977
+}

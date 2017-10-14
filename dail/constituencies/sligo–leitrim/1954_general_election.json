@@ -1,0 +1,131 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                5628
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.7, 
+            "full_name": "Mary Reynolds", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5865
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.2, 
+            "full_name": "Joseph Roddy", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5633
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.7, 
+            "full_name": "Eugene Gilbride", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3282
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6.8, 
+            "full_name": "Stephen Flynn", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4169
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.7, 
+            "full_name": "Bernard Maguire", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                5505
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.5, 
+            "full_name": "Patrick Rogers", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4968
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.4, 
+            "full_name": "Michael Kirrane", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3022
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.3, 
+            "full_name": "Leo McAlinden", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2742
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.7, 
+            "full_name": "Martin McGowan", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                2710
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.7, 
+            "full_name": "Joseph Pilkington", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2453
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.1, 
+            "full_name": "Thomas Fallon", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1406
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "Joseph Mooney", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                586
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "Alphonso Quinn", 
+            "party": "Clann na Talmhan"
+        }
+    ], 
+    "description": "1954 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Sligo\u2013Leitrim", 
+    "quota": 7995, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 47969, 
+    "year": 1954
+}

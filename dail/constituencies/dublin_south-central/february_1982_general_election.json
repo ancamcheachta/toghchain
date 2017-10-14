@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                null
+            ], 
+            "elected": true, 
+            "first_pref_pc": null, 
+            "full_name": "John O'Connell", 
+            "party": "Ceann Comhairle"
+        }, 
+        {
+            "counts": [
+                10572
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.5, 
+            "full_name": "Gay Mitchell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                10432
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.2, 
+            "full_name": "Ben Briscoe", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6600
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14, 
+            "full_name": "Frank Cluskey", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6132
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13, 
+            "full_name": "Thomas J. Fitzpatrick", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6635
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.1, 
+            "full_name": "Fergus O'Brien", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3166
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.7, 
+            "full_name": "Eric Byrne", 
+            "party": "Sinn F\u00e9in (Workers' Party)"
+        }, 
+        {
+            "counts": [
+                3102
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.6, 
+            "full_name": "Joseph Dowling", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                296
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Aidan Broggy", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                147
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "John Curran", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "February 1982 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South-Central", 
+    "quota": 9417, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 47082, 
+    "year": 1982
+}

@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8806
+            ], 
+            "elected": true, 
+            "first_pref_pc": 35, 
+            "full_name": "Paudge Brennan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4141
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.5, 
+            "full_name": "Michael O'Higgins", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5799
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23, 
+            "full_name": "James Everett", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3282
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13, 
+            "full_name": "Nancy O'Neill", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3139
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.5, 
+            "full_name": "Mark Deering", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1965 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Wicklow", 
+    "quota": 6292, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 25167, 
+    "year": 1965
+}

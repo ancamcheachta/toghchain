@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8899
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.5, 
+            "full_name": "Albert Reynolds", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7902
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.2, 
+            "full_name": "Patrick Cooney", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7421
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.1, 
+            "full_name": "Gerry L'Estrange", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7040
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.2, 
+            "full_name": "Mary O'Rourke", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7058
+            ], 
+            "elected": false, 
+            "first_pref_pc": 16.3, 
+            "full_name": "Se\u00e1n Keegan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3455
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8, 
+            "full_name": "S\u00e9amus Finnan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1636
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.8, 
+            "full_name": "Robert Brady", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "November 1982 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Longford\u2013Westmeath", 
+    "quota": 8683, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 43411, 
+    "year": 1982
+}

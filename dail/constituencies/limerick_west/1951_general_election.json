@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7901
+            ], 
+            "elected": true, 
+            "first_pref_pc": 29.2, 
+            "full_name": "David Madden", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6851
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.3, 
+            "full_name": "James Collins", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5966
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22, 
+            "full_name": "Donnchadh \u00d3 Briain", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3541
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.1, 
+            "full_name": "Richard Bresnihan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2827
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.4, 
+            "full_name": "William O'Connor", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1951 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Limerick West", 
+    "quota": 6772, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 27086, 
+    "year": 1951
+}

@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8540
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.2, 
+            "full_name": "Don Davern", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7005
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19, 
+            "full_name": "Se\u00e1n Treacy", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4595
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.5, 
+            "full_name": "Jackie Fahey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4359
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.8, 
+            "full_name": "Patrick Hogan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4433
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12, 
+            "full_name": "Denis Burke", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4340
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.8, 
+            "full_name": "William Ryan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3560
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.7, 
+            "full_name": "Timothy O'Donoghue", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1965 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Tipperary South", 
+    "quota": 7367, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 36832, 
+    "year": 1965
+}

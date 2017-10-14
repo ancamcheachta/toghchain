@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8787
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18, 
+            "full_name": "Michael D'Arcy", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                8005
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.4, 
+            "full_name": "Ivan Yates", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6772
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.9, 
+            "full_name": "Hugh Byrne", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5863
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12, 
+            "full_name": "Se\u00e1n Browne", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5902
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.1, 
+            "full_name": "Lorcan Allen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5184
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.6, 
+            "full_name": "Gus Byrne", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3692
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.6, 
+            "full_name": "Desmond Corish", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1622
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.3, 
+            "full_name": "Se\u00e1n Doyle", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1590
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.3, 
+            "full_name": "Louise Hennessy", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1002
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "William Moroney", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                396
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "James Hayes", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "February 1982 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Wexford", 
+    "quota": 8136, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 48815, 
+    "year": 1982
+}

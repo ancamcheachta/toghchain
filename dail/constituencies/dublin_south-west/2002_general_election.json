@@ -1,0 +1,151 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7466
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.3, 
+            "full_name": "Se\u00e1n Crowe", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                7155, 
+                7189, 
+                7342, 
+                7361
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.4, 
+            "full_name": "Charlie O'Connor", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 206, 
+            "transfers_pc": 6.69
+        }, 
+        {
+            "counts": [
+                7080, 
+                7116, 
+                7232, 
+                7250, 
+                7361
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.2, 
+            "full_name": "Conor Lenihan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 281, 
+            "transfers_pc": 9.12
+        }, 
+        {
+            "counts": [
+                6314, 
+                6364, 
+                6499, 
+                6523, 
+                7190, 
+                7648
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.2, 
+            "full_name": "Pat Rabbitte", 
+            "party": "Labour Party", 
+            "transfers": 1334, 
+            "transfers_pc": 43.3
+        }, 
+        {
+            "counts": [
+                4654, 
+                4681, 
+                4803, 
+                4815, 
+                4910, 
+                5084
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.7, 
+            "full_name": "Brian Hayes", 
+            "party": "Fine Gael", 
+            "transfers": 430, 
+            "transfers_pc": 13.96
+        }, 
+        {
+            "counts": [
+                1157, 
+                1214, 
+                1334, 
+                1348, 
+                1408, 
+                1687
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.1, 
+            "full_name": "Patrick Quinn", 
+            "party": "Green Party", 
+            "transfers": 530, 
+            "transfers_pc": 17.2
+        }, 
+        {
+            "counts": [
+                954, 
+                994, 
+                1055, 
+                1069, 
+                1104
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "Mick Murphy", 
+            "party": "Socialist Party", 
+            "transfers": 150, 
+            "transfers_pc": 4.87
+        }, 
+        {
+            "counts": [
+                971, 
+                984, 
+                1004, 
+                1008
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "Eamonn Walsh", 
+            "party": "Labour Party", 
+            "transfers": 37, 
+            "transfers_pc": 1.2
+        }, 
+        {
+            "counts": [
+                760, 
+                779
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "Darragh O'Reilly", 
+            "party": "Christian Solidarity", 
+            "transfers": 19, 
+            "transfers_pc": 0.62
+        }, 
+        {
+            "counts": [
+                291
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "Ray Kelly", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 6, 
+    "description": "2002 general election", 
+    "election_type": "dail", 
+    "electorate": 67947, 
+    "name": "Dublin South-West", 
+    "quota": 7361, 
+    "spoilt": 414, 
+    "turnout": 37216, 
+    "valid": 36802, 
+    "year": 2002
+}

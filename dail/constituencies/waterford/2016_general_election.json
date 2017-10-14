@@ -1,0 +1,196 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10603
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.5, 
+            "full_name": "Mary Butler", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                9739, 
+                9783, 
+                9826, 
+                9890, 
+                9967, 
+                10497
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.8, 
+            "full_name": "David Cullinane", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 758, 
+            "transfers_pc": 8.95
+        }, 
+        {
+            "counts": [
+                8306, 
+                8368, 
+                8438, 
+                8513, 
+                8674, 
+                9271, 
+                9345, 
+                11148
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.1, 
+            "full_name": "John Halligan", 
+            "party": "Independent", 
+            "transfers": 2842, 
+            "transfers_pc": 33.57
+        }, 
+        {
+            "counts": [
+                7641, 
+                7687, 
+                7697, 
+                7806, 
+                7996, 
+                8067, 
+                8072, 
+                9443, 
+                9671
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.8, 
+            "full_name": "John Deasy", 
+            "party": "Fine Gael", 
+            "transfers": 2030, 
+            "transfers_pc": 23.98
+        }, 
+        {
+            "counts": [
+                7209, 
+                7245, 
+                7281, 
+                7412, 
+                7600, 
+                7635, 
+                7637, 
+                8946, 
+                9104
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.9, 
+            "full_name": "Paudie Coffey", 
+            "party": "Fine Gael", 
+            "transfers": 1895, 
+            "transfers_pc": 22.38
+        }, 
+        {
+            "counts": [
+                2237, 
+                2254, 
+                2285, 
+                2379, 
+                2567, 
+                2968, 
+                2993
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.3, 
+            "full_name": "Grace O'Sullivan", 
+            "party": "Green Party", 
+            "transfers": 756, 
+            "transfers_pc": 8.93
+        }, 
+        {
+            "counts": [
+                2268, 
+                2286, 
+                2302, 
+                2309, 
+                2367, 
+                2445, 
+                2449
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "Ciara Conway", 
+            "party": "Labour Party", 
+            "transfers": 181, 
+            "transfers_pc": 2.14
+        }, 
+        {
+            "counts": [
+                1646, 
+                1656, 
+                1719, 
+                1767, 
+                1857
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.2, 
+            "full_name": "Una Dunphy", 
+            "party": "AAA\u2013PBP", 
+            "transfers": 211, 
+            "transfers_pc": 2.49
+        }, 
+        {
+            "counts": [
+                862, 
+                880, 
+                902, 
+                1087
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "Mailo Power", 
+            "party": "Renua Ireland", 
+            "transfers": 225, 
+            "transfers_pc": 2.66
+        }, 
+        {
+            "counts": [
+                858, 
+                865, 
+                895
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "John Walsh", 
+            "party": "Independent", 
+            "transfers": 37, 
+            "transfers_pc": 0.44
+        }, 
+        {
+            "counts": [
+                194, 
+                195
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Edward Quilty", 
+            "party": "Direct\u00a0Democracy", 
+            "transfers": 1, 
+            "transfers_pc": 0.01
+        }, 
+        {
+            "counts": [
+                140, 
+                143
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Sheikh Ahmed", 
+            "party": "Independent", 
+            "transfers": 3, 
+            "transfers_pc": 0.04
+        }
+    ], 
+    "counts_held": 9, 
+    "description": "2016 general election", 
+    "election_type": "dail", 
+    "electorate": 81819, 
+    "name": "Waterford", 
+    "quota": 10341, 
+    "spoilt": 400, 
+    "turnout": 63, 
+    "valid": 51703, 
+    "year": 2016
+}

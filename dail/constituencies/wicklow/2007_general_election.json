@@ -1,0 +1,226 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10246, 
+                10473, 
+                10674, 
+                11096
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.8, 
+            "full_name": "Dick Roche", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 850, 
+            "transfers_pc": 4.61
+        }, 
+        {
+            "counts": [
+                9431, 
+                9673, 
+                9956, 
+                10223, 
+                10892
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.5, 
+            "full_name": "Joe Behan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1461, 
+            "transfers_pc": 7.93
+        }, 
+        {
+            "counts": [
+                6751, 
+                6874, 
+                7356, 
+                7544, 
+                8030, 
+                9649, 
+                9678, 
+                13118
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.4, 
+            "full_name": "Liz McManus", 
+            "party": "Labour Party", 
+            "transfers": 6367, 
+            "transfers_pc": 34.54
+        }, 
+        {
+            "counts": [
+                8072, 
+                8177, 
+                8309, 
+                8973, 
+                9157, 
+                9604, 
+                9674, 
+                10431, 
+                11288
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.4, 
+            "full_name": "Billy Timmins", 
+            "party": "Fine Gael", 
+            "transfers": 3216, 
+            "transfers_pc": 17.45
+        }, 
+        {
+            "counts": [
+                6961, 
+                7070, 
+                7279, 
+                7514, 
+                7780, 
+                8231, 
+                8250, 
+                9285, 
+                10202
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.7, 
+            "full_name": "Andrew Doyle", 
+            "party": "Fine Gael", 
+            "transfers": 3241, 
+            "transfers_pc": 17.58
+        }, 
+        {
+            "counts": [
+                5029, 
+                5149, 
+                5193, 
+                5561, 
+                5744, 
+                7127, 
+                7271, 
+                7771, 
+                8016
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.6, 
+            "full_name": "Pat Fitzgerald", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2987, 
+            "transfers_pc": 16.2
+        }, 
+        {
+            "counts": [
+                4790, 
+                4983, 
+                5706, 
+                5834, 
+                6730, 
+                7131, 
+                7144
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.4, 
+            "full_name": "D\u00e9irdre de B\u00farca", 
+            "party": "Green Party", 
+            "transfers": 2354, 
+            "transfers_pc": 12.77
+        }, 
+        {
+            "counts": [
+                3857, 
+                3901, 
+                3935, 
+                4297, 
+                4702
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.9, 
+            "full_name": "Nicky Kelly", 
+            "party": "Labour Party", 
+            "transfers": 845, 
+            "transfers_pc": 4.58
+        }, 
+        {
+            "counts": [
+                3234, 
+                3305, 
+                3383, 
+                3551
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.9, 
+            "full_name": "John Brady", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 317, 
+            "transfers_pc": 1.72
+        }, 
+        {
+            "counts": [
+                2841, 
+                2893, 
+                3009
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "Pat Doran", 
+            "party": "Independent", 
+            "transfers": 168, 
+            "transfers_pc": 0.91
+        }, 
+        {
+            "counts": [
+                2246, 
+                2387
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.5, 
+            "full_name": "Evelyn Cawley", 
+            "party": "Independent", 
+            "transfers": 141, 
+            "transfers_pc": 0.76
+        }, 
+        {
+            "counts": [
+                903
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "D\u00f3nal \u00d3 Sioch\u00e1in", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                365
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Carmel McKenna", 
+            "party": "People Before Profit"
+        }, 
+        {
+            "counts": [
+                120
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Jim Tallon", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                79
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Norman Newell", 
+            "party": "Fathers Rights"
+        }
+    ], 
+    "counts_held": 9, 
+    "description": "2007 general election", 
+    "election_type": "dail", 
+    "electorate": 91492, 
+    "name": "Wicklow", 
+    "quota": 10821, 
+    "spoilt": 554, 
+    "turnout": 65479, 
+    "valid": 64925, 
+    "year": 2007
+}

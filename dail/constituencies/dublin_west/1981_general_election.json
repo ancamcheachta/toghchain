@@ -1,0 +1,149 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9326
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20, 
+            "full_name": "Jim Mitchell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7169
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.3, 
+            "full_name": "Brian Lenihan, Snr", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5052
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.8, 
+            "full_name": "Brian Fleming", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5301
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.3, 
+            "full_name": "Richard Burke", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4953
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.6, 
+            "full_name": "Eileen Lemass", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3272
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7, 
+            "full_name": "Liam Lawlor", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3034
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.5, 
+            "full_name": "Anthony O'Hara", 
+            "party": "Anti H-Block"
+        }, 
+        {
+            "counts": [
+                2682
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.7, 
+            "full_name": "Thomas Boland", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2342
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5, 
+            "full_name": "Mary Robinson", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1678
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.6, 
+            "full_name": "Tom\u00e1s Mac Giolla", 
+            "party": "Sinn F\u00e9in (Workers' Party)"
+        }, 
+        {
+            "counts": [
+                876
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.9, 
+            "full_name": "Anne McStay", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                476
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Eamon Tuffy", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                332
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "Mick Finnegan", 
+            "party": "Sinn F\u00e9in (Workers' Party)"
+        }, 
+        {
+            "counts": [
+                202
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "John Montgomery", 
+            "party": "Communist Party"
+        }, 
+        {
+            "counts": [
+                63
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Ivor Nolan", 
+            "party": "Socialist Labour Party"
+        }
+    ], 
+    "description": "1981 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin West", 
+    "quota": 7794, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 46758, 
+    "year": 1981
+}

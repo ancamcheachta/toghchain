@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10450
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23, 
+            "full_name": "Albert Reynolds", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8244
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.2, 
+            "full_name": "Patrick Cooney", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5499
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.1, 
+            "full_name": "Gerry L'Estrange", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5476
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.1, 
+            "full_name": "Se\u00e1n Keegan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5285
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.7, 
+            "full_name": "Se\u00e1n Fallon", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4573
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.1, 
+            "full_name": "Martin Hurson", 
+            "party": "Anti H-Block"
+        }, 
+        {
+            "counts": [
+                2826
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.2, 
+            "full_name": "James Bennett", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2619
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.8, 
+            "full_name": "Gus Hanley", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                393
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.9, 
+            "full_name": "Neil O'Shea", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1981 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Longford\u2013Westmeath", 
+    "quota": 9074, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 45365, 
+    "year": 1981
+}

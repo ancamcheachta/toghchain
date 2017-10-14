@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6031
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.5, 
+            "full_name": "Se\u00e1n Mac Eoin", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3598
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.2, 
+            "full_name": "Charles Fagan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5506
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.1, 
+            "full_name": "Ruair\u00ed \u00d3 Br\u00e1daigh", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                5141
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.2, 
+            "full_name": "Erskine H. Childers", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5482
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14, 
+            "full_name": "Michael Kennedy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4985
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.8, 
+            "full_name": "Frank Carter", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2878
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.4, 
+            "full_name": "Joseph Sheridan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2155
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.5, 
+            "full_name": "James McAuley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1394
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.6, 
+            "full_name": "George Allen", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1326
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.4, 
+            "full_name": "Francis Brennan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                549
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "Henry Rice", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1957 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Longford\u2013Westmeath", 
+    "quota": 6508, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 39045, 
+    "year": 1957
+}

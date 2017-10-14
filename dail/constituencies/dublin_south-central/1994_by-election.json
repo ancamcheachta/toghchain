@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7445
+            ], 
+            "elected": true, 
+            "first_pref_pc": 27.8, 
+            "full_name": "Eric Byrne", 
+            "party": "Democratic Left"
+        }, 
+        {
+            "counts": [
+                5642
+            ], 
+            "elected": false, 
+            "first_pref_pc": 21.1, 
+            "full_name": "Michael Mulcahy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4637
+            ], 
+            "elected": false, 
+            "first_pref_pc": 17.3, 
+            "full_name": "Brian Hayes", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2643
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.9, 
+            "full_name": "Joe Connolly", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1752
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.5, 
+            "full_name": "John Goodwillie", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                1881
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7, 
+            "full_name": "C\u00e1it Keane", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                972
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.6, 
+            "full_name": "Eamonn Gavin", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                781
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "Martina Gibney", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                595
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.2, 
+            "full_name": "Shay Kelly", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                275
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Michael Park", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                152
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Benny Cooney", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1994 by-election", 
+    "election_type": "dail", 
+    "electorate": 62300, 
+    "name": "Dublin South-Central", 
+    "quota": 13388, 
+    "spoilt": null, 
+    "turnout": 43, 
+    "valid": 26775, 
+    "year": 1994
+}

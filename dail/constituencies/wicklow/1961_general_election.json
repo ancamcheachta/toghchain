@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7582
+            ], 
+            "elected": true, 
+            "first_pref_pc": 32.4, 
+            "full_name": "Paudge Brennan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5575
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.8, 
+            "full_name": "James Everett", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3516
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15, 
+            "full_name": "Michael O'Higgins", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3368
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.4, 
+            "full_name": "Godfrey Timmins", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2679
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.5, 
+            "full_name": "James O'Toole", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                674
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "Henry McAuliffe", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1961 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Wicklow", 
+    "quota": 5849, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 23394, 
+    "year": 1961
+}

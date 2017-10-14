@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                11200
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26.6, 
+            "full_name": "Oliver J. Flanagan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4943
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.8, 
+            "full_name": "Tom O'Higgins, Jnr", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5255
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.5, 
+            "full_name": "Nicholas Egan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5197
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.4, 
+            "full_name": "Kieran Egan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4488
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.7, 
+            "full_name": "Patrick Lalor", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3698
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.8, 
+            "full_name": "Henry Byrne", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2164
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.1, 
+            "full_name": "Frank Feery", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2022
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.8, 
+            "full_name": "James Martin", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1672
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4, 
+            "full_name": "Bernard Corcoran", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1423
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.4, 
+            "full_name": "John Behan", 
+            "party": "Sinn F\u00e9in"
+        }
+    ], 
+    "description": "1961 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Laois\u2013Offaly", 
+    "quota": 7011, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 42062, 
+    "year": 1961
+}

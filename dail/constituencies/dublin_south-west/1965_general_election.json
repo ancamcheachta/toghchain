@@ -1,0 +1,131 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7596
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.9, 
+            "full_name": "Noel Lemass, Jnr", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4299
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.7, 
+            "full_name": "John O'Connell", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5484
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.6, 
+            "full_name": "Richie Ryan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4416
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11, 
+            "full_name": "Ben Briscoe", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4607
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.5, 
+            "full_name": "Joseph Dowling", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4352
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.8, 
+            "full_name": "James O'Keeffe", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1796
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.5, 
+            "full_name": "James Carroll", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1792
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.5, 
+            "full_name": "John O'Donovan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1762
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "Patrick Coghlan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1699
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.2, 
+            "full_name": "Gerard Buchanan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1649
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.1, 
+            "full_name": "Joseph Christle", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                409
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Patrick Turner", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                374
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.9, 
+            "full_name": "Frederick Pope", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1965 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South-West", 
+    "quota": 6706, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 40235, 
+    "year": 1965
+}

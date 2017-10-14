@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6793
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.6, 
+            "full_name": "P\u00e1draig Faulkner", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6066
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.9, 
+            "full_name": "S\u00e9amus Kirk", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5269
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.1, 
+            "full_name": "Brendan McGahon", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6435
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.7, 
+            "full_name": "Michael Bell", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5966
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.7, 
+            "full_name": "Thomas Bellew", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4745
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.9, 
+            "full_name": "Bernard Markey", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4737
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.9, 
+            "full_name": "Thomas Donegan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1915
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "Micheal O'Donnell", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                951
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.2, 
+            "full_name": "Frank Godfrey", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                671
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.5, 
+            "full_name": "Donnchadha MacRaghnaill", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                129
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "A\u00edne N\u00ed Ghidhir", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "November 1982 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Louth", 
+    "quota": 8736, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 43677, 
+    "year": 1982
+}

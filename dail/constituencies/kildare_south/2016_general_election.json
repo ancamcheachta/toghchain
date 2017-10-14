@@ -1,0 +1,135 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7851, 
+                8048, 
+                8297, 
+                10321
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.3, 
+            "full_name": "Martin Heydon", 
+            "party": "Fine Gael", 
+            "transfers": 2470, 
+            "transfers_pc": 21.89
+        }, 
+        {
+            "counts": [
+                6906, 
+                7073, 
+                7373, 
+                7905, 
+                8149, 
+                8974
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.8, 
+            "full_name": "Fiona O'Loughlin", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2068, 
+            "transfers_pc": 18.33
+        }, 
+        {
+            "counts": [
+                6469, 
+                6583, 
+                6891, 
+                7166, 
+                7343, 
+                8220
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.6, 
+            "full_name": "Se\u00e1n \u00d3 Feargha\u00edl", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1751, 
+            "transfers_pc": 15.52
+        }, 
+        {
+            "counts": [
+                4277, 
+                4504, 
+                4764, 
+                5154, 
+                5806, 
+                6864
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.6, 
+            "full_name": "Mark Wall", 
+            "party": "Labour Party", 
+            "transfers": 2587, 
+            "transfers_pc": 22.93
+        }, 
+        {
+            "counts": [
+                4267, 
+                4459, 
+                5294, 
+                5434, 
+                5485
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.6, 
+            "full_name": "Patricia Ryan", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 1218, 
+            "transfers_pc": 10.8
+        }, 
+        {
+            "counts": [
+                3250, 
+                3416, 
+                3554
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.8, 
+            "full_name": "Fiona McLoughlin Healy", 
+            "party": "Fine Gael", 
+            "transfers": 304, 
+            "transfers_pc": 2.69
+        }, 
+        {
+            "counts": [
+                2143, 
+                2609
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.8, 
+            "full_name": "Declan Crowe", 
+            "party": "Independent", 
+            "transfers": 466, 
+            "transfers_pc": 4.13
+        }, 
+        {
+            "counts": [
+                836
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.3, 
+            "full_name": "Suzanne McEneaney", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                787
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "Mary Kennedy", 
+            "party": "Renua Ireland"
+        }
+    ], 
+    "counts_held": 6, 
+    "description": "2016 general election", 
+    "election_type": "dail", 
+    "electorate": 59162, 
+    "name": "Kildare South", 
+    "quota": 9197, 
+    "spoilt": 386, 
+    "turnout": 37172, 
+    "valid": 36786, 
+    "year": 2016
+}

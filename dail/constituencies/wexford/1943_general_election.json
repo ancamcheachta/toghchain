@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6986
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.2, 
+            "full_name": "Richard Corish", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6004
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.1, 
+            "full_name": "John Esmonde", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7320
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16, 
+            "full_name": "Denis Allen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7518
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.4, 
+            "full_name": "James Ryan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4197
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.1, 
+            "full_name": "John O'Leary", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4502
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.8, 
+            "full_name": "John Keating", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3554
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.7, 
+            "full_name": "Patrick Kehoe", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3362
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.3, 
+            "full_name": "James Bowe", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2458
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.4, 
+            "full_name": "Christopher Culleton", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1943 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Wexford", 
+    "quota": 7651, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 45901, 
+    "year": 1943
+}

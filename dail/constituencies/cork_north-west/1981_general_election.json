@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9756
+            ], 
+            "elected": true, 
+            "first_pref_pc": 28.7, 
+            "full_name": "Thomas Meaney", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8104
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.9, 
+            "full_name": "Donal Creed", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6174
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.2, 
+            "full_name": "Frank Crowley", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5865
+            ], 
+            "elected": false, 
+            "first_pref_pc": 17.3, 
+            "full_name": "Donal Moynihan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4048
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.9, 
+            "full_name": "Michael Smith", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1981 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Cork North-West", 
+    "quota": 8487, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 33947, 
+    "year": 1981
+}

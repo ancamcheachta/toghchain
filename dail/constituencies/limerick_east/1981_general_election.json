@@ -1,0 +1,122 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9915
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.4, 
+            "full_name": "Tom O'Donnell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                9346
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.2, 
+            "full_name": "Desmond O'Malley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4311
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.9, 
+            "full_name": "Michael Noonan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4190
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.6, 
+            "full_name": "Jim Kemmy", 
+            "party": "Democratic Socialist Party"
+        }, 
+        {
+            "counts": [
+                5256
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.8, 
+            "full_name": "Peadar Clohessy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4297
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.8, 
+            "full_name": "Willie O'Dea", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2905
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6, 
+            "full_name": "Michael Lipper", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2840
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.8, 
+            "full_name": "Frank Prendergast", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2184
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.5, 
+            "full_name": "Richard Hourigan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1636
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.4, 
+            "full_name": "\u00c9amonn Cregan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                866
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "John Frawley", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                844
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "Joseph Harrington", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1981 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Limerick East", 
+    "quota": 8099, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 48590, 
+    "year": 1981
+}

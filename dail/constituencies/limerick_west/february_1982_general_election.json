@@ -1,0 +1,50 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                12702
+            ], 
+            "elected": true, 
+            "first_pref_pc": 40.1, 
+            "full_name": "Gerry Collins", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8390
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26.5, 
+            "full_name": "William O'Brien", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7535
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.8, 
+            "full_name": "Michael J. Noonan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3088
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.7, 
+            "full_name": "Se\u00e1n Broderick", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "February 1982 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Limerick West", 
+    "quota": 7929, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 31715, 
+    "year": 1982
+}

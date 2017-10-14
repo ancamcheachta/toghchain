@@ -1,0 +1,122 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9843
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26.4, 
+            "full_name": "Kathleen Lynch", 
+            "party": "Democratic Left"
+        }, 
+        {
+            "counts": [
+                9528
+            ], 
+            "elected": false, 
+            "first_pref_pc": 25.5, 
+            "full_name": "Billy Kelleher", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6035
+            ], 
+            "elected": false, 
+            "first_pref_pc": 16.2, 
+            "full_name": "Colm Burke", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4003
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.7, 
+            "full_name": "Lisa O'Sullivan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1856
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5, 
+            "full_name": "Jane Power", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                1628
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "Michael Burns", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                1304
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.5, 
+            "full_name": "Don O'Leary", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                1036
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "Con O'Leary", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1082
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "Jimmy Homan", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                445
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "Donie O'Leary", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                426
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "Gerry Duffy", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                162
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Nora Ann Luck", 
+            "party": "Natural Law"
+        }
+    ], 
+    "description": "1994 by-election", 
+    "election_type": "dail", 
+    "electorate": 68479, 
+    "name": "Cork North-Central", 
+    "quota": 18675, 
+    "spoilt": null, 
+    "turnout": 54, 
+    "valid": 37348, 
+    "year": 1994
+}

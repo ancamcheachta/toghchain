@@ -1,0 +1,140 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10077
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.6, 
+            "full_name": "James Myles", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                7645
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.8, 
+            "full_name": "James Dillon", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                7416
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.4, 
+            "full_name": "Neal Blaney", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4050
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6.3, 
+            "full_name": "Daniel McMenamin", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                4654
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.2, 
+            "full_name": "John White", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                4313
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6.7, 
+            "full_name": "Eugene Doherty", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3874
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6, 
+            "full_name": "Frank Carney", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4955
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.6, 
+            "full_name": "Brian Brady", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4691
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.2, 
+            "full_name": "Hugh Doherty", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3737
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.8, 
+            "full_name": "Michael \u00d3g McFadden", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3370
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.2, 
+            "full_name": "Patrick Doherty", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2795
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.3, 
+            "full_name": "Hugh Law", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                2506
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.9, 
+            "full_name": "Archie Cassidy", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                733
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "Charles Sweeney", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1932 general election", 
+    "election_type": "dail", 
+    "electorate": 87413, 
+    "name": "Donegal", 
+    "quota": 7202, 
+    "spoilt": null, 
+    "turnout": 74, 
+    "valid": 64816, 
+    "year": 1932
+}

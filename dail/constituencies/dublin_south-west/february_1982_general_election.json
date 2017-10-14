@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7407
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.8, 
+            "full_name": "Se\u00e1n Walsh", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7063
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.8, 
+            "full_name": "Mervyn Taylor", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5830
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.3, 
+            "full_name": "Mary Harney", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5688
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.9, 
+            "full_name": "Larry McMahon", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3848
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.8, 
+            "full_name": "George Laing", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3508
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.8, 
+            "full_name": "Richard Conroy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2354
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.6, 
+            "full_name": "Con McCarthy", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "February 1982 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South-West", 
+    "quota": 7140, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 35698, 
+    "year": 1982
+}

@@ -1,0 +1,131 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7335
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.4, 
+            "full_name": "Austin Deasy", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5971
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.3, 
+            "full_name": "Brendan Kenneally", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5271
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.8, 
+            "full_name": "Brian O'Shea", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5353
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12, 
+            "full_name": "Martin Cullen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4139
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.2, 
+            "full_name": "Martin O'Regan", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                4707
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.5, 
+            "full_name": "Ollie Wilkinson", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3664
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.2, 
+            "full_name": "Maurice Cummins", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2946
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.6, 
+            "full_name": "Dermot Kirwan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2896
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.5, 
+            "full_name": "Katharine Bulbulia", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                855
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.9, 
+            "full_name": "Declan Waters", 
+            "party": "National Party"
+        }, 
+        {
+            "counts": [
+                809
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Brendan McCann", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                702
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "Jimmy Kelly", 
+            "party": "Socialist Workers"
+        }, 
+        {
+            "counts": [
+                149
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Michael Kennedy", 
+            "party": "Natural Law"
+        }
+    ], 
+    "description": "1997 general election", 
+    "election_type": "dail", 
+    "electorate": 69789, 
+    "name": "Waterford", 
+    "quota": 8960, 
+    "spoilt": 667, 
+    "turnout": 45464, 
+    "valid": 44797, 
+    "year": 1997
+}

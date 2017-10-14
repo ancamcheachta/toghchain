@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7813
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.1, 
+            "full_name": "James Ryan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6888
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16, 
+            "full_name": "Denis Allen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5803
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.4, 
+            "full_name": "Richard Corish", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5364
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.4, 
+            "full_name": "Osmond Esmonde", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3848
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.9, 
+            "full_name": "John Keating", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                4229
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.8, 
+            "full_name": "Patrick Kehoe", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3322
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.7, 
+            "full_name": "Michael Doyle", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2715
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.3, 
+            "full_name": "James Shannon", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2612
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.1, 
+            "full_name": "Michael Jordan", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                574
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.3, 
+            "full_name": "John Noctor", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1932 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Wexford", 
+    "quota": 7195, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 43168, 
+    "year": 1932
+}

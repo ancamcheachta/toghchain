@@ -1,0 +1,41 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                21881
+            ], 
+            "elected": true, 
+            "first_pref_pc": 53.6, 
+            "full_name": "James Geoghegan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                16438
+            ], 
+            "elected": false, 
+            "first_pref_pc": 40.2, 
+            "full_name": "Vincent Delany", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                2525
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.2, 
+            "full_name": "Michael Duffy", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1930 by-election", 
+    "election_type": "dail", 
+    "electorate": 56059, 
+    "name": "Longford\u2013Westmeath", 
+    "quota": 20423, 
+    "spoilt": null, 
+    "turnout": 72, 
+    "valid": 40844, 
+    "year": 1930
+}

@@ -1,0 +1,131 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                13589
+            ], 
+            "elected": true, 
+            "first_pref_pc": 32.9, 
+            "full_name": "Bertie Ahern", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7451
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18, 
+            "full_name": "Tony Gregory", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                5296
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.8, 
+            "full_name": "Pat Lee", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2420
+            ], 
+            "elected": true, 
+            "first_pref_pc": 5.9, 
+            "full_name": "Dermot Fitzpatrick", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2530
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6.1, 
+            "full_name": "John Stafford", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1941
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.7, 
+            "full_name": "Christy Burke", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                1827
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "Mike Jennings", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                1529
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "Enda Connolly", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                1418
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.4, 
+            "full_name": "Geraldine Harney", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                1305
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.2, 
+            "full_name": "Joe Costello", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1256
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "Joan Burton", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                729
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Tony O'Flaherty", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                41
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Maire Ni Dubgaill", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1989 general election", 
+    "election_type": "dail", 
+    "electorate": 65071, 
+    "name": "Dublin Central", 
+    "quota": 6889, 
+    "spoilt": 467, 
+    "turnout": 41799, 
+    "valid": 41332, 
+    "year": 1989
+}

@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8156
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.6, 
+            "full_name": "Michael Smith", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7401
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.3, 
+            "full_name": "Michael Lowry", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7240
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.8, 
+            "full_name": "John Ryan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                7113
+            ], 
+            "elected": false, 
+            "first_pref_pc": 22.4, 
+            "full_name": "Michael O'Kennedy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1533
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.8, 
+            "full_name": "Tom Ryan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                382
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "Jimmy Nolan", 
+            "party": "Sinn F\u00e9in"
+        }
+    ], 
+    "description": "1992 general election", 
+    "election_type": "dail", 
+    "electorate": 42754, 
+    "name": "Tipperary North", 
+    "quota": 7957, 
+    "spoilt": 465, 
+    "turnout": 32290, 
+    "valid": 31825, 
+    "year": 1992
+}

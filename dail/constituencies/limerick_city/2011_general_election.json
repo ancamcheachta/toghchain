@@ -1,0 +1,198 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                13291
+            ], 
+            "elected": true, 
+            "first_pref_pc": 30.8, 
+            "full_name": "Michael Noonan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5405, 
+                8306, 
+                8414, 
+                8545, 
+                8774
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.5, 
+            "full_name": "Kieran O'Donnell", 
+            "party": "Fine Gael", 
+            "transfers": 3369, 
+            "transfers_pc": 34.68
+        }, 
+        {
+            "counts": [
+                6956, 
+                7369, 
+                7403, 
+                7432, 
+                7768, 
+                9424
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.1, 
+            "full_name": "Willie O'Dea", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2468, 
+            "transfers_pc": 25.41
+        }, 
+        {
+            "counts": [
+                6353, 
+                7122, 
+                7161, 
+                7314, 
+                7728, 
+                8079, 
+                8520
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.7, 
+            "full_name": "Jan O'Sullivan", 
+            "party": "Labour Party", 
+            "transfers": 2167, 
+            "transfers_pc": 22.31
+        }, 
+        {
+            "counts": [
+                3711, 
+                3829, 
+                3877, 
+                3894, 
+                4518, 
+                4634, 
+                4758
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.6, 
+            "full_name": "Maurice Quinlivan", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 1047, 
+            "transfers_pc": 10.78
+        }, 
+        {
+            "counts": [
+                2411, 
+                2628, 
+                2645, 
+                2712, 
+                2926, 
+                3084, 
+                3291
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.6, 
+            "full_name": "Joe Leddin", 
+            "party": "Labour Party", 
+            "transfers": 880, 
+            "transfers_pc": 9.06
+        }, 
+        {
+            "counts": [
+                2303, 
+                2399, 
+                2429, 
+                2466, 
+                2533
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.3, 
+            "full_name": "Peter Power", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 230, 
+            "transfers_pc": 2.37
+        }, 
+        {
+            "counts": [
+                1129, 
+                1200, 
+                1270, 
+                1306
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "Kevin Kiely", 
+            "party": "Independent", 
+            "transfers": 177, 
+            "transfers_pc": 1.82
+        }, 
+        {
+            "counts": [
+                721, 
+                740, 
+                769, 
+                799
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "[6]", 
+            "party": "Socialist Party", 
+            "transfers": 78, 
+            "transfers_pc": 0.8
+        }, 
+        {
+            "counts": [
+                490, 
+                520, 
+                542
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "Sheila Cahill", 
+            "party": "Green Party", 
+            "transfers": 52, 
+            "transfers_pc": 0.54
+        }, 
+        {
+            "counts": [
+                186, 
+                197
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Conor O'Donoghue", 
+            "party": "Christian Solidarity", 
+            "transfers": 11, 
+            "transfers_pc": 0.11
+        }, 
+        {
+            "counts": [
+                173, 
+                178
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Denis Riordan", 
+            "party": "Independent", 
+            "transfers": 5, 
+            "transfers_pc": 0.05
+        }, 
+        {
+            "counts": [
+                59, 
+                62
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Matt Larkin", 
+            "party": "Independent", 
+            "transfers": 3, 
+            "transfers_pc": 0.03
+        }
+    ], 
+    "counts_held": 7, 
+    "description": "2011 general election", 
+    "election_type": "dail", 
+    "electorate": 64909, 
+    "name": "Limerick City", 
+    "quota": 8638, 
+    "spoilt": 429, 
+    "turnout": 43617, 
+    "valid": 43188, 
+    "year": 2011
+}

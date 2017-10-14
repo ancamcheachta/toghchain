@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8372
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.6, 
+            "full_name": "Bridget Redmond", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6472
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19, 
+            "full_name": "Thomas Kyne", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5798
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17, 
+            "full_name": "Patrick Little", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5523
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.2, 
+            "full_name": "John Ormonde", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4873
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.3, 
+            "full_name": "Daniel Leahy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3010
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.8, 
+            "full_name": "T Flynn", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1951 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Waterford", 
+    "quota": 6810, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 34048, 
+    "year": 1951
+}

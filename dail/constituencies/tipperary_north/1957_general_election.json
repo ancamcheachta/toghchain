@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6464
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24, 
+            "full_name": "John Fanning", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6058
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.5, 
+            "full_name": "Mary Ryan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4261
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.8, 
+            "full_name": "Patrick Tierney", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3497
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13, 
+            "full_name": "Martin Collins", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2616
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.7, 
+            "full_name": "Thomas Dunne", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2548
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.4, 
+            "full_name": "Aindrias MacDomhnaill", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                1537
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.7, 
+            "full_name": "Daniel Kennedy", 
+            "party": "Clann na Poblachta"
+        }
+    ], 
+    "description": "1957 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Tipperary North", 
+    "quota": 6746, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 26981, 
+    "year": 1957
+}

@@ -1,0 +1,131 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10571
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.3, 
+            "full_name": "Dan Breen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7989
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13, 
+            "full_name": "Richard Mulcahy", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7330
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12, 
+            "full_name": "Mary Ryan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5791
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.5, 
+            "full_name": "Andrew Fogarty", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4705
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.7, 
+            "full_name": "Frank Loughman", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6578
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.8, 
+            "full_name": "Daniel Morrissey", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4638
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.6, 
+            "full_name": "William O'Donnell", 
+            "party": "Clann na Talmhan"
+        }, 
+        {
+            "counts": [
+                3420
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.6, 
+            "full_name": "J A Boland", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3026
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.9, 
+            "full_name": "John Stakelum", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2821
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.6, 
+            "full_name": "Richard Stapleton", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2758
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.5, 
+            "full_name": "James Gardiner", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2079
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.4, 
+            "full_name": "Thomas Bourke", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1072
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Tom\u00e1s \u00d3 Dochartaigh", 
+            "party": "Ailtir\u00ed na hAis\u00e9irghe"
+        }
+    ], 
+    "description": "1944 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Tipperary", 
+    "quota": 7658, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 61261, 
+    "year": 1944
+}

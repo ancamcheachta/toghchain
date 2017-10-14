@@ -1,0 +1,122 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                16143
+            ], 
+            "elected": true, 
+            "first_pref_pc": 39.6, 
+            "full_name": "Charles Haughey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7727
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.9, 
+            "full_name": "George Birmingham", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3212
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.9, 
+            "full_name": "Vincent Brady", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4591
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.3, 
+            "full_name": "Richard Bruton", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2172
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.3, 
+            "full_name": "Michael O'Halloran", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2085
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.1, 
+            "full_name": "Bernadette McAliskey", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1801
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "Se\u00e1n Dublin Bay Rockall Loftus", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1517
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "Ita Greene", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1004
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.5, 
+            "full_name": "Mary Byrne", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                240
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "John Curley", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                214
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "T C G O'Mahony", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                89
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Anthony O'Hara", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "February 1982 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin North-Central", 
+    "quota": 8160, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 40795, 
+    "year": 1982
+}

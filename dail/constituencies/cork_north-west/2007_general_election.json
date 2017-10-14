@@ -1,0 +1,106 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10516, 
+                10878, 
+                12420
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.6, 
+            "full_name": "Michael Creed", 
+            "party": "Fine Gael", 
+            "transfers": 1904, 
+            "transfers_pc": 18.1
+        }, 
+        {
+            "counts": [
+                10146, 
+                10243, 
+                10384, 
+                14001
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.7, 
+            "full_name": "Michael Moynihan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3855, 
+            "transfers_pc": 36.64
+        }, 
+        {
+            "counts": [
+                8040, 
+                8213, 
+                8498, 
+                10668, 
+                12665
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.3, 
+            "full_name": "Batt O'Keeffe", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 4625, 
+            "transfers_pc": 43.96
+        }, 
+        {
+            "counts": [
+                7397, 
+                7545, 
+                7970, 
+                8309, 
+                8657
+            ], 
+            "elected": false, 
+            "first_pref_pc": 15.8, 
+            "full_name": "Gerard Murphy", 
+            "party": "Fine Gael", 
+            "transfers": 1260, 
+            "transfers_pc": 11.98
+        }, 
+        {
+            "counts": [
+                6546, 
+                6638, 
+                6919
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.1, 
+            "full_name": "Donal Moynihan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 373, 
+            "transfers_pc": 3.55
+        }, 
+        {
+            "counts": [
+                2288, 
+                2980
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.9, 
+            "full_name": "Martin Coughlan", 
+            "party": "Labour Party", 
+            "transfers": 692, 
+            "transfers_pc": 6.58
+        }, 
+        {
+            "counts": [
+                1687
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.6, 
+            "full_name": "Caroline Robinson", 
+            "party": "Green Party"
+        }
+    ], 
+    "counts_held": 5, 
+    "description": "2007 general election", 
+    "election_type": "dail", 
+    "electorate": 64085, 
+    "name": "Cork North-West", 
+    "quota": 11656, 
+    "spoilt": 401, 
+    "turnout": 47021, 
+    "valid": 46620, 
+    "year": 2007
+}

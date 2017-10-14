@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7673
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.9, 
+            "full_name": "Eamonn Kissane", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6213
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.7, 
+            "full_name": "Tom McEllistrim, Snr", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6019
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.2, 
+            "full_name": "Stephen Fuller", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5204
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.9, 
+            "full_name": "John O'Sullivan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5136
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.7, 
+            "full_name": "Thomas O'Connell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4783
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.7, 
+            "full_name": "Patrick Casey", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1937 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Kerry North", 
+    "quota": 7006, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 35028, 
+    "year": 1937
+}

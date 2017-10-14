@@ -1,0 +1,122 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10059
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.9, 
+            "full_name": "Oscar Traynor", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5034
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.5, 
+            "full_name": "Patrick Byrne", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3756
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.3, 
+            "full_name": "Denis Larkin", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4168
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.3, 
+            "full_name": "Charles Haughey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2594
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6.4, 
+            "full_name": "Jack Belton", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3346
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.3, 
+            "full_name": "Tom\u00e1s Misteil", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                2549
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.3, 
+            "full_name": "Harry Colley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2520
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.2, 
+            "full_name": "Thomas Stafford", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2318
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.7, 
+            "full_name": "Desmond Bell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1822
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.5, 
+            "full_name": "Michael Dempsey", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1640
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.1, 
+            "full_name": "Mairead McGuinness", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                585
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.5, 
+            "full_name": "Patrick McCartan", 
+            "party": "Clann na Poblachta"
+        }
+    ], 
+    "description": "1957 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin North-East", 
+    "quota": 6732, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 40391, 
+    "year": 1957
+}

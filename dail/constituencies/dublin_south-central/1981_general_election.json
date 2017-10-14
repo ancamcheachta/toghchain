@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9491
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.4, 
+            "full_name": "John O'Connell", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                8181
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.7, 
+            "full_name": "Ben Briscoe", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7404
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.1, 
+            "full_name": "Fergus O'Brien", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5686
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.6, 
+            "full_name": "Thomas J. Fitzpatrick", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6879
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.1, 
+            "full_name": "Gay Mitchell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4122
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.4, 
+            "full_name": "Frank Cluskey", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2948
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.1, 
+            "full_name": "Brian Hillery", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2403
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.9, 
+            "full_name": "Eric Byrne", 
+            "party": "Sinn F\u00e9in (Workers' Party)"
+        }, 
+        {
+            "counts": [
+                1069
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.2, 
+            "full_name": "Michael Collins", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                693
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "S\u00e9amus Ashe", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                73
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Daniel McCarron", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1981 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South-Central", 
+    "quota": 8159, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 48949, 
+    "year": 1981
+}

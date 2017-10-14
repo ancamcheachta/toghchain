@@ -1,0 +1,124 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9445
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.8, 
+            "full_name": "John O'Donoghue", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5307, 
+                5480, 
+                5946, 
+                5979, 
+                6432, 
+                9442
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.5, 
+            "full_name": "Breeda Moynihan-Cronin", 
+            "party": "Labour Party", 
+            "transfers": 4135, 
+            "transfers_pc": 45.76
+        }, 
+        {
+            "counts": [
+                6229, 
+                6455, 
+                6819, 
+                6893, 
+                7147, 
+                8409, 
+                8584
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17, 
+            "full_name": "Jackie Healy-Rae", 
+            "party": "Independent", 
+            "transfers": 2355, 
+            "transfers_pc": 26.06
+        }, 
+        {
+            "counts": [
+                6912, 
+                6995, 
+                7255, 
+                7407, 
+                7593, 
+                8276, 
+                8381
+            ], 
+            "elected": false, 
+            "first_pref_pc": 18.9, 
+            "full_name": "Tom Fleming", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1469, 
+            "transfers_pc": 16.26
+        }, 
+        {
+            "counts": [
+                4539, 
+                4732, 
+                4791, 
+                4811, 
+                6083
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.4, 
+            "full_name": "S\u00e9amus Cosa\u00ed FitzGerald", 
+            "party": "Fine Gael", 
+            "transfers": 1544, 
+            "transfers_pc": 17.09
+        }, 
+        {
+            "counts": [
+                1934, 
+                2033, 
+                2216, 
+                2220
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.3, 
+            "full_name": "Sheila Casey", 
+            "party": "Fine Gael", 
+            "transfers": 286, 
+            "transfers_pc": 3.17
+        }, 
+        {
+            "counts": [
+                1346, 
+                1449
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "Donal Grady", 
+            "party": "Independent", 
+            "transfers": 103, 
+            "transfers_pc": 1.14
+        }, 
+        {
+            "counts": [
+                934
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.5, 
+            "full_name": "Donal Barry", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 7, 
+    "description": "2002 general election", 
+    "election_type": "dail", 
+    "electorate": 51761, 
+    "name": "Kerry South", 
+    "quota": 9162, 
+    "spoilt": 376, 
+    "turnout": 37022, 
+    "valid": 36646, 
+    "year": 2002
+}

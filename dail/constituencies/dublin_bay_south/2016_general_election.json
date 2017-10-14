@@ -1,0 +1,209 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                4529, 
+                4631, 
+                4929, 
+                5277, 
+                6605, 
+                7560, 
+                8788
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.4, 
+            "full_name": "Eamon Ryan", 
+            "party": "Green Party", 
+            "transfers": 4259, 
+            "transfers_pc": 29.52
+        }, 
+        {
+            "counts": [
+                6567, 
+                6595, 
+                6661, 
+                6693, 
+                6873, 
+                7860, 
+                8023
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.5, 
+            "full_name": "Eoghan Murphy", 
+            "party": "Fine Gael", 
+            "transfers": 1456, 
+            "transfers_pc": 10.09
+        }, 
+        {
+            "counts": [
+                4575, 
+                4596, 
+                4674, 
+                4744, 
+                4949, 
+                5989, 
+                6678, 
+                6921
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.5, 
+            "full_name": "Jim O'Callaghan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2346, 
+            "transfers_pc": 16.26
+        }, 
+        {
+            "counts": [
+                5399, 
+                5416, 
+                5483, 
+                5527, 
+                5773, 
+                6324, 
+                6446, 
+                6547
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.6, 
+            "full_name": "Kate O'Connell", 
+            "party": "Fine Gael", 
+            "transfers": 1148, 
+            "transfers_pc": 7.96
+        }, 
+        {
+            "counts": [
+                4205, 
+                4227, 
+                4378, 
+                4480, 
+                4992, 
+                5391, 
+                5973, 
+                6221
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.6, 
+            "full_name": "Kevin Humphreys", 
+            "party": "Labour Party", 
+            "transfers": 2016, 
+            "transfers_pc": 13.97
+        }, 
+        {
+            "counts": [
+                3774, 
+                3796, 
+                3957, 
+                4511, 
+                4888, 
+                5197
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.5, 
+            "full_name": "Chris Andrews", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 1423, 
+            "transfers_pc": 9.86
+        }, 
+        {
+            "counts": [
+                4229, 
+                4252, 
+                4385, 
+                4545, 
+                4820
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.7, 
+            "full_name": "Lucinda Creighton", 
+            "party": "Renua Ireland", 
+            "transfers": 591, 
+            "transfers_pc": 4.1
+        }, 
+        {
+            "counts": [
+                2652, 
+                2694, 
+                2949, 
+                3527
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.7, 
+            "full_name": "Glenna Lynch", 
+            "party": "Social Democrats", 
+            "transfers": 875, 
+            "transfers_pc": 6.06
+        }, 
+        {
+            "counts": [
+                1728, 
+                1819, 
+                2149
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "Annette Mooney", 
+            "party": "AAA\u2013PBP", 
+            "transfers": 421, 
+            "transfers_pc": 2.92
+        }, 
+        {
+            "counts": [
+                1525, 
+                1648
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.8, 
+            "full_name": "Mannix Flynn", 
+            "party": "Independent", 
+            "transfers": 123, 
+            "transfers_pc": 0.85
+        }, 
+        {
+            "counts": [
+                235
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Alan MacStiofain", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                151
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Eoin Tierney", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                97
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "William DJ Gorman", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                37
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "John Keigher", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 8, 
+    "description": "2016 general election", 
+    "election_type": "dail", 
+    "electorate": 73066, 
+    "name": "Dublin Bay South", 
+    "quota": 7941, 
+    "spoilt": 313, 
+    "turnout": 40016, 
+    "valid": 39703, 
+    "year": 2016
+}

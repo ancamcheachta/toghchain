@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7268
+            ], 
+            "elected": true, 
+            "first_pref_pc": 28.3, 
+            "full_name": "John Flynn", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6772
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26.4, 
+            "full_name": "Frederick Crowley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4741
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.5, 
+            "full_name": "Fion\u00e1n Lynch", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3532
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.7, 
+            "full_name": "Patrick O'Shea", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                3384
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.2, 
+            "full_name": "William O'Sullivan", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1937 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Kerry South", 
+    "quota": 6425, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 25697, 
+    "year": 1937
+}

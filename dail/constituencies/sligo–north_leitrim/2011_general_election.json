@@ -1,0 +1,208 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8663, 
+                8703, 
+                8741, 
+                8968, 
+                9548, 
+                9768, 
+                10419, 
+                11973
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.5, 
+            "full_name": "John Perry", 
+            "party": "Fine Gael", 
+            "transfers": 3310, 
+            "transfers_pc": 19.4
+        }, 
+        {
+            "counts": [
+                7715, 
+                7778, 
+                7891, 
+                8127, 
+                8320, 
+                8699, 
+                9493, 
+                10981, 
+                11508
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.4, 
+            "full_name": "Tony McLoughlin", 
+            "party": "Fine Gael", 
+            "transfers": 3793, 
+            "transfers_pc": 22.23
+        }, 
+        {
+            "counts": [
+                5911, 
+                5972, 
+                6232, 
+                6465, 
+                6846, 
+                7775, 
+                8139, 
+                9616, 
+                9771
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.3, 
+            "full_name": "Michael Colreavy", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 3860, 
+            "transfers_pc": 22.62
+        }, 
+        {
+            "counts": [
+                5075, 
+                5097, 
+                5165, 
+                5235, 
+                5625, 
+                5699, 
+                8389, 
+                8942, 
+                9125
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.4, 
+            "full_name": "Eamon Scanlon", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 4050, 
+            "transfers_pc": 23.73
+        }, 
+        {
+            "counts": [
+                4553, 
+                4709, 
+                4769, 
+                5213, 
+                5430, 
+                6096, 
+                6646
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.2, 
+            "full_name": "Susan O'Keeffe", 
+            "party": "Labour Party", 
+            "transfers": 2093, 
+            "transfers_pc": 12.27
+        }, 
+        {
+            "counts": [
+                4633, 
+                4647, 
+                4686, 
+                4865, 
+                5302, 
+                5586
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.4, 
+            "full_name": "Marc MacSharry", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 953, 
+            "transfers_pc": 5.58
+        }, 
+        {
+            "counts": [
+                2284, 
+                2334, 
+                2380, 
+                2763, 
+                2946
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.1, 
+            "full_name": "[5]", 
+            "party": "Independent", 
+            "transfers": 662, 
+            "transfers_pc": 3.88
+        }, 
+        {
+            "counts": [
+                2415, 
+                2431, 
+                2463, 
+                2607
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.4, 
+            "full_name": "Michael Clarke", 
+            "party": "Independent", 
+            "transfers": 192, 
+            "transfers_pc": 1.13
+        }, 
+        {
+            "counts": [
+                1119, 
+                1140, 
+                1171
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.5, 
+            "full_name": "Veronica Cawley", 
+            "party": "Independent", 
+            "transfers": 52, 
+            "transfers_pc": 0.3
+        }, 
+        {
+            "counts": [
+                779, 
+                836, 
+                881
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Alwyn Love", 
+            "party": "New Vision", 
+            "transfers": 102, 
+            "transfers_pc": 0.6
+        }, 
+        {
+            "counts": [
+                747, 
+                770
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "Gabriel McSharry", 
+            "party": "Independent", 
+            "transfers": 23, 
+            "transfers_pc": 0.13
+        }, 
+        {
+            "counts": [
+                432
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Johnny Gogan", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                102
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Dick Cahill", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 9, 
+    "description": "2011 general election", 
+    "election_type": "dail", 
+    "electorate": 63432, 
+    "name": "Sligo\u2013North Leitrim", 
+    "quota": 11108, 
+    "spoilt": 409, 
+    "turnout": 44837, 
+    "valid": 44428, 
+    "year": 2011
+}

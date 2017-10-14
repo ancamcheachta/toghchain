@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8530
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18, 
+            "full_name": "S\u00edle de Valera", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8045
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17, 
+            "full_name": "Donal Carey", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7897
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.7, 
+            "full_name": "Brendan Daly", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5229
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11, 
+            "full_name": "Madeleine Taylor-Quinn", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4799
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.1, 
+            "full_name": "Frank Barrett", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3796
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8, 
+            "full_name": "John O'Rourke", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3069
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.5, 
+            "full_name": "David O'Keeffe", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                2534
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.4, 
+            "full_name": "Thomas Meaney", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                2230
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.7, 
+            "full_name": "Thomas Brennan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                644
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "Brigid Makowski", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                600
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.3, 
+            "full_name": "Thomas O'Shaughnessy", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1987 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Clare", 
+    "quota": 9475, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 47373, 
+    "year": 1987
+}

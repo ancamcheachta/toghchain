@@ -1,0 +1,279 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                12533
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.1, 
+            "full_name": "Charlie McConalogue", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                10300, 
+                10305, 
+                10330, 
+                10524, 
+                10870, 
+                11053, 
+                11190, 
+                14600
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.1, 
+            "full_name": "Pearse Doherty", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 4300, 
+            "transfers_pc": 21.27
+        }, 
+        {
+            "counts": [
+                10198, 
+                10203, 
+                10362, 
+                10504, 
+                10694, 
+                10941, 
+                11160, 
+                11267, 
+                11398, 
+                11832, 
+                13138
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.9, 
+            "full_name": "Pat the Cope Gallagher", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2940, 
+            "transfers_pc": 14.55
+        }, 
+        {
+            "counts": [
+                8412, 
+                8414, 
+                8443, 
+                8704, 
+                8795, 
+                8965, 
+                11016, 
+                11040, 
+                11061, 
+                11784, 
+                12469
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.5, 
+            "full_name": "Joe McHugh", 
+            "party": "Fine Gael", 
+            "transfers": 4057, 
+            "transfers_pc": 20.07
+        }, 
+        {
+            "counts": [
+                6220, 
+                6239, 
+                6247, 
+                6498, 
+                6689, 
+                7389, 
+                7522, 
+                7617, 
+                7722, 
+                8491, 
+                9462, 
+                9888, 
+                10082
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.5, 
+            "full_name": "Thomas Pringle", 
+            "party": "Independent", 
+            "transfers": 3862, 
+            "transfers_pc": 19.11
+        }, 
+        {
+            "counts": [
+                5742, 
+                5743, 
+                5773, 
+                5893, 
+                5961, 
+                6008, 
+                6032, 
+                6567, 
+                8509, 
+                9143, 
+                9716, 
+                9852, 
+                9898
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.8, 
+            "full_name": "P\u00e1draig Mac Lochlainn", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 4156, 
+            "transfers_pc": 20.56
+        }, 
+        {
+            "counts": [
+                3580, 
+                3585, 
+                3601, 
+                3752, 
+                4034, 
+                4319, 
+                4524, 
+                4650, 
+                4790, 
+                5864
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.9, 
+            "full_name": "Tim Jackson", 
+            "party": "Independent", 
+            "transfers": 2284, 
+            "transfers_pc": 11.3
+        }, 
+        {
+            "counts": [
+                3724, 
+                3724, 
+                3739, 
+                3986, 
+                4166, 
+                4288, 
+                4463, 
+                4497, 
+                4540
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.1, 
+            "full_name": "Dessie Shiels", 
+            "party": "Independent", 
+            "transfers": 816, 
+            "transfers_pc": 4.04
+        }, 
+        {
+            "counts": [
+                4136, 
+                4138, 
+                4142, 
+                4183, 
+                4377, 
+                4420, 
+                4456
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.6, 
+            "full_name": "Gary Doherty", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 320, 
+            "transfers_pc": 1.58
+        }, 
+        {
+            "counts": [
+                2831, 
+                2832, 
+                2838, 
+                2934, 
+                3133, 
+                3244
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.9, 
+            "full_name": "Paddy Harte, Jnr", 
+            "party": "Fine Gael", 
+            "transfers": 413, 
+            "transfers_pc": 2.04
+        }, 
+        {
+            "counts": [
+                1836, 
+                1842, 
+                1848, 
+                1983, 
+                2057
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.5, 
+            "full_name": "Niamh Kennedy", 
+            "party": "Independent", 
+            "transfers": 221, 
+            "transfers_pc": 1.09
+        }, 
+        {
+            "counts": [
+                1914, 
+                1917, 
+                1921, 
+                1981
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "Frank McBrearty, Jnr", 
+            "party": "Independent", 
+            "transfers": 67, 
+            "transfers_pc": 0.33
+        }, 
+        {
+            "counts": [
+                982, 
+                982, 
+                989
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.3, 
+            "full_name": "Ian McGarvey", 
+            "party": "Independent", 
+            "transfers": 7, 
+            "transfers_pc": 0.03
+        }, 
+        {
+            "counts": [
+                428, 
+                442, 
+                443
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Paula Flanagan", 
+            "party": "Green Party", 
+            "transfers": 15, 
+            "transfers_pc": 0.07
+        }, 
+        {
+            "counts": [
+                397, 
+                402, 
+                407
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Michael Mooney", 
+            "party": "Independent", 
+            "transfers": 10, 
+            "transfers_pc": 0.05
+        }, 
+        {
+            "counts": [
+                70
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Cordelia Nic Fhearraigh", 
+            "party": "F\u00eds Nua"
+        }
+    ], 
+    "counts_held": 13, 
+    "description": "2016 general election", 
+    "election_type": "dail", 
+    "electorate": 117675, 
+    "name": "Donegal", 
+    "quota": 12218, 
+    "spoilt": 654, 
+    "turnout": 73957, 
+    "valid": 73303, 
+    "year": 2016
+}

@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6551
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.2, 
+            "full_name": "Eamonn Kissane", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5973
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.7, 
+            "full_name": "Tom McEllistrim, Snr", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5155
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.6, 
+            "full_name": "Dan Spring", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5174
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.6, 
+            "full_name": "Patrick Finucane", 
+            "party": "Clann na Talmhan"
+        }, 
+        {
+            "counts": [
+                4827
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.7, 
+            "full_name": "Edmund Horan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                4420
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.6, 
+            "full_name": "John O'Sullivan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3550
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.3, 
+            "full_name": "Stephen Fuller", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2352
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.2, 
+            "full_name": "John Kelly", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1943 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Kerry North", 
+    "quota": 7601, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 38002, 
+    "year": 1943
+}

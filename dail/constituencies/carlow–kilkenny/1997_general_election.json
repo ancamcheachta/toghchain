@@ -1,0 +1,177 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                11849
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21, 
+            "full_name": "Liam Aylward", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                9642
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.1, 
+            "full_name": "Phil Hogan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6834, 
+                6921, 
+                6974, 
+                7075, 
+                7774, 
+                7930, 
+                8444, 
+                9378
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.1, 
+            "full_name": "John Browne", 
+            "party": "Fine Gael", 
+            "transfers": 2544, 
+            "transfers_pc": 19.19
+        }, 
+        {
+            "counts": [
+                5990, 
+                7252, 
+                7322, 
+                7447, 
+                7483, 
+                7496, 
+                8776, 
+                9310
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.6, 
+            "full_name": "John McGuinness", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3320, 
+            "transfers_pc": 25.05
+        }, 
+        {
+            "counts": [
+                5578, 
+                5746, 
+                5784, 
+                5860, 
+                7425, 
+                7467, 
+                7782, 
+                9026
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.9, 
+            "full_name": "S\u00e9amus Pattison", 
+            "party": "Labour Party", 
+            "transfers": 3448, 
+            "transfers_pc": 26.01
+        }, 
+        {
+            "counts": [
+                5975, 
+                6462, 
+                6568, 
+                6663, 
+                7033, 
+                7036, 
+                7897, 
+                8548
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.6, 
+            "full_name": "M. J. Nolan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2573, 
+            "transfers_pc": 19.41
+        }, 
+        {
+            "counts": [
+                3116, 
+                3197, 
+                3242, 
+                3501, 
+                3742, 
+                3750, 
+                4253
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.5, 
+            "full_name": "Mary White", 
+            "party": "Green Party", 
+            "transfers": 1137, 
+            "transfers_pc": 8.58
+        }, 
+        {
+            "counts": [
+                3184, 
+                3468, 
+                3501, 
+                3623, 
+                3738, 
+                3749
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.6, 
+            "full_name": "Jim Gibbons, Jnr", 
+            "party": "Progressive Democrats", 
+            "transfers": 565, 
+            "transfers_pc": 4.26
+        }, 
+        {
+            "counts": [
+                2995, 
+                3007, 
+                3073, 
+                3102
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.3, 
+            "full_name": "Jim Townsend", 
+            "party": "Labour Party", 
+            "transfers": 107, 
+            "transfers_pc": 0.81
+        }, 
+        {
+            "counts": [
+                870, 
+                883, 
+                900
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.5, 
+            "full_name": "Michael Quinn", 
+            "party": "National Party", 
+            "transfers": 30, 
+            "transfers_pc": 0.23
+        }, 
+        {
+            "counts": [
+                416, 
+                462
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "Billy Nolan", 
+            "party": "Independent", 
+            "transfers": 46, 
+            "transfers_pc": 0.35
+        }
+    ], 
+    "counts_held": 8, 
+    "description": "1997 general election", 
+    "election_type": "dail", 
+    "electorate": 85096, 
+    "name": "Carlow\u2013Kilkenny", 
+    "quota": 9409, 
+    "spoilt": 691, 
+    "turnout": 57140, 
+    "valid": 56449, 
+    "year": 1997
+}

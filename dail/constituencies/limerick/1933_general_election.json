@@ -1,0 +1,122 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                5791
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.8, 
+            "full_name": "George C. Bennett", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                5443
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.3, 
+            "full_name": "James Reidy", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                7383
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.2, 
+            "full_name": "Donnchadh \u00d3 Briain", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6536
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.9, 
+            "full_name": "Tadhg Crowley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7980
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.1, 
+            "full_name": "Daniel Bourke", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6956
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.6, 
+            "full_name": "Robert Ryan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5798
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.8, 
+            "full_name": "Michael Keyes", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5803
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.8, 
+            "full_name": "James Colbert", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4265
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.5, 
+            "full_name": "John Nolan", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3560
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.4, 
+            "full_name": "Richard O'Connell", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3388
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.1, 
+            "full_name": "John O'Shaughnessy", 
+            "party": "National Centre Party"
+        }, 
+        {
+            "counts": [
+                3010
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.6, 
+            "full_name": "John Carty", 
+            "party": "National Centre Party"
+        }
+    ], 
+    "description": "1933 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Limerick", 
+    "quota": 8240, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 65913, 
+    "year": 1933
+}

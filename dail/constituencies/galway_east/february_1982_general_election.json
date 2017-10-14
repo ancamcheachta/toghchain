@@ -1,0 +1,106 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7014, 
+                7303, 
+                8250
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.9, 
+            "full_name": "Paul Connaughton, Snr", 
+            "party": "Fine Gael", 
+            "transfers": 1236, 
+            "transfers_pc": 9.59
+        }, 
+        {
+            "counts": [
+                6182, 
+                6305, 
+                6386, 
+                6786, 
+                11167
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.3, 
+            "full_name": "Michael P. Kitt", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 4985, 
+            "transfers_pc": 38.69
+        }, 
+        {
+            "counts": [
+                6015, 
+                6042, 
+                6257, 
+                7466, 
+                8788
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.7, 
+            "full_name": "Johnny Callanan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2773, 
+            "transfers_pc": 21.52
+        }, 
+        {
+            "counts": [
+                5500, 
+                5689, 
+                5743, 
+                6212
+            ], 
+            "elected": false, 
+            "first_pref_pc": 17.1, 
+            "full_name": "Thomas Hussey", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 712, 
+            "transfers_pc": 5.53
+        }, 
+        {
+            "counts": [
+                4037, 
+                4150, 
+                5383
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.6, 
+            "full_name": "Ulick Burke", 
+            "party": "Fine Gael", 
+            "transfers": 1346, 
+            "transfers_pc": 10.45
+        }, 
+        {
+            "counts": [
+                2403, 
+                2566
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.5, 
+            "full_name": "Joseph Brennan", 
+            "party": "Fine Gael", 
+            "transfers": 163, 
+            "transfers_pc": 1.26
+        }, 
+        {
+            "counts": [
+                946
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "Kevin Dwyer", 
+            "party": "Labour Party"
+        }
+    ], 
+    "counts_held": 5, 
+    "description": "February 1982 general election", 
+    "election_type": "dail", 
+    "electorate": 41655, 
+    "name": "Galway East", 
+    "quota": 8025, 
+    "spoilt": 250, 
+    "turnout": 32347, 
+    "valid": 32097, 
+    "year": 1982
+}

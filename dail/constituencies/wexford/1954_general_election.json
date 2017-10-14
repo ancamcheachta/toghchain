@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7214
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.3, 
+            "full_name": "James Ryan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7001
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.8, 
+            "full_name": "Brendan Corish", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6247
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15, 
+            "full_name": "Anthony Esmonde", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6173
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.8, 
+            "full_name": "Denis Allen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6150
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.8, 
+            "full_name": "John O'Leary", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3834
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.2, 
+            "full_name": "Se\u00e1n Browne", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3510
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.4, 
+            "full_name": "James Bowe", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1498
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.6, 
+            "full_name": "John Doran", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1954 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Wexford", 
+    "quota": 6938, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 41627, 
+    "year": 1954
+}

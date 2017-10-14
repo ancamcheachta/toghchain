@@ -1,0 +1,225 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6903, 
+                6933
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.9, 
+            "full_name": "Paschal Donohoe", 
+            "party": "Fine Gael", 
+            "transfers": 30, 
+            "transfers_pc": 0.33
+        }, 
+        {
+            "counts": [
+                6273, 
+                6289, 
+                6428, 
+                6805, 
+                7115
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.1, 
+            "full_name": "Joe Costello", 
+            "party": "Labour Party", 
+            "transfers": 842, 
+            "transfers_pc": 9.13
+        }, 
+        {
+            "counts": [
+                4139, 
+                4171, 
+                4507, 
+                4830, 
+                5384, 
+                5586, 
+                7641
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12, 
+            "full_name": "Maureen O'Sullivan", 
+            "party": "Independent", 
+            "transfers": 3502, 
+            "transfers_pc": 37.97
+        }, 
+        {
+            "counts": [
+                4526, 
+                4536, 
+                4654, 
+                5065, 
+                5422, 
+                5553, 
+                6209, 
+                6587
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.1, 
+            "full_name": "Mary Lou McDonald", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 2061, 
+            "transfers_pc": 22.35
+        }, 
+        {
+            "counts": [
+                3504, 
+                3514, 
+                3606, 
+                3628, 
+                3716, 
+                4821, 
+                5403, 
+                5743
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.1, 
+            "full_name": "Mary Fitzpatrick", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2239, 
+            "transfers_pc": 24.28
+        }, 
+        {
+            "counts": [
+                3514, 
+                3532, 
+                3796, 
+                3853, 
+                3978, 
+                4135
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.2, 
+            "full_name": "\u00c1ine Clancy", 
+            "party": "Labour Party", 
+            "transfers": 621, 
+            "transfers_pc": 6.73
+        }, 
+        {
+            "counts": [
+                1637, 
+                1639, 
+                1675, 
+                1725, 
+                1753
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.7, 
+            "full_name": "Cyprian Brady", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 116, 
+            "transfers_pc": 1.26
+        }, 
+        {
+            "counts": [
+                1394, 
+                1426, 
+                1532, 
+                1615
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4, 
+            "full_name": "Cieran Perry", 
+            "party": "Independent", 
+            "transfers": 221, 
+            "transfers_pc": 2.4
+        }, 
+        {
+            "counts": [
+                1315, 
+                1323, 
+                1393
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.8, 
+            "full_name": "Christy Burke", 
+            "party": "Independent", 
+            "transfers": 78, 
+            "transfers_pc": 0.85
+        }, 
+        {
+            "counts": [
+                638, 
+                703
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "Phil Kearney", 
+            "party": "Green Party", 
+            "transfers": 65, 
+            "transfers_pc": 0.7
+        }, 
+        {
+            "counts": [
+                274, 
+                285
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "Malachy Steenson", 
+            "party": "Workers' Party", 
+            "transfers": 11, 
+            "transfers_pc": 0.12
+        }, 
+        {
+            "counts": [
+                235, 
+                251
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "Paul O'Loughlin", 
+            "party": "Christian Solidarity", 
+            "transfers": 16, 
+            "transfers_pc": 0.17
+        }, 
+        {
+            "counts": [
+                77
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "John Hyland", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                65
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Thomas Hollywood", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                48
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "[19]", 
+            "party": "F\u00eds Nua"
+        }, 
+        {
+            "counts": [
+                25
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Benny Cooney", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 8, 
+    "description": "2011 general election", 
+    "election_type": "dail", 
+    "electorate": 56892, 
+    "name": "Dublin Central", 
+    "quota": 6923, 
+    "spoilt": 457, 
+    "turnout": 35069, 
+    "valid": 34612, 
+    "year": 2011
+}

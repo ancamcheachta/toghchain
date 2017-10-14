@@ -1,0 +1,32 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                23007
+            ], 
+            "elected": true, 
+            "first_pref_pc": 50.3, 
+            "full_name": "Denis Gorey", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                22734
+            ], 
+            "elected": false, 
+            "first_pref_pc": 49.7, 
+            "full_name": "Michael Skelly", 
+            "party": "Fianna F\u00e1il"
+        }
+    ], 
+    "description": "1927 by-election", 
+    "election_type": "dail", 
+    "electorate": 61724, 
+    "name": "Carlow\u2013Kilkenny", 
+    "quota": 22871, 
+    "spoilt": null, 
+    "turnout": 74, 
+    "valid": 45741, 
+    "year": 1927
+}

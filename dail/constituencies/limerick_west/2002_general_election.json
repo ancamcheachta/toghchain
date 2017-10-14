@@ -1,0 +1,103 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10823
+            ], 
+            "elected": true, 
+            "first_pref_pc": 30.3, 
+            "full_name": "John Cregan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8236, 
+                9526
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.1, 
+            "full_name": "Michael J. Collins", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1290, 
+            "transfers_pc": 35.26
+        }, 
+        {
+            "counts": [
+                7446, 
+                7678, 
+                7862, 
+                8564
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.9, 
+            "full_name": "Dan Neville", 
+            "party": "Fine Gael", 
+            "transfers": 1118, 
+            "transfers_pc": 30.55
+        }, 
+        {
+            "counts": [
+                7410, 
+                7684, 
+                7867, 
+                8563
+            ], 
+            "elected": false, 
+            "first_pref_pc": 20.8, 
+            "full_name": "Michael Finucane", 
+            "party": "Fine Gael", 
+            "transfers": 1153, 
+            "transfers_pc": 31.51
+        }, 
+        {
+            "counts": [
+                948, 
+                1002, 
+                1138
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Marcus Briody", 
+            "party": "Green Party", 
+            "transfers": 190, 
+            "transfers_pc": 5.19
+        }, 
+        {
+            "counts": [
+                662, 
+                710, 
+                789
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.9, 
+            "full_name": "Mike MacDomhnaill", 
+            "party": "Independent", 
+            "transfers": 127, 
+            "transfers_pc": 3.47
+        }, 
+        {
+            "counts": [
+                144, 
+                151, 
+                177
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Patrick O'Riordan", 
+            "party": "Christian Solidarity", 
+            "transfers": 33, 
+            "transfers_pc": 0.9
+        }
+    ], 
+    "counts_held": 4, 
+    "description": "2002 general election", 
+    "election_type": "dail", 
+    "electorate": 53879, 
+    "name": "Limerick West", 
+    "quota": 8918, 
+    "spoilt": 476, 
+    "turnout": 36145, 
+    "valid": 35669, 
+    "year": 2002
+}

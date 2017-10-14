@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8265
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.4, 
+            "full_name": "Caitl\u00edn Brugha", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                6441
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.8, 
+            "full_name": "William Redmond", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2710
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.3, 
+            "full_name": "John Butler", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3142
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.7, 
+            "full_name": "Nicholas Wall", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                4059
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.5, 
+            "full_name": "Vincent White", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3186
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.8, 
+            "full_name": "James Baird", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2280
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7, 
+            "full_name": "Garrett Flavin", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                1741
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.4, 
+            "full_name": "Richard Keane", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                735
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.3, 
+            "full_name": "Michael Brennock", 
+            "party": "Cumann na nGaedheal"
+        }
+    ], 
+    "description": "1923 general election", 
+    "election_type": "dail", 
+    "electorate": 45849, 
+    "name": "Waterford", 
+    "quota": 6512, 
+    "spoilt": null, 
+    "turnout": 71, 
+    "valid": 32559, 
+    "year": 1923
+}

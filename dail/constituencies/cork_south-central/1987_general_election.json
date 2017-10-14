@@ -1,0 +1,158 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10935
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.4, 
+            "full_name": "Pearse Wyse", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                6099
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.8, 
+            "full_name": "John Dennehy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7328
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13, 
+            "full_name": "Peter Barry", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4437
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.9, 
+            "full_name": "Batt O'Keeffe", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4862
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.6, 
+            "full_name": "Toddy O'Sullivan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4926
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.8, 
+            "full_name": "Hugh Coveney", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4305
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.7, 
+            "full_name": "Barry Cogan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3619
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.4, 
+            "full_name": "Miche\u00e1l Martin", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3112
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.5, 
+            "full_name": "Owen Curtin", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                2349
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.2, 
+            "full_name": "Kathleen Lynch", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                1585
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "Charles Hennessy", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1229
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.2, 
+            "full_name": "Mary Dunphy", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                756
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.3, 
+            "full_name": "Sean Beausang", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                441
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "Bernie Murphy", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                245
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Cornelius O'Donovan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                31
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Michael T. Murphy", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1987 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Cork South-Central", 
+    "quota": 9377, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 56259, 
+    "year": 1987
+}

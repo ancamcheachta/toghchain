@@ -1,0 +1,142 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9627
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.7, 
+            "full_name": "Joan Burton", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                8359, 
+                8555
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.7, 
+            "full_name": "Leo Varadkar", 
+            "party": "Fine Gael", 
+            "transfers": 196, 
+            "transfers_pc": 2.33
+        }, 
+        {
+            "counts": [
+                8084, 
+                8304, 
+                8603
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19, 
+            "full_name": "Joe Higgins[22]", 
+            "party": "Socialist Party", 
+            "transfers": 519, 
+            "transfers_pc": 6.16
+        }, 
+        {
+            "counts": [
+                6421, 
+                6494, 
+                7050, 
+                7323, 
+                8289
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.1, 
+            "full_name": "Brian Lenihan, Jnr", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1868, 
+            "transfers_pc": 22.17
+        }, 
+        {
+            "counts": [
+                2686, 
+                3186, 
+                3450, 
+                4701, 
+                6329
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.3, 
+            "full_name": "Patrick Nulty", 
+            "party": "Labour Party", 
+            "transfers": 3643, 
+            "transfers_pc": 43.23
+        }, 
+        {
+            "counts": [
+                3190, 
+                3248, 
+                3440, 
+                3693
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.5, 
+            "full_name": "Kieran Dennison", 
+            "party": "Fine Gael", 
+            "transfers": 503, 
+            "transfers_pc": 5.97
+        }, 
+        {
+            "counts": [
+                2597, 
+                2646, 
+                2749
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.1, 
+            "full_name": "Paul Donnelly", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 152, 
+            "transfers_pc": 1.8
+        }, 
+        {
+            "counts": [
+                623, 
+                631
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.5, 
+            "full_name": "David McGuinness", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 8, 
+            "transfers_pc": 0.09
+        }, 
+        {
+            "counts": [
+                605, 
+                625
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "Roderic O'Gorman", 
+            "party": "Green Party", 
+            "transfers": 20, 
+            "transfers_pc": 0.24
+        }, 
+        {
+            "counts": [
+                280, 
+                288
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "Clement Esebamen", 
+            "party": "Independent", 
+            "transfers": 8, 
+            "transfers_pc": 0.09
+        }
+    ], 
+    "counts_held": 5, 
+    "description": "2011 general election", 
+    "election_type": "dail", 
+    "electorate": 62348, 
+    "name": "Dublin West", 
+    "quota": 8495, 
+    "spoilt": 327, 
+    "turnout": 42799, 
+    "valid": 42472, 
+    "year": 2011
+}

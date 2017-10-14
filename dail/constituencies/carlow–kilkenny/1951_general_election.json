@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8701
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.9, 
+            "full_name": "Thomas Walsh", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7901
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.2, 
+            "full_name": "Patrick Crotty", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7890
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.1, 
+            "full_name": "Thomas Derrig", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5132
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.1, 
+            "full_name": "Joseph Hughes", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5758
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.5, 
+            "full_name": "Francis Humphreys", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4551
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.9, 
+            "full_name": "James Pattison", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3056
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.6, 
+            "full_name": "Thomas Hayden", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1703
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "Thomas Fielding", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1384
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "P. Gleeson", 
+            "party": "Clann na Poblachta"
+        }
+    ], 
+    "description": "1951 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Carlow\u2013Kilkenny", 
+    "quota": 7680, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 46076, 
+    "year": 1951
+}

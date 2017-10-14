@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8618
+            ], 
+            "elected": true, 
+            "first_pref_pc": 28.5, 
+            "full_name": "Paddy Donegan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6883
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.7, 
+            "full_name": "P\u00e1draig Faulkner", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7312
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.2, 
+            "full_name": "Frank Aiken", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2800
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.3, 
+            "full_name": "Paul Callan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2073
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.9, 
+            "full_name": "Thomas Elmore", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1513
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5, 
+            "full_name": "Francis Johnston", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1077
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.6, 
+            "full_name": "Patrick Mulholland", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1969 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Louth", 
+    "quota": 7570, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 30276, 
+    "year": 1969
+}

@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                11157
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23, 
+            "full_name": "Se\u00e1n Barrett", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7202
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.9, 
+            "full_name": "Liam T. Cosgrave", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7776
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16, 
+            "full_name": "Barry Desmond", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                7931
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.4, 
+            "full_name": "David Andrews", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6944
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.3, 
+            "full_name": "Martin O'Donoghue", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5021
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.4, 
+            "full_name": "Monica Barnes", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                945
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "Clare \u00d3 Meal\u00f3id", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                574
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "Osgur Breathnach", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                418
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.9, 
+            "full_name": "Ubi Dwyer", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                318
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "Martin Donohoe", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                225
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Marion Kennedy", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "February 1982 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "D\u00fan Laoghaire", 
+    "quota": 8086, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 48511, 
+    "year": 1982
+}

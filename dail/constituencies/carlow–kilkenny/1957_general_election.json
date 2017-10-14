@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9447
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.1, 
+            "full_name": "Martin Medlar", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5742
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.4, 
+            "full_name": "Patrick Crotty", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5761
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.5, 
+            "full_name": "Jim Gibbons", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5738
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.4, 
+            "full_name": "Francis Humphreys", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4419
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.3, 
+            "full_name": "Joseph Hughes", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3042
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.1, 
+            "full_name": "Patrick Teehan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1992
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.7, 
+            "full_name": "Herbert Devoy", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1929
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.5, 
+            "full_name": "William Cotterell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1900
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "James Pattison", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1739
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.1, 
+            "full_name": "John Fahey", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1037
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.4, 
+            "full_name": "John Moriarty", 
+            "party": "Clann na Poblachta"
+        }
+    ], 
+    "description": "1957 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Carlow\u2013Kilkenny", 
+    "quota": 7125, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 42746, 
+    "year": 1957
+}

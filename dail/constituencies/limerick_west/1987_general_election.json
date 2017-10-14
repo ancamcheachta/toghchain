@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10812
+            ], 
+            "elected": true, 
+            "first_pref_pc": 31.8, 
+            "full_name": "Gerry Collins", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6631
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.5, 
+            "full_name": "Michael J. Noonan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6580
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.4, 
+            "full_name": "John McCoy", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                3352
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.9, 
+            "full_name": "Jim Houlihan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3218
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.5, 
+            "full_name": "Michael Finucane", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2894
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.5, 
+            "full_name": "Dan Neville", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                519
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.5, 
+            "full_name": "Paudge Brennan", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1987 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Limerick West", 
+    "quota": 8502, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 34006, 
+    "year": 1987
+}

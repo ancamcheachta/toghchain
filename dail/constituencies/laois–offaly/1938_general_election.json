@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8440
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.3, 
+            "full_name": "Patrick Boland", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8422
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.3, 
+            "full_name": "Patrick Gorry", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8315
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17, 
+            "full_name": "Thomas F. O'Higgins", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5778
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.8, 
+            "full_name": "Daniel Hogan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6190
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.7, 
+            "full_name": "William Davin", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4922
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.1, 
+            "full_name": "Jack Finlay", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3556
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.3, 
+            "full_name": "Michael Collier", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2206
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.5, 
+            "full_name": "Edward Breen", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                981
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "John McMahon", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1938 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Laois\u2013Offaly", 
+    "quota": 8136, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 48810, 
+    "year": 1938
+}

@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                4966
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.9, 
+            "full_name": "Johnny Geoghegan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3789
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19, 
+            "full_name": "Gerald Bartley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4282
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.5, 
+            "full_name": "Fintan Coogan, Snr", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3853
+            ], 
+            "elected": false, 
+            "first_pref_pc": 19.3, 
+            "full_name": "John Mannion, Snr", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3028
+            ], 
+            "elected": false, 
+            "first_pref_pc": 15.2, 
+            "full_name": "Michael Lydon", 
+            "party": "Fianna F\u00e1il"
+        }
+    ], 
+    "description": "1957 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Galway West", 
+    "quota": 4980, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 19918, 
+    "year": 1957
+}

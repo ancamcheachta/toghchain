@@ -1,0 +1,131 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7557
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.1, 
+            "full_name": "James Myles", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                5828
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.7, 
+            "full_name": "Daniel McMenamin", 
+            "party": "National League Party"
+        }, 
+        {
+            "counts": [
+                5031
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.1, 
+            "full_name": "John White", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                5681
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.4, 
+            "full_name": "Neal Blaney", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3002
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6, 
+            "full_name": "Frank Carney", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4005
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8, 
+            "full_name": "Eugene Doherty", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3596
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.2, 
+            "full_name": "Hugh Law", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3105
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6.2, 
+            "full_name": "Michael \u00d3g McFadden", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                2899
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.8, 
+            "full_name": "Seamus Monaghan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2750
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.5, 
+            "full_name": "Patrick McGoldrick", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                2491
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5, 
+            "full_name": "Archie Cassidy", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2005
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4, 
+            "full_name": "Denis Houston", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1975
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.9, 
+            "full_name": "Patrick McFadden", 
+            "party": "Cumann na nGaedheal"
+        }
+    ], 
+    "description": "June 1927 general election", 
+    "election_type": "dail", 
+    "electorate": 90224, 
+    "name": "Donegal", 
+    "quota": 5548, 
+    "spoilt": null, 
+    "turnout": 55, 
+    "valid": 49925, 
+    "year": 1927
+}

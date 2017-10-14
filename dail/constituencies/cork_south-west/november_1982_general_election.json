@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8704
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26.4, 
+            "full_name": "Jim O'Keeffe", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                8432
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.5, 
+            "full_name": "Joe Walsh", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7756
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.5, 
+            "full_name": "P. J. Sheehan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5340
+            ], 
+            "elected": false, 
+            "first_pref_pc": 16.2, 
+            "full_name": "Flor Crowley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2468
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.5, 
+            "full_name": "John O'Sullivan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                319
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Elizabeth Ryder", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "November 1982 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Cork South-West", 
+    "quota": 8255, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 33019, 
+    "year": 1982
+}

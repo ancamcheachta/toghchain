@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9984
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.7, 
+            "full_name": "Dan Breen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7174
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.6, 
+            "full_name": "Martin Ryan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7529
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.1, 
+            "full_name": "Andrew Fogarty", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5495
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.1, 
+            "full_name": "Frank Loughman", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5960
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.8, 
+            "full_name": "Richard Curran", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6976
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.3, 
+            "full_name": "Daniel Morrissey", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7745
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.4, 
+            "full_name": "Jeremiah Ryan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6009
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.9, 
+            "full_name": "William X. O'Brien", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5657
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.3, 
+            "full_name": "S\u00e9amus Burke", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5361
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.9, 
+            "full_name": "Se\u00e1n Gaynor", 
+            "party": "Fianna F\u00e1il"
+        }
+    ], 
+    "description": "1938 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Tipperary", 
+    "quota": 8487, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 67890, 
+    "year": 1938
+}

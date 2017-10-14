@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8090
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.6, 
+            "full_name": "Tom Nolan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7771
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.9, 
+            "full_name": "Jim Gibbons", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5863
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.7, 
+            "full_name": "Kieran Crotty", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6041
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.1, 
+            "full_name": "S\u00e9amus Pattison", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6146
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.3, 
+            "full_name": "Desmond Governey", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6273
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.6, 
+            "full_name": "Bob Aylward", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2251
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.9, 
+            "full_name": "James Keeffe", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1946
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.2, 
+            "full_name": "John McManamy", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1692
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "Thomas Hogan", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1969 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Carlow\u2013Kilkenny", 
+    "quota": 7679, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 46073, 
+    "year": 1969
+}

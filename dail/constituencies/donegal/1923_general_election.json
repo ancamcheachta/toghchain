@@ -1,0 +1,185 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6954
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.2, 
+            "full_name": "James Myles", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                5513
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.5, 
+            "full_name": "Peter Ward", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                5261
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10, 
+            "full_name": "Eugene Doherty", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3673
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7, 
+            "full_name": "John White", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                3492
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6.6, 
+            "full_name": "Patrick McFadden", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3743
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.1, 
+            "full_name": "Patrick McGoldrick", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3621
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6.9, 
+            "full_name": "Peadar O'Donnell", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                3213
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6.1, 
+            "full_name": "Joseph O'Doherty", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                3678
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7, 
+            "full_name": "Brian Monaghan", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                2456
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.7, 
+            "full_name": "Denis Houston", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1718
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.3, 
+            "full_name": "Hugh Law", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                1647
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.1, 
+            "full_name": "Samuel O'Flaherty", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                1489
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "H. J. O'Kelly", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                1432
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Michael McNelis", 
+            "party": "Ratepayers' Association"
+        }, 
+        {
+            "counts": [
+                1209
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.3, 
+            "full_name": "Neil Faulkner", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                1127
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "Andrew Lowry", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                927
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Daniel McMenamin", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                908
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "Edward Gallen", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                69
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.3, 
+            "full_name": "Henry McGowan", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1923 general election", 
+    "election_type": "dail", 
+    "electorate": 96977, 
+    "name": "Donegal", 
+    "quota": 5859, 
+    "spoilt": null, 
+    "turnout": 54, 
+    "valid": 52730, 
+    "year": 1923
+}

@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                5745
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.6, 
+            "full_name": "Richard Mulcahy", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6842
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.5, 
+            "full_name": "Dan Breen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6833
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.5, 
+            "full_name": "Michael Davern", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2384
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6.5, 
+            "full_name": "Patrick Crowe", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5019
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.6, 
+            "full_name": "Frank Loughman", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2272
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.2, 
+            "full_name": "John Morrissey", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2182
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.9, 
+            "full_name": "Patrick Walsh", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1892
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.1, 
+            "full_name": "Colm O'Donnell", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1585
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.3, 
+            "full_name": "Michael Kilkelly", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1506
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.1, 
+            "full_name": "John Timoney", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                638
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "George Furlong", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1951 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Tipperary South", 
+    "quota": 7380, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 36898, 
+    "year": 1951
+}

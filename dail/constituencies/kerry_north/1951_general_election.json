@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7035
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.9, 
+            "full_name": "Dan Spring", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5430
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.4, 
+            "full_name": "Tom McEllistrim, Snr", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5397
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.3, 
+            "full_name": "John Lynch", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4714
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.4, 
+            "full_name": "Patrick Finucane", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                4868
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.8, 
+            "full_name": "Eamonn Kissane", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4446
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.6, 
+            "full_name": "Johnny Connor", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                3389
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.6, 
+            "full_name": "Thomas O'Connor", 
+            "party": "Fianna F\u00e1il"
+        }
+    ], 
+    "description": "1951 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Kerry North", 
+    "quota": 7056, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 35279, 
+    "year": 1951
+}

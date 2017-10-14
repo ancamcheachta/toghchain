@@ -1,0 +1,140 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7058
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.1, 
+            "full_name": "Gerry O'Sullivan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5405
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.1, 
+            "full_name": "Dan Wallace", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6032
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.6, 
+            "full_name": "Bernard Allen", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4008
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.7, 
+            "full_name": "Denis Lyons", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4203
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.2, 
+            "full_name": "M\u00e1ir\u00edn Quill", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                4757
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.5, 
+            "full_name": "Liam Burke", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3395
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.2, 
+            "full_name": "John Kelleher", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                2865
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7, 
+            "full_name": "Michael Bowes", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1310
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.2, 
+            "full_name": "Tim Brosnan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1180
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "Con O'Leary", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                766
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.9, 
+            "full_name": "Kevin Wallace", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                133
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Noel Murphy", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                68
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Michael T. Murphy", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                67
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "William Fitzsimon", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1989 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Cork North-Central", 
+    "quota": 6875, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 41247, 
+    "year": 1989
+}

@@ -1,0 +1,41 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10986
+            ], 
+            "elected": true, 
+            "first_pref_pc": 48.6, 
+            "full_name": "Donal O'Donoghue", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6795
+            ], 
+            "elected": false, 
+            "first_pref_pc": 30.1, 
+            "full_name": "Edmund Horan", 
+            "party": "Clann na Talmhan"
+        }, 
+        {
+            "counts": [
+                4822
+            ], 
+            "elected": false, 
+            "first_pref_pc": 21.3, 
+            "full_name": "Eoin O'Connell", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1944 by-election", 
+    "election_type": "dail", 
+    "electorate": 35945, 
+    "name": "Kerry South", 
+    "quota": 11302, 
+    "spoilt": null, 
+    "turnout": 62, 
+    "valid": 22603, 
+    "year": 1944
+}

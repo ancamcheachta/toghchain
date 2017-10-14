@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10779
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.8, 
+            "full_name": "John Wilson", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                9185
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16, 
+            "full_name": "Thomas J. Fitzpatrick", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7560
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.2, 
+            "full_name": "John Conlan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                8372
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.6, 
+            "full_name": "Rory O'Hanlon", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8611
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15, 
+            "full_name": "Jimmy Leonard", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5106
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.9, 
+            "full_name": "Aileen Cahill", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3852
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.7, 
+            "full_name": "Hugh McElvaney", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3639
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.4, 
+            "full_name": "Michael Smith", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                143
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Se\u00e1n \u00d3 Neill MacGabhann", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "November 1982 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Cavan\u2013Monaghan", 
+    "quota": 9542, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 57247, 
+    "year": 1982
+}

@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6778
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.7, 
+            "full_name": "James Collins", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6101
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.2, 
+            "full_name": "Donnchadh \u00d3 Briain", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4602
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.8, 
+            "full_name": "David Madden", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2235
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.1, 
+            "full_name": "John Lynch", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1783
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.5, 
+            "full_name": "Timothy O'Connell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1695
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.2, 
+            "full_name": "Patrick Langan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1402
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.1, 
+            "full_name": "James O'Connor", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                1257
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.6, 
+            "full_name": "Patrick Fitzsimons", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                836
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "Patrick Liston", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                787
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "Michael Dore", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1948 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Limerick West", 
+    "quota": 6870, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 27476, 
+    "year": 1948
+}

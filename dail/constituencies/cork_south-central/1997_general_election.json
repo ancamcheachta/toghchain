@@ -1,0 +1,149 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9652
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.5, 
+            "full_name": "Miche\u00e1l Martin", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                9524
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.2, 
+            "full_name": "Hugh Coveney", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7279
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.2, 
+            "full_name": "Batt O'Keeffe", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6524
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.9, 
+            "full_name": "John Dennehy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4602
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.4, 
+            "full_name": "Deirdre Clune", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4908
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.9, 
+            "full_name": "Toddy O'Sullivan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3622
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.6, 
+            "full_name": "Dan Boyle", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                2701
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.9, 
+            "full_name": "Sylvester Cotter", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2304
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.2, 
+            "full_name": "Tom Coughlan", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                1497
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Derry Canty", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1254
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.3, 
+            "full_name": "Matty O'Callaghan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                663
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "Tim Murphy", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                215
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Se\u00e1n Twomey", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                182
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Nora Anne Luck", 
+            "party": "Natural Law"
+        }, 
+        {
+            "counts": [
+                112
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Se\u00e1n Ahern", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1997 general election", 
+    "election_type": "dail", 
+    "electorate": 84288, 
+    "name": "Cork South-Central", 
+    "quota": 9174, 
+    "spoilt": 362, 
+    "turnout": 55401, 
+    "valid": 55039, 
+    "year": 1997
+}

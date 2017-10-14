@@ -1,0 +1,122 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7782, 
+                7817, 
+                7860, 
+                9169
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.9, 
+            "full_name": "Se\u00e1n Power", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1387, 
+            "transfers_pc": 21.44
+        }, 
+        {
+            "counts": [
+                7370, 
+                7458, 
+                7501, 
+                8426
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.6, 
+            "full_name": "Se\u00e1n \u00d3 Feargha\u00edl", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1056, 
+            "transfers_pc": 16.32
+        }, 
+        {
+            "counts": [
+                6043, 
+                6148, 
+                6264, 
+                7443, 
+                7849, 
+                7977
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.5, 
+            "full_name": "Jack Wall", 
+            "party": "Labour Party", 
+            "transfers": 1934, 
+            "transfers_pc": 29.9
+        }, 
+        {
+            "counts": [
+                4967, 
+                5040, 
+                5546, 
+                7170, 
+                7650, 
+                7790
+            ], 
+            "elected": false, 
+            "first_pref_pc": 15.2, 
+            "full_name": "Alan Dukes", 
+            "party": "Fine Gael", 
+            "transfers": 2823, 
+            "transfers_pc": 43.64
+        }, 
+        {
+            "counts": [
+                3887, 
+                3946, 
+                4058
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.9, 
+            "full_name": "John Dardis", 
+            "party": "Progressive Democrats", 
+            "transfers": 171, 
+            "transfers_pc": 2.64
+        }, 
+        {
+            "counts": [
+                1208, 
+                1335, 
+                1351
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "J. J. Power", 
+            "party": "Green Party", 
+            "transfers": 143, 
+            "transfers_pc": 2.21
+        }, 
+        {
+            "counts": [
+                828, 
+                850
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.5, 
+            "full_name": "Rainsford Hendy", 
+            "party": "Fine Gael", 
+            "transfers": 22, 
+            "transfers_pc": 0.34
+        }, 
+        {
+            "counts": [
+                546
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "Ger Fitzgibbon", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 6, 
+    "description": "2002 general election", 
+    "election_type": "dail", 
+    "electorate": 58354, 
+    "name": "Kildare South", 
+    "quota": 8158, 
+    "spoilt": 501, 
+    "turnout": 33132, 
+    "valid": 32631, 
+    "year": 2002
+}

@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9059
+            ], 
+            "elected": true, 
+            "first_pref_pc": 27.9, 
+            "full_name": "Michael Creed", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                8632
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26.6, 
+            "full_name": "Frank Crowley", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7523
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.2, 
+            "full_name": "Laurence Kelly", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6953
+            ], 
+            "elected": false, 
+            "first_pref_pc": 21.4, 
+            "full_name": "Donal Moynihan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                260
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "William Fitzsimon", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1989 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Cork North-West", 
+    "quota": 8107, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 32427, 
+    "year": 1989
+}

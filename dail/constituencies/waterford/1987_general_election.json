@@ -1,0 +1,122 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8430
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.9, 
+            "full_name": "Austin Deasy", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5347
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12, 
+            "full_name": "Martin Cullen", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                7321
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.4, 
+            "full_name": "Jackie Fahey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5720
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.8, 
+            "full_name": "Brian Swift", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5959
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.4, 
+            "full_name": "Donal Ormonde", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3990
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9, 
+            "full_name": "Edward Collins", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3358
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.5, 
+            "full_name": "Brian O'Shea", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2855
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.4, 
+            "full_name": "Paddy Gallagher", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                758
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "Noel Ryan", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                552
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "Anthony Wright", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                226
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "P\u00e1draig Sweeney", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                78
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "John Lanigan", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1987 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Waterford", 
+    "quota": 8919, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 44594, 
+    "year": 1987
+}

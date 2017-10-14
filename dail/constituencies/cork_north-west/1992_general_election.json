@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6375
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.1, 
+            "full_name": "Donal Moynihan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6642
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.9, 
+            "full_name": "Frank Crowley", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                8034
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.1, 
+            "full_name": "Michael Creed", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4201
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.6, 
+            "full_name": "Laurence Kelly", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4729
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.2, 
+            "full_name": "Bill Cashin", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3176
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.5, 
+            "full_name": "Dan Fleming", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                180
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Barbara Hyland", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1992 general election", 
+    "election_type": "dail", 
+    "electorate": 44848, 
+    "name": "Cork North-West", 
+    "quota": 8335, 
+    "spoilt": 566, 
+    "turnout": 33903, 
+    "valid": 33337, 
+    "year": 1992
+}

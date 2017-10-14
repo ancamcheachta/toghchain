@@ -1,0 +1,122 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                11531
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.4, 
+            "full_name": "Caoimhgh\u00edn \u00d3 Caol\u00e1in", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                8998
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.1, 
+            "full_name": "Brendan Smith", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6552
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11, 
+            "full_name": "Seymour Crawford", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4894
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.2, 
+            "full_name": "Andrew Boylan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7325
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.3, 
+            "full_name": "Rory O'Hanlon", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6564
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11, 
+            "full_name": "Ann Leonard", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4665
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.8, 
+            "full_name": "Bill Cotter", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4532
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.6, 
+            "full_name": "Paddy O'Reilly", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2359
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4, 
+            "full_name": "Ann Gallagher", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1024
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "Gene Flood", 
+            "party": "Christian Solidarity"
+        }, 
+        {
+            "counts": [
+                1001
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "Larry McGinn", 
+            "party": "Christian Solidarity"
+        }, 
+        {
+            "counts": [
+                99
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Joseph Duffy", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1997 general election", 
+    "election_type": "dail", 
+    "electorate": 83005, 
+    "name": "Cavan\u2013Monaghan", 
+    "quota": 9925, 
+    "spoilt": 601, 
+    "turnout": 60145, 
+    "valid": 59544, 
+    "year": 1997
+}

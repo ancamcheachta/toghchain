@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8855
+            ], 
+            "elected": true, 
+            "first_pref_pc": 28, 
+            "full_name": "Michael O'Kennedy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7221
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.8, 
+            "full_name": "Michael Smith", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6427
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.3, 
+            "full_name": "Michael Lowry", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7215
+            ], 
+            "elected": false, 
+            "first_pref_pc": 22.8, 
+            "full_name": "John Ryan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1837
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.8, 
+            "full_name": "Tom Berkery", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                79
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "William Fitzsimon", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1989 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Tipperary North", 
+    "quota": 7909, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 31634, 
+    "year": 1989
+}

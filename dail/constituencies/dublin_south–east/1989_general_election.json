@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                5959
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.1, 
+            "full_name": "Gerard Brady", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5235
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.9, 
+            "full_name": "Joe Doyle", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4014
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.2, 
+            "full_name": "Ruairi Quinn", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3865
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.8, 
+            "full_name": "Garret FitzGerald", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3329
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.1, 
+            "full_name": "John Gormley", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                3265
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.9, 
+            "full_name": "Eoin Ryan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2853
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.7, 
+            "full_name": "Michael McDowell", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                2226
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.8, 
+            "full_name": "Mary Hanafin", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1816
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.5, 
+            "full_name": "Tom Crilly", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                254
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "Anthony Walsh", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                81
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Patrick McDonnell", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1989 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South\u2013East", 
+    "quota": 6580, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 32897, 
+    "year": 1989
+}

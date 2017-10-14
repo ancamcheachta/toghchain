@@ -1,0 +1,149 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6487
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.5, 
+            "full_name": "Brian Hayes", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5195
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.4, 
+            "full_name": "Chris Flood", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5094
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.2, 
+            "full_name": "Pat Rabbitte", 
+            "party": "Democratic Left"
+        }, 
+        {
+            "counts": [
+                4713
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.3, 
+            "full_name": "Mary Harney", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                4436
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.6, 
+            "full_name": "Conor Lenihan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4070
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.7, 
+            "full_name": "Eamonn Walsh", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3725
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.9, 
+            "full_name": "Se\u00e1n Crowe", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                2898
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.9, 
+            "full_name": "Colm McGrath", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2026
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.8, 
+            "full_name": "Mick Murphy", 
+            "party": "Socialist Party"
+        }, 
+        {
+            "counts": [
+                1315
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.1, 
+            "full_name": "Monique Federsel", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                995
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.4, 
+            "full_name": "Colm Tyndall", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                509
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "Marie Kinsella", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                242
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Dermot Mara", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                76
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Harry Richards", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                71
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Denis Dowling", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1997 general election", 
+    "election_type": "dail", 
+    "electorate": 75646, 
+    "name": "Dublin South-West", 
+    "quota": 6976, 
+    "spoilt": 440, 
+    "turnout": 42292, 
+    "valid": 41852, 
+    "year": 1997
+}

@@ -1,0 +1,50 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                16357
+            ], 
+            "elected": true, 
+            "first_pref_pc": 41.6, 
+            "full_name": "Paddy Belton", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                13132
+            ], 
+            "elected": false, 
+            "first_pref_pc": 33.4, 
+            "full_name": "Stan O'Brien", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7270
+            ], 
+            "elected": false, 
+            "first_pref_pc": 18.5, 
+            "full_name": "Denis Larkin", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2526
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.4, 
+            "full_name": "Se\u00e1n Dublin Bay Rockall Loftus", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1963 by-election", 
+    "election_type": "dail", 
+    "electorate": 68573, 
+    "name": "Dublin North-East", 
+    "quota": 19643, 
+    "spoilt": null, 
+    "turnout": 57, 
+    "valid": 39285, 
+    "year": 1963
+}

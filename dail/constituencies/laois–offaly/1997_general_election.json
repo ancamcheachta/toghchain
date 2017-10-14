@@ -1,0 +1,122 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10865
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.7, 
+            "full_name": "Brian Cowen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8271
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.2, 
+            "full_name": "John Moloney", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5481
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.4, 
+            "full_name": "Se\u00e1n Fleming", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8375
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.4, 
+            "full_name": "Tom Enright", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                8104
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.9, 
+            "full_name": "Charles Flanagan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6741
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.6, 
+            "full_name": "Pat Gallagher", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4328
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.5, 
+            "full_name": "Ger Killally", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3778
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.5, 
+            "full_name": "Cathy Honan", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                1099
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.9, 
+            "full_name": "Peter McNamee", 
+            "party": "National Party"
+        }, 
+        {
+            "counts": [
+                516
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.9, 
+            "full_name": "Se\u00e1n Fennelly", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                378
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "Joe McCormack", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                134
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Paddy Seery", 
+            "party": "Natural Law"
+        }
+    ], 
+    "description": "1997 general election", 
+    "election_type": "dail", 
+    "electorate": 84358, 
+    "name": "Laois\u2013Offaly", 
+    "quota": 9679, 
+    "spoilt": 542, 
+    "turnout": 58612, 
+    "valid": 58070, 
+    "year": 1997
+}

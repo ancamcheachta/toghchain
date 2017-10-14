@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6964
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21, 
+            "full_name": "Tom McEllistrim, Jnr", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6737
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.3, 
+            "full_name": "Kit Ahern", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6046
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.2, 
+            "full_name": "Dan Spring", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6202
+            ], 
+            "elected": false, 
+            "first_pref_pc": 18.7, 
+            "full_name": "Gerard Lynch", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5329
+            ], 
+            "elected": false, 
+            "first_pref_pc": 16.1, 
+            "full_name": "Denis Foley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1920
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.8, 
+            "full_name": "John Blennerhassett", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1977 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Kerry North", 
+    "quota": 8300, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 33198, 
+    "year": 1977
+}

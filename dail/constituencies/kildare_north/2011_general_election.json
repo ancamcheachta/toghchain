@@ -1,0 +1,160 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10168, 
+                10420
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.9, 
+            "full_name": "Bernard Durkan", 
+            "party": "Fine Gael", 
+            "transfers": 252, 
+            "transfers_pc": 1.97
+        }, 
+        {
+            "counts": [
+                9718, 
+                9976, 
+                10264
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19, 
+            "full_name": "Emmet Stagg", 
+            "party": "Labour Party", 
+            "transfers": 546, 
+            "transfers_pc": 4.28
+        }, 
+        {
+            "counts": [
+                6911, 
+                7474, 
+                7696, 
+                8716, 
+                11639
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.5, 
+            "full_name": "Catherine Murphy", 
+            "party": "Independent", 
+            "transfers": 4728, 
+            "transfers_pc": 37.04
+        }, 
+        {
+            "counts": [
+                6882, 
+                7074, 
+                7283, 
+                7667, 
+                9088
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.4, 
+            "full_name": "Anthony Lawlor", 
+            "party": "Fine Gael", 
+            "transfers": 2206, 
+            "transfers_pc": 17.28
+        }, 
+        {
+            "counts": [
+                4777, 
+                4910, 
+                6627, 
+                6821, 
+                7288
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.3, 
+            "full_name": "\u00c1ine Brady", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2511, 
+            "transfers_pc": 19.67
+        }, 
+        {
+            "counts": [
+                5261, 
+                5489, 
+                5590, 
+                6449
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.3, 
+            "full_name": "John McGinley", 
+            "party": "Labour Party", 
+            "transfers": 1188, 
+            "transfers_pc": 9.31
+        }, 
+        {
+            "counts": [
+                2896, 
+                3043, 
+                3111
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.7, 
+            "full_name": "Martin Kelly", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 215, 
+            "transfers_pc": 1.68
+        }, 
+        {
+            "counts": [
+                2659, 
+                2714
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.2, 
+            "full_name": "Michael Fitzpatrick", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 55, 
+            "transfers_pc": 0.43
+        }, 
+        {
+            "counts": [
+                905
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Shane Fitzgerald", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                423
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "Eric Doyle-Higgins", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                422
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "Michael Beirne", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                200
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Bart Murphy", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 5, 
+    "description": "2011 general election", 
+    "election_type": "dail", 
+    "electorate": 76773, 
+    "name": "Kildare North", 
+    "quota": 10245, 
+    "spoilt": 388, 
+    "turnout": 51610, 
+    "valid": 51222, 
+    "year": 2011
+}

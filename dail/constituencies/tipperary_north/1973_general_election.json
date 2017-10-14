@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6397
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.6, 
+            "full_name": "Thomas Dunne", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5709
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.1, 
+            "full_name": "Michael O'Kennedy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5427
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.1, 
+            "full_name": "John Ryan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4976
+            ], 
+            "elected": false, 
+            "first_pref_pc": 17.6, 
+            "full_name": "Michael Smith", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3645
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.9, 
+            "full_name": "John Doyle", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2198
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.8, 
+            "full_name": "Liam Whyte", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1973 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Tipperary North", 
+    "quota": 7089, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 28352, 
+    "year": 1973
+}

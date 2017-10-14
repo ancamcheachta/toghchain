@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                4077
+            ], 
+            "elected": true, 
+            "first_pref_pc": 33.4, 
+            "full_name": "Frank Sherwin", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                3353
+            ], 
+            "elected": false, 
+            "first_pref_pc": 27.4, 
+            "full_name": "John O'Byrne Cregan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2394
+            ], 
+            "elected": false, 
+            "first_pref_pc": 19.6, 
+            "full_name": "Victor Carton", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1633
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.4, 
+            "full_name": "Se\u00e1n Garland", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                761
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.2, 
+            "full_name": "Thomas Herlihy", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1957 by-election", 
+    "election_type": "dail", 
+    "electorate": 26903, 
+    "name": "Dublin North-Central", 
+    "quota": 6110, 
+    "spoilt": null, 
+    "turnout": 45, 
+    "valid": 12218, 
+    "year": 1957
+}

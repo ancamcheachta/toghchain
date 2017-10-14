@@ -1,0 +1,122 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7434
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.2, 
+            "full_name": "Patrick Crotty", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5343
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.4, 
+            "full_name": "Desmond Governey", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5009
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.6, 
+            "full_name": "Martin Medlar", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4116
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.5, 
+            "full_name": "S\u00e9amus Pattison", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4046
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.4, 
+            "full_name": "Jim Gibbons", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4666
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.8, 
+            "full_name": "Tom Nolan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3072
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.1, 
+            "full_name": "Patrick Teehan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2350
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.5, 
+            "full_name": "John Moriarty", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2056
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.8, 
+            "full_name": "Michael McGuinness", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1891
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "Francis O'Brien", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1674
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.9, 
+            "full_name": "John Fahey", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1484
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.4, 
+            "full_name": "Kathleen Brady", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1961 general election", 
+    "election_type": "dail", 
+    "electorate": 57784, 
+    "name": "Carlow\u2013Kilkenny", 
+    "quota": 7191, 
+    "spoilt": null, 
+    "turnout": 74, 
+    "valid": 43141, 
+    "year": 1961
+}

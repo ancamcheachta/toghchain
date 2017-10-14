@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7784
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.5, 
+            "full_name": "Michael Kennedy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5729
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.9, 
+            "full_name": "Charles Fagan", 
+            "party": "National Centre Party"
+        }, 
+        {
+            "counts": [
+                6171
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.9, 
+            "full_name": "Se\u00e1n Mac Eoin", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                4649
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.4, 
+            "full_name": "James Geoghegan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5935
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.3, 
+            "full_name": "James Victory", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5020
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.3, 
+            "full_name": "Francis Gormley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4457
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10, 
+            "full_name": "Henry Broderick", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3654
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.2, 
+            "full_name": "Robert Belton", 
+            "party": "National Centre Party"
+        }, 
+        {
+            "counts": [
+                1152
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "John Grenham", 
+            "party": "Cumann na nGaedheal"
+        }
+    ], 
+    "description": "1933 general election", 
+    "election_type": "dail", 
+    "electorate": 55004, 
+    "name": "Longford\u2013Westmeath", 
+    "quota": 7426, 
+    "spoilt": null, 
+    "turnout": 81, 
+    "valid": 44551, 
+    "year": 1933
+}

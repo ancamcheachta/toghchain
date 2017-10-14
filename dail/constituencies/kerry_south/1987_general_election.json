@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7839
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.6, 
+            "full_name": "John O'Leary", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5606
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.9, 
+            "full_name": "John O'Donoghue", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5036
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.3, 
+            "full_name": "Michael Begley", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4559
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.7, 
+            "full_name": "Michael Moynihan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4481
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.5, 
+            "full_name": "Breandan Mac Gearailt", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3215
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.7, 
+            "full_name": "Michael Ahern", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                910
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Denis Sheahan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                735
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.2, 
+            "full_name": "Se\u00e1n O'Grady", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                708
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "Marcus Counihan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                122
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "James Falvey", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1987 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Kerry South", 
+    "quota": 8303, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 33211, 
+    "year": 1987
+}

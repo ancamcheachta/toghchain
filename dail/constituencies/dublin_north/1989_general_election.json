@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8623
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.5, 
+            "full_name": "Ray Burke", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3987
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.8, 
+            "full_name": "Nora Owen", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6076
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18, 
+            "full_name": "Se\u00e1n Ryan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4914
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.5, 
+            "full_name": "G. V. Wright", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4071
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12, 
+            "full_name": "John Boland", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2953
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.7, 
+            "full_name": "Trevor Sargent", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                2182
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.5, 
+            "full_name": "Sean Gilbride", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1011
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "Vincent Gaul", 
+            "party": "Progressive Democrats"
+        }
+    ], 
+    "description": "1989 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin North", 
+    "quota": 8455, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 33817, 
+    "year": 1989
+}

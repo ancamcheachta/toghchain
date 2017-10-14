@@ -1,0 +1,149 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7677
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.4, 
+            "full_name": "Daniel Bourke", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6100
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.9, 
+            "full_name": "James Colbert", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6645
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.8, 
+            "full_name": "Robert Ryan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5919
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.6, 
+            "full_name": "George C. Bennett", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                4966
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8, 
+            "full_name": "Tadhg Crowley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5088
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.2, 
+            "full_name": "James Reidy", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                4887
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.9, 
+            "full_name": "John O'Shaughnessy", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                3573
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.8, 
+            "full_name": "Richard O'Connell", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3334
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.4, 
+            "full_name": "Donnchadh \u00d3 Briain", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3325
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.4, 
+            "full_name": "John Nolan", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3101
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5, 
+            "full_name": "Michael Keyes", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2105
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.4, 
+            "full_name": "Patrick Clancy", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2045
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.3, 
+            "full_name": "David Madden", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                1562
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.5, 
+            "full_name": "Gilbert Hewson", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1486
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.4, 
+            "full_name": "Daniel Clancy", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1932 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Limerick", 
+    "quota": 7727, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 61813, 
+    "year": 1932
+}

@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                13545
+            ], 
+            "elected": true, 
+            "first_pref_pc": 28.6, 
+            "full_name": "Oliver J. Flanagan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7912
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.7, 
+            "full_name": "Peadar Maher", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5487
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.6, 
+            "full_name": "Tom O'Higgins, Jnr", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5359
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.3, 
+            "full_name": "William Davin", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                7273
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.4, 
+            "full_name": "Nicholas Egan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5186
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.9, 
+            "full_name": "Daniel Hogan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2627
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.5, 
+            "full_name": "Redmond Kerin", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1954 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Laois\u2013Offaly", 
+    "quota": 7899, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 47389, 
+    "year": 1954
+}

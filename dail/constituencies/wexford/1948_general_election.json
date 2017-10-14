@@ -1,0 +1,140 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6590
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.6, 
+            "full_name": "Brendan Corish", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5968
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.1, 
+            "full_name": "John Esmonde", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6872
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.3, 
+            "full_name": "Denis Allen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6103
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.4, 
+            "full_name": "James Ryan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5513
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.1, 
+            "full_name": "John O'Leary", 
+            "party": "National Labour Party"
+        }, 
+        {
+            "counts": [
+                3008
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.1, 
+            "full_name": "Thomas O'Hanlon", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1799
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.3, 
+            "full_name": "James Bowe", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1431
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.4, 
+            "full_name": "Patrick Carson", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                1314
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.1, 
+            "full_name": "John Keating", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1189
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "Seamus O'Neill", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                862
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "Thomas Cullimore", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                674
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "Martin Dunbar", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                518
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "William Corcoran", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                418
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Robert Murphy", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1948 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Wexford", 
+    "quota": 7044, 
+    "spoilt": null, 
+    "turnout": 54, 
+    "valid": 42259, 
+    "year": 1948
+}

@@ -1,0 +1,230 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8742
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.4, 
+            "full_name": "Dan Breen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5178
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.9, 
+            "full_name": "Daniel Morrissey", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4010
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6.1, 
+            "full_name": "Andrew Fogarty", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4775
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.3, 
+            "full_name": "Martin Ryan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3796
+            ], 
+            "elected": true, 
+            "first_pref_pc": 5.8, 
+            "full_name": "Jeremiah Ryan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3582
+            ], 
+            "elected": true, 
+            "first_pref_pc": 5.5, 
+            "full_name": "William O'Donnell", 
+            "party": "Clann na Talmhan"
+        }, 
+        {
+            "counts": [
+                2258
+            ], 
+            "elected": true, 
+            "first_pref_pc": 3.5, 
+            "full_name": "Richard Stapleton", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3538
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.4, 
+            "full_name": "Daniel Kennedy", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                3300
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5, 
+            "full_name": "S\u00e9amus Burke", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2747
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.2, 
+            "full_name": "Frank Loughman", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2681
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.1, 
+            "full_name": "Thomas Meagher", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2489
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.8, 
+            "full_name": "Denis Bourke", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2481
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.8, 
+            "full_name": "Se\u00e1n Hayes", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2272
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.5, 
+            "full_name": "Thomas Bourke", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2010
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.1, 
+            "full_name": "Patrick Tierney", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1796
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "Timothy Sheehy", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1758
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "John Lee", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1744
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "William Cotter", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1426
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.2, 
+            "full_name": "Richard Curran", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1383
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "Thomas Malone", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1297
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "Denis O'Driscoll", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1289
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "Anthony Esmonde", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                466
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "Mary Corbett", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                408
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Mary Phillips", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1943 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Tipperary", 
+    "quota": 8179, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 65426, 
+    "year": 1943
+}

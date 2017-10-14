@@ -1,0 +1,140 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                17256
+            ], 
+            "elected": true, 
+            "first_pref_pc": 28.9, 
+            "full_name": "Eithne FitzGerald", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                9074
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.2, 
+            "full_name": "S\u00e9amus Brennan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7304
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.3, 
+            "full_name": "Tom Kitt", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6244
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.5, 
+            "full_name": "Alan Shatter", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5162
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.7, 
+            "full_name": "Liz O'Donnell", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                2764
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.6, 
+            "full_name": "Olivia Mitchell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2258
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.8, 
+            "full_name": "Roger Garland", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                3065
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.1, 
+            "full_name": "Maurice Manning", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3085
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.2, 
+            "full_name": "Ann Ormonde", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1671
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "Richard Greene", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                640
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "Marian White", 
+            "party": "Democratic Left"
+        }, 
+        {
+            "counts": [
+                506
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.9, 
+            "full_name": "Owen Connolly", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                486
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "George Keegan", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                119
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Kevin Blair", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1992 general election", 
+    "election_type": "dail", 
+    "electorate": 85553, 
+    "name": "Dublin South", 
+    "quota": 9940, 
+    "spoilt": 605, 
+    "turnout": 60239, 
+    "valid": 59634, 
+    "year": 1992
+}

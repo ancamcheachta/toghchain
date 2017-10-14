@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                11515
+            ], 
+            "elected": true, 
+            "first_pref_pc": 33.9, 
+            "full_name": "Dick Spring", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                8120
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.9, 
+            "full_name": "Jimmy Deenihan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4974
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.7, 
+            "full_name": "Denis Foley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4619
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.6, 
+            "full_name": "Tom McEllistrim, Jnr", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2781
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.2, 
+            "full_name": "Ned O'Sullivan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1122
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.3, 
+            "full_name": "Michael Reidy", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                802
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.4, 
+            "full_name": "Billy Leen", 
+            "party": "Sinn F\u00e9in"
+        }
+    ], 
+    "description": "1992 general election", 
+    "election_type": "dail", 
+    "electorate": 48797, 
+    "name": "Kerry North", 
+    "quota": 8484, 
+    "spoilt": 400, 
+    "turnout": 34333, 
+    "valid": 33933, 
+    "year": 1992
+}

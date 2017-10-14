@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6623
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.6, 
+            "full_name": "William Redmond", 
+            "party": "National League Party"
+        }, 
+        {
+            "counts": [
+                6434
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.1, 
+            "full_name": "Patrick Little", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5595
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.4, 
+            "full_name": "Vincent White", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                5744
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.9, 
+            "full_name": "Se\u00e1n Goulding", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4583
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.3, 
+            "full_name": "Nicholas Wall", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                3118
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.7, 
+            "full_name": "John Butler", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "September 1927 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Waterford", 
+    "quota": 6420, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 32097, 
+    "year": 1927
+}

@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6523
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26.1, 
+            "full_name": "Richie Ryan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                9280
+            ], 
+            "elected": false, 
+            "first_pref_pc": 37.2, 
+            "full_name": "Joseph Dowling", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5138
+            ], 
+            "elected": false, 
+            "first_pref_pc": 20.6, 
+            "full_name": "Se\u00e1n MacBride", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                2693
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.8, 
+            "full_name": "Hilda Larkin", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1341
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.4, 
+            "full_name": "Tom\u00e1s \u00d3 Dubhghaill", 
+            "party": "Sinn F\u00e9in"
+        }
+    ], 
+    "description": "1959 by-election", 
+    "election_type": "dail", 
+    "electorate": 62394, 
+    "name": "Dublin South-West", 
+    "quota": 12488, 
+    "spoilt": null, 
+    "turnout": 40, 
+    "valid": 24975, 
+    "year": 1959
+}

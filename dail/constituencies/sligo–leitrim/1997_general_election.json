@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6461
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.3, 
+            "full_name": "Matt Brennan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7051
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.6, 
+            "full_name": "John Ellis", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5786
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.8, 
+            "full_name": "John Perry", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6743
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.9, 
+            "full_name": "Gerry Reynolds", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4905
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.9, 
+            "full_name": "Declan Bree", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4738
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.4, 
+            "full_name": "Margaret Forde", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4016
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.9, 
+            "full_name": "Joe Leonard", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3208
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.1, 
+            "full_name": "Se\u00e1n MacManus", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                1359
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "John Lacken", 
+            "party": "Christian Solidarity"
+        }, 
+        {
+            "counts": [
+                745
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "Jim Lawlor", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                154
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Simon Gillan", 
+            "party": "Natural Law"
+        }
+    ], 
+    "description": "1997 general election", 
+    "election_type": "dail", 
+    "electorate": 64770, 
+    "name": "Sligo\u2013Leitrim", 
+    "quota": 9034, 
+    "spoilt": 452, 
+    "turnout": 45618, 
+    "valid": 45166, 
+    "year": 1997
+}

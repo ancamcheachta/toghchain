@@ -1,0 +1,93 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8321
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.1, 
+            "full_name": "Clement Coughlan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7160, 
+                7419, 
+                10925
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.6, 
+            "full_name": "Dinny McGinley", 
+            "party": "Fine Gael", 
+            "transfers": 3765, 
+            "transfers_pc": 60.47
+        }, 
+        {
+            "counts": [
+                7576, 
+                8011, 
+                8270
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.9, 
+            "full_name": "Pat the Cope Gallagher", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 694, 
+            "transfers_pc": 11.15
+        }, 
+        {
+            "counts": [
+                3868, 
+                4877, 
+                5036
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.7, 
+            "full_name": "Patrick Kelly", 
+            "party": "Independent Fianna F\u00e1il", 
+            "transfers": 1168, 
+            "transfers_pc": 18.76
+        }, 
+        {
+            "counts": [
+                4113, 
+                4300
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.4, 
+            "full_name": "J J Reid", 
+            "party": "Fine Gael", 
+            "transfers": 187, 
+            "transfers_pc": 3
+        }, 
+        {
+            "counts": [
+                1056
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.2, 
+            "full_name": "S\u00e9amus Rodgers", 
+            "party": "Sinn F\u00e9in (Workers' Party)"
+        }, 
+        {
+            "counts": [
+                1013
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.1, 
+            "full_name": "Daniel Harkin", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 3, 
+    "description": "February 1982 general election", 
+    "election_type": "dail", 
+    "electorate": 44860, 
+    "name": "Donegal South-West", 
+    "quota": 8277, 
+    "spoilt": 253, 
+    "turnout": 33360, 
+    "valid": 33107, 
+    "year": 1982
+}

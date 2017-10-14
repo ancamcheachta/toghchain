@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6791
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.9, 
+            "full_name": "Matt Brennan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7328
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.2, 
+            "full_name": "Declan Bree", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                7430
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.4, 
+            "full_name": "John Ellis", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6622
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.5, 
+            "full_name": "Ted Nealon", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6348
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.9, 
+            "full_name": "Gerry Reynolds", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5270
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.3, 
+            "full_name": "Gerry Healy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1560
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "John McGettrick", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1311
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.1, 
+            "full_name": "Se\u00e1n MacManus", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                73
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Patrick D. Melly", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1992 general election", 
+    "election_type": "dail", 
+    "electorate": 60764, 
+    "name": "Sligo\u2013Leitrim", 
+    "quota": 8547, 
+    "spoilt": 553, 
+    "turnout": 43286, 
+    "valid": 42733, 
+    "year": 1992
+}

@@ -1,0 +1,131 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                12986
+            ], 
+            "elected": true, 
+            "first_pref_pc": 30.3, 
+            "full_name": "Charles Haughey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4454
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.4, 
+            "full_name": "Vincent Brady", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5196
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.1, 
+            "full_name": "Richard Bruton", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5201
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.1, 
+            "full_name": "George Birmingham", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3904
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.1, 
+            "full_name": "Ivor Callely", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3582
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.3, 
+            "full_name": "James O'Hanrahan", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                2973
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.9, 
+            "full_name": "Flor O'Mahony", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1643
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.8, 
+            "full_name": "Triona Dooney", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                1341
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.1, 
+            "full_name": "Se\u00e1n Dublin Bay Rockall Loftus", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                779
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Ciaran MacCormaic", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                681
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "Philip O'Connor", 
+            "party": "Democratic Socialist Party"
+        }, 
+        {
+            "counts": [
+                111
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Austin McCoy", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                73
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Barbara Hyland", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1987 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin North-Central", 
+    "quota": 8585, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 42924, 
+    "year": 1987
+}

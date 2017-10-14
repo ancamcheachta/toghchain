@@ -1,0 +1,131 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9485
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.3, 
+            "full_name": "Oliver J. Flanagan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                8659
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.5, 
+            "full_name": "Patrick Lalor", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4341
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.8, 
+            "full_name": "Tom Enright", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3550
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8, 
+            "full_name": "Bernard Cowen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3616
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.1, 
+            "full_name": "Ger Connolly", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3076
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.9, 
+            "full_name": "Charles McDonald", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2946
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.6, 
+            "full_name": "James Houlihan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2519
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.7, 
+            "full_name": "Frank Feery", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2180
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.9, 
+            "full_name": "James Kelly", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1354
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "James Flanagan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1322
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "Thomas Culliton", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                754
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "John Galvin", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                652
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.5, 
+            "full_name": "Frank Powers", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1969 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Laois\u2013Offaly", 
+    "quota": 7410, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 44454, 
+    "year": 1969
+}

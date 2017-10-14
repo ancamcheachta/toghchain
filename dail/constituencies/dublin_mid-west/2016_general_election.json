@@ -1,0 +1,269 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9782
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.7, 
+            "full_name": "Eoin \u00d3 Broin", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                9028
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.9, 
+            "full_name": "Frances Fitzgerald", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6971, 
+                7054, 
+                7109, 
+                7114, 
+                7145, 
+                7180, 
+                7218, 
+                7274, 
+                7383, 
+                7685, 
+                8287, 
+                9497
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.2, 
+            "full_name": "John Curran", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2526, 
+            "transfers_pc": 21.72
+        }, 
+        {
+            "counts": [
+                4629, 
+                5257, 
+                5270, 
+                5321, 
+                5331, 
+                5397, 
+                5474, 
+                5791, 
+                6331, 
+                6542, 
+                7498, 
+                7911
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.7, 
+            "full_name": "Gino Kenny", 
+            "party": "AAA\u2013PBP", 
+            "transfers": 3282, 
+            "transfers_pc": 28.22
+        }, 
+        {
+            "counts": [
+                2633, 
+                2730, 
+                2747, 
+                2766, 
+                2773, 
+                2804, 
+                2867, 
+                3048, 
+                3235, 
+                3679, 
+                4460, 
+                5320
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.1, 
+            "full_name": "Anne-Marie McNally", 
+            "party": "Social Democrats", 
+            "transfers": 2687, 
+            "transfers_pc": 23.11
+        }, 
+        {
+            "counts": [
+                2337, 
+                2356, 
+                2549, 
+                2559, 
+                2603, 
+                2636, 
+                2653, 
+                2696, 
+                2725, 
+                3640, 
+                4179
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.4, 
+            "full_name": "Derek Keating", 
+            "party": "Fine Gael", 
+            "transfers": 1842, 
+            "transfers_pc": 15.84
+        }, 
+        {
+            "counts": [
+                2522, 
+                2593, 
+                2623, 
+                2646, 
+                2658, 
+                2700, 
+                2741, 
+                2863, 
+                3164, 
+                3505
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.9, 
+            "full_name": "Paul Gogarty", 
+            "party": "Independent", 
+            "transfers": 983, 
+            "transfers_pc": 8.45
+        }, 
+        {
+            "counts": [
+                2146, 
+                2175, 
+                2252, 
+                2259, 
+                2311, 
+                2342, 
+                2355, 
+                2475, 
+                2515
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5, 
+            "full_name": "Joanna Tuffy", 
+            "party": "Labour Party", 
+            "transfers": 369, 
+            "transfers_pc": 3.17
+        }, 
+        {
+            "counts": [
+                1085, 
+                1195, 
+                1200, 
+                1210, 
+                1214, 
+                1233, 
+                1318, 
+                1422
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.5, 
+            "full_name": "Francis Timmons", 
+            "party": "Independent", 
+            "transfers": 337, 
+            "transfers_pc": 2.9
+        }, 
+        {
+            "counts": [
+                502, 
+                553, 
+                555, 
+                568, 
+                570, 
+                584, 
+                613
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "Lorraine Hennessey", 
+            "party": "Workers' Party", 
+            "transfers": 111, 
+            "transfers_pc": 0.95
+        }, 
+        {
+            "counts": [
+                388, 
+                405, 
+                410, 
+                413, 
+                417, 
+                430, 
+                443
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.9, 
+            "full_name": "Tom Kivlehan", 
+            "party": "Green Party", 
+            "transfers": 55, 
+            "transfers_pc": 0.47
+        }, 
+        {
+            "counts": [
+                358, 
+                383, 
+                379, 
+                398, 
+                403, 
+                422
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "Clare Leonard", 
+            "party": "Independent", 
+            "transfers": 64, 
+            "transfers_pc": 0.55
+        }, 
+        {
+            "counts": [
+                288, 
+                307, 
+                311, 
+                318, 
+                343
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "Patrick Akpoveta", 
+            "party": "Independent", 
+            "transfers": 55, 
+            "transfers_pc": 0.47
+        }, 
+        {
+            "counts": [
+                268, 
+                272, 
+                273, 
+                275
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Haroon Khan", 
+            "party": "Independent", 
+            "transfers": 7, 
+            "transfers_pc": 0.06
+        }, 
+        {
+            "counts": [
+                167, 
+                179, 
+                180
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Christopher Healy", 
+            "party": "Direct\u00a0Democracy", 
+            "transfers": 13, 
+            "transfers_pc": 0.11
+        }
+    ], 
+    "counts_held": 12, 
+    "description": "2016 general election", 
+    "election_type": "dail", 
+    "electorate": 69388, 
+    "name": "Dublin Mid-West", 
+    "quota": 8621, 
+    "spoilt": 446, 
+    "turnout": 43550, 
+    "valid": 43104, 
+    "year": 2016
+}

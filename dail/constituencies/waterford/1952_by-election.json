@@ -1,0 +1,41 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                15532
+            ], 
+            "elected": true, 
+            "first_pref_pc": 45.2, 
+            "full_name": "William Kenneally", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                11714
+            ], 
+            "elected": false, 
+            "first_pref_pc": 34.1, 
+            "full_name": "Thaddeus Lynch", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7153
+            ], 
+            "elected": false, 
+            "first_pref_pc": 20.8, 
+            "full_name": "John Griffin", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1952 by-election", 
+    "election_type": "dail", 
+    "electorate": 44797, 
+    "name": "Waterford", 
+    "quota": 17200, 
+    "spoilt": null, 
+    "turnout": 76, 
+    "valid": 34399, 
+    "year": 1952
+}

@@ -1,0 +1,131 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8205
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.3, 
+            "full_name": "Oliver J. Flanagan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                8160
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.2, 
+            "full_name": "Patrick Lalor", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5020
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.2, 
+            "full_name": "Tom Enright", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3151
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.02, 
+            "full_name": "Charles McDonald", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4829
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.8, 
+            "full_name": "Ger Connolly", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4384
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.8, 
+            "full_name": "Bernard Cowen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2643
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.9, 
+            "full_name": "Johnny Butterfield", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2389
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.3, 
+            "full_name": "Thomas Keenan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2274
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.1, 
+            "full_name": "James Houlihan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1253
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "Lar Byrne", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                952
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "Henry Byrne", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                906
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "Thomas Dolan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                748
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "Thomas Culliton", 
+            "party": "Fianna F\u00e1il"
+        }
+    ], 
+    "description": "1973 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Laois\u2013Offaly", 
+    "quota": 7486, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 44914, 
+    "year": 1973
+}

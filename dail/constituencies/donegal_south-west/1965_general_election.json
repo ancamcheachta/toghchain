@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7020
+            ], 
+            "elected": true, 
+            "first_pref_pc": 27.3, 
+            "full_name": "Joseph Brennan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6691
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26.1, 
+            "full_name": "Patrick O'Donnell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6240
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.3, 
+            "full_name": "Cormac Breslin", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4298
+            ], 
+            "elected": false, 
+            "first_pref_pc": 16.7, 
+            "full_name": "James White", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1432
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.6, 
+            "full_name": "Frank Reid", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1965 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Donegal South-West", 
+    "quota": 6421, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 25681, 
+    "year": 1965
+}

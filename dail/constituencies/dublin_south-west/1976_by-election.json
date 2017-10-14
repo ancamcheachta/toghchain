@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6870
+            ], 
+            "elected": true, 
+            "first_pref_pc": 27.5, 
+            "full_name": "Brendan Halligan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                9687
+            ], 
+            "elected": false, 
+            "first_pref_pc": 38.8, 
+            "full_name": "Eileen Lemass", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5169
+            ], 
+            "elected": false, 
+            "first_pref_pc": 20.7, 
+            "full_name": "Jim Mitchell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1679
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.7, 
+            "full_name": "Tom\u00e1s Mac Giolla", 
+            "party": "Sinn F\u00e9in (Official)"
+        }, 
+        {
+            "counts": [
+                1186
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.8, 
+            "full_name": "Kevin Boland", 
+            "party": "Aontacht \u00c9ireann"
+        }, 
+        {
+            "counts": [
+                287
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "Ite Ni Chionnaith", 
+            "party": "Irish Republican Socialist"
+        }, 
+        {
+            "counts": [
+                113
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Blathnaid Ni Chinneide", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1976 by-election", 
+    "election_type": "dail", 
+    "electorate": 46585, 
+    "name": "Dublin South-West", 
+    "quota": 12496, 
+    "spoilt": null, 
+    "turnout": 53, 
+    "valid": 24991, 
+    "year": 1976
+}

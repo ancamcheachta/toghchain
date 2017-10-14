@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8589
+            ], 
+            "elected": true, 
+            "first_pref_pc": 28, 
+            "full_name": "Frank Aiken", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7251
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.6, 
+            "full_name": "James Coburn", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3767
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.3, 
+            "full_name": "Roddy Connolly", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5107
+            ], 
+            "elected": false, 
+            "first_pref_pc": 16.6, 
+            "full_name": "Laurence Walsh", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3854
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.5, 
+            "full_name": "Thomas Roe", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1348
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "Aodh de Blacam", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                814
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "George Owens", 
+            "party": "Clann na Poblachta"
+        }
+    ], 
+    "description": "1948 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Louth", 
+    "quota": 7683, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 30730, 
+    "year": 1948
+}

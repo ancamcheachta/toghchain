@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                14012
+            ], 
+            "elected": true, 
+            "first_pref_pc": 28.6, 
+            "full_name": "\u00c9amon de Valera", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4410
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9, 
+            "full_name": "Se\u00e1n O'Grady", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6327
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.9, 
+            "full_name": "Patrick Burke", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6333
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.9, 
+            "full_name": "Thomas Burke", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                5262
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.7, 
+            "full_name": "Patrick Hogan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3807
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.8, 
+            "full_name": "Bartholomew Crowley", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2821
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.8, 
+            "full_name": "Patrick Houlihan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2555
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.2, 
+            "full_name": "Thomas Shalloo", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1764
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.6, 
+            "full_name": "S\u00e9amus Keely", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1747
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.6, 
+            "full_name": "William Murphy", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1937 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Clare", 
+    "quota": 8174, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 49038, 
+    "year": 1937
+}

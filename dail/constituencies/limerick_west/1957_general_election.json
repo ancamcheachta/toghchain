@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7952
+            ], 
+            "elected": true, 
+            "first_pref_pc": 30.8, 
+            "full_name": "Denis Jones", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7910
+            ], 
+            "elected": true, 
+            "first_pref_pc": 30.6, 
+            "full_name": "James Collins", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4985
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.3, 
+            "full_name": "Donnchadh \u00d3 Briain", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4467
+            ], 
+            "elected": false, 
+            "first_pref_pc": 17.3, 
+            "full_name": "Michael Colbert", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                514
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "Martin Ward", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1957 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Limerick West", 
+    "quota": 6458, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 25828, 
+    "year": 1957
+}

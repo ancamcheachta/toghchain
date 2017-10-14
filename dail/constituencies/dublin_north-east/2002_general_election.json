@@ -1,0 +1,150 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6457, 
+                6742, 
+                6911, 
+                7138, 
+                7552
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22, 
+            "full_name": "Michael Woods", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1095, 
+            "transfers_pc": 10.29
+        }, 
+        {
+            "counts": [
+                4758, 
+                4931, 
+                5426, 
+                5876, 
+                6825, 
+                8426
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.2, 
+            "full_name": "Tommy Broughan", 
+            "party": "Labour Party", 
+            "transfers": 3668, 
+            "transfers_pc": 34.46
+        }, 
+        {
+            "counts": [
+                5304, 
+                5531, 
+                5657, 
+                5776, 
+                6055, 
+                6909
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.1, 
+            "full_name": "Martin Brady", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1605, 
+            "transfers_pc": 15.08
+        }, 
+        {
+            "counts": [
+                2155, 
+                2373, 
+                2575, 
+                4085, 
+                4648, 
+                4937
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.4, 
+            "full_name": "Gavin Doyle", 
+            "party": "Fine Gael", 
+            "transfers": 2782, 
+            "transfers_pc": 26.14
+        }, 
+        {
+            "counts": [
+                3003, 
+                3083, 
+                3286, 
+                3373, 
+                3720
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.2, 
+            "full_name": "Larry O'Toole", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 717, 
+            "transfers_pc": 6.74
+        }, 
+        {
+            "counts": [
+                2116, 
+                2321, 
+                2806, 
+                2912
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.2, 
+            "full_name": "Mark Harold", 
+            "party": "Ind. Health Alliance", 
+            "transfers": 796, 
+            "transfers_pc": 7.48
+        }, 
+        {
+            "counts": [
+                2349, 
+                2454, 
+                2546
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8, 
+            "full_name": "Michael Joe Cosgrave", 
+            "party": "Fine Gael", 
+            "transfers": 197, 
+            "transfers_pc": 1.85
+        }, 
+        {
+            "counts": [
+                1656, 
+                1856
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.7, 
+            "full_name": "David Healy", 
+            "party": "Green Party", 
+            "transfers": 200, 
+            "transfers_pc": 1.88
+        }, 
+        {
+            "counts": [
+                1219
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.2, 
+            "full_name": "Noelle Ryan", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                301
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Thomas Jenkinson", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 6, 
+    "description": "2002 general election", 
+    "election_type": "dail", 
+    "electorate": 52105, 
+    "name": "Dublin North-East", 
+    "quota": 7330, 
+    "spoilt": 316, 
+    "turnout": 29634, 
+    "valid": 29318, 
+    "year": 2002
+}

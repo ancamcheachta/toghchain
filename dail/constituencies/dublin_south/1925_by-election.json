@@ -1,0 +1,41 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                24075
+            ], 
+            "elected": true, 
+            "first_pref_pc": 57, 
+            "full_name": "Thomas Hennessy", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                13900
+            ], 
+            "elected": false, 
+            "first_pref_pc": 32.9, 
+            "full_name": "Michael O'Mullane", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                4237
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.1, 
+            "full_name": "Thomas Lawlor", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1925 by-election", 
+    "election_type": "dail", 
+    "electorate": 78353, 
+    "name": "Dublin South", 
+    "quota": 21107, 
+    "spoilt": null, 
+    "turnout": 53, 
+    "valid": 42212, 
+    "year": 1925
+}

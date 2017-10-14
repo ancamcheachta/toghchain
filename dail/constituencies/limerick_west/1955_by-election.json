@@ -1,0 +1,41 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                15088
+            ], 
+            "elected": true, 
+            "first_pref_pc": 56.2, 
+            "full_name": "Michael Colbert", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                9406
+            ], 
+            "elected": false, 
+            "first_pref_pc": 35, 
+            "full_name": "Denis Jones", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2349
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.8, 
+            "full_name": "Patrick Aherne", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1955 by-election", 
+    "election_type": "dail", 
+    "electorate": 33267, 
+    "name": "Limerick West", 
+    "quota": 13422, 
+    "spoilt": null, 
+    "turnout": 80, 
+    "valid": 26843, 
+    "year": 1955
+}

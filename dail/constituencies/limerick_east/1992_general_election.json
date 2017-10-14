@@ -1,0 +1,131 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10990
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.7, 
+            "full_name": "Willie O'Dea", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8304
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.2, 
+            "full_name": "Desmond O'Malley", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                8262
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.1, 
+            "full_name": "Jim Kemmy", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5437
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.2, 
+            "full_name": "Michael Noonan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4334
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9, 
+            "full_name": "Peadar Clohessy", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                3637
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.5, 
+            "full_name": "Eddie Wade", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3091
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.4, 
+            "full_name": "Jan O'Sullivan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3084
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.2, 
+            "full_name": "Mary Jackman", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                835
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "John Ryan", 
+            "party": "Democratic Left"
+        }, 
+        {
+            "counts": [
+                370
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "Joe Harrington", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                463
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Augustine Moore", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                400
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "Tom Clancy", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                118
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Jude Williams", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1992 general election", 
+    "election_type": "dail", 
+    "electorate": 71136, 
+    "name": "Limerick East", 
+    "quota": 8059, 
+    "spoilt": 721, 
+    "turnout": 49072, 
+    "valid": 48351, 
+    "year": 1992
+}

@@ -1,0 +1,50 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                12476
+            ], 
+            "elected": true, 
+            "first_pref_pc": 39.7, 
+            "full_name": "Gerry Collins", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8484
+            ], 
+            "elected": true, 
+            "first_pref_pc": 27, 
+            "full_name": "Michael Finucane", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6491
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.7, 
+            "full_name": "Michael J. Noonan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3960
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.6, 
+            "full_name": "Se\u00e1n Liston", 
+            "party": "Progressive Democrats"
+        }
+    ], 
+    "description": "1989 general election", 
+    "election_type": "dail", 
+    "electorate": 43690, 
+    "name": "Limerick West", 
+    "quota": 7853, 
+    "spoilt": 481, 
+    "turnout": 31892, 
+    "valid": 31411, 
+    "year": 1989
+}

@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10699
+            ], 
+            "elected": true, 
+            "first_pref_pc": 29.9, 
+            "full_name": "Dick Spring", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                8689
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.3, 
+            "full_name": "Jimmy Deenihan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5376
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15, 
+            "full_name": "Denis Foley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5691
+            ], 
+            "elected": false, 
+            "first_pref_pc": 15.9, 
+            "full_name": "Martin Ferris", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                4036
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.3, 
+            "full_name": "Tom McEllistrim, Jnr", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1288
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.6, 
+            "full_name": "Ciaran O'Connell", 
+            "party": "National Party"
+        }
+    ], 
+    "description": "1997 general election", 
+    "election_type": "dail", 
+    "electorate": 51348, 
+    "name": "Kerry North", 
+    "quota": 8945, 
+    "spoilt": 284, 
+    "turnout": 36063, 
+    "valid": 35779, 
+    "year": 1997
+}

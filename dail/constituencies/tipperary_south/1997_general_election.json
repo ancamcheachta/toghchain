@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8995
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.5, 
+            "full_name": "Noel Davern", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8494
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.1, 
+            "full_name": "Theresa Ahearn", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5681
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.1, 
+            "full_name": "Michael Ferris", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5814
+            ], 
+            "elected": false, 
+            "first_pref_pc": 16.5, 
+            "full_name": "S\u00e9amus Healy", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                4151
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.8, 
+            "full_name": "Michael Maguire", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2125
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6, 
+            "full_name": "John Harold Barry", 
+            "party": "National Party"
+        }
+    ], 
+    "description": "1997 general election", 
+    "election_type": "dail", 
+    "electorate": 51925, 
+    "name": "Tipperary South", 
+    "quota": 8816, 
+    "spoilt": 374, 
+    "turnout": 35634, 
+    "valid": 35260, 
+    "year": 1997
+}

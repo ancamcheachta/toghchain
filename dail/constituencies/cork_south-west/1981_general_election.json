@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8266
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.5, 
+            "full_name": "Jim O'Keeffe", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6085
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18, 
+            "full_name": "Flor Crowley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4417
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.1, 
+            "full_name": "P. J. Sheehan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5317
+            ], 
+            "elected": false, 
+            "first_pref_pc": 15.8, 
+            "full_name": "Joe Walsh", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3244
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.6, 
+            "full_name": "Philip Murphy", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2597
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.7, 
+            "full_name": "John McCarthy", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1485
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "Peter Callanan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1256
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "Eithne O'Mahony", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1097
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.3, 
+            "full_name": "Se\u00e1n Kelleher", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1981 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Cork South-West", 
+    "quota": 8442, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 33764, 
+    "year": 1981
+}

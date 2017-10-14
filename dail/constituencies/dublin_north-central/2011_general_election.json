@@ -1,0 +1,134 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9685, 
+                9790
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25, 
+            "full_name": "Richard Bruton", 
+            "party": "Fine Gael", 
+            "transfers": 105, 
+            "transfers_pc": 1.12
+        }, 
+        {
+            "counts": [
+                8731, 
+                8911, 
+                9329, 
+                10192
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.5, 
+            "full_name": "Aodh\u00e1n \u00d3 R\u00edord\u00e1in", 
+            "party": "Labour Party", 
+            "transfers": 1461, 
+            "transfers_pc": 15.52
+        }, 
+        {
+            "counts": [
+                5986, 
+                6156, 
+                6701, 
+                7777, 
+                8119, 
+                8150, 
+                11025
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.4, 
+            "full_name": "Finian McGrath", 
+            "party": "Independent", 
+            "transfers": 5039, 
+            "transfers_pc": 53.53
+        }, 
+        {
+            "counts": [
+                4959, 
+                5033, 
+                5098, 
+                5240, 
+                5353, 
+                5403, 
+                6399
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.8, 
+            "full_name": "Naoise \u00d3 Muir\u00ed", 
+            "party": "Fine Gael", 
+            "transfers": 1440, 
+            "transfers_pc": 15.3
+        }, 
+        {
+            "counts": [
+                5017, 
+                5077, 
+                5128, 
+                5295, 
+                5338, 
+                5348
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.9, 
+            "full_name": "Se\u00e1n Haughey", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 331, 
+            "transfers_pc": 3.52
+        }, 
+        {
+            "counts": [
+                2165, 
+                2187, 
+                2602
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.6, 
+            "full_name": "Helen McCormack", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 437, 
+            "transfers_pc": 4.64
+        }, 
+        {
+            "counts": [
+                1399, 
+                1587
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.6, 
+            "full_name": "[23]", 
+            "party": "People Before Profit", 
+            "transfers": 188, 
+            "transfers_pc": 2
+        }, 
+        {
+            "counts": [
+                501
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.3, 
+            "full_name": "Donna Cooney", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                331
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.9, 
+            "full_name": "Paul Clarke", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 7, 
+    "description": "2011 general election", 
+    "election_type": "dail", 
+    "electorate": 52992, 
+    "name": "Dublin North-Central", 
+    "quota": 9694, 
+    "spoilt": 413, 
+    "turnout": 39187, 
+    "valid": 38774, 
+    "year": 2011
+}

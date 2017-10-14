@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6982
+            ], 
+            "elected": true, 
+            "first_pref_pc": 30.9, 
+            "full_name": "Johnny Geoghegan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5081
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.5, 
+            "full_name": "Fintan Coogan, Snr", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3167
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14, 
+            "full_name": "Bobby Molloy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2813
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.4, 
+            "full_name": "John Mannion, Snr", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1891
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.4, 
+            "full_name": "P\u00e1draic Joyce", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1653
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.3, 
+            "full_name": "Michael Smyth", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1022
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.5, 
+            "full_name": "Michael Walsh", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1965 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Galway West", 
+    "quota": 5653, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 22609, 
+    "year": 1965
+}

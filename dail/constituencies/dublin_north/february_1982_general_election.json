@@ -1,0 +1,93 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7922
+            ], 
+            "elected": true, 
+            "first_pref_pc": 29.2, 
+            "full_name": "Ray Burke", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5873, 
+                5925, 
+                6006, 
+                7749
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.6, 
+            "full_name": "John Boland", 
+            "party": "Fine Gael", 
+            "transfers": 1876, 
+            "transfers_pc": 25.21
+        }, 
+        {
+            "counts": [
+                4739, 
+                4772, 
+                4943, 
+                6219, 
+                7062
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.5, 
+            "full_name": "Nora Owen", 
+            "party": "Fine Gael", 
+            "transfers": 2323, 
+            "transfers_pc": 31.22
+        }, 
+        {
+            "counts": [
+                2312, 
+                3024, 
+                5342, 
+                5968, 
+                6085
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.5, 
+            "full_name": "Patricia McGill", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3773, 
+            "transfers_pc": 50.71
+        }, 
+        {
+            "counts": [
+                3911, 
+                3946, 
+                4038
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.4, 
+            "full_name": "Hugh Reilly", 
+            "party": "Labour Party", 
+            "transfers": 127, 
+            "transfers_pc": 1.71
+        }, 
+        {
+            "counts": [
+                2397, 
+                2698
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.8, 
+            "full_name": "G. V. Wright", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 301, 
+            "transfers_pc": 4.05
+        }
+    ], 
+    "counts_held": 5, 
+    "description": "February 1982 general election", 
+    "election_type": "dail", 
+    "electorate": 38117, 
+    "name": "Dublin North", 
+    "quota": 6789, 
+    "spoilt": 235, 
+    "turnout": 27389, 
+    "valid": 27154, 
+    "year": 1982
+}

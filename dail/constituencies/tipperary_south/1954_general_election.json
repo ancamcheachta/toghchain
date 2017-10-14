@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8291
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23, 
+            "full_name": "Dan Breen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6941
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.2, 
+            "full_name": "Michael Davern", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4828
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.4, 
+            "full_name": "Richard Mulcahy", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5513
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.3, 
+            "full_name": "Patrick Crowe", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3962
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11, 
+            "full_name": "Michael Lacey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3171
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.8, 
+            "full_name": "John Morrissey", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1727
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.8, 
+            "full_name": "Patrick Walsh", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1695
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.7, 
+            "full_name": "Michael Kilkelly", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1954 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Tipperary South", 
+    "quota": 7226, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 36128, 
+    "year": 1954
+}

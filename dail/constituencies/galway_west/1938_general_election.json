@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8044
+            ], 
+            "elected": true, 
+            "first_pref_pc": 28.1, 
+            "full_name": "Gerald Bartley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4172
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.6, 
+            "full_name": "Joseph Mongan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6346
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.2, 
+            "full_name": "Se\u00e1n Tubridy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5204
+            ], 
+            "elected": false, 
+            "first_pref_pc": 18.2, 
+            "full_name": "Louis O'Dea", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2803
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.8, 
+            "full_name": "Peter Kelly", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2046
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.2, 
+            "full_name": "Michael O'Sullivan", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1938 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Galway West", 
+    "quota": 7154, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 28615, 
+    "year": 1938
+}

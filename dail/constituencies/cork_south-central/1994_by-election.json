@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                13128
+            ], 
+            "elected": true, 
+            "first_pref_pc": 31.2, 
+            "full_name": "Hugh Coveney", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                13316
+            ], 
+            "elected": false, 
+            "first_pref_pc": 31.6, 
+            "full_name": "John Dennehy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6677
+            ], 
+            "elected": false, 
+            "first_pref_pc": 15.9, 
+            "full_name": "Dan Boyle", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                2618
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.2, 
+            "full_name": "Brendan Ryan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1940
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.6, 
+            "full_name": "Joe O'Flynn", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1719
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.1, 
+            "full_name": "Alan Ellard", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                1704
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4, 
+            "full_name": "Catherine Kelly", 
+            "party": "Christian Solidarity"
+        }, 
+        {
+            "counts": [
+                813
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.9, 
+            "full_name": "Sean McCarthy", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                219
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Brian McEnery", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1994 by-election", 
+    "election_type": "dail", 
+    "electorate": 78420, 
+    "name": "Cork South-Central", 
+    "quota": 21068, 
+    "spoilt": null, 
+    "turnout": 53, 
+    "valid": 42134, 
+    "year": 1994
+}

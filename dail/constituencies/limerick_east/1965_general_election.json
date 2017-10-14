@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10285
+            ], 
+            "elected": true, 
+            "first_pref_pc": 29.1, 
+            "full_name": "Donogh O'Malley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6253
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.7, 
+            "full_name": "Tom O'Donnell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5623
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.9, 
+            "full_name": "Stephen Coughlan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4812
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.6, 
+            "full_name": "Paddy Clohessy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4025
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.4, 
+            "full_name": "Ted Russell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3804
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.8, 
+            "full_name": "Michael Herbert", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                500
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "James Hickey", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1965 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Limerick East", 
+    "quota": 7061, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 35302, 
+    "year": 1965
+}

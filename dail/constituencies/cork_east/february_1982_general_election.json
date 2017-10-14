@@ -1,0 +1,97 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8870
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.5, 
+            "full_name": "Myra Barry", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                8309
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.2, 
+            "full_name": "Patrick Hegarty", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7011, 
+                7149, 
+                8830
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17, 
+            "full_name": "Michael Ahern", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1819, 
+            "transfers_pc": 33.45
+        }, 
+        {
+            "counts": [
+                6677, 
+                7200, 
+                7674, 
+                8102, 
+                8137
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.2, 
+            "full_name": "Joe Sherlock", 
+            "party": "Sinn F\u00e9in (Workers' Party)", 
+            "transfers": 1460, 
+            "transfers_pc": 26.85
+        }, 
+        {
+            "counts": [
+                5601, 
+                5659, 
+                7257, 
+                7456, 
+                8008
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.6, 
+            "full_name": "Carey Joyce", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2407, 
+            "transfers_pc": 44.26
+        }, 
+        {
+            "counts": [
+                3799, 
+                3845
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.2, 
+            "full_name": "William Cronin", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 46, 
+            "transfers_pc": 0.85
+        }, 
+        {
+            "counts": [
+                946
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.3, 
+            "full_name": "Tom\u00e1s \u00d3 Conaill", 
+            "party": "Labour Party"
+        }
+    ], 
+    "counts_held": 5, 
+    "description": "February 1982 general election", 
+    "election_type": "dail", 
+    "electorate": 52647, 
+    "name": "Cork East", 
+    "quota": 8243, 
+    "spoilt": 321, 
+    "turnout": 41534, 
+    "valid": 41213, 
+    "year": 1982
+}

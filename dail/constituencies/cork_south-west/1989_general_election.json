@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8525
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26.3, 
+            "full_name": "P. J. Sheehan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                8319
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.7, 
+            "full_name": "Joe Walsh", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7861
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.3, 
+            "full_name": "Jim O'Keeffe", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6042
+            ], 
+            "elected": false, 
+            "first_pref_pc": 18.7, 
+            "full_name": "Denis O'Donovan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1259
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.9, 
+            "full_name": "Cornelius Barry", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                309
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Stephen O'Neill", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                88
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "William Fitzsimon", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1989 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Cork South-West", 
+    "quota": 8101, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 32403, 
+    "year": 1989
+}

@@ -1,0 +1,122 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7415
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.1, 
+            "full_name": "Oliver J. Flanagan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7432
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.2, 
+            "full_name": "Ger Connolly", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5338
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.2, 
+            "full_name": "Tom Enright", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6734
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.8, 
+            "full_name": "Bernard Cowen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7043
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.4, 
+            "full_name": "Patrick Lalor", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5550
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.6, 
+            "full_name": "Liam Hyland", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4037
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.7, 
+            "full_name": "James Guinan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                3780
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.2, 
+            "full_name": "Charles McDonald", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1654
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.2, 
+            "full_name": "James Kelly", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1473
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "Connie Hanniffy", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1035
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "James Flanagan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                967
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Benny Dowd", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1977 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Laois\u2013Offaly", 
+    "quota": 8744, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 52458, 
+    "year": 1977
+}

@@ -1,0 +1,193 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                11862
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.8, 
+            "full_name": "Se\u00e1n Sherlock", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                10019, 
+                10047, 
+                10618, 
+                11081, 
+                12471
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.6, 
+            "full_name": "David Stanton", 
+            "party": "Fine Gael", 
+            "transfers": 2452, 
+            "transfers_pc": 13.32
+        }, 
+        {
+            "counts": [
+                5798, 
+                5888, 
+                6097, 
+                6397, 
+                8898, 
+                9726, 
+                11450
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.2, 
+            "full_name": "Tom Barry", 
+            "party": "Fine Gael", 
+            "transfers": 5652, 
+            "transfers_pc": 30.7
+        }, 
+        {
+            "counts": [
+                6292, 
+                6345, 
+                6877, 
+                7203, 
+                7528, 
+                7586, 
+                9785
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.1, 
+            "full_name": "Sandra McLellan", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 3493, 
+            "transfers_pc": 18.97
+        }, 
+        {
+            "counts": [
+                5024, 
+                5066, 
+                5145, 
+                7811, 
+                8401, 
+                8478, 
+                9136
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.8, 
+            "full_name": "Kevin O'Keeffe", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 4112, 
+            "transfers_pc": 22.33
+        }, 
+        {
+            "counts": [
+                5701, 
+                5873, 
+                6388, 
+                6790, 
+                6976, 
+                7097
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10, 
+            "full_name": "John Mulvihill", 
+            "party": "Labour Party", 
+            "transfers": 1396, 
+            "transfers_pc": 7.58
+        }, 
+        {
+            "counts": [
+                5030, 
+                5086, 
+                5236, 
+                5444
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.8, 
+            "full_name": "Pa O'Driscoll", 
+            "party": "Fine Gael", 
+            "transfers": 414, 
+            "transfers_pc": 2.25
+        }, 
+        {
+            "counts": [
+                4618, 
+                4634, 
+                4798
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.1, 
+            "full_name": "Michael Ahern", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 180, 
+            "transfers_pc": 0.98
+        }, 
+        {
+            "counts": [
+                1056, 
+                1064
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.9, 
+            "full_name": "Paul O'Neill", 
+            "party": "New Vision", 
+            "transfers": 8, 
+            "transfers_pc": 0.04
+        }, 
+        {
+            "counts": [
+                635, 
+                640
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "Malachy Harty", 
+            "party": "Green Party", 
+            "transfers": 5, 
+            "transfers_pc": 0.03
+        }, 
+        {
+            "counts": [
+                510, 
+                513
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.9, 
+            "full_name": "Claire Cullinane", 
+            "party": "Independent", 
+            "transfers": 3, 
+            "transfers_pc": 0.02
+        }, 
+        {
+            "counts": [
+                212, 
+                213
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Patrick Bulman", 
+            "party": "Independent", 
+            "transfers": 1, 
+            "transfers_pc": 0.01
+        }, 
+        {
+            "counts": [
+                176, 
+                177
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Paul Burke", 
+            "party": "Independent", 
+            "transfers": 1, 
+            "transfers_pc": 0.01
+        }
+    ], 
+    "counts_held": 7, 
+    "description": "2011 general election", 
+    "election_type": "dail", 
+    "electorate": 83651, 
+    "name": "Cork East", 
+    "quota": 11387, 
+    "spoilt": 526, 
+    "turnout": 57459, 
+    "valid": 56933, 
+    "year": 2011
+}

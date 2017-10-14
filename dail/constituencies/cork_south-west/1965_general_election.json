@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7971
+            ], 
+            "elected": true, 
+            "first_pref_pc": 28.9, 
+            "full_name": "Michael Murphy", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                7323
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26.6, 
+            "full_name": "Edward Cotter", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5180
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.8, 
+            "full_name": "Se\u00e1n Collins", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3942
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.3, 
+            "full_name": "John O'Sullivan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3144
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.4, 
+            "full_name": "Michael Finn", 
+            "party": "Fianna F\u00e1il"
+        }
+    ], 
+    "description": "1965 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Cork South-West", 
+    "quota": 6891, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 27560, 
+    "year": 1965
+}

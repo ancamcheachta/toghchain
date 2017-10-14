@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8602
+            ], 
+            "elected": true, 
+            "first_pref_pc": 31.8, 
+            "full_name": "Ray Burke", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6650
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.6, 
+            "full_name": "John Boland", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3540
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.1, 
+            "full_name": "Nora Owen", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2506
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.3, 
+            "full_name": "Joe Fox", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2300
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.5, 
+            "full_name": "Hugh Reilly", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1447
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.4, 
+            "full_name": "Patrick Dunne", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1334
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.9, 
+            "full_name": "Se\u00e1n Ryan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                683
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.5, 
+            "full_name": "Joseph Holohan", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1981 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin North", 
+    "quota": 6766, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 27062, 
+    "year": 1981
+}

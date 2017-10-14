@@ -1,0 +1,131 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9582
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.5, 
+            "full_name": "Ben Briscoe", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8107
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.7, 
+            "full_name": "Gay Mitchell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6160
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.9, 
+            "full_name": "Fergus O'Brien", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4701
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.1, 
+            "full_name": "Frank Cluskey", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5656
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.9, 
+            "full_name": "Mary Mooney", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5911
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.4, 
+            "full_name": "John O'Connell", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5212
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.1, 
+            "full_name": "Ronald McBrien", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                3946
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.6, 
+            "full_name": "Eric Byrne", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                1266
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.5, 
+            "full_name": "Micheal \u00d3 Muireagain", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                711
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "Timothy Cahill", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                186
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Deirdre Buggle", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                152
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Barbara Hyland", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                102
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Michael Wall", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1987 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South-Central", 
+    "quota": 8616, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 51692, 
+    "year": 1987
+}

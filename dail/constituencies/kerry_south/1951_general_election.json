@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7437
+            ], 
+            "elected": true, 
+            "first_pref_pc": 29.5, 
+            "full_name": "Patrick Palmer", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5337
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.2, 
+            "full_name": "John Flynn", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                4679
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.6, 
+            "full_name": "Honor Crowley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4232
+            ], 
+            "elected": false, 
+            "first_pref_pc": 16.8, 
+            "full_name": "Patrick Lane", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2330
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.3, 
+            "full_name": "John O'Leary", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                1170
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.7, 
+            "full_name": "Jeremiah O'Riordan", 
+            "party": "Clann na Poblachta"
+        }
+    ], 
+    "description": "1951 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Kerry South", 
+    "quota": 6297, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 25185, 
+    "year": 1951
+}

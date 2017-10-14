@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10115
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.2, 
+            "full_name": "Monica Barnes", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                9511
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19, 
+            "full_name": "Se\u00e1n Barrett", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6732
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.4, 
+            "full_name": "Liam T. Cosgrave", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6130
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.2, 
+            "full_name": "Barry Desmond", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                7643
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.2, 
+            "full_name": "David Andrews", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4053
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.08, 
+            "full_name": "Martin O'Donoghue", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2492
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5, 
+            "full_name": "Valerie Goulding", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1368
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Eamon Gilmore", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                1036
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "John de Courcy Ireland", 
+            "party": "Democratic Socialist Party"
+        }, 
+        {
+            "counts": [
+                893
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Owen Hammond", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                205
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Anthony Clarke", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "November 1982 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "D\u00fan Laoghaire", 
+    "quota": 8364, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 50178, 
+    "year": 1982
+}

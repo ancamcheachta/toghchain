@@ -1,0 +1,199 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                14742
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26.7, 
+            "full_name": "Miche\u00e1l Martin", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5183, 
+                5757, 
+                5793, 
+                5906, 
+                6038, 
+                6634, 
+                11573
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.4, 
+            "full_name": "Simon Coveney", 
+            "party": "Fine Gael", 
+            "transfers": 6390, 
+            "transfers_pc": 33.94
+        }, 
+        {
+            "counts": [
+                6556, 
+                8224, 
+                8279, 
+                8393, 
+                8694, 
+                8897, 
+                9112, 
+                9331
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.9, 
+            "full_name": "Batt O'Keeffe", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2775, 
+            "transfers_pc": 14.74
+        }, 
+        {
+            "counts": [
+                4952, 
+                5394, 
+                5506, 
+                5766, 
+                6334, 
+                7761, 
+                8304, 
+                9317
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9, 
+            "full_name": "Dan Boyle", 
+            "party": "Green Party", 
+            "transfers": 4365, 
+            "transfers_pc": 23.19
+        }, 
+        {
+            "counts": [
+                5533, 
+                7256, 
+                7295, 
+                7697, 
+                8061, 
+                8281, 
+                8480, 
+                8684, 
+                8766, 
+                8789
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10, 
+            "full_name": "John Dennehy", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3256, 
+            "transfers_pc": 17.3
+        }, 
+        {
+            "counts": [
+                4984, 
+                5393, 
+                5491, 
+                5909, 
+                6450, 
+                7215, 
+                7724, 
+                8654, 
+                8696, 
+                8783
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9, 
+            "full_name": "Kathy Sinnott", 
+            "party": "Independent", 
+            "transfers": 3799, 
+            "transfers_pc": 20.18
+        }, 
+        {
+            "counts": [
+                5535, 
+                5848, 
+                5886, 
+                5982, 
+                6075, 
+                6593
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10, 
+            "full_name": "Deirdre Clune", 
+            "party": "Fine Gael", 
+            "transfers": 1058, 
+            "transfers_pc": 5.62
+        }, 
+        {
+            "counts": [
+                3282, 
+                3461, 
+                3509, 
+                3743, 
+                3966
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.9, 
+            "full_name": "Brendan Ryan", 
+            "party": "Labour Party", 
+            "transfers": 684, 
+            "transfers_pc": 3.63
+        }, 
+        {
+            "counts": [
+                2063, 
+                2176, 
+                2254, 
+                2480
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "Tom Hanlon", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 417, 
+            "transfers_pc": 2.22
+        }, 
+        {
+            "counts": [
+                1821, 
+                1914, 
+                2004
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.3, 
+            "full_name": "Con O'Connell", 
+            "party": "Independent", 
+            "transfers": 183, 
+            "transfers_pc": 0.97
+        }, 
+        {
+            "counts": [
+                372, 
+                383
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "Ted Neville", 
+            "party": "Immigration Control", 
+            "transfers": 11, 
+            "transfers_pc": 0.06
+        }, 
+        {
+            "counts": [
+                217, 
+                227
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Michael O'Sullivan", 
+            "party": "Socialist Workers", 
+            "transfers": 10, 
+            "transfers_pc": 0.05
+        }
+    ], 
+    "counts_held": 10, 
+    "description": "2002 general election", 
+    "election_type": "dail", 
+    "electorate": 89646, 
+    "name": "Cork South-Central", 
+    "quota": 9207, 
+    "spoilt": 545, 
+    "turnout": 55785, 
+    "valid": 55240, 
+    "year": 2002
+}

@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6546
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23, 
+            "full_name": "Daniel Morrissey", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6390
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.5, 
+            "full_name": "John Fanning", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6215
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.9, 
+            "full_name": "Mary Ryan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3782
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.3, 
+            "full_name": "Patrick Tierney", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2902
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.2, 
+            "full_name": "Jeremiah Ryan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2601
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.2, 
+            "full_name": "Patrick Kinane", 
+            "party": "Clann na Poblachta"
+        }
+    ], 
+    "description": "1951 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Tipperary North", 
+    "quota": 7110, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 28436, 
+    "year": 1951
+}

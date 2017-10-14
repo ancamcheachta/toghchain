@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6391
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.1, 
+            "full_name": "John Daly", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                6152
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.3, 
+            "full_name": "Michael Hennessy", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                5524
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.2, 
+            "full_name": "David Kent", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                3927
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.9, 
+            "full_name": "John Dinneen", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                2023
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6.7, 
+            "full_name": "Thomas O'Mahony", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                1672
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.5, 
+            "full_name": "David O'Gorman", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                1539
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.1, 
+            "full_name": "William Fahy", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                1516
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5, 
+            "full_name": "Daniel Hegarty", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                1428
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.7, 
+            "full_name": "S\u00e9amus Fitzgerald", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                179
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Cornelius Molan", 
+            "party": "Republican"
+        }
+    ], 
+    "description": "1923 general election", 
+    "election_type": "dail", 
+    "electorate": 56600, 
+    "name": "Cork East", 
+    "quota": 5059, 
+    "spoilt": null, 
+    "turnout": 53, 
+    "valid": 30351, 
+    "year": 1923
+}

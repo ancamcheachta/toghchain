@@ -1,0 +1,131 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10211
+            ], 
+            "elected": true, 
+            "first_pref_pc": 31.8, 
+            "full_name": "Se\u00e1n Lemass", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7007
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.8, 
+            "full_name": "Maurice E. Dockrell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2689
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.4, 
+            "full_name": "Philip Brady", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3109
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.7, 
+            "full_name": "Joseph Barron", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                1449
+            ], 
+            "elected": true, 
+            "first_pref_pc": 4.5, 
+            "full_name": "Patrick Cummins", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1796
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.6, 
+            "full_name": "Frank Cluskey", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1511
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.7, 
+            "full_name": "James Mooney", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1095
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.4, 
+            "full_name": "George McLoughlin", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1024
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.2, 
+            "full_name": "Thomas J. Fitzpatrick", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                755
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.4, 
+            "full_name": "James McGarry", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                622
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.9, 
+            "full_name": "Tom\u00e1s \u00d3 Dubhghaill", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                579
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "John Hegarty", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                277
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.9, 
+            "full_name": "Michael O'Riordan", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1961 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South-Central", 
+    "quota": 5355, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 32124, 
+    "year": 1961
+}

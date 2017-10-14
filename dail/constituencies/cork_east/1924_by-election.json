@@ -1,0 +1,32 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                17717
+            ], 
+            "elected": true, 
+            "first_pref_pc": 58.8, 
+            "full_name": "Michael K. Noonan", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                12399
+            ], 
+            "elected": false, 
+            "first_pref_pc": 41.2, 
+            "full_name": "Michael Walsh", 
+            "party": "Republican"
+        }
+    ], 
+    "description": "1924 by-election", 
+    "election_type": "dail", 
+    "electorate": 53752, 
+    "name": "Cork East", 
+    "quota": 15059, 
+    "spoilt": null, 
+    "turnout": 56, 
+    "valid": 30116, 
+    "year": 1924
+}

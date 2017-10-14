@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7857
+            ], 
+            "elected": true, 
+            "first_pref_pc": 28.5, 
+            "full_name": "James Collins", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7078
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.6, 
+            "full_name": "Donnchadh \u00d3 Briain", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5614
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.3, 
+            "full_name": "David Madden", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3249
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.8, 
+            "full_name": "Gerard Hayes", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2471
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9, 
+            "full_name": "William O'Connor", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1331
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.8, 
+            "full_name": "Liam Bennett", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1954 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Limerick West", 
+    "quota": 6901, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 27600, 
+    "year": 1954
+}

@@ -1,0 +1,185 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10307
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.2, 
+            "full_name": "Daniel Morrissey", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                8043
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.4, 
+            "full_name": "S\u00e9amus Burke", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                4723
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.9, 
+            "full_name": "Michael Heffernan", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                2224
+            ], 
+            "elected": true, 
+            "first_pref_pc": 3.7, 
+            "full_name": "William X. O'Brien", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3795
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6.3, 
+            "full_name": "Andrew Fogarty", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5232
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.7, 
+            "full_name": "Se\u00e1n Hayes", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2385
+            ], 
+            "elected": true, 
+            "first_pref_pc": 4, 
+            "full_name": "John Hassett", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3626
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.1, 
+            "full_name": "Timothy Sheehy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2998
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5, 
+            "full_name": "Se\u00e1n Gleeson", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2991
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5, 
+            "full_name": "Patrick Ryan", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                2011
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.4, 
+            "full_name": "John Seymour", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                1908
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.2, 
+            "full_name": "Thomas Condon", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1859
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.1, 
+            "full_name": "Frank McGrath", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1480
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.5, 
+            "full_name": "Dan Breen", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1401
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.3, 
+            "full_name": "Michael Kennedy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1283
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "Patrick Morris", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                1227
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "Martin Maher", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                1192
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "John Hackett", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1175
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "John Cronin", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "June 1927 general election", 
+    "election_type": "dail", 
+    "electorate": 81381, 
+    "name": "Tipperary", 
+    "quota": 7483, 
+    "spoilt": null, 
+    "turnout": 73, 
+    "valid": 59860, 
+    "year": 1927
+}

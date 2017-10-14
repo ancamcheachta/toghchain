@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7958
+            ], 
+            "elected": true, 
+            "first_pref_pc": 31.1, 
+            "full_name": "Garret FitzGerald", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5354
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21, 
+            "full_name": "Se\u00e1n Moore", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1945
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.6, 
+            "full_name": "Fergus O'Brien", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3329
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13, 
+            "full_name": "Patrick Cummins", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2927
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.5, 
+            "full_name": "Ruairi Quinn", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1556
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.1, 
+            "full_name": "Patrick Norton", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1312
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.1, 
+            "full_name": "Peter Prendergast", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1082
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.2, 
+            "full_name": "Andy Smith", 
+            "party": "Sinn F\u00e9in (Official)"
+        }, 
+        {
+            "counts": [
+                90
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Ignatius O'Reilly", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1973 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South\u2013East", 
+    "quota": 6389, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 25553, 
+    "year": 1973
+}

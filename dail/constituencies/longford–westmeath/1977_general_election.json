@@ -1,0 +1,145 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                5493, 
+                5502, 
+                5760, 
+                7236, 
+                11015
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.9, 
+            "full_name": "Se\u00e1n Keegan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 5522, 
+            "transfers_pc": 44.29
+        }, 
+        {
+            "counts": [
+                7064, 
+                7187, 
+                7219, 
+                7536, 
+                8802, 
+                10491
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.4, 
+            "full_name": "Albert Reynolds", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3427, 
+            "transfers_pc": 27.48
+        }, 
+        {
+            "counts": [
+                7461, 
+                7601, 
+                8023, 
+                8283, 
+                8601, 
+                8694, 
+                8913
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.2, 
+            "full_name": "Joseph Sheridan", 
+            "party": "Independent", 
+            "transfers": 1452, 
+            "transfers_pc": 11.64
+        }, 
+        {
+            "counts": [
+                6873, 
+                7349, 
+                8457, 
+                8652, 
+                8769, 
+                8798, 
+                8816
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15, 
+            "full_name": "Gerry L'Estrange", 
+            "party": "Fine Gael", 
+            "transfers": 1943, 
+            "transfers_pc": 15.58
+        }, 
+        {
+            "counts": [
+                6590, 
+                7002, 
+                7507, 
+                7663, 
+                8397, 
+                8450, 
+                8524
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.3, 
+            "full_name": "Patrick Cooney", 
+            "party": "Fine Gael", 
+            "transfers": 1934, 
+            "transfers_pc": 15.51
+        }, 
+        {
+            "counts": [
+                5189, 
+                5201, 
+                5289, 
+                6392
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.3, 
+            "full_name": "Se\u00e1n Fallon", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1203, 
+            "transfers_pc": 9.65
+        }, 
+        {
+            "counts": [
+                3366, 
+                3382, 
+                3576
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.3, 
+            "full_name": "Henry Abbott", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 210, 
+            "transfers_pc": 1.68
+        }, 
+        {
+            "counts": [
+                2687, 
+                2716
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.9, 
+            "full_name": "James Bennett", 
+            "party": "Labour Party", 
+            "transfers": 29, 
+            "transfers_pc": 0.23
+        }, 
+        {
+            "counts": [
+                1227
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Philomena Kelly", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "counts_held": 7, 
+    "description": "1977 general election", 
+    "election_type": "dail", 
+    "electorate": 56421, 
+    "name": "Longford\u2013Westmeath", 
+    "quota": 9191, 
+    "spoilt": 262, 
+    "turnout": 46212, 
+    "valid": 45950, 
+    "year": 1977
+}

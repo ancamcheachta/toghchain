@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6844
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.7, 
+            "full_name": "Tom\u00e1s Mac Giolla", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                7426
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16, 
+            "full_name": "Jim Mitchell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6544
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.1, 
+            "full_name": "Eileen Lemass", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5464
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.7, 
+            "full_name": "Brian Lenihan, Snr", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6876
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.8, 
+            "full_name": "Liam Skelly", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5804
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.5, 
+            "full_name": "Brian Fleming", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4055
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.7, 
+            "full_name": "Liam Lawlor", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1835
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.9, 
+            "full_name": "Michael Brennan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                983
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "Se\u00e1n Sherwin", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                476
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Michael Conaghan", 
+            "party": "Democratic Socialist Party"
+        }, 
+        {
+            "counts": [
+                259
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "John Montgomery", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "November 1982 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin West", 
+    "quota": 7762, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 46566, 
+    "year": 1982
+}

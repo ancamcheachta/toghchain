@@ -1,0 +1,140 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10609
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.1, 
+            "full_name": "Derek McDowell", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                7657
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.7, 
+            "full_name": "Richard Bruton", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                8202
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.9, 
+            "full_name": "Se\u00e1n Haughey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5917
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.9, 
+            "full_name": "Ivor Callely", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3551
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.7, 
+            "full_name": "Se\u00e1n Dublin Bay Rockall Loftus", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                3759
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.2, 
+            "full_name": "John Stafford", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2620
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.7, 
+            "full_name": "Pat Lee", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1376
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "Helen Lahert", 
+            "party": "Democratic Left"
+        }, 
+        {
+            "counts": [
+                764
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "Finian McGrath", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                644
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "Nick McBennett", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                363
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "Noel O'Hanrahan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                156
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Tony O'Byrne", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                143
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Mary Doyle Dunne", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                122
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Rosemary Burns", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1992 general election", 
+    "election_type": "dail", 
+    "electorate": 64859, 
+    "name": "Dublin North-Central", 
+    "quota": 9177, 
+    "spoilt": 634, 
+    "turnout": 46517, 
+    "valid": 45883, 
+    "year": 1992
+}

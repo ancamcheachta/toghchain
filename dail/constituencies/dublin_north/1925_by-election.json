@@ -1,0 +1,50 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                17329
+            ], 
+            "elected": true, 
+            "first_pref_pc": 34.8, 
+            "full_name": "Patrick Leonard", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                15598
+            ], 
+            "elected": true, 
+            "first_pref_pc": 31.3, 
+            "full_name": "Oscar Traynor", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                8422
+            ], 
+            "elected": false, 
+            "first_pref_pc": 16.9, 
+            "full_name": "Denis Cullen", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6294
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.6, 
+            "full_name": "Donal O'Connor", 
+            "party": "Cumann na nGaedheal"
+        }
+    ], 
+    "description": "1925 by-election", 
+    "election_type": "dail", 
+    "electorate": 90280, 
+    "name": "Dublin North", 
+    "quota": 16611, 
+    "spoilt": null, 
+    "turnout": 55, 
+    "valid": 49831, 
+    "year": 1925
+}

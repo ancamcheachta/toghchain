@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9679
+            ], 
+            "elected": true, 
+            "first_pref_pc": 33.9, 
+            "full_name": "Gerry Collins", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5398
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.9, 
+            "full_name": "Michael J. Noonan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6403
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.5, 
+            "full_name": "Denis Jones", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4253
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.9, 
+            "full_name": "William O'Brien", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2792
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.8, 
+            "full_name": "Brendan Danaher", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1973 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Limerick West", 
+    "quota": 7132, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 28525, 
+    "year": 1973
+}

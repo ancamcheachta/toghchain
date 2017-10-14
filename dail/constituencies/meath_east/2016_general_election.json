@@ -1,0 +1,204 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10818
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26.1, 
+            "full_name": "Thomas Byrne", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7556, 
+                7656, 
+                7671, 
+                7749, 
+                7841, 
+                7887, 
+                8237, 
+                8435, 
+                9958
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.3, 
+            "full_name": "Helen McEntee", 
+            "party": "Fine Gael", 
+            "transfers": 2402, 
+            "transfers_pc": 22.09
+        }, 
+        {
+            "counts": [
+                6830, 
+                6889, 
+                6899, 
+                6979, 
+                7064, 
+                7109, 
+                7247, 
+                7477, 
+                9612
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.5, 
+            "full_name": "Regina Doherty", 
+            "party": "Fine Gael", 
+            "transfers": 2782, 
+            "transfers_pc": 25.58
+        }, 
+        {
+            "counts": [
+                5780, 
+                5860, 
+                5970, 
+                6017, 
+                6096, 
+                6341, 
+                6637, 
+                7236, 
+                8556
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14, 
+            "full_name": "Darren O'Rourke", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 2776, 
+            "transfers_pc": 25.53
+        }, 
+        {
+            "counts": [
+                2482, 
+                2527, 
+                2545, 
+                2600, 
+                2665, 
+                2857, 
+                3215, 
+                3825
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6, 
+            "full_name": "Joe Bonner", 
+            "party": "Independent", 
+            "transfers": 1343, 
+            "transfers_pc": 12.35
+        }, 
+        {
+            "counts": [
+                2270, 
+                2307, 
+                2325, 
+                2350, 
+                2494, 
+                2525, 
+                2680, 
+                3084
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.5, 
+            "full_name": "Dominic Hannigan", 
+            "party": "Labour Party", 
+            "transfers": 814, 
+            "transfers_pc": 7.49
+        }, 
+        {
+            "counts": [
+                1715, 
+                1740, 
+                1801, 
+                1885, 
+                2148, 
+                2300, 
+                2463
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.1, 
+            "full_name": "Aisling O'Neill", 
+            "party": "Social Democrats", 
+            "transfers": 748, 
+            "transfers_pc": 6.88
+        }, 
+        {
+            "counts": [
+                1528, 
+                1579, 
+                1600, 
+                1663, 
+                1709, 
+                1805
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "Sharon Keogan", 
+            "party": "Independent", 
+            "transfers": 277, 
+            "transfers_pc": 2.55
+        }, 
+        {
+            "counts": [
+                794, 
+                809, 
+                841, 
+                876, 
+                899
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.9, 
+            "full_name": "Ben Gilroy", 
+            "party": "Direct\u00a0Democracy", 
+            "transfers": 105, 
+            "transfers_pc": 0.97
+        }, 
+        {
+            "counts": [
+                766, 
+                784, 
+                801, 
+                853
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.9, 
+            "full_name": "Se\u00e1n \u00d3 Buachalla", 
+            "party": "Green Party", 
+            "transfers": 87, 
+            "transfers_pc": 0.8
+        }, 
+        {
+            "counts": [
+                523, 
+                554, 
+                563
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.3, 
+            "full_name": "Sarah Tyrrell", 
+            "party": "Renua Ireland", 
+            "transfers": 40, 
+            "transfers_pc": 0.37
+        }, 
+        {
+            "counts": [
+                326, 
+                335
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "Seamus McDonagh", 
+            "party": "Workers' Party", 
+            "transfers": 9, 
+            "transfers_pc": 0.08
+        }
+    ], 
+    "counts_held": 9, 
+    "description": "2016 general election", 
+    "election_type": "dail", 
+    "electorate": 65588, 
+    "name": "Meath East", 
+    "quota": 10348, 
+    "spoilt": 240, 
+    "turnout": 63, 
+    "valid": 41388, 
+    "year": 2016
+}

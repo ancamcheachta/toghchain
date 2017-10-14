@@ -1,0 +1,151 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6220, 
+                6371, 
+                6625, 
+                7075, 
+                9211, 
+                11722, 
+                14881
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.7, 
+            "full_name": "Michael Fitzmaurice", 
+            "party": "Independent", 
+            "transfers": 8661, 
+            "transfers_pc": 43.84
+        }, 
+        {
+            "counts": [
+                7334, 
+                7502, 
+                7652, 
+                7846, 
+                8863, 
+                10083, 
+                12050
+            ], 
+            "elected": false, 
+            "first_pref_pc": 22, 
+            "full_name": "Ivan Connaughton", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 4716, 
+            "transfers_pc": 23.87
+        }, 
+        {
+            "counts": [
+                5593, 
+                5742, 
+                5864, 
+                6075, 
+                7312, 
+                8476
+            ], 
+            "elected": false, 
+            "first_pref_pc": 16.8, 
+            "full_name": "Maura Hopkins", 
+            "party": "Fine Gael", 
+            "transfers": 2883, 
+            "transfers_pc": 14.59
+        }, 
+        {
+            "counts": [
+                5906, 
+                6184, 
+                6283, 
+                6447, 
+                7022
+            ], 
+            "elected": false, 
+            "first_pref_pc": 17.7, 
+            "full_name": "Martin Kenny", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 1116, 
+            "transfers_pc": 5.65
+        }, 
+        {
+            "counts": [
+                2944, 
+                3018, 
+                3187, 
+                3468
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.8, 
+            "full_name": "John McDermott", 
+            "party": "Independent", 
+            "transfers": 524, 
+            "transfers_pc": 2.65
+        }, 
+        {
+            "counts": [
+                2037, 
+                2060, 
+                2090, 
+                2144
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.1, 
+            "full_name": "John Kelly", 
+            "party": "Labour Party", 
+            "transfers": 107, 
+            "transfers_pc": 0.54
+        }, 
+        {
+            "counts": [
+                1262, 
+                1305, 
+                1483
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.8, 
+            "full_name": "Emmett Corcoran", 
+            "party": "Independent", 
+            "transfers": 221, 
+            "transfers_pc": 1.12
+        }, 
+        {
+            "counts": [
+                1030, 
+                1063
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.1, 
+            "full_name": "Tom Crosby", 
+            "party": "Independent", 
+            "transfers": 33, 
+            "transfers_pc": 0.17
+        }, 
+        {
+            "counts": [
+                902
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Des Guckian", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                82
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Gerry O'Boyle", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 7, 
+    "description": "2014 by-election", 
+    "election_type": "dail", 
+    "electorate": 64873, 
+    "name": "Roscommon\u2013South Leitrim", 
+    "quota": 16656, 
+    "spoilt": 262, 
+    "turnout": 33572, 
+    "valid": 33310, 
+    "year": 2014
+}

@@ -1,0 +1,149 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                14961
+            ], 
+            "elected": true, 
+            "first_pref_pc": 30.9, 
+            "full_name": "\u00c9amon de Valera", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4167
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.6, 
+            "full_name": "Se\u00e1n O'Grady", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4926
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.2, 
+            "full_name": "Patrick Burke", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4637
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.6, 
+            "full_name": "Thomas Burke", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                5177
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.7, 
+            "full_name": "Patrick Hogan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3240
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.7, 
+            "full_name": "Peter O'Loghlen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2433
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5, 
+            "full_name": "John Clancy", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1832
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.8, 
+            "full_name": "William Clune", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1639
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.4, 
+            "full_name": "William Counihan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1376
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "John Fahy", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1013
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "Patrick McMahon", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                953
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "Stanislaus Burke", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                789
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "Cormac Halpin", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                700
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.5, 
+            "full_name": "Se\u00e1n Hogan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                543
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "Joseph Hughes", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1943 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Clare", 
+    "quota": 8065, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 48386, 
+    "year": 1943
+}

@@ -1,0 +1,143 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10350, 
+                10536, 
+                11221
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.2, 
+            "full_name": "Michael Ahern", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 871, 
+            "transfers_pc": 9.19
+        }, 
+        {
+            "counts": [
+                10081, 
+                10189, 
+                10741, 
+                11033
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.7, 
+            "full_name": "Ned O'Keeffe", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 952, 
+            "transfers_pc": 10.04
+        }, 
+        {
+            "counts": [
+                7686, 
+                8038, 
+                8717, 
+                8777, 
+                10349, 
+                10386
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.3, 
+            "full_name": "David Stanton", 
+            "party": "Fine Gael", 
+            "transfers": 2700, 
+            "transfers_pc": 28.48
+        }, 
+        {
+            "counts": [
+                7295, 
+                7650, 
+                8287, 
+                8324, 
+                10100, 
+                10162
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.6, 
+            "full_name": "Se\u00e1n Sherlock", 
+            "party": "Labour Party", 
+            "transfers": 2867, 
+            "transfers_pc": 30.24
+        }, 
+        {
+            "counts": [
+                8916, 
+                9110, 
+                9375, 
+                9398, 
+                9837, 
+                9863
+            ], 
+            "elected": false, 
+            "first_pref_pc": 16.6, 
+            "full_name": "Paul Bradford", 
+            "party": "Fine Gael", 
+            "transfers": 947, 
+            "transfers_pc": 9.99
+        }, 
+        {
+            "counts": [
+                3954, 
+                4232, 
+                4773, 
+                4820
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.4, 
+            "full_name": "John Mulvihill", 
+            "party": "Labour Party", 
+            "transfers": 866, 
+            "transfers_pc": 9.14
+        }, 
+        {
+            "counts": [
+                3672, 
+                3943
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.8, 
+            "full_name": "Sandra McLellan", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 271, 
+            "transfers_pc": 2.86
+        }, 
+        {
+            "counts": [
+                1572
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "Sarah Iremonger", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                166
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Christy Carr", 
+            "party": "Fathers Rights"
+        }, 
+        {
+            "counts": [
+                116
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "John Cronin", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 6, 
+    "description": "2007 general election", 
+    "election_type": "dail", 
+    "electorate": 84354, 
+    "name": "Cork East", 
+    "quota": 10762, 
+    "spoilt": 477, 
+    "turnout": 54285, 
+    "valid": 53808, 
+    "year": 2007
+}

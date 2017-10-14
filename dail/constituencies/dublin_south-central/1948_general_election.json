@@ -1,0 +1,131 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                13274
+            ], 
+            "elected": true, 
+            "first_pref_pc": 29.9, 
+            "full_name": "Se\u00e1n Lemass", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4861
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11, 
+            "full_name": "Con Lehane", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                4931
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.1, 
+            "full_name": "Maurice E. Dockrell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4743
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.7, 
+            "full_name": "James Larkin, Jnr", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3829
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.6, 
+            "full_name": "John McCann", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3965
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.9, 
+            "full_name": "Patrick Cahill", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2287
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.2, 
+            "full_name": "Joseph Barron", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                2216
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5, 
+            "full_name": "James B. Lynch", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1303
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "Frank Foley", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1203
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "John Brady", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                790
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Joseph Hughes", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                635
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "Joseph Toner", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                350
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "William Naughton", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1948 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South-Central", 
+    "quota": 7398, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 44387, 
+    "year": 1948
+}

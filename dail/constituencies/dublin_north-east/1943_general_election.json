@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                13222
+            ], 
+            "elected": true, 
+            "first_pref_pc": 33.9, 
+            "full_name": "Oscar Traynor", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                11293
+            ], 
+            "elected": true, 
+            "first_pref_pc": 29, 
+            "full_name": "Alfie Byrne", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                5896
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.1, 
+            "full_name": "James Larkin", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5733
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.7, 
+            "full_name": "Richard Mulcahy", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2287
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.9, 
+            "full_name": "Harry Colley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                581
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.5, 
+            "full_name": "M. Bell", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1943 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin North-East", 
+    "quota": 9754, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 39012, 
+    "year": 1943
+}

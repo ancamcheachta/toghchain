@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                5784
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.4, 
+            "full_name": "Dan Spring", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5827
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.6, 
+            "full_name": "Patrick Finucane", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                6195
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.9, 
+            "full_name": "Tom McEllistrim, Snr", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5262
+            ], 
+            "elected": false, 
+            "first_pref_pc": 18.6, 
+            "full_name": "Daniel Moloney", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1963
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.9, 
+            "full_name": "Robert Gleasure", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1777
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.3, 
+            "full_name": "Charles Lenihan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1483
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.2, 
+            "full_name": "Kevin Barry", 
+            "party": "Sinn F\u00e9in"
+        }
+    ], 
+    "description": "1961 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Kerry North", 
+    "quota": 7073, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 28291, 
+    "year": 1961
+}

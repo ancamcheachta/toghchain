@@ -1,0 +1,394 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9647, 
+                9655, 
+                9678, 
+                9725, 
+                9772, 
+                9892, 
+                10045, 
+                10160, 
+                10506, 
+                10565, 
+                11402
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.3, 
+            "full_name": "John Lahart", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1755, 
+            "transfers_pc": 7.56
+        }, 
+        {
+            "counts": [
+                9005, 
+                9020, 
+                9047, 
+                9194, 
+                9247, 
+                9316, 
+                9626, 
+                9758, 
+                10054, 
+                10366, 
+                10678, 
+                13528
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.4, 
+            "full_name": "Paul Murphy", 
+            "party": "AAA\u2013PBP", 
+            "transfers": 4523, 
+            "transfers_pc": 19.49
+        }, 
+        {
+            "counts": [
+                6974, 
+                6978, 
+                6983, 
+                7054, 
+                7070, 
+                7098, 
+                7230, 
+                7362, 
+                7413, 
+                9502, 
+                9642, 
+                9959, 
+                11068, 
+                11082, 
+                11245
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.4, 
+            "full_name": "Se\u00e1n Crowe", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 4271, 
+            "transfers_pc": 18.4
+        }, 
+        {
+            "counts": [
+                7195, 
+                7202, 
+                7213, 
+                7235, 
+                7576, 
+                7660, 
+                7758, 
+                8028, 
+                8193, 
+                8213, 
+                8655, 
+                8695, 
+                8724, 
+                8764, 
+                10126, 
+                10639
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.7, 
+            "full_name": "Colm Brophy", 
+            "party": "Fine Gael", 
+            "transfers": 3444, 
+            "transfers_pc": 14.84
+        }, 
+        {
+            "counts": [
+                4463, 
+                4486, 
+                4515, 
+                4604, 
+                4660, 
+                4913, 
+                5131, 
+                5262, 
+                5731, 
+                5797, 
+                6129, 
+                6294, 
+                6724, 
+                6753, 
+                7542, 
+                9655
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6.6, 
+            "full_name": "Katherine Zappone", 
+            "party": "Independent", 
+            "transfers": 5192, 
+            "transfers_pc": 22.37
+        }, 
+        {
+            "counts": [
+                6463, 
+                6467, 
+                6477, 
+                6496, 
+                6779, 
+                6889, 
+                6948, 
+                7087, 
+                7316, 
+                7337, 
+                7793, 
+                7835, 
+                7868, 
+                7911, 
+                9079, 
+                9503
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.6, 
+            "full_name": "Anne-Marie Dermody", 
+            "party": "Fine Gael", 
+            "transfers": 3040, 
+            "transfers_pc": 13.1
+        }, 
+        {
+            "counts": [
+                2812, 
+                2829, 
+                2866, 
+                3064, 
+                3094, 
+                3210, 
+                3353, 
+                3433, 
+                3742, 
+                3799, 
+                4163, 
+                4332, 
+                4632, 
+                4677, 
+                4916
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.6, 
+            "full_name": "Peter Fitzpatrick", 
+            "party": "Independent", 
+            "transfers": 2104, 
+            "transfers_pc": 9.07
+        }, 
+        {
+            "counts": [
+                2635, 
+                2640, 
+                2646, 
+                2658, 
+                2700, 
+                2883, 
+                2936, 
+                3796, 
+                3902, 
+                3933, 
+                4099, 
+                4116, 
+                4163, 
+                4182
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.9, 
+            "full_name": "Pamela Kearns", 
+            "party": "Labour Party", 
+            "transfers": 1547, 
+            "transfers_pc": 6.67
+        }, 
+        {
+            "counts": [
+                3241, 
+                3244, 
+                3249, 
+                3312, 
+                3324, 
+                3374, 
+                3439, 
+                3492, 
+                3593, 
+                3725, 
+                3832
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.8, 
+            "full_name": "Sandra Fay", 
+            "party": "AAA\u2013PBP", 
+            "transfers": 591, 
+            "transfers_pc": 2.55
+        }, 
+        {
+            "counts": [
+                2906, 
+                2912, 
+                2952, 
+                3003, 
+                3026, 
+                3100, 
+                3208, 
+                3258, 
+                3518, 
+                3548
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.3, 
+            "full_name": "Ronan McMahon", 
+            "party": "Renua Ireland", 
+            "transfers": 642, 
+            "transfers_pc": 2.77
+        }, 
+        {
+            "counts": [
+                2616, 
+                2621, 
+                2630, 
+                2667, 
+                2685, 
+                2721, 
+                2764, 
+                2792, 
+                2884
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.9, 
+            "full_name": "Sarah Holland", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 268, 
+            "transfers_pc": 1.15
+        }, 
+        {
+            "counts": [
+                2197, 
+                2220, 
+                2261, 
+                2308, 
+                2326, 
+                2411, 
+                2534, 
+                2571
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.3, 
+            "full_name": "Deirdre O'Donovan", 
+            "party": "Independent", 
+            "transfers": 374, 
+            "transfers_pc": 1.61
+        }, 
+        {
+            "counts": [
+                1743, 
+                1743, 
+                1749, 
+                1776, 
+                1871, 
+                1947, 
+                2120
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "Mick Duff", 
+            "party": "Labour Party", 
+            "transfers": 377, 
+            "transfers_pc": 1.62
+        }, 
+        {
+            "counts": [
+                1627, 
+                1628, 
+                1638, 
+                1671, 
+                1722, 
+                1748
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.4, 
+            "full_name": "Eamonn Maloney", 
+            "party": "Independent", 
+            "transfers": 121, 
+            "transfers_pc": 0.52
+        }, 
+        {
+            "counts": [
+                1297, 
+                1303, 
+                1307, 
+                1332, 
+                1337
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.9, 
+            "full_name": "Francis Duffy", 
+            "party": "Green Party", 
+            "transfers": 40, 
+            "transfers_pc": 0.17
+        }, 
+        {
+            "counts": [
+                1088, 
+                1090, 
+                1096, 
+                1105
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "Karen Warren", 
+            "party": "Fine Gael", 
+            "transfers": 17, 
+            "transfers_pc": 0.07
+        }, 
+        {
+            "counts": [
+                515, 
+                525, 
+                561
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "Declan Burke", 
+            "party": "Independent", 
+            "transfers": 46, 
+            "transfers_pc": 0.2
+        }, 
+        {
+            "counts": [
+                359, 
+                375, 
+                385
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Stephen Sinclair", 
+            "party": "Direct\u00a0Democracy", 
+            "transfers": 26, 
+            "transfers_pc": 0.11
+        }, 
+        {
+            "counts": [
+                112
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Joan Summerville Molloy", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                59
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Frank O'Gorman", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 16, 
+    "description": "2016 general election", 
+    "election_type": "dail", 
+    "electorate": 105420, 
+    "name": "Dublin South-West", 
+    "quota": 11212, 
+    "spoilt": 647, 
+    "turnout": 67918, 
+    "valid": 67271, 
+    "year": 2016
+}

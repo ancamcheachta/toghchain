@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6976
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.2, 
+            "full_name": "Daniel Moloney", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6292
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.3, 
+            "full_name": "Dan Spring", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4562
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.2, 
+            "full_name": "Patrick Finucane", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                6231
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.1, 
+            "full_name": "Tom McEllistrim, Snr", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3736
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.8, 
+            "full_name": "Charles Lenihan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                3499
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.2, 
+            "full_name": "John Lynch", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3171
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.2, 
+            "full_name": "May Daly", 
+            "party": "Sinn F\u00e9in"
+        }
+    ], 
+    "description": "1957 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Kerry North", 
+    "quota": 6894, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 34467, 
+    "year": 1957
+}

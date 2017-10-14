@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7268
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.6, 
+            "full_name": "Daniel Bourke", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5266
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.2, 
+            "full_name": "Tadhg Crowley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6295
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17, 
+            "full_name": "Michael Keyes", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4196
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.3, 
+            "full_name": "James Reidy", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5017
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.5, 
+            "full_name": "Ted Russell", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                4982
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.4, 
+            "full_name": "Robert Ryan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4079
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11, 
+            "full_name": "George C. Bennett", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1951 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Limerick East", 
+    "quota": 7421, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 37103, 
+    "year": 1951
+}

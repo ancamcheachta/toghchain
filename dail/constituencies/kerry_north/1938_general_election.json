@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8478
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24, 
+            "full_name": "Tom McEllistrim, Snr", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7684
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.8, 
+            "full_name": "Stephen Fuller", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7457
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.1, 
+            "full_name": "Eamonn Kissane", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5432
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.4, 
+            "full_name": "John O'Sullivan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3273
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.3, 
+            "full_name": "William Cummins", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2976
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.4, 
+            "full_name": "Michael O'Connell", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1938 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Kerry North", 
+    "quota": 7061, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 35300, 
+    "year": 1938
+}

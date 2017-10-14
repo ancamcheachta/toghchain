@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9647
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.7, 
+            "full_name": "Denis Allen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                9214
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.7, 
+            "full_name": "James Ryan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                9162
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.6, 
+            "full_name": "Richard Corish", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5944
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.7, 
+            "full_name": "John Esmonde", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6218
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.3, 
+            "full_name": "John Keating", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3368
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.2, 
+            "full_name": "Robert Moran", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3157
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.8, 
+            "full_name": "Edward Dundon", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1938 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Wexford", 
+    "quota": 7786, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 46710, 
+    "year": 1938
+}

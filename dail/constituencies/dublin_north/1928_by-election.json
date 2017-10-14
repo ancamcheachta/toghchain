@@ -1,0 +1,41 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                21731
+            ], 
+            "elected": true, 
+            "first_pref_pc": 50.2, 
+            "full_name": "Vincent Rice", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                13322
+            ], 
+            "elected": false, 
+            "first_pref_pc": 30.8, 
+            "full_name": "Kathleen Clarke", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8232
+            ], 
+            "elected": false, 
+            "first_pref_pc": 19, 
+            "full_name": "James Larkin", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1928 by-election", 
+    "election_type": "dail", 
+    "electorate": 94937, 
+    "name": "Dublin North", 
+    "quota": 21643, 
+    "spoilt": null, 
+    "turnout": 45, 
+    "valid": 43285, 
+    "year": 1928
+}

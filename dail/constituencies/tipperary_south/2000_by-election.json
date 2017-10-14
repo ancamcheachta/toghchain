@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9419
+            ], 
+            "elected": true, 
+            "first_pref_pc": 30.8, 
+            "full_name": "S\u00e9amus Healy", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                8184
+            ], 
+            "elected": false, 
+            "first_pref_pc": 26.8, 
+            "full_name": "Tom Hayes", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6959
+            ], 
+            "elected": false, 
+            "first_pref_pc": 22.8, 
+            "full_name": "Barry O'Brien", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5133
+            ], 
+            "elected": false, 
+            "first_pref_pc": 16.8, 
+            "full_name": "Ellen Ferris", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                784
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "Mary Heaney", 
+            "party": "Christian Solidarity"
+        }, 
+        {
+            "counts": [
+                97
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Raymond McInerney", 
+            "party": "Natural Law"
+        }
+    ], 
+    "description": "2000 by-election", 
+    "election_type": "dail", 
+    "electorate": 52740, 
+    "name": "Tipperary South", 
+    "quota": 15289, 
+    "spoilt": null, 
+    "turnout": 57, 
+    "valid": 30576, 
+    "year": 2000
+}

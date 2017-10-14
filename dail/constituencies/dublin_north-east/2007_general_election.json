@@ -1,0 +1,114 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                5294, 
+                6221, 
+                6909, 
+                8911
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.2, 
+            "full_name": "Tommy Broughan", 
+            "party": "Labour Party", 
+            "transfers": 3617, 
+            "transfers_pc": 32.04
+        }, 
+        {
+            "counts": [
+                4483, 
+                5000, 
+                7751, 
+                8594
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.8, 
+            "full_name": "Terence Flanagan", 
+            "party": "Fine Gael", 
+            "transfers": 4111, 
+            "transfers_pc": 36.42
+        }, 
+        {
+            "counts": [
+                7003, 
+                7402, 
+                7588, 
+                8430
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.1, 
+            "full_name": "Michael Woods", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1427, 
+            "transfers_pc": 12.64
+        }, 
+        {
+            "counts": [
+                6861, 
+                7252, 
+                7395, 
+                8095
+            ], 
+            "elected": false, 
+            "first_pref_pc": 19.6, 
+            "full_name": "Martin Brady", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1234, 
+            "transfers_pc": 10.93
+        }, 
+        {
+            "counts": [
+                4661, 
+                4983, 
+                5089
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.3, 
+            "full_name": "Larry O'Toole", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 428, 
+            "transfers_pc": 3.79
+        }, 
+        {
+            "counts": [
+                3529, 
+                3946
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.1, 
+            "full_name": "Brody Sweeney", 
+            "party": "Fine Gael", 
+            "transfers": 417, 
+            "transfers_pc": 3.69
+        }, 
+        {
+            "counts": [
+                2349
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.7, 
+            "full_name": "David Healy", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                749
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.2, 
+            "full_name": "Keith Redmond", 
+            "party": "Progressive Democrats"
+        }
+    ], 
+    "counts_held": 4, 
+    "description": "2007 general election", 
+    "election_type": "dail", 
+    "electorate": 53778, 
+    "name": "Dublin North-East", 
+    "quota": 8733, 
+    "spoilt": 323, 
+    "turnout": 35252, 
+    "valid": 34929, 
+    "year": 2007
+}

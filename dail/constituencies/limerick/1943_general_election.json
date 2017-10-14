@@ -1,0 +1,149 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9324
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.4, 
+            "full_name": "Daniel Bourke", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8131
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.6, 
+            "full_name": "Donnchadh \u00d3 Briain", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7578
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.7, 
+            "full_name": "Michael Keyes", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5072
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.8, 
+            "full_name": "Tadhg Crowley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6234
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.6, 
+            "full_name": "James Reidy", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4529
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7, 
+            "full_name": "George C. Bennett", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4701
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.3, 
+            "full_name": "Robert Ryan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3116
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.8, 
+            "full_name": "Se\u00e1n Hartney", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2675
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.1, 
+            "full_name": "Timothy O'Connell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2601
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4, 
+            "full_name": "Patrick Fitzsimons", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2513
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.9, 
+            "full_name": "John MacNamara", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2351
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.6, 
+            "full_name": "Denis Quish", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2195
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.4, 
+            "full_name": "Con Ryan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2110
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.3, 
+            "full_name": "Se\u00e1n Hayes", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1645
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.5, 
+            "full_name": "Patrick Costelloe", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1943 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Limerick", 
+    "quota": 8097, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 64775, 
+    "year": 1943
+}

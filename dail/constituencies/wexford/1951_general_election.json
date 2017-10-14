@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7352
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.5, 
+            "full_name": "Denis Allen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6179
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.7, 
+            "full_name": "John O'Leary", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5914
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.1, 
+            "full_name": "Brendan Corish", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6440
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.3, 
+            "full_name": "James Ryan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4047
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.6, 
+            "full_name": "Anthony Esmonde", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3852
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.2, 
+            "full_name": "James Bowe", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3827
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.1, 
+            "full_name": "Se\u00e1n Browne", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2060
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.9, 
+            "full_name": "James Galvin", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1561
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "James Sinnott", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                837
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "Seamus O'Neill", 
+            "party": "Clann na Poblachta"
+        }
+    ], 
+    "description": "1951 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Wexford", 
+    "quota": 7012, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 42069, 
+    "year": 1951
+}

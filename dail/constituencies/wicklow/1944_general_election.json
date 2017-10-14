@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                4519
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.4, 
+            "full_name": "Patrick Cogan", 
+            "party": "Clann na Talmhan"
+        }, 
+        {
+            "counts": [
+                4992
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.2, 
+            "full_name": "James Everett", 
+            "party": "National Labour Party"
+        }, 
+        {
+            "counts": [
+                4903
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.9, 
+            "full_name": "Thomas Brennan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4568
+            ], 
+            "elected": false, 
+            "first_pref_pc": 17.6, 
+            "full_name": "Christopher Byrne", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3548
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.7, 
+            "full_name": "Edmund Sweetman", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1508
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.8, 
+            "full_name": "Edward Byrne", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1325
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.1, 
+            "full_name": "William Clarke", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                634
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.4, 
+            "full_name": "Henry Byrne", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1944 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Wicklow", 
+    "quota": 6500, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 25997, 
+    "year": 1944
+}

@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                11305
+            ], 
+            "elected": true, 
+            "first_pref_pc": 42.2, 
+            "full_name": "John A. Costello", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2598
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.7, 
+            "full_name": "John O'Donovan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5971
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.3, 
+            "full_name": "Se\u00e1n MacEntee", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5489
+            ], 
+            "elected": false, 
+            "first_pref_pc": 20.5, 
+            "full_name": "No\u00ebl Browne", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1455
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.4, 
+            "full_name": "Vincent MacDowell", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1954 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South\u2013East", 
+    "quota": 6705, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 26818, 
+    "year": 1954
+}

@@ -1,0 +1,41 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                12497
+            ], 
+            "elected": true, 
+            "first_pref_pc": 42.8, 
+            "full_name": "Richard Barry", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                11823
+            ], 
+            "elected": false, 
+            "first_pref_pc": 40.4, 
+            "full_name": "John Moher", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4902
+            ], 
+            "elected": false, 
+            "first_pref_pc": 16.8, 
+            "full_name": "Se\u00e1n Keane, Jnr", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1953 by-election", 
+    "election_type": "dail", 
+    "electorate": 37057, 
+    "name": "Cork East", 
+    "quota": 14612, 
+    "spoilt": null, 
+    "turnout": 78, 
+    "valid": 29222, 
+    "year": 1953
+}

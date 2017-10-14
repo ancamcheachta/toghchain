@@ -1,0 +1,41 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                16618
+            ], 
+            "elected": true, 
+            "first_pref_pc": 40.3, 
+            "full_name": "James Dwyer", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                15400
+            ], 
+            "elected": false, 
+            "first_pref_pc": 37.4, 
+            "full_name": "Art O'Connor", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                9187
+            ], 
+            "elected": false, 
+            "first_pref_pc": 22.3, 
+            "full_name": "John Gill", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1926 by-election", 
+    "election_type": "dail", 
+    "electorate": 64199, 
+    "name": "Laois\u2013Offaly", 
+    "quota": 20603, 
+    "spoilt": null, 
+    "turnout": 64, 
+    "valid": 41205, 
+    "year": 1926
+}

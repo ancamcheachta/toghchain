@@ -1,0 +1,318 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9947
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.1, 
+            "full_name": "\u00c9amon \u00d3 Cu\u00edv", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7226, 
+                7902, 
+                7904, 
+                7993, 
+                8120, 
+                8318
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.6, 
+            "full_name": "Frank Fahey", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1092, 
+            "transfers_pc": 6.08
+        }, 
+        {
+            "counts": [
+                4760, 
+                4850, 
+                4859, 
+                5260, 
+                5318, 
+                5502, 
+                5865, 
+                6001, 
+                6012, 
+                6285, 
+                7623, 
+                8420
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.6, 
+            "full_name": "P\u00e1draic McCormack", 
+            "party": "Fine Gael", 
+            "transfers": 3660, 
+            "transfers_pc": 20.38
+        }, 
+        {
+            "counts": [
+                5213, 
+                5315, 
+                5343, 
+                5510, 
+                5646, 
+                5772, 
+                6095, 
+                6664, 
+                6682, 
+                7171, 
+                7498, 
+                8151, 
+                8244, 
+                10580
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.6, 
+            "full_name": "Michael D. Higgins", 
+            "party": "Labour Party", 
+            "transfers": 5367, 
+            "transfers_pc": 29.89
+        }, 
+        {
+            "counts": [
+                2735, 
+                2787, 
+                2791, 
+                2858, 
+                2876, 
+                3121, 
+                3233, 
+                3315, 
+                3323, 
+                4544, 
+                5098, 
+                5325, 
+                5352, 
+                5684, 
+                6215
+            ], 
+            "elected": true, 
+            "first_pref_pc": 5.5, 
+            "full_name": "Noel Grealish", 
+            "party": "Progressive Democrats", 
+            "transfers": 3480, 
+            "transfers_pc": 19.38
+        }, 
+        {
+            "counts": [
+                3269, 
+                3697, 
+                3704, 
+                3752, 
+                3801, 
+                3870, 
+                4082, 
+                4297, 
+                4314, 
+                4623, 
+                4782, 
+                5244, 
+                5273, 
+                5585, 
+                5906
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.6, 
+            "full_name": "Margaret Cox", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2637, 
+            "transfers_pc": 14.68
+        }, 
+        {
+            "counts": [
+                2193, 
+                2216, 
+                2241, 
+                2308, 
+                2416, 
+                2450, 
+                2651, 
+                3108, 
+                3111, 
+                3267, 
+                3391, 
+                3749, 
+                3775
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "Niall \u00d3 Brolch\u00e1in", 
+            "party": "Green Party", 
+            "transfers": 1582, 
+            "transfers_pc": 8.81
+        }, 
+        {
+            "counts": [
+                2439, 
+                2559, 
+                2588, 
+                2626, 
+                2742, 
+                2774, 
+                2944, 
+                3154, 
+                3155, 
+                3234, 
+                3328
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.9, 
+            "full_name": "S\u00e9amus Walsh", 
+            "party": "Independent", 
+            "transfers": 889, 
+            "transfers_pc": 4.95
+        }, 
+        {
+            "counts": [
+                2279, 
+                2300, 
+                2306, 
+                2619, 
+                2632, 
+                2670, 
+                2748, 
+                2808, 
+                2812, 
+                2888
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.6, 
+            "full_name": "Michael McDonagh", 
+            "party": "Fine Gael", 
+            "transfers": 609, 
+            "transfers_pc": 3.39
+        }, 
+        {
+            "counts": [
+                1935, 
+                2017, 
+                2026, 
+                2058, 
+                2068, 
+                2545, 
+                2713, 
+                2787, 
+                2798
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.9, 
+            "full_name": "Donal Lyons", 
+            "party": "Progressive Democrats", 
+            "transfers": 863, 
+            "transfers_pc": 4.81
+        }, 
+        {
+            "counts": [
+                1468, 
+                1485, 
+                1498, 
+                1509, 
+                2166, 
+                2200, 
+                2306
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "Daniel Callanan", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 838, 
+            "transfers_pc": 4.67
+        }, 
+        {
+            "counts": [
+                1677, 
+                1727, 
+                1740, 
+                1812, 
+                1872, 
+                1920
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.4, 
+            "full_name": "Dana Rosemary Scallon", 
+            "party": "Independent", 
+            "transfers": 243, 
+            "transfers_pc": 1.35
+        }, 
+        {
+            "counts": [
+                1462, 
+                1479, 
+                1484, 
+                1499, 
+                1506
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "Declan McDonnell", 
+            "party": "Progressive Democrats", 
+            "transfers": 44, 
+            "transfers_pc": 0.25
+        }, 
+        {
+            "counts": [
+                1311, 
+                1373, 
+                1383, 
+                1397
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Se\u00e1n Coistealbha", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 86, 
+            "transfers_pc": 0.48
+        }, 
+        {
+            "counts": [
+                1320, 
+                1340, 
+                1347
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Fidelma Healy Eames", 
+            "party": "Fine Gael", 
+            "transfers": 27, 
+            "transfers_pc": 0.15
+        }, 
+        {
+            "counts": [
+                96, 
+                97
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Eileen Manning", 
+            "party": "Independent", 
+            "transfers": 1, 
+            "transfers_pc": 0.01
+        }, 
+        {
+            "counts": [
+                76, 
+                77
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Joseph Nulty", 
+            "party": "Independent", 
+            "transfers": 1, 
+            "transfers_pc": 0.01
+        }
+    ], 
+    "counts_held": 15, 
+    "description": "2002 general election", 
+    "election_type": "dail", 
+    "electorate": 82213, 
+    "name": "Galway West", 
+    "quota": 8245, 
+    "spoilt": 680, 
+    "turnout": 50146, 
+    "valid": 49466, 
+    "year": 2002
+}

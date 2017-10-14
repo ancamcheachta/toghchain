@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                5402
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.3, 
+            "full_name": "Patrick Connor", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5640
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.3, 
+            "full_name": "Honor Crowley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5244
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.7, 
+            "full_name": "Timothy O'Connor", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3630
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.3, 
+            "full_name": "Michael Moynihan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3240
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.8, 
+            "full_name": "John Joe Rice", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                2158
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.5, 
+            "full_name": "Michael O'Sullivan", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1961 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Kerry South", 
+    "quota": 6329, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 25314, 
+    "year": 1961
+}

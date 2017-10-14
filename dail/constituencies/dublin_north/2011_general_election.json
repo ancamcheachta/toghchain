@@ -1,0 +1,141 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10178
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.6, 
+            "full_name": "James Reilly", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                9809, 
+                9868, 
+                10058
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.9, 
+            "full_name": "Brendan Ryan", 
+            "party": "Labour Party", 
+            "transfers": 249, 
+            "transfers_pc": 1.96
+        }, 
+        {
+            "counts": [
+                7513, 
+                7533, 
+                7875, 
+                9096, 
+                9465, 
+                11172
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.2, 
+            "full_name": "Clare Daly[23]", 
+            "party": "Socialist Party", 
+            "transfers": 3659, 
+            "transfers_pc": 28.74
+        }, 
+        {
+            "counts": [
+                5310, 
+                5475, 
+                5723, 
+                6406, 
+                6669, 
+                8450, 
+                9159
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.8, 
+            "full_name": "Alan Farrell", 
+            "party": "Fine Gael", 
+            "transfers": 3849, 
+            "transfers_pc": 30.24
+        }, 
+        {
+            "counts": [
+                4115, 
+                4124, 
+                4249, 
+                4407, 
+                6886, 
+                7821, 
+                8067
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.3, 
+            "full_name": "Darragh O'Brien", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3952, 
+            "transfers_pc": 31.04
+        }, 
+        {
+            "counts": [
+                4186, 
+                4213, 
+                4483, 
+                5169, 
+                5610
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.5, 
+            "full_name": "Trevor Sargent", 
+            "party": "Green Party", 
+            "transfers": 1424, 
+            "transfers_pc": 11.19
+        }, 
+        {
+            "counts": [
+                3519, 
+                3531, 
+                3604, 
+                3805
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.1, 
+            "full_name": "Michael Kennedy", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 286, 
+            "transfers_pc": 2.25
+        }, 
+        {
+            "counts": [
+                3205, 
+                3215, 
+                3367
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.5, 
+            "full_name": "Tom Kelleher", 
+            "party": "Labour Party", 
+            "transfers": 162, 
+            "transfers_pc": 1.27
+        }, 
+        {
+            "counts": [
+                1512, 
+                1518
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.1, 
+            "full_name": "Mark Harrold", 
+            "party": "Independent", 
+            "transfers": 6, 
+            "transfers_pc": 0.05
+        }
+    ], 
+    "counts_held": 7, 
+    "description": "2011 general election", 
+    "election_type": "dail", 
+    "electorate": 70413, 
+    "name": "Dublin North", 
+    "quota": 9870, 
+    "spoilt": 452, 
+    "turnout": 49799, 
+    "valid": 49347, 
+    "year": 2011
+}

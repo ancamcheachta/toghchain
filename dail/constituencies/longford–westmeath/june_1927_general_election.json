@@ -1,0 +1,158 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6094
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.1, 
+            "full_name": "Patrick Shaw", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                2557
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6.8, 
+            "full_name": "James Victory", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4282
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.3, 
+            "full_name": "Henry Broderick", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2623
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6.9, 
+            "full_name": "Hugh Garahan", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                2504
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6.6, 
+            "full_name": "Michael Kennedy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2952
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.8, 
+            "full_name": "Robert Belton", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2470
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.5, 
+            "full_name": "James Killane", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2449
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.5, 
+            "full_name": "Michael Connolly", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                2396
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.3, 
+            "full_name": "Richard Cleary", 
+            "party": "National League Party"
+        }, 
+        {
+            "counts": [
+                2090
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.5, 
+            "full_name": "James Higgins", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1997
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.3, 
+            "full_name": "Patrick McKenna", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                1766
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.7, 
+            "full_name": "Conor O'Byrne", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                1375
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.6, 
+            "full_name": "Patrick McCrann", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                1305
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.5, 
+            "full_name": "William Finnerty", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                538
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "Patrick Brett", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                385
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Se\u00e1n O'Hurley", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "June 1927 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Longford\u2013Westmeath", 
+    "quota": 6298, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 37783, 
+    "year": 1927
+}

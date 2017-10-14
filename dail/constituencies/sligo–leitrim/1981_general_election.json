@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10818
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.7, 
+            "full_name": "Ray MacSharry", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6292
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.2, 
+            "full_name": "Ted Nealon", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7121
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.9, 
+            "full_name": "John Ellis", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5927
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.4, 
+            "full_name": "Joe McCartin", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5848
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.3, 
+            "full_name": "Matt Brennan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5639
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.8, 
+            "full_name": "Joe McDonnell", 
+            "party": "Anti H-Block"
+        }, 
+        {
+            "counts": [
+                4749
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10, 
+            "full_name": "Tony McLoughlin", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                934
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "Declan Bree", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                361
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "Richard Lacy", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1981 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Sligo\u2013Leitrim", 
+    "quota": 9538, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 47689, 
+    "year": 1981
+}

@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8002
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.5, 
+            "full_name": "John O'Leary", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6655
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.4, 
+            "full_name": "Michael Begley", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7917
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.2, 
+            "full_name": "Timothy O'Connor", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5799
+            ], 
+            "elected": false, 
+            "first_pref_pc": 17.7, 
+            "full_name": "Michael Moynihan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3256
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10, 
+            "full_name": "Michael Connor Scarteen", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1065
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.3, 
+            "full_name": "Redmond Sullivan", 
+            "party": "Sinn F\u00e9in (Workers' Party)"
+        }
+    ], 
+    "description": "1977 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Kerry South", 
+    "quota": 8174, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 32694, 
+    "year": 1977
+}

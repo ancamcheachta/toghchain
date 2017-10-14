@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8035
+            ], 
+            "elected": true, 
+            "first_pref_pc": 28.6, 
+            "full_name": "Paudge Brennan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3963
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.1, 
+            "full_name": "Liam Kavanagh", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4597
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.4, 
+            "full_name": "Godfrey Timmins", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4883
+            ], 
+            "elected": false, 
+            "first_pref_pc": 17.4, 
+            "full_name": "Michael O'Higgins", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2550
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.1, 
+            "full_name": "William Lawless", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2129
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.6, 
+            "full_name": "Basil Phelan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1940
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.9, 
+            "full_name": "Jimmy Miley", 
+            "party": "Fianna F\u00e1il"
+        }
+    ], 
+    "description": "1969 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Wicklow", 
+    "quota": 7025, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 28097, 
+    "year": 1969
+}

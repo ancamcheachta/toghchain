@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9834
+            ], 
+            "elected": true, 
+            "first_pref_pc": 28.8, 
+            "full_name": "Brendan Corish", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                7081
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.8, 
+            "full_name": "Anthony Esmonde", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5221
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.3, 
+            "full_name": "Lorcan Allen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5170
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.2, 
+            "full_name": "James Ryan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3226
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.5, 
+            "full_name": "Se\u00e1n Browne", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1405
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.1, 
+            "full_name": "William Esmonde", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1304
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.8, 
+            "full_name": "Morgan Dunne", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                855
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.5, 
+            "full_name": "Thaddeus O'Loughlin", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1961 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Wexford", 
+    "quota": 6820, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 34096, 
+    "year": 1961
+}

@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6849
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.7, 
+            "full_name": "Bridget Redmond", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                5228
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.5, 
+            "full_name": "Nicholas Wall", 
+            "party": "National Centre Party"
+        }, 
+        {
+            "counts": [
+                7007
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.1, 
+            "full_name": "Patrick Little", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6615
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.1, 
+            "full_name": "Se\u00e1n Goulding", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5783
+            ], 
+            "elected": false, 
+            "first_pref_pc": 15, 
+            "full_name": "Michael Mansfield", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3506
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.1, 
+            "full_name": "Vincent White", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                2827
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.3, 
+            "full_name": "John Kiersey", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                834
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.2, 
+            "full_name": "Thomas Ryan", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1933 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Waterford", 
+    "quota": 7730, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 38649, 
+    "year": 1933
+}

@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7506
+            ], 
+            "elected": true, 
+            "first_pref_pc": 27, 
+            "full_name": "Paddy Harte", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6961
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.1, 
+            "full_name": "Neil Blaney", 
+            "party": "Independent Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5553
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20, 
+            "full_name": "Jim McDaid", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5363
+            ], 
+            "elected": false, 
+            "first_pref_pc": 19.3, 
+            "full_name": "Hugh Conaghan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1091
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.9, 
+            "full_name": "Patrick Doherty", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                891
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.2, 
+            "full_name": "Joachim Loughrey", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                428
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.5, 
+            "full_name": "Anne Wilkinson", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1989 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Donegal North-East", 
+    "quota": 6949, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 27793, 
+    "year": 1989
+}

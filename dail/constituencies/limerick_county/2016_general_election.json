@@ -1,0 +1,150 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                12276
+            ], 
+            "elected": true, 
+            "first_pref_pc": 27.6, 
+            "full_name": "Niall Collins", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8013, 
+                8214, 
+                8291, 
+                8874, 
+                9217, 
+                10369
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18, 
+            "full_name": "Tom Neville", 
+            "party": "Fine Gael", 
+            "transfers": 2356, 
+            "transfers_pc": 20.7
+        }, 
+        {
+            "counts": [
+                8479, 
+                8637, 
+                8712, 
+                9183, 
+                9498, 
+                10291
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.1, 
+            "full_name": "Patrick O'Donovan", 
+            "party": "Fine Gael", 
+            "transfers": 1812, 
+            "transfers_pc": 15.92
+        }, 
+        {
+            "counts": [
+                5432, 
+                5737, 
+                5879, 
+                6676, 
+                7569, 
+                9481
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.2, 
+            "full_name": "Emmett O'Brien", 
+            "party": "Independent", 
+            "transfers": 4049, 
+            "transfers_pc": 35.57
+        }, 
+        {
+            "counts": [
+                3270, 
+                3463, 
+                3698, 
+                4319, 
+                5662
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.4, 
+            "full_name": "James Heffernan", 
+            "party": "Social Democrats", 
+            "transfers": 2392, 
+            "transfers_pc": 21.01
+        }, 
+        {
+            "counts": [
+                3347, 
+                3465, 
+                3550, 
+                3783
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.5, 
+            "full_name": "Seamus Browne", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 436, 
+            "transfers_pc": 3.83
+        }, 
+        {
+            "counts": [
+                2855, 
+                3021, 
+                3118
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.4, 
+            "full_name": "Richard O'Donoghue", 
+            "party": "Independent", 
+            "transfers": 263, 
+            "transfers_pc": 2.31
+        }, 
+        {
+            "counts": [
+                311, 
+                321
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "Alexander Storey Cosgrave", 
+            "party": "Green Party", 
+            "transfers": 10, 
+            "transfers_pc": 0.09
+        }, 
+        {
+            "counts": [
+                222, 
+                231
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Mark Keogh", 
+            "party": "Direct\u00a0Democracy", 
+            "transfers": 9, 
+            "transfers_pc": 0.08
+        }, 
+        {
+            "counts": [
+                207, 
+                219
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "John O'Gorman", 
+            "party": "Independent", 
+            "transfers": 12, 
+            "transfers_pc": 0.11
+        }
+    ], 
+    "counts_held": 6, 
+    "description": "2016 general election", 
+    "election_type": "dail", 
+    "electorate": 67633, 
+    "name": "Limerick County", 
+    "quota": 11104, 
+    "spoilt": 336, 
+    "turnout": 44748, 
+    "valid": 44412, 
+    "year": 2016
+}

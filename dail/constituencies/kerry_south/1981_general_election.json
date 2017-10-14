@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8221
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.5, 
+            "full_name": "Michael Moynihan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                7383
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22, 
+            "full_name": "John O'Leary", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6144
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.3, 
+            "full_name": "Michael Begley", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4702
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14, 
+            "full_name": "Timothy O'Connor", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3780
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.3, 
+            "full_name": "John O'Donoghue", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1763
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.3, 
+            "full_name": "Patrick O'Connor", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1600
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.8, 
+            "full_name": "Michael O'Connell", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1981 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Kerry South", 
+    "quota": 8399, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 33593, 
+    "year": 1981
+}

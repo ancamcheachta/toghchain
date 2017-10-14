@@ -1,0 +1,50 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                16638
+            ], 
+            "elected": true, 
+            "first_pref_pc": 43.7, 
+            "full_name": "Desmond O'Malley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                10151
+            ], 
+            "elected": false, 
+            "first_pref_pc": 26.7, 
+            "full_name": "Michael Lipper", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                10039
+            ], 
+            "elected": false, 
+            "first_pref_pc": 26.4, 
+            "full_name": "James O'Higgins", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1209
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.2, 
+            "full_name": "Michael Crowe", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1968 by-election", 
+    "election_type": "dail", 
+    "electorate": 46798, 
+    "name": "Limerick East", 
+    "quota": 19019, 
+    "spoilt": null, 
+    "turnout": 81, 
+    "valid": 38037, 
+    "year": 1968
+}

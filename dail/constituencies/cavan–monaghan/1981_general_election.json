@@ -1,0 +1,161 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9424, 
+                9467, 
+                9543, 
+                12122
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.6, 
+            "full_name": "John Wilson", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2698, 
+            "transfers_pc": 18.58
+        }, 
+        {
+            "counts": [
+                7257, 
+                7946, 
+                8660, 
+                8807, 
+                8908, 
+                13109
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12, 
+            "full_name": "Thomas J. Fitzpatrick", 
+            "party": "Fine Gael", 
+            "transfers": 5852, 
+            "transfers_pc": 40.3
+        }, 
+        {
+            "counts": [
+                6431, 
+                6775, 
+                7777, 
+                7802, 
+                7815, 
+                10355
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.6, 
+            "full_name": "John Conlan", 
+            "party": "Fine Gael", 
+            "transfers": 3924, 
+            "transfers_pc": 27.02
+        }, 
+        {
+            "counts": [
+                9121, 
+                9197, 
+                9342, 
+                9469, 
+                9580, 
+                9709, 
+                10063
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.1, 
+            "full_name": "Kieran Doherty", 
+            "party": "Anti H-Block", 
+            "transfers": 942, 
+            "transfers_pc": 6.49
+        }, 
+        {
+            "counts": [
+                6662, 
+                6694, 
+                6861, 
+                7252, 
+                8548, 
+                8738, 
+                9016
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11, 
+            "full_name": "Rory O'Hanlon", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2354, 
+            "transfers_pc": 16.21
+        }, 
+        {
+            "counts": [
+                6984, 
+                7039, 
+                7082, 
+                7240, 
+                7752, 
+                7997, 
+                8304
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.6, 
+            "full_name": "Jimmy Leonard", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1320, 
+            "transfers_pc": 9.09
+        }, 
+        {
+            "counts": [
+                6785, 
+                6994, 
+                7572, 
+                7637, 
+                7657
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.2, 
+            "full_name": "Robert Fausset", 
+            "party": "Fine Gael", 
+            "transfers": 872, 
+            "transfers_pc": 6
+        }, 
+        {
+            "counts": [
+                3431, 
+                3483, 
+                3535
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.7, 
+            "full_name": "Michael Smith", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 104, 
+            "transfers_pc": 0.72
+        }, 
+        {
+            "counts": [
+                2565, 
+                2803
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.3, 
+            "full_name": "Aidan Murray", 
+            "party": "Fine Gael", 
+            "transfers": 238, 
+            "transfers_pc": 1.64
+        }, 
+        {
+            "counts": [
+                1741
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "Mona Hoban", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "counts_held": 7, 
+    "description": "1981 general election", 
+    "election_type": "dail", 
+    "electorate": 70995, 
+    "name": "Cavan\u2013Monaghan", 
+    "quota": 10069, 
+    "spoilt": 584, 
+    "turnout": 60995, 
+    "valid": 60411, 
+    "year": 1981
+}

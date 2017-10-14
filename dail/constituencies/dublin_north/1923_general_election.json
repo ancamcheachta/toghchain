@@ -1,0 +1,176 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                22205
+            ], 
+            "elected": true, 
+            "first_pref_pc": 40, 
+            "full_name": "Richard Mulcahy", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                10518
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.9, 
+            "full_name": "Alfie Byrne", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1397
+            ], 
+            "elected": true, 
+            "first_pref_pc": 2.5, 
+            "full_name": "Se\u00e1n McGarry", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                1247
+            ], 
+            "elected": true, 
+            "first_pref_pc": 2.3, 
+            "full_name": "Margaret Collins-O'Driscoll", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                790
+            ], 
+            "elected": true, 
+            "first_pref_pc": 1.4, 
+            "full_name": "Francis Cahill", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                2594
+            ], 
+            "elected": true, 
+            "first_pref_pc": 4.7, 
+            "full_name": "William Hewat", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                4233
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.6, 
+            "full_name": "Se\u00e1n T. O'Kelly", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                4602
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.3, 
+            "full_name": "Ernie O'Malley", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                2075
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "P. T. Daly", 
+            "party": "Dublin Trades Council"
+        }, 
+        {
+            "counts": [
+                1653
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "Edward O'Carroll", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1047
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.9, 
+            "full_name": "James Clark", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                742
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.3, 
+            "full_name": "Patrick McIntyre", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                636
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "Henry O'Hanrahan", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                573
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "John Lawlor", 
+            "party": "Dublin Trades Council"
+        }, 
+        {
+            "counts": [
+                371
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "Kevin Kenny", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                365
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "S\u00e9amus Hughes", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                330
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Daithi O'Donoghue", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                142
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "James Whelan", 
+            "party": "Cumann na nGaedheal"
+        }
+    ], 
+    "description": "1923 general election", 
+    "election_type": "dail", 
+    "electorate": 89909, 
+    "name": "Dublin North", 
+    "quota": 6169, 
+    "spoilt": null, 
+    "turnout": 61, 
+    "valid": 55520, 
+    "year": 1923
+}

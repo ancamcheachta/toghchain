@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6973
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.2, 
+            "full_name": "Patrick Cooney", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6841
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.8, 
+            "full_name": "Joseph Sheridan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                4759
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.1, 
+            "full_name": "Gerry L'Estrange", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5882
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.2, 
+            "full_name": "Frank Carter", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4792
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.2, 
+            "full_name": "Se\u00e1n Keegan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3304
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.1, 
+            "full_name": "Se\u00e1n Fallon", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2127
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.8, 
+            "full_name": "Jack Coleman", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1729
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.8, 
+            "full_name": "Thomas Kilbride", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1973 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Longford\u2013Westmeath", 
+    "quota": 7282, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 36407, 
+    "year": 1973
+}

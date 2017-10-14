@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9708
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.3, 
+            "full_name": "John Wilson", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8663
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.3, 
+            "full_name": "Rory O'Hanlon", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8500
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16, 
+            "full_name": "Jimmy Leonard", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7180
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.5, 
+            "full_name": "Andrew Boylan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6765
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.7, 
+            "full_name": "Bill Cotter", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5560
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.5, 
+            "full_name": "Joe O'Reilly", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4849
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.1, 
+            "full_name": "Caoimhgh\u00edn \u00d3 Caol\u00e1in", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                1069
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "Margaret Kiernan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                705
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.3, 
+            "full_name": "Damien Matthews", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                155
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Joseph Duffy", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1989 general election", 
+    "election_type": "dail", 
+    "electorate": 75712, 
+    "name": "Cavan\u2013Monaghan", 
+    "quota": 8860, 
+    "spoilt": 1041, 
+    "turnout": 54195, 
+    "valid": 53154, 
+    "year": 1989
+}

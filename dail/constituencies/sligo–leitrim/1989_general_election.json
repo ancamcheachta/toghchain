@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8487
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.8, 
+            "full_name": "Gerry Reynolds", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7982
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.7, 
+            "full_name": "Matt Brennan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6295
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.7, 
+            "full_name": "John Ellis", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6881
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.1, 
+            "full_name": "Ted Nealon", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5450
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.7, 
+            "full_name": "Hugh Glynn", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4947
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.6, 
+            "full_name": "Declan Bree", 
+            "party": "Independent Socialist"
+        }, 
+        {
+            "counts": [
+                1482
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.5, 
+            "full_name": "Se\u00e1n MacManus", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                1255
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "Hugh Slevin", 
+            "party": "Progressive Democrats"
+        }
+    ], 
+    "description": "1989 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Sligo\u2013Leitrim", 
+    "quota": 8556, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 42779, 
+    "year": 1989
+}

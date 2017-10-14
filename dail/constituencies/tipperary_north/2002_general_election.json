@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10400
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.4, 
+            "full_name": "Michael Lowry", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                8949, 
+                9320, 
+                11040
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.8, 
+            "full_name": "M\u00e1ire Hoctor", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2091, 
+            "transfers_pc": 29.28
+        }, 
+        {
+            "counts": [
+                8526, 
+                8842, 
+                9642, 
+                10088
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.5, 
+            "full_name": "Michael Smith", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1562, 
+            "transfers_pc": 21.87
+        }, 
+        {
+            "counts": [
+                6108, 
+                6436, 
+                9085, 
+                9437
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.9, 
+            "full_name": "Noel Coonan", 
+            "party": "Fine Gael", 
+            "transfers": 3329, 
+            "transfers_pc": 46.62
+        }, 
+        {
+            "counts": [
+                5537, 
+                5877
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.5, 
+            "full_name": "Kathleen O'Meara", 
+            "party": "Labour Party", 
+            "transfers": 340, 
+            "transfers_pc": 4.76
+        }, 
+        {
+            "counts": [
+                1446
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.5, 
+            "full_name": "Bill Dwan", 
+            "party": "Progressive Democrats"
+        }
+    ], 
+    "counts_held": 4, 
+    "description": "2002 general election", 
+    "election_type": "dail", 
+    "electorate": 59427, 
+    "name": "Tipperary North", 
+    "quota": 10242, 
+    "spoilt": 446, 
+    "turnout": 41412, 
+    "valid": 40966, 
+    "year": 2002
+}

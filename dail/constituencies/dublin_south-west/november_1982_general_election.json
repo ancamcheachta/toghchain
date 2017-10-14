@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7814
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.8, 
+            "full_name": "Mervyn Taylor", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6465
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.2, 
+            "full_name": "Se\u00e1n Walsh", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4619
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.3, 
+            "full_name": "Mary Harney", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5682
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.1, 
+            "full_name": "Michael O'Leary", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3991
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.6, 
+            "full_name": "Larry McMahon", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2929
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.8, 
+            "full_name": "Conal Brennan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2673
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.1, 
+            "full_name": "Richard Conroy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2365
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.3, 
+            "full_name": "Pat Rabbitte", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                581
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.5, 
+            "full_name": "Ann Joyce", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                297
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "Richard O'Reilly", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                240
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Noel Murphy", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "November 1982 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South-West", 
+    "quota": 7532, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 37656, 
+    "year": 1982
+}

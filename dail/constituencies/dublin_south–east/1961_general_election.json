@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7222
+            ], 
+            "elected": true, 
+            "first_pref_pc": 29.2, 
+            "full_name": "Se\u00e1n MacEntee", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6332
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.6, 
+            "full_name": "John A. Costello", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4717
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.1, 
+            "full_name": "No\u00ebl Browne", 
+            "party": "National Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                3720
+            ], 
+            "elected": false, 
+            "first_pref_pc": 15, 
+            "full_name": "Se\u00e1n Moore", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2742
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.1, 
+            "full_name": "John O'Donovan", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1961 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South\u2013East", 
+    "quota": 6184, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 24733, 
+    "year": 1961
+}

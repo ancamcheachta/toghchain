@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8056
+            ], 
+            "elected": true, 
+            "first_pref_pc": 28, 
+            "full_name": "John A. Costello", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7823
+            ], 
+            "elected": true, 
+            "first_pref_pc": 27.2, 
+            "full_name": "Se\u00e1n MacEntee", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6233
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.6, 
+            "full_name": "Se\u00e1n Moore", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5348
+            ], 
+            "elected": false, 
+            "first_pref_pc": 18.6, 
+            "full_name": "No\u00ebl Browne", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1352
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.7, 
+            "full_name": "James O'Connor", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1965 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South\u2013East", 
+    "quota": 7204, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 28812, 
+    "year": 1965
+}

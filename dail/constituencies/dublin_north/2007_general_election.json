@@ -1,0 +1,215 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10869, 
+                10911, 
+                11266
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.9, 
+            "full_name": "Michael Kennedy", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 397, 
+            "transfers_pc": 2.43
+        }, 
+        {
+            "counts": [
+                7448, 
+                7499, 
+                7656, 
+                7680, 
+                7914, 
+                8255, 
+                9414, 
+                11611
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.6, 
+            "full_name": "Trevor Sargent", 
+            "party": "Green Party", 
+            "transfers": 4163, 
+            "transfers_pc": 25.47
+        }, 
+        {
+            "counts": [
+                7058, 
+                7083, 
+                7405, 
+                7553, 
+                7700, 
+                7853, 
+                7925, 
+                8427, 
+                12570
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.9, 
+            "full_name": "Darragh O'Brien", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 5512, 
+            "transfers_pc": 33.72
+        }, 
+        {
+            "counts": [
+                7677, 
+                7718, 
+                7927, 
+                7951, 
+                8036, 
+                8281, 
+                8454, 
+                9147, 
+                9706, 
+                10339
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14, 
+            "full_name": "James Reilly", 
+            "party": "Fine Gael", 
+            "transfers": 2662, 
+            "transfers_pc": 16.29
+        }, 
+        {
+            "counts": [
+                5256, 
+                5294, 
+                5343, 
+                5357, 
+                5514, 
+                5758, 
+                5889, 
+                7323, 
+                8158, 
+                9166
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.6, 
+            "full_name": "Brendan Ryan", 
+            "party": "Labour Party", 
+            "transfers": 3910, 
+            "transfers_pc": 23.92
+        }, 
+        {
+            "counts": [
+                5074, 
+                5108, 
+                5284, 
+                5384, 
+                5536, 
+                5811, 
+                5919, 
+                6404
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.3, 
+            "full_name": "John O'Leary", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1330, 
+            "transfers_pc": 8.14
+        }, 
+        {
+            "counts": [
+                4872, 
+                4960, 
+                5021, 
+                5032, 
+                5504, 
+                5685, 
+                5887
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.9, 
+            "full_name": "Clare Daly", 
+            "party": "Socialist Party", 
+            "transfers": 1015, 
+            "transfers_pc": 6.21
+        }, 
+        {
+            "counts": [
+                1659, 
+                1681, 
+                1716, 
+                1721, 
+                1818, 
+                1897
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "Joe Corr", 
+            "party": "Green Party", 
+            "transfers": 238, 
+            "transfers_pc": 1.46
+        }, 
+        {
+            "counts": [
+                1396, 
+                1453, 
+                1493, 
+                1503, 
+                1593
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "David O'Connor", 
+            "party": "Independent", 
+            "transfers": 197, 
+            "transfers_pc": 1.21
+        }, 
+        {
+            "counts": [
+                1454, 
+                1493, 
+                1497, 
+                1498
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Matt McCormack", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 44, 
+            "transfers_pc": 0.27
+        }, 
+        {
+            "counts": [
+                1395, 
+                1425
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "Tom Morrissey", 
+            "party": "Progressive Democrats", 
+            "transfers": 30, 
+            "transfers_pc": 0.18
+        }, 
+        {
+            "counts": [
+                286
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "John Donnelly", 
+            "party": "Immigration Control"
+        }, 
+        {
+            "counts": [
+                210
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Cathal Loftus", 
+            "party": "Christian Solidarity"
+        }
+    ], 
+    "counts_held": 10, 
+    "description": "2007 general election", 
+    "election_type": "dail", 
+    "electorate": 80221, 
+    "name": "Dublin North", 
+    "quota": 10929, 
+    "spoilt": 411, 
+    "turnout": 55052, 
+    "valid": 54641, 
+    "year": 2007
+}

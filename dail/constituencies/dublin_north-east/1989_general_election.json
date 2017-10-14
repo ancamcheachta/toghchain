@@ -1,0 +1,122 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                5968
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17, 
+            "full_name": "Pat McCartan", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                3965
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.3, 
+            "full_name": "Michael Joe Cosgrave", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6284
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.8, 
+            "full_name": "Michael Woods", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5775
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.4, 
+            "full_name": "Liam Fitzgerald", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4567
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13, 
+            "full_name": "Se\u00e1n Haughey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2743
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.8, 
+            "full_name": "Maurice Manning", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2111
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6, 
+            "full_name": "Se\u00e1n Kenny", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1332
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.8, 
+            "full_name": "M\u00e1ire Mullarney", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                817
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.3, 
+            "full_name": "Noel Peers", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                755
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "Tommy Broughan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                505
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "Angela Mulligan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                394
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "Paddy Healy", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1989 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin North-East", 
+    "quota": 7044, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 35216, 
+    "year": 1989
+}

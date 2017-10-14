@@ -1,0 +1,140 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                12644
+            ], 
+            "elected": true, 
+            "first_pref_pc": 31.5, 
+            "full_name": "Garret FitzGerald", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6131
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.3, 
+            "full_name": "Gerard Brady", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3164
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.9, 
+            "full_name": "Alexis FitzGerald", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5402
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.5, 
+            "full_name": "Ruairi Quinn", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4645
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.6, 
+            "full_name": "Se\u00e1n Moore", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2735
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.8, 
+            "full_name": "Joe Doyle", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2679
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.7, 
+            "full_name": "Michael Donnelly", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1894
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.7, 
+            "full_name": "Andy Smith", 
+            "party": "Sinn F\u00e9in (Workers' Party)"
+        }, 
+        {
+            "counts": [
+                309
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "Elizabeth Noonan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                222
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Desmond Hynes", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                125
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "William Fitzsimon", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                94
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Matthew Treacy", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                58
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "S\u00e9amus O'Daly", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                49
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Molly Donovan", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "February 1982 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South\u2013East", 
+    "quota": 8031, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 40151, 
+    "year": 1982
+}

@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8734
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.4, 
+            "full_name": "Mervyn Taylor", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                7166
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.4, 
+            "full_name": "Pat Rabbitte", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                7346
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.8, 
+            "full_name": "Chris Flood", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4323
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.1, 
+            "full_name": "Mary Harney", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                5737
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.7, 
+            "full_name": "Se\u00e1n Walsh", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2297
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.9, 
+            "full_name": "Larry McMahon", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1259
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.2, 
+            "full_name": "Conor Delaney", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                1049
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Clare Leonard", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1018
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "Se\u00e1n Crowe", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                84
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Alan Plummer", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1989 general election", 
+    "election_type": "dail", 
+    "electorate": 64995, 
+    "name": "Dublin South-West", 
+    "quota": 7803, 
+    "spoilt": 513, 
+    "turnout": 39526, 
+    "valid": 39013, 
+    "year": 1989
+}

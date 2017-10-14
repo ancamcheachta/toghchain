@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10542
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.4, 
+            "full_name": "Albert Reynolds", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8035
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.8, 
+            "full_name": "Henry Abbott", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5680
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.6, 
+            "full_name": "Patrick Cooney", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7440
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.5, 
+            "full_name": "Mary O'Rourke", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3642
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.1, 
+            "full_name": "S\u00e9amus Finnan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3463
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.7, 
+            "full_name": "Helena McAuliffe-Ennis", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                3094
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.9, 
+            "full_name": "Colm Smyth", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1938
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.3, 
+            "full_name": "Daniel O'Sullivan", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                1038
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.3, 
+            "full_name": "S\u00e9amus McNamee", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                280
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Peter Murphy", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1987 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Longford\u2013Westmeath", 
+    "quota": 9031, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 45152, 
+    "year": 1987
+}

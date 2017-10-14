@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                5843
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.7, 
+            "full_name": "Daniel Morrissey", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6494
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23, 
+            "full_name": "Mary Ryan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6133
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.7, 
+            "full_name": "John Fanning", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4756
+            ], 
+            "elected": false, 
+            "first_pref_pc": 16.8, 
+            "full_name": "Patrick Tierney", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2176
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.7, 
+            "full_name": "Lawrence Brennan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1898
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.7, 
+            "full_name": "Patrick Kinane", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                935
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.3, 
+            "full_name": "Michael Cronin", 
+            "party": "Clann na Poblachta"
+        }
+    ], 
+    "description": "1954 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Tipperary North", 
+    "quota": 7059, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 28235, 
+    "year": 1954
+}

@@ -1,0 +1,180 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9326
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.9, 
+            "full_name": "S\u00e9amus Brennan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7744, 
+                7857, 
+                7917, 
+                8117, 
+                8496, 
+                10926
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14, 
+            "full_name": "Tom Kitt", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3182, 
+            "transfers_pc": 22.76
+        }, 
+        {
+            "counts": [
+                8288, 
+                8344, 
+                8356, 
+                8647, 
+                8816, 
+                9315
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15, 
+            "full_name": "Liz O'Donnell", 
+            "party": "Progressive Democrats", 
+            "transfers": 1027, 
+            "transfers_pc": 7.34
+        }, 
+        {
+            "counts": [
+                5568, 
+                5629, 
+                5633, 
+                5844, 
+                5928, 
+                6142, 
+                6540, 
+                11048
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.1, 
+            "full_name": "Olivia Mitchell", 
+            "party": "Fine Gael", 
+            "transfers": 5480, 
+            "transfers_pc": 39.19
+        }, 
+        {
+            "counts": [
+                5222, 
+                5482, 
+                5485, 
+                6161, 
+                7124, 
+                7319, 
+                8019, 
+                8546, 
+                9228
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.4, 
+            "full_name": "Eamon Ryan", 
+            "party": "Green Party", 
+            "transfers": 4006, 
+            "transfers_pc": 28.65
+        }, 
+        {
+            "counts": [
+                5247, 
+                5400, 
+                5404, 
+                5723, 
+                6077, 
+                6232, 
+                6483, 
+                7108, 
+                8263
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.5, 
+            "full_name": "Eithne FitzGerald", 
+            "party": "Labour Party", 
+            "transfers": 3016, 
+            "transfers_pc": 21.57
+        }, 
+        {
+            "counts": [
+                5363, 
+                5410, 
+                5413, 
+                5568, 
+                5653, 
+                5693, 
+                5833
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.7, 
+            "full_name": "Alan Shatter", 
+            "party": "Fine Gael", 
+            "transfers": 470, 
+            "transfers_pc": 3.36
+        }, 
+        {
+            "counts": [
+                3180, 
+                3220, 
+                3245, 
+                3418, 
+                3648
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.8, 
+            "full_name": "Maria Corrigan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 468, 
+            "transfers_pc": 3.35
+        }, 
+        {
+            "counts": [
+                2172, 
+                2345, 
+                2347, 
+                2474
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.9, 
+            "full_name": "Deirdre Whelan", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 302, 
+            "transfers_pc": 2.16
+        }, 
+        {
+            "counts": [
+                2090, 
+                2207, 
+                2209
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.8, 
+            "full_name": "Karen Canning", 
+            "party": "Ind. Health Alliance", 
+            "transfers": 119, 
+            "transfers_pc": 0.85
+        }, 
+        {
+            "counts": [
+                1063
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.9, 
+            "full_name": "Lisa Maher", 
+            "party": "Socialist Party"
+        }
+    ], 
+    "counts_held": 9, 
+    "description": "2002 general election", 
+    "election_type": "dail", 
+    "electorate": 92645, 
+    "name": "Dublin South", 
+    "quota": 9211, 
+    "spoilt": 427, 
+    "turnout": 55690, 
+    "valid": 55263, 
+    "year": 2002
+}

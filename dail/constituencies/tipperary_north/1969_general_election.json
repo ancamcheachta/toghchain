@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8751
+            ], 
+            "elected": true, 
+            "first_pref_pc": 30.3, 
+            "full_name": "Michael O'Kennedy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7169
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.8, 
+            "full_name": "Thomas Dunne", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3872
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.4, 
+            "full_name": "Michael Smith", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2738
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.5, 
+            "full_name": "John Doyle", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2673
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.3, 
+            "full_name": "Liam Whyte", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2498
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.7, 
+            "full_name": "John Ryan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                651
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.3, 
+            "full_name": "Thomas Shanahan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                517
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Richard Deasy", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1969 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Tipperary North", 
+    "quota": 7218, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 28869, 
+    "year": 1969
+}

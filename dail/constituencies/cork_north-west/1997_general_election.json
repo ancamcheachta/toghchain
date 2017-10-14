@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8041
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.1, 
+            "full_name": "Michael Creed", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                8299
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.9, 
+            "full_name": "Michael Moynihan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7867
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.6, 
+            "full_name": "Donal Moynihan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6253
+            ], 
+            "elected": false, 
+            "first_pref_pc": 18, 
+            "full_name": "Frank Crowley", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2574
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.4, 
+            "full_name": "Bill Cashin", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1729
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5, 
+            "full_name": "Donnie Howard", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1997 general election", 
+    "election_type": "dail", 
+    "electorate": 47119, 
+    "name": "Cork North-West", 
+    "quota": 8691, 
+    "spoilt": 401, 
+    "turnout": 35164, 
+    "valid": 34763, 
+    "year": 1997
+}

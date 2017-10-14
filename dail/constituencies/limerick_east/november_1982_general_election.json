@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10615
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.5, 
+            "full_name": "Desmond O'Malley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                9058
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.2, 
+            "full_name": "Tom O'Donnell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7306
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.5, 
+            "full_name": "Willie O'Dea", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5631
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.9, 
+            "full_name": "Michael Noonan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4793
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.2, 
+            "full_name": "Frank Prendergast", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4125
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.7, 
+            "full_name": "Jim Kemmy", 
+            "party": "Democratic Socialist Party"
+        }, 
+        {
+            "counts": [
+                3204
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.8, 
+            "full_name": "Michael Herbert", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1308
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "John O'Sullivan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                859
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "John Bourke", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                177
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Richard Power", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                145
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Patrick Moore", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "November 1982 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Limerick East", 
+    "quota": 7871, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 47221, 
+    "year": 1982
+}

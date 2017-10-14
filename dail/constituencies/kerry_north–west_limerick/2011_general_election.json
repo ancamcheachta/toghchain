@@ -1,0 +1,171 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                12304
+            ], 
+            "elected": true, 
+            "first_pref_pc": 27, 
+            "full_name": "Jimmy Deenihan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                9159, 
+                9415, 
+                9514, 
+                9571, 
+                9947, 
+                10685, 
+                12245
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.1, 
+            "full_name": "Arthur Spring", 
+            "party": "Labour Party", 
+            "transfers": 3086, 
+            "transfers_pc": 32.57
+        }, 
+        {
+            "counts": [
+                9282, 
+                9440, 
+                9489, 
+                9540, 
+                9784, 
+                10164, 
+                11416
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.3, 
+            "full_name": "Martin Ferris", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 2134, 
+            "transfers_pc": 22.52
+        }, 
+        {
+            "counts": [
+                6295, 
+                6677, 
+                6726, 
+                6781, 
+                6892, 
+                7142, 
+                8044
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.8, 
+            "full_name": "John Sheahan", 
+            "party": "Fine Gael", 
+            "transfers": 1749, 
+            "transfers_pc": 18.46
+        }, 
+        {
+            "counts": [
+                5230, 
+                5275, 
+                5306, 
+                5329, 
+                5451, 
+                5678
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.5, 
+            "full_name": "Tom McEllistrim", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 448, 
+            "transfers_pc": 4.73
+        }, 
+        {
+            "counts": [
+                1455, 
+                1477, 
+                1521, 
+                1577, 
+                1950
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.2, 
+            "full_name": "Bridget O'Brien", 
+            "party": "Independent", 
+            "transfers": 495, 
+            "transfers_pc": 5.22
+        }, 
+        {
+            "counts": [
+                706, 
+                722, 
+                765, 
+                849
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.5, 
+            "full_name": "Mary Fitzgibbon", 
+            "party": "Independent", 
+            "transfers": 143, 
+            "transfers_pc": 1.51
+        }, 
+        {
+            "counts": [
+                486, 
+                492, 
+                498, 
+                519
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "Sam Locke", 
+            "party": "Independent", 
+            "transfers": 33, 
+            "transfers_pc": 0.35
+        }, 
+        {
+            "counts": [
+                357, 
+                362, 
+                373
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "Mick Reidy", 
+            "party": "New Vision", 
+            "transfers": 16, 
+            "transfers_pc": 0.17
+        }, 
+        {
+            "counts": [
+                239, 
+                247
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Tom Donovan", 
+            "party": "Green Party", 
+            "transfers": 8, 
+            "transfers_pc": 0.08
+        }, 
+        {
+            "counts": [
+                101, 
+                103
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "John McKenna", 
+            "party": "Independent", 
+            "transfers": 2, 
+            "transfers_pc": 0.02
+        }
+    ], 
+    "counts_held": 7, 
+    "description": "2011 general election", 
+    "election_type": "dail", 
+    "electorate": 63614, 
+    "name": "Kerry North\u2013West Limerick", 
+    "quota": 11404, 
+    "spoilt": 413, 
+    "turnout": 46027, 
+    "valid": 45614, 
+    "year": 2011
+}

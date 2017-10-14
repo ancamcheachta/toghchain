@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6988
+            ], 
+            "elected": true, 
+            "first_pref_pc": 28.9, 
+            "full_name": "James Everett", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5261
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.7, 
+            "full_name": "S\u00e9amus Moore", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3988
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.5, 
+            "full_name": "Dermot O'Mahony", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3056
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.6, 
+            "full_name": "Richard Wilson", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                2716
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.2, 
+            "full_name": "Christopher Byrne", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2206
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.1, 
+            "full_name": "Alan Patten", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "June 1927 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Wicklow", 
+    "quota": 6054, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 24215, 
+    "year": 1927
+}

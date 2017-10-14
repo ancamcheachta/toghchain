@@ -1,0 +1,131 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9471
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.7, 
+            "full_name": "David Andrews", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8207
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17, 
+            "full_name": "Se\u00e1n Barrett", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5935
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.3, 
+            "full_name": "Barry Desmond", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                7296
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.2, 
+            "full_name": "Liam T. Cosgrave", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6045
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.6, 
+            "full_name": "Martin O'Donoghue", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3739
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.8, 
+            "full_name": "Monica Barnes", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1674
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.5, 
+            "full_name": "Aine Elliott", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1270
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "William Harvey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1244
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "Hazel Boland", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1026
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "Jane Dillon Byrne", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                927
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.9, 
+            "full_name": "Ubi Dwyer", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                761
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "Frank Smyth", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                575
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "Dermot Boucher", 
+            "party": "Socialist Labour Party"
+        }
+    ], 
+    "description": "1981 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "D\u00fan Laoghaire", 
+    "quota": 8029, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 48170, 
+    "year": 1981
+}

@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7806
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21, 
+            "full_name": "Desmond O'Malley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6841
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.4, 
+            "full_name": "Tom O'Donnell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4532
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.2, 
+            "full_name": "Michael Herbert", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5495
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.8, 
+            "full_name": "Stephen Coughlan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3523
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.5, 
+            "full_name": "Ted Russell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3292
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.9, 
+            "full_name": "Michael Lipper", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3242
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.7, 
+            "full_name": "Peadar Clohessy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2456
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.6, 
+            "full_name": "Patrick Kennedy", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1973 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Limerick East", 
+    "quota": 7438, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 37187, 
+    "year": 1973
+}

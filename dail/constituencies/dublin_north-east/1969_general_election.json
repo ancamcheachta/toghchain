@@ -1,0 +1,131 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                11677
+            ], 
+            "elected": true, 
+            "first_pref_pc": 31.5, 
+            "full_name": "Charles Haughey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7591
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.5, 
+            "full_name": "Conor Cruise O'Brien", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4931
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.3, 
+            "full_name": "Paddy Belton", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3070
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.3, 
+            "full_name": "Eugene Timmons", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2060
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.6, 
+            "full_name": "Paddy Dunne", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1508
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.1, 
+            "full_name": "Matthew Finnegan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1393
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.8, 
+            "full_name": "James Kelly", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1230
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.3, 
+            "full_name": "Thomas Duffy", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1084
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "Timothy Killeen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                746
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "Marcus Wilson", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                702
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.9, 
+            "full_name": "Ray Fay", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                688
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.9, 
+            "full_name": "Richard Lacy", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                364
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Se\u00e1n Dublin Bay Rockall Loftus", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1969 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin North-East", 
+    "quota": 7409, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 37044, 
+    "year": 1969
+}

@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9177
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.4, 
+            "full_name": "Oliver J. Flanagan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                8952
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16, 
+            "full_name": "Liam Hyland", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8467
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.1, 
+            "full_name": "Ger Connolly", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6409
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.4, 
+            "full_name": "Tom Enright", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6892
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.3, 
+            "full_name": "Bernard Cowen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5010
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9, 
+            "full_name": "Charles McDonald", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4691
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.4, 
+            "full_name": "Johnny Butterfield", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3618
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.5, 
+            "full_name": "Jeremiah Lodge", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2394
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.3, 
+            "full_name": "Gerry McGuire", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                201
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Joe McCormack", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                191
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Francis Dunne", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1981 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Laois\u2013Offaly", 
+    "quota": 9334, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 56002, 
+    "year": 1981
+}

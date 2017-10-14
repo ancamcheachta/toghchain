@@ -1,0 +1,228 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                11109
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.1, 
+            "full_name": "Brian Lenihan, Snr", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8218
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.1, 
+            "full_name": "Tom\u00e1s Mac Giolla", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                6920, 
+                7067, 
+                7084, 
+                7118, 
+                7145, 
+                7306, 
+                7411, 
+                7632, 
+                8666
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.4, 
+            "full_name": "Jim Mitchell", 
+            "party": "Fine Gael", 
+            "transfers": 1746, 
+            "transfers_pc": 14.38
+        }, 
+        {
+            "counts": [
+                4886, 
+                5000, 
+                5006, 
+                5018, 
+                5023, 
+                5055, 
+                5098, 
+                5417, 
+                6461, 
+                7901, 
+                8475
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.2, 
+            "full_name": "Austin Currie", 
+            "party": "Fine Gael", 
+            "transfers": 3589, 
+            "transfers_pc": 29.56
+        }, 
+        {
+            "counts": [
+                4144, 
+                5504, 
+                5514, 
+                5528, 
+                5544, 
+                5573, 
+                5662, 
+                5813, 
+                5977, 
+                6348, 
+                6390, 
+                6469
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.6, 
+            "full_name": "Liam Lawlor", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2325, 
+            "transfers_pc": 19.15
+        }, 
+        {
+            "counts": [
+                3924, 
+                5240, 
+                5245, 
+                5255, 
+                5276, 
+                5333, 
+                5414, 
+                5678, 
+                5835, 
+                6201, 
+                6246, 
+                6396
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.2, 
+            "full_name": "Olga Bennett", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2472, 
+            "transfers_pc": 20.36
+        }, 
+        {
+            "counts": [
+                2063, 
+                2092, 
+                2126, 
+                2189, 
+                2220, 
+                2370, 
+                2567, 
+                3360, 
+                3707
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.3, 
+            "full_name": "Eamon Tuffy", 
+            "party": "Labour Party", 
+            "transfers": 1644, 
+            "transfers_pc": 13.54
+        }, 
+        {
+            "counts": [
+                2572, 
+                2628, 
+                2634, 
+                2647, 
+                2652, 
+                2682, 
+                2734, 
+                3005
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.4, 
+            "full_name": "Patrick O'Malley", 
+            "party": "Progressive Democrats", 
+            "transfers": 433, 
+            "transfers_pc": 3.57
+        }, 
+        {
+            "counts": [
+                1915, 
+                1965, 
+                2003, 
+                2031, 
+                2077, 
+                2182, 
+                2484
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4, 
+            "full_name": "Bridin O'Connor", 
+            "party": "Green Party", 
+            "transfers": 569, 
+            "transfers_pc": 4.69
+        }, 
+        {
+            "counts": [
+                853, 
+                867, 
+                889, 
+                905, 
+                1301, 
+                1364
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "John McCann", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 511, 
+            "transfers_pc": 4.21
+        }, 
+        {
+            "counts": [
+                668, 
+                676, 
+                703, 
+                716, 
+                735
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "Michael Conaghan", 
+            "party": "Democratic Socialist Party", 
+            "transfers": 67, 
+            "transfers_pc": 0.55
+        }, 
+        {
+            "counts": [
+                545, 
+                553, 
+                593, 
+                603
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "Ursula Quinn", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 58, 
+            "transfers_pc": 0.48
+        }, 
+        {
+            "counts": [
+                209, 
+                211
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "John Montgomery", 
+            "party": "Independent", 
+            "transfers": 2, 
+            "transfers_pc": 0.02
+        }
+    ], 
+    "counts_held": 12, 
+    "description": "1989 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin West", 
+    "quota": 8005, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 48026, 
+    "year": 1989
+}

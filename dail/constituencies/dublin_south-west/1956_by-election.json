@@ -1,0 +1,32 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                14416
+            ], 
+            "elected": true, 
+            "first_pref_pc": 59.8, 
+            "full_name": "Noel Lemass, Jnr", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                9682
+            ], 
+            "elected": false, 
+            "first_pref_pc": 40.2, 
+            "full_name": "Edmond Power", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1956 by-election", 
+    "election_type": "dail", 
+    "electorate": 63286, 
+    "name": "Dublin South-West", 
+    "quota": 12050, 
+    "spoilt": null, 
+    "turnout": 38, 
+    "valid": 24098, 
+    "year": 1956
+}

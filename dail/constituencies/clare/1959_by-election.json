@@ -1,0 +1,41 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                18154
+            ], 
+            "elected": true, 
+            "first_pref_pc": 56.1, 
+            "full_name": "Se\u00e1n \u00d3 Ceallaigh", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8770
+            ], 
+            "elected": false, 
+            "first_pref_pc": 27.1, 
+            "full_name": "Francis Gordon", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5464
+            ], 
+            "elected": false, 
+            "first_pref_pc": 16.9, 
+            "full_name": "S\u00e9amus Sabhat", 
+            "party": "Sinn F\u00e9in"
+        }
+    ], 
+    "description": "1959 by-election", 
+    "election_type": "dail", 
+    "electorate": 47227, 
+    "name": "Clare", 
+    "quota": 16195, 
+    "spoilt": null, 
+    "turnout": 68, 
+    "valid": 32388, 
+    "year": 1959
+}

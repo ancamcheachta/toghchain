@@ -1,0 +1,165 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                11245
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.9, 
+            "full_name": "\u00c1ine Brady", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7882, 
+                8063, 
+                8107, 
+                8468, 
+                9220
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.4, 
+            "full_name": "Emmet Stagg", 
+            "party": "Labour Party", 
+            "transfers": 1338, 
+            "transfers_pc": 12.02
+        }, 
+        {
+            "counts": [
+                6606, 
+                8113, 
+                8151, 
+                8817, 
+                9097
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.6, 
+            "full_name": "Michael Fitzpatrick", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2491, 
+            "transfers_pc": 22.37
+        }, 
+        {
+            "counts": [
+                5340, 
+                5427, 
+                5471, 
+                5663, 
+                5912, 
+                9229
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.8, 
+            "full_name": "Bernard Durkan", 
+            "party": "Fine Gael", 
+            "transfers": 3889, 
+            "transfers_pc": 34.92
+        }, 
+        {
+            "counts": [
+                5188, 
+                5339, 
+                5474, 
+                5881, 
+                6733, 
+                7652
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.5, 
+            "full_name": "Catherine Murphy", 
+            "party": "Independent", 
+            "transfers": 2464, 
+            "transfers_pc": 22.13
+        }, 
+        {
+            "counts": [
+                4250, 
+                4306, 
+                4332, 
+                4489, 
+                4832
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.4, 
+            "full_name": "Darren Scully", 
+            "party": "Fine Gael", 
+            "transfers": 582, 
+            "transfers_pc": 5.23
+        }, 
+        {
+            "counts": [
+                2215, 
+                2289, 
+                2342, 
+                2668
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.9, 
+            "full_name": "Shane Fitzgerald", 
+            "party": "Green Party", 
+            "transfers": 453, 
+            "transfers_pc": 4.07
+        }, 
+        {
+            "counts": [
+                1103, 
+                1135, 
+                1154
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.4, 
+            "full_name": "Cristin McCauley", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 51, 
+            "transfers_pc": 0.46
+        }, 
+        {
+            "counts": [
+                983, 
+                1083, 
+                1103
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "Jeff Aherne", 
+            "party": "Progressive Democrats", 
+            "transfers": 120, 
+            "transfers_pc": 1.08
+        }, 
+        {
+            "counts": [
+                234, 
+                244
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "John Corish", 
+            "party": "Independent", 
+            "transfers": 10, 
+            "transfers_pc": 0.09
+        }, 
+        {
+            "counts": [
+                145, 
+                153
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Gerry Browne", 
+            "party": "Independent", 
+            "transfers": 8, 
+            "transfers_pc": 0.07
+        }
+    ], 
+    "counts_held": 6, 
+    "description": "2007 general election", 
+    "election_type": "dail", 
+    "electorate": 71311, 
+    "name": "Kildare North", 
+    "quota": 9039, 
+    "spoilt": 232, 
+    "turnout": 45423, 
+    "valid": 45191, 
+    "year": 2007
+}

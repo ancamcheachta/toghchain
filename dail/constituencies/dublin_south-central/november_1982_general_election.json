@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                null
+            ], 
+            "elected": true, 
+            "first_pref_pc": null, 
+            "full_name": "John O'Connell", 
+            "party": "Ceann Comhairle"
+        }, 
+        {
+            "counts": [
+                10074
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22, 
+            "full_name": "Gay Mitchell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                9336
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.4, 
+            "full_name": "Ben Briscoe", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8068
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.6, 
+            "full_name": "Fergus O'Brien", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6425
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14, 
+            "full_name": "Frank Cluskey", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4616
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.1, 
+            "full_name": "Thomas J. Fitzpatrick", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3774
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.2, 
+            "full_name": "Eric Byrne", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                2426
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.3, 
+            "full_name": "Lauri Corcoran", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                641
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "Michael Stokes", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                303
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "S\u00e9amus Rattigan", 
+            "party": "Democratic Socialist Party"
+        }, 
+        {
+            "counts": [
+                195
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Brendan Moran", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "November 1982 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South-Central", 
+    "quota": 9172, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 45858, 
+    "year": 1982
+}

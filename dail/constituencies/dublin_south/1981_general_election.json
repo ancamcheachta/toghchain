@@ -1,0 +1,140 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7779
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.3, 
+            "full_name": "S\u00e9amus Brennan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7964
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.7, 
+            "full_name": "John Kelly", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4527
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.9, 
+            "full_name": "Nuala Fennell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4762
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.4, 
+            "full_name": "Alan Shatter", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5690
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.2, 
+            "full_name": "Niall Andrews", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5408
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.6, 
+            "full_name": "S\u00edle de Valera", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3495
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.9, 
+            "full_name": "Alexis FitzGerald", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3004
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.9, 
+            "full_name": "John Horgan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2636
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.2, 
+            "full_name": "Tom Kitt", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2621
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.2, 
+            "full_name": "Thomas Hand", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1258
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.5, 
+            "full_name": "Eithne FitzGerald", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                711
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "Frank Buckley", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                616
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "Norman Simpson", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                335
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "Denis O'Connor", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1981 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South", 
+    "quota": 8468, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 50806, 
+    "year": 1981
+}

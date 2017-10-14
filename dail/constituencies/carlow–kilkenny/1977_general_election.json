@@ -1,0 +1,131 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7119
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.8, 
+            "full_name": "Kieran Crotty", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                8376
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.1, 
+            "full_name": "Tom Nolan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8143
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.7, 
+            "full_name": "Jim Gibbons", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6317
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.4, 
+            "full_name": "Liam Aylward", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6276
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.3, 
+            "full_name": "S\u00e9amus Pattison", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5990
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.8, 
+            "full_name": "Desmond Governey", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4126
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.4, 
+            "full_name": "Mick Lanigan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2673
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.8, 
+            "full_name": "Patrick Carpenter", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1666
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "Se\u00e1n Walsh", 
+            "party": "Sinn F\u00e9in (Workers' Party)"
+        }, 
+        {
+            "counts": [
+                1510
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Thomas Coogan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1430
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "John McNally", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1214
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.2, 
+            "full_name": "Peter O'Hanrahan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                589
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "John Bolger", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1977 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Carlow\u2013Kilkenny", 
+    "quota": 9239, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 55429, 
+    "year": 1977
+}

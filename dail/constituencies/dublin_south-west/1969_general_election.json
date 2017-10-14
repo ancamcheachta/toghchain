@@ -1,0 +1,131 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                5724
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.6, 
+            "full_name": "Joseph Dowling", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5136
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.6, 
+            "full_name": "Se\u00e1n Dunne", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5273
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.1, 
+            "full_name": "John O'Connell", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2512
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.6, 
+            "full_name": "Noel Lemass, Jnr", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2066
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.1, 
+            "full_name": "Lauri Corcoran", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1643
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.6, 
+            "full_name": "George Butler", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1643
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.6, 
+            "full_name": "Se\u00e1n Sherwin", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1331
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.6, 
+            "full_name": "James O'Keeffe", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1203
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.1, 
+            "full_name": "James McMahon", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                893
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.1, 
+            "full_name": "Liam Farrell", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                856
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "Harry Lowe", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                759
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "Pierce Redmond", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                154
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Ciaran McKeown", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1969 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South-West", 
+    "quota": 5839, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 29193, 
+    "year": 1969
+}

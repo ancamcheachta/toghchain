@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                null
+            ], 
+            "elected": true, 
+            "first_pref_pc": null, 
+            "full_name": "Patrick Hogan", 
+            "party": "Ceann Comhairle"
+        }, 
+        {
+            "counts": [
+                14372
+            ], 
+            "elected": true, 
+            "first_pref_pc": 41.8, 
+            "full_name": "Patrick Hillery", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8715
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.3, 
+            "full_name": "William Murphy", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5819
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.9, 
+            "full_name": "Se\u00e1n \u00d3 Ceallaigh", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3131
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.1, 
+            "full_name": "Francis Gordon", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2362
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.9, 
+            "full_name": "P. A. \u00d3 S\u00edoch\u00e1in", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1965 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Clare", 
+    "quota": 8600, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 34399, 
+    "year": 1965
+}

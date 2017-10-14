@@ -1,0 +1,32 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10483
+            ], 
+            "elected": true, 
+            "first_pref_pc": 56.7, 
+            "full_name": "Honor Crowley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8018
+            ], 
+            "elected": false, 
+            "first_pref_pc": 43.3, 
+            "full_name": "Edmund Horan", 
+            "party": "Clann na Talmhan"
+        }
+    ], 
+    "description": "1945 by-election", 
+    "election_type": "dail", 
+    "electorate": 35945, 
+    "name": "Kerry South", 
+    "quota": 9251, 
+    "spoilt": null, 
+    "turnout": 51, 
+    "valid": 18501, 
+    "year": 1945
+}

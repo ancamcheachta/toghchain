@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7805
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.4, 
+            "full_name": "Tom Nolan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6114
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.7, 
+            "full_name": "Patrick Crotty", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6299
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.1, 
+            "full_name": "S\u00e9amus Pattison", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5865
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.1, 
+            "full_name": "Jim Gibbons", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4741
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.6, 
+            "full_name": "Desmond Governey", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4996
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.2, 
+            "full_name": "Bob Aylward", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3305
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.4, 
+            "full_name": "Martin Medlar", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2767
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.2, 
+            "full_name": "John Moriarty", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2684
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6, 
+            "full_name": "Matthew Byrne", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                175
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Charles Cummins", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1965 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Carlow\u2013Kilkenny", 
+    "quota": 7459, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 44751, 
+    "year": 1965
+}

@@ -1,0 +1,50 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9215
+            ], 
+            "elected": true, 
+            "first_pref_pc": 31, 
+            "full_name": "Frank Aiken", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8364
+            ], 
+            "elected": true, 
+            "first_pref_pc": 28.2, 
+            "full_name": "James Coburn", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6768
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.8, 
+            "full_name": "Laurence Walsh", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5341
+            ], 
+            "elected": false, 
+            "first_pref_pc": 18, 
+            "full_name": "James Murphy", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1937 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Louth", 
+    "quota": 7423, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 29688, 
+    "year": 1937
+}

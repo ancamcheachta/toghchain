@@ -1,0 +1,166 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9290, 
+                9609, 
+                10122
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.1, 
+            "full_name": "Damien English", 
+            "party": "Fine Gael", 
+            "transfers": 832, 
+            "transfers_pc": 6.3
+        }, 
+        {
+            "counts": [
+                6989, 
+                7421, 
+                7711, 
+                8155, 
+                9112
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.4, 
+            "full_name": "Peadar T\u00f3ib\u00edn", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 2123, 
+            "transfers_pc": 16.08
+        }, 
+        {
+            "counts": [
+                5262, 
+                5414, 
+                5574, 
+                7879, 
+                8926
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.1, 
+            "full_name": "Ray Butler", 
+            "party": "Fine Gael", 
+            "transfers": 3664, 
+            "transfers_pc": 27.75
+        }, 
+        {
+            "counts": [
+                5432, 
+                5852, 
+                6040, 
+                6794, 
+                7798
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.5, 
+            "full_name": "Jenny McHugh", 
+            "party": "Labour Party", 
+            "transfers": 2366, 
+            "transfers_pc": 17.92
+        }, 
+        {
+            "counts": [
+                3789, 
+                3874, 
+                6065, 
+                6437
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.4, 
+            "full_name": "Johnny Brady", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2648, 
+            "transfers_pc": 20.05
+        }, 
+        {
+            "counts": [
+                3898, 
+                4072, 
+                4208
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.7, 
+            "full_name": "Catherine Yore", 
+            "party": "Fine Gael", 
+            "transfers": 310, 
+            "transfers_pc": 2.35
+        }, 
+        {
+            "counts": [
+                3496, 
+                3631
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.7, 
+            "full_name": "Shane Cassells", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 135, 
+            "transfers_pc": 1.02
+        }, 
+        {
+            "counts": [
+                479
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "Fiona Irwin", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                475
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "Stephen Ball", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                387
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Daithi Stephens", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                258
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Ronan Carolan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                234
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Manus MacMeanmain", 
+            "party": "Christian Solidarity"
+        }, 
+        {
+            "counts": [
+                189
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Seamus McDonagh", 
+            "party": "Workers' Party"
+        }
+    ], 
+    "counts_held": 5, 
+    "description": "2011 general election", 
+    "election_type": "dail", 
+    "electorate": 62776, 
+    "name": "Meath West", 
+    "quota": 10045, 
+    "spoilt": 413, 
+    "turnout": 40591, 
+    "valid": 40178, 
+    "year": 2011
+}

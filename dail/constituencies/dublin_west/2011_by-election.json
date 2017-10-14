@@ -1,0 +1,159 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8665, 
+                8885, 
+                10186, 
+                13027, 
+                17636
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.3, 
+            "full_name": "Patrick Nulty", 
+            "party": "Labour Party", 
+            "transfers": 8971, 
+            "transfers_pc": 46.49
+        }, 
+        {
+            "counts": [
+                7742, 
+                7935, 
+                8720, 
+                9873, 
+                11590
+            ], 
+            "elected": false, 
+            "first_pref_pc": 21.7, 
+            "full_name": "David McGuinness", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3848, 
+            "transfers_pc": 19.94
+        }, 
+        {
+            "counts": [
+                7542, 
+                7834, 
+                9368, 
+                9873
+            ], 
+            "elected": false, 
+            "first_pref_pc": 21.1, 
+            "full_name": "Ruth Coppinger", 
+            "party": "Socialist Party", 
+            "transfers": 2331, 
+            "transfers_pc": 12.08
+        }, 
+        {
+            "counts": [
+                5263, 
+                5410, 
+                5942
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.7, 
+            "full_name": "Eithne Loftus", 
+            "party": "Fine Gael", 
+            "transfers": 679, 
+            "transfers_pc": 3.52
+        }, 
+        {
+            "counts": [
+                3173, 
+                3309
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.9, 
+            "full_name": "Paul Donnelly", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 136, 
+            "transfers_pc": 0.7
+        }, 
+        {
+            "counts": [
+                1787, 
+                1925
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5, 
+            "full_name": "Roderic O'Gorman", 
+            "party": "Green Party", 
+            "transfers": 138, 
+            "transfers_pc": 0.72
+        }, 
+        {
+            "counts": [
+                775
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.2, 
+            "full_name": "Barry Caesar Hunt", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                311
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.9, 
+            "full_name": "John Frank Kidd", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                185
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Gary Bermingham", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                95
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Brendan Doris", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                73
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Jim Tallon", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                51
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Benny Cooney", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                40
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Peadar \u00d3 Ceallaigh", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 5, 
+    "description": "2011 by-election", 
+    "election_type": "dail", 
+    "electorate": 62396, 
+    "name": "Dublin West", 
+    "quota": 17852, 
+    "spoilt": 689, 
+    "turnout": 36391, 
+    "valid": 35702, 
+    "year": 2011
+}

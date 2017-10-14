@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7555
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21, 
+            "full_name": "Tom McEllistrim, Snr", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6214
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.2, 
+            "full_name": "Eamonn Kissane", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5877
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.3, 
+            "full_name": "Dan Spring", 
+            "party": "National Labour Party"
+        }, 
+        {
+            "counts": [
+                4569
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.7, 
+            "full_name": "Patrick Finucane", 
+            "party": "Clann na Talmhan"
+        }, 
+        {
+            "counts": [
+                4390
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.2, 
+            "full_name": "Johnny Connor", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                3792
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.5, 
+            "full_name": "Thomas O'Connor", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2108
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.8, 
+            "full_name": "Jeremiah Nolan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1564
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.3, 
+            "full_name": "John Walsh", 
+            "party": "Clann na Poblachta"
+        }
+    ], 
+    "description": "1948 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Kerry North", 
+    "quota": 7214, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 36069, 
+    "year": 1948
+}

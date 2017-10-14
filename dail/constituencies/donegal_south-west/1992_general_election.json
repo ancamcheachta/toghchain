@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7870
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26.4, 
+            "full_name": "Pat the Cope Gallagher", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6639
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.3, 
+            "full_name": "Mary Coughlan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5504
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.5, 
+            "full_name": "Dinny McGinley", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5745
+            ], 
+            "elected": false, 
+            "first_pref_pc": 19.3, 
+            "full_name": "James White", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1825
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.1, 
+            "full_name": "S\u00e9amus Rodgers", 
+            "party": "Democratic Left"
+        }, 
+        {
+            "counts": [
+                577
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.9, 
+            "full_name": "Anna Rose Doherty", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                700
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.4, 
+            "full_name": "Benny Mooney", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                539
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Fred Coll", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                409
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "John McCluskey", 
+            "party": "Sinn F\u00e9in"
+        }
+    ], 
+    "description": "1992 general election", 
+    "election_type": "dail", 
+    "electorate": 48528, 
+    "name": "Donegal South-West", 
+    "quota": 7453, 
+    "spoilt": 688, 
+    "turnout": 30496, 
+    "valid": 29808, 
+    "year": 1992
+}

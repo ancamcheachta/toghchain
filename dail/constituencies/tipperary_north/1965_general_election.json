@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6377
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.8, 
+            "full_name": "Thomas Dunne", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5466
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.4, 
+            "full_name": "Patrick Tierney", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6411
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24, 
+            "full_name": "John Fanning", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5411
+            ], 
+            "elected": false, 
+            "first_pref_pc": 20.2, 
+            "full_name": "Michael O'Kennedy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3101
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.6, 
+            "full_name": "Donal Nealon", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1965 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Tipperary North", 
+    "quota": 6692, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 26766, 
+    "year": 1965
+}

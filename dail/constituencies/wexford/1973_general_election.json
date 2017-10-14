@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7863
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.8, 
+            "full_name": "Brendan Corish", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6289
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.6, 
+            "full_name": "Se\u00e1n Browne", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5978
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.8, 
+            "full_name": "Lorcan Allen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5074
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.4, 
+            "full_name": "John Esmonde", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4487
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.9, 
+            "full_name": "Michael D'Arcy", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3487
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.2, 
+            "full_name": "Se\u00e1n O'Gorman", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2781
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.4, 
+            "full_name": "Andrew Doyle", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1887
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5, 
+            "full_name": "Patrick Ronan", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1973 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Wexford", 
+    "quota": 7570, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 37846, 
+    "year": 1973
+}

@@ -1,0 +1,90 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7853, 
+                7967, 
+                10995
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.3, 
+            "full_name": "Paddy Harte", 
+            "party": "Fine Gael", 
+            "transfers": 3142, 
+            "transfers_pc": 76.26
+        }, 
+        {
+            "counts": [
+                7920, 
+                7999, 
+                8228
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.5, 
+            "full_name": "Neil Blaney", 
+            "party": "Independent Fianna F\u00e1il", 
+            "transfers": 308, 
+            "transfers_pc": 7.48
+        }, 
+        {
+            "counts": [
+                7283, 
+                7319, 
+                7536, 
+                7814
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.6, 
+            "full_name": "Hugh Conaghan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 531, 
+            "transfers_pc": 12.89
+        }, 
+        {
+            "counts": [
+                5111, 
+                5191, 
+                5324, 
+                5500
+            ], 
+            "elected": false, 
+            "first_pref_pc": 15.8, 
+            "full_name": "Bernard McGlinchey", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 389, 
+            "transfers_pc": 9.44
+        }, 
+        {
+            "counts": [
+                3650, 
+                3753
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.3, 
+            "full_name": "Bernard McGuinness", 
+            "party": "Fine Gael", 
+            "transfers": 103, 
+            "transfers_pc": 2.5
+        }, 
+        {
+            "counts": [
+                470
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.5, 
+            "full_name": "Anne Wilkinson", 
+            "party": "Labour Party"
+        }
+    ], 
+    "counts_held": 4, 
+    "description": "1981 general election", 
+    "election_type": "dail", 
+    "electorate": 40807, 
+    "name": "Donegal North-East", 
+    "quota": 8072, 
+    "spoilt": 405, 
+    "turnout": 32992, 
+    "valid": 32287, 
+    "year": 1981
+}

@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9373
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.9, 
+            "full_name": "Myra Barry", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7686
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.9, 
+            "full_name": "Patrick Hegarty", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6241
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.6, 
+            "full_name": "Joe Sherlock", 
+            "party": "Sinn F\u00e9in (Workers' Party)"
+        }, 
+        {
+            "counts": [
+                5661
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.2, 
+            "full_name": "Carey Joyce", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4401
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.3, 
+            "full_name": "John Brosnan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3489
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.1, 
+            "full_name": "Joe Dowling", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2773
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.5, 
+            "full_name": "Charles Mortell", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2363
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.5, 
+            "full_name": "Tommy Sheahan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                457
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "Edward Allen", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                267
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Mary Noonan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                150
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Mary Duggan", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1981 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Cork East", 
+    "quota": 8573, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 42861, 
+    "year": 1981
+}

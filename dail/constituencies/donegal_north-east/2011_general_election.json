@@ -1,0 +1,176 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9278, 
+                9350, 
+                9585
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.5, 
+            "full_name": "P\u00e1draig Mac Lochlainn", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 307, 
+            "transfers_pc": 2.89
+        }, 
+        {
+            "counts": [
+                7330, 
+                7368, 
+                7513, 
+                7524, 
+                7662, 
+                8147, 
+                8731, 
+                12049
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.3, 
+            "full_name": "Joe McHugh", 
+            "party": "Fine Gael", 
+            "transfers": 4719, 
+            "transfers_pc": 44.49
+        }, 
+        {
+            "counts": [
+                6613, 
+                6661, 
+                6795, 
+                6816, 
+                7064, 
+                7255, 
+                7511, 
+                8245, 
+                8976
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.4, 
+            "full_name": "Charlie McConalogue", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2363, 
+            "transfers_pc": 22.28
+        }, 
+        {
+            "counts": [
+                4090, 
+                4162, 
+                4301, 
+                4319, 
+                4535, 
+                4801, 
+                5646, 
+                6131, 
+                7219
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.8, 
+            "full_name": "Jimmy Harte", 
+            "party": "Labour Party", 
+            "transfers": 3129, 
+            "transfers_pc": 29.5
+        }, 
+        {
+            "counts": [
+                4657, 
+                4710, 
+                4871, 
+                4884, 
+                4950, 
+                4976, 
+                5081
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.3, 
+            "full_name": "John Ryan", 
+            "party": "Fine Gael", 
+            "transfers": 424, 
+            "transfers_pc": 4
+        }, 
+        {
+            "counts": [
+                1876, 
+                1903, 
+                2063, 
+                2085, 
+                2299, 
+                2605
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.9, 
+            "full_name": "Dessie Shiels", 
+            "party": "Independent", 
+            "transfers": 729, 
+            "transfers_pc": 6.87
+        }, 
+        {
+            "counts": [
+                1287, 
+                1296, 
+                1399, 
+                1409, 
+                1653
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.4, 
+            "full_name": "Ian McGarvey", 
+            "party": "Independent", 
+            "transfers": 366, 
+            "transfers_pc": 3.45
+        }, 
+        {
+            "counts": [
+                1228, 
+                1249, 
+                1317, 
+                1327
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.2, 
+            "full_name": "MacDara Blaney", 
+            "party": "New Vision", 
+            "transfers": 99, 
+            "transfers_pc": 0.93
+        }, 
+        {
+            "counts": [
+                1150, 
+                1197
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "Betty Holmes", 
+            "party": "Independent", 
+            "transfers": 47, 
+            "transfers_pc": 0.44
+        }, 
+        {
+            "counts": [
+                206
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Humphrey Murphy", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                203
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Ryan Stewart", 
+            "party": "New Vision"
+        }
+    ], 
+    "counts_held": 9, 
+    "description": "2011 general election", 
+    "election_type": "dail", 
+    "electorate": 59084, 
+    "name": "Donegal North-East", 
+    "quota": 9480, 
+    "spoilt": 406, 
+    "turnout": 38324, 
+    "valid": 37918, 
+    "year": 2011
+}

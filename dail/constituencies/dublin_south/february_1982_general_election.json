@@ -1,0 +1,141 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10809
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21, 
+            "full_name": "John Kelly", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6779, 
+                7790, 
+                8878
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.2, 
+            "full_name": "Alan Shatter", 
+            "party": "Fine Gael", 
+            "transfers": 2099, 
+            "transfers_pc": 16.84
+        }, 
+        {
+            "counts": [
+                8055, 
+                8107, 
+                8176, 
+                9555
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.6, 
+            "full_name": "S\u00e9amus Brennan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1500, 
+            "transfers_pc": 12.03
+        }, 
+        {
+            "counts": [
+                5799, 
+                6488, 
+                7578, 
+                7729, 
+                7766, 
+                11554
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.3, 
+            "full_name": "Nuala Fennell", 
+            "party": "Fine Gael", 
+            "transfers": 5755, 
+            "transfers_pc": 46.17
+        }, 
+        {
+            "counts": [
+                4936, 
+                4951, 
+                5018, 
+                5904, 
+                6667, 
+                7168, 
+                8612
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.6, 
+            "full_name": "Niall Andrews", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3676, 
+            "transfers_pc": 29.49
+        }, 
+        {
+            "counts": [
+                4843, 
+                4850, 
+                4895, 
+                5550, 
+                5702, 
+                6010, 
+                6356
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.4, 
+            "full_name": "S\u00edle de Valera", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1513, 
+            "transfers_pc": 12.14
+        }, 
+        {
+            "counts": [
+                4589, 
+                4705, 
+                5048, 
+                5188, 
+                5215
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.9, 
+            "full_name": "John Horgan", 
+            "party": "Labour Party", 
+            "transfers": 626, 
+            "transfers_pc": 5.02
+        }, 
+        {
+            "counts": [
+                3133, 
+                3150, 
+                3249
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.1, 
+            "full_name": "Tom Kitt", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 116, 
+            "transfers_pc": 0.93
+        }, 
+        {
+            "counts": [
+                2511, 
+                2837
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.9, 
+            "full_name": "Thomas Hand", 
+            "party": "Fine Gael", 
+            "transfers": 326, 
+            "transfers_pc": 2.62
+        }
+    ], 
+    "counts_held": 7, 
+    "description": "February 1982 general election", 
+    "election_type": "dail", 
+    "electorate": 69195, 
+    "name": "Dublin South", 
+    "quota": 8576, 
+    "spoilt": 312, 
+    "turnout": 51766, 
+    "valid": 51454, 
+    "year": 1982
+}

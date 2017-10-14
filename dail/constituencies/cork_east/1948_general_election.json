@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7172
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.5, 
+            "full_name": "Martin Corry", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4072
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.9, 
+            "full_name": "Patrick O'Gorman", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4066
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.9, 
+            "full_name": "Se\u00e1n Keane, Snr", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4013
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.7, 
+            "full_name": "Leo Skinner", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3352
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.4, 
+            "full_name": "Daniel Cashman", 
+            "party": "Clann na Talmhan"
+        }, 
+        {
+            "counts": [
+                2170
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.4, 
+            "full_name": "Joseph Ahern", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1638
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.6, 
+            "full_name": "Michael Burke", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                1167
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4, 
+            "full_name": "William Dwyer", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                833
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "Garrett Roche", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                823
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "Patrick O'Brien", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1948 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Cork East", 
+    "quota": 7327, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 29306, 
+    "year": 1948
+}

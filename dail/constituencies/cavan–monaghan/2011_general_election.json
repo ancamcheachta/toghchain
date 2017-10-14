@@ -1,0 +1,223 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                11913
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.7, 
+            "full_name": "Caoimhgh\u00edn \u00d3 Caol\u00e1in", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                9702, 
+                9734, 
+                9817, 
+                10092, 
+                10249, 
+                10770, 
+                11237, 
+                14667
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.6, 
+            "full_name": "Brendan Smith", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 4965, 
+            "transfers_pc": 26.39
+        }, 
+        {
+            "counts": [
+                8333, 
+                8361, 
+                8412, 
+                8599, 
+                8679, 
+                10492, 
+                11201, 
+                11305, 
+                11434
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.7, 
+            "full_name": "Joe O'Reilly", 
+            "party": "Fine Gael", 
+            "transfers": 3101, 
+            "transfers_pc": 16.48
+        }, 
+        {
+            "counts": [
+                7864, 
+                7924, 
+                8225, 
+                8319, 
+                8728, 
+                9162, 
+                9895, 
+                10623, 
+                11178
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11, 
+            "full_name": "Se\u00e1n Conlan", 
+            "party": "Fine Gael", 
+            "transfers": 3314, 
+            "transfers_pc": 17.62
+        }, 
+        {
+            "counts": [
+                8144, 
+                8201, 
+                8374, 
+                8521, 
+                8886, 
+                9565, 
+                10177, 
+                10525, 
+                10861
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.4, 
+            "full_name": "Heather Humphreys", 
+            "party": "Fine Gael", 
+            "transfers": 2717, 
+            "transfers_pc": 14.44
+        }, 
+        {
+            "counts": [
+                6539, 
+                6624, 
+                6858, 
+                7289, 
+                7886, 
+                8324, 
+                9627, 
+                9884, 
+                10340
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.2, 
+            "full_name": "Kathryn Reilly", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 3801, 
+            "transfers_pc": 20.2
+        }, 
+        {
+            "counts": [
+                4658, 
+                4703, 
+                4817, 
+                4879, 
+                5052, 
+                5070, 
+                5279
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.5, 
+            "full_name": "Margaret Conlon", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 621, 
+            "transfers_pc": 3.3
+        }, 
+        {
+            "counts": [
+                4011, 
+                4144, 
+                4273, 
+                4527, 
+                4793, 
+                4998
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.6, 
+            "full_name": "Liam Hogan", 
+            "party": "Labour Party", 
+            "transfers": 987, 
+            "transfers_pc": 5.25
+        }, 
+        {
+            "counts": [
+                3858, 
+                3881, 
+                3912, 
+                4207, 
+                4246
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.4, 
+            "full_name": "Peter McVitty", 
+            "party": "Fine Gael", 
+            "transfers": 388, 
+            "transfers_pc": 2.06
+        }, 
+        {
+            "counts": [
+                1974, 
+                2007, 
+                2379, 
+                2658
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "Seamus Treanor", 
+            "party": "Independent", 
+            "transfers": 684, 
+            "transfers_pc": 3.64
+        }, 
+        {
+            "counts": [
+                1912, 
+                1993, 
+                2167
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Caroline Forde", 
+            "party": "Independent", 
+            "transfers": 255, 
+            "transfers_pc": 1.36
+        }, 
+        {
+            "counts": [
+                1708, 
+                1760
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.4, 
+            "full_name": "John McGuirk", 
+            "party": "New Vision", 
+            "transfers": 52, 
+            "transfers_pc": 0.28
+        }, 
+        {
+            "counts": [
+                530
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "Darcy Lonergan", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                129
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Joseph Duffy", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 9, 
+    "description": "2011 general election", 
+    "election_type": "dail", 
+    "electorate": 99178, 
+    "name": "Cavan\u2013Monaghan", 
+    "quota": 11880, 
+    "spoilt": 867, 
+    "turnout": 72142, 
+    "valid": 71275, 
+    "year": 2011
+}

@@ -1,0 +1,158 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10338
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.8, 
+            "full_name": "Brendan Howlin", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                7043, 
+                7371, 
+                7403, 
+                7673, 
+                10716
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.5, 
+            "full_name": "Ivan Yates", 
+            "party": "Fine Gael", 
+            "transfers": 3673, 
+            "transfers_pc": 40.92
+        }, 
+        {
+            "counts": [
+                8407, 
+                8502, 
+                8572, 
+                8662, 
+                9233
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.1, 
+            "full_name": "John Browne", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 826, 
+            "transfers_pc": 9.2
+        }, 
+        {
+            "counts": [
+                5314, 
+                5673, 
+                5680, 
+                6045, 
+                7527, 
+                9303
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.2, 
+            "full_name": "Avril Doyle", 
+            "party": "Fine Gael", 
+            "transfers": 3989, 
+            "transfers_pc": 44.44
+        }, 
+        {
+            "counts": [
+                7299, 
+                7384, 
+                7426, 
+                7534, 
+                7780, 
+                7915, 
+                8145, 
+                8423
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14, 
+            "full_name": "Hugh Byrne", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1124, 
+            "transfers_pc": 12.52
+        }, 
+        {
+            "counts": [
+                6436, 
+                6622, 
+                6696, 
+                7105, 
+                7351, 
+                7460, 
+                7581, 
+                7783
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.3, 
+            "full_name": "S\u00e9amus Cullimore", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1347, 
+            "transfers_pc": 15.01
+        }, 
+        {
+            "counts": [
+                5626, 
+                5757, 
+                5805, 
+                5936
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.8, 
+            "full_name": "Michael D'Arcy", 
+            "party": "Fine Gael", 
+            "transfers": 310, 
+            "transfers_pc": 3.45
+        }, 
+        {
+            "counts": [
+                797, 
+                1195, 
+                1244
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.5, 
+            "full_name": "Michael Enright", 
+            "party": "Democratic Left", 
+            "transfers": 447, 
+            "transfers_pc": 4.98
+        }, 
+        {
+            "counts": [
+                502, 
+                533, 
+                582
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Michael O'Connor", 
+            "party": "Independent", 
+            "transfers": 80, 
+            "transfers_pc": 0.89
+        }, 
+        {
+            "counts": [
+                410, 
+                439
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "Oliver Murray", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 29, 
+            "transfers_pc": 0.32
+        }
+    ], 
+    "counts_held": 8, 
+    "description": "1992 general election", 
+    "election_type": "dail", 
+    "electorate": 75886, 
+    "name": "Wexford", 
+    "quota": 8696, 
+    "spoilt": 765, 
+    "turnout": 52937, 
+    "valid": 52172, 
+    "year": 1992
+}

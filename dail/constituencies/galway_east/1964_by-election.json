@@ -1,0 +1,41 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                20920
+            ], 
+            "elected": true, 
+            "first_pref_pc": 49.8, 
+            "full_name": "John Donnellan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                19612
+            ], 
+            "elected": false, 
+            "first_pref_pc": 46.6, 
+            "full_name": "Thomas Hussey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1497
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.6, 
+            "full_name": "P\u00e1draig \u00d3 Ceallaigh", 
+            "party": "Sinn F\u00e9in"
+        }
+    ], 
+    "description": "1964 by-election", 
+    "election_type": "dail", 
+    "electorate": 53823, 
+    "name": "Galway East", 
+    "quota": 21015, 
+    "spoilt": null, 
+    "turnout": 78, 
+    "valid": 42029, 
+    "year": 1964
+}

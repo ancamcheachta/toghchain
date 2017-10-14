@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7282
+            ], 
+            "elected": true, 
+            "first_pref_pc": 29.5, 
+            "full_name": "Vivion de Valera", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5356
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.7, 
+            "full_name": "Frank Sherwin", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2043
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.3, 
+            "full_name": "Celia Lynch", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2572
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.4, 
+            "full_name": "Patrick McGilligan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2284
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.3, 
+            "full_name": "Thomas Stafford", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1365
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.5, 
+            "full_name": "Luke Belton", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1214
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.9, 
+            "full_name": "James Maher", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                987
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4, 
+            "full_name": "Thomas Herlihy", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                843
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.4, 
+            "full_name": "Diarmuid Collins", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                723
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "P\u00e1draic \u00d3 Cl\u00e9irigh", 
+            "party": "Fianna F\u00e1il"
+        }
+    ], 
+    "description": "1961 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin North-Central", 
+    "quota": 4934, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 24669, 
+    "year": 1961
+}

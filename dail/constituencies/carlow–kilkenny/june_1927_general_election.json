@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                13271
+            ], 
+            "elected": true, 
+            "first_pref_pc": 31.4, 
+            "full_name": "W. T. Cosgrave", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                5408
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.8, 
+            "full_name": "Thomas Derrig", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5060
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12, 
+            "full_name": "Edward Doyle", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3695
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.8, 
+            "full_name": "Richard Holohan", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                954
+            ], 
+            "elected": true, 
+            "first_pref_pc": 2.3, 
+            "full_name": "Denis Gorey", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3276
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.8, 
+            "full_name": "Arthur Kavanagh", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                3096
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.3, 
+            "full_name": "Edmund Wall", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2961
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7, 
+            "full_name": "Michael Skelly", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2096
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5, 
+            "full_name": "John Magennis", 
+            "party": "National League Party"
+        }, 
+        {
+            "counts": [
+                1653
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.9, 
+            "full_name": "Edward McDonald", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                761
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "John Nolan", 
+            "party": "Cumann na nGaedheal"
+        }
+    ], 
+    "description": "June 1927 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Carlow\u2013Kilkenny", 
+    "quota": 7039, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 42231, 
+    "year": 1927
+}

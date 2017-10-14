@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8214
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.3, 
+            "full_name": "Richard Corish", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6773
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.3, 
+            "full_name": "John Keating", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                6305
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.3, 
+            "full_name": "Osmond Esmonde", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                7365
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.5, 
+            "full_name": "Patrick Kehoe", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6818
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.4, 
+            "full_name": "James Ryan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5384
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.4, 
+            "full_name": "Denis Allen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3606
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.6, 
+            "full_name": "Michael Doyle", 
+            "party": "National Centre Party"
+        }, 
+        {
+            "counts": [
+                2944
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.2, 
+            "full_name": "James Walsh", 
+            "party": "Cumann na nGaedheal"
+        }
+    ], 
+    "description": "1933 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Wexford", 
+    "quota": 7902, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 47409, 
+    "year": 1933
+}

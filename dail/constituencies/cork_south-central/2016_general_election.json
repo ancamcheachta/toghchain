@@ -1,0 +1,262 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                11745
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.2, 
+            "full_name": "Michael McGrath", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                11346
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.4, 
+            "full_name": "Miche\u00e1l Martin", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6986, 
+                7090, 
+                7122, 
+                7152, 
+                7257, 
+                7414, 
+                7524, 
+                7877, 
+                8366, 
+                8526, 
+                10653
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.5, 
+            "full_name": "Donnchadh \u00d3 Laoghaire", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 3667, 
+            "transfers_pc": 30.59
+        }, 
+        {
+            "counts": [
+                7965, 
+                8180, 
+                8233, 
+                8241, 
+                8293, 
+                8303, 
+                8468, 
+                8527, 
+                8591, 
+                9315, 
+                10372
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.3, 
+            "full_name": "Simon Coveney", 
+            "party": "Fine Gael", 
+            "transfers": 2407, 
+            "transfers_pc": 20.08
+        }, 
+        {
+            "counts": [
+                6419, 
+                6498, 
+                6530, 
+                6532, 
+                6568, 
+                6582, 
+                6701, 
+                6727, 
+                6786, 
+                7843, 
+                9117
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.5, 
+            "full_name": "Jerry Buttimer", 
+            "party": "Fine Gael", 
+            "transfers": 2698, 
+            "transfers_pc": 22.51
+        }, 
+        {
+            "counts": [
+                2378, 
+                2423, 
+                2446, 
+                2454, 
+                2528, 
+                2583, 
+                2686, 
+                2869, 
+                3199, 
+                3356
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.3, 
+            "full_name": "Mick Finn", 
+            "party": "Independent", 
+            "transfers": 978, 
+            "transfers_pc": 8.16
+        }, 
+        {
+            "counts": [
+                2064, 
+                2095, 
+                2108, 
+                2114, 
+                2183, 
+                2243, 
+                2364, 
+                2452, 
+                2930, 
+                3291
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "Lorna Bogue", 
+            "party": "Green Party", 
+            "transfers": 1227, 
+            "transfers_pc": 10.24
+        }, 
+        {
+            "counts": [
+                2417, 
+                2462, 
+                2478, 
+                2481, 
+                2504, 
+                2513, 
+                2574, 
+                2611, 
+                2685
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.3, 
+            "full_name": "Ciar\u00e1n Lynch", 
+            "party": "Labour Party", 
+            "transfers": 268, 
+            "transfers_pc": 2.24
+        }, 
+        {
+            "counts": [
+                937, 
+                954, 
+                960, 
+                976, 
+                1037, 
+                1492, 
+                1592, 
+                1882
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "Fiona Ryan", 
+            "party": "AAA\u2013PBP", 
+            "transfers": 945, 
+            "transfers_pc": 7.88
+        }, 
+        {
+            "counts": [
+                869, 
+                885, 
+                891, 
+                941, 
+                1047, 
+                1107, 
+                1188
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "Diarmuid \u00d3 Cadhla", 
+            "party": "Independent", 
+            "transfers": 319, 
+            "transfers_pc": 2.66
+        }, 
+        {
+            "counts": [
+                887, 
+                931, 
+                944, 
+                951, 
+                990, 
+                1014
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "Ciar\u00e1n Kenneally", 
+            "party": "Renua Ireland", 
+            "transfers": 127, 
+            "transfers_pc": 1.06
+        }, 
+        {
+            "counts": [
+                795, 
+                810, 
+                815, 
+                829, 
+                880
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "Jim O'Connell", 
+            "party": "AAA\u2013PBP", 
+            "transfers": 85, 
+            "transfers_pc": 0.71
+        }, 
+        {
+            "counts": [
+                350, 
+                371, 
+                376, 
+                388
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Joe Harris", 
+            "party": "Independent", 
+            "transfers": 38, 
+            "transfers_pc": 0.32
+        }, 
+        {
+            "counts": [
+                304, 
+                327, 
+                329, 
+                333
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Elizabeth Hourihane", 
+            "party": "Independent", 
+            "transfers": 29, 
+            "transfers_pc": 0.24
+        }, 
+        {
+            "counts": [
+                170, 
+                173, 
+                176
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Michael Mohally", 
+            "party": "Independent", 
+            "transfers": 6, 
+            "transfers_pc": 0.05
+        }
+    ], 
+    "counts_held": 11, 
+    "description": "2016 general election", 
+    "election_type": "dail", 
+    "electorate": 84482, 
+    "name": "Cork South-Central", 
+    "quota": 11137, 
+    "spoilt": 404, 
+    "turnout": 66, 
+    "valid": 55682, 
+    "year": 2016
+}

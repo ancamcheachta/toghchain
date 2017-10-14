@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7561
+            ], 
+            "elected": true, 
+            "first_pref_pc": 28.6, 
+            "full_name": "Tom McEllistrim, Snr", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6645
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.1, 
+            "full_name": "Dan Spring", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5147
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.4, 
+            "full_name": "Patrick Finucane", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                3569
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.5, 
+            "full_name": "Edmond Hayes", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3563
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.5, 
+            "full_name": "Kit Ahern", 
+            "party": "Fianna F\u00e1il"
+        }
+    ], 
+    "description": "1965 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Kerry North", 
+    "quota": 6622, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 26485, 
+    "year": 1965
+}

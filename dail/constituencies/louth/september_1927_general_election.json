@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7881
+            ], 
+            "elected": true, 
+            "first_pref_pc": 29.6, 
+            "full_name": "Frank Aiken", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5666
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.3, 
+            "full_name": "James Coburn", 
+            "party": "National League Party"
+        }, 
+        {
+            "counts": [
+                6425
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.2, 
+            "full_name": "James Murphy", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                5886
+            ], 
+            "elected": false, 
+            "first_pref_pc": 22.1, 
+            "full_name": "Peter Hughes", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                733
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "Laurence McKenna", 
+            "party": "Fianna F\u00e1il"
+        }
+    ], 
+    "description": "September 1927 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Louth", 
+    "quota": 6648, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 26591, 
+    "year": 1927
+}

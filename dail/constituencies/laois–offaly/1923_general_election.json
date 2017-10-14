@@ -1,0 +1,140 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                5689
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.1, 
+            "full_name": "Francis Bulfin", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                6323
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.7, 
+            "full_name": "William Davin", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3630
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9, 
+            "full_name": "Patrick Egan", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                5572
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.8, 
+            "full_name": "Se\u00e1n McGuinness", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                4751
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.8, 
+            "full_name": "Laurence Brady", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                2717
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.7, 
+            "full_name": "Denis Cullen", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2227
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.5, 
+            "full_name": "Daniel Kennedy", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                2049
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.1, 
+            "full_name": "Joseph Delaney", 
+            "party": "National Democratic Party"
+        }, 
+        {
+            "counts": [
+                1996
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.9, 
+            "full_name": "Patrick Bermingham", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                1445
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.6, 
+            "full_name": "Patrick Belton", 
+            "party": "National Democratic Party"
+        }, 
+        {
+            "counts": [
+                1416
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.5, 
+            "full_name": "Se\u00e1n Kelly", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                1248
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.1, 
+            "full_name": "Francis Doorley", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                697
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "Patrick Gorry", 
+            "party": "Republican"
+        }, 
+        {
+            "counts": [
+                557
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "Andrew Byrne", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1923 general election", 
+    "election_type": "dail", 
+    "electorate": 64211, 
+    "name": "Laois\u2013Offaly", 
+    "quota": 6720, 
+    "spoilt": null, 
+    "turnout": 62, 
+    "valid": 40317, 
+    "year": 1923
+}

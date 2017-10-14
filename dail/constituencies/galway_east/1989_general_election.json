@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8593
+            ], 
+            "elected": true, 
+            "first_pref_pc": 29.5, 
+            "full_name": "Paul Connaughton, Snr", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7573
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26, 
+            "full_name": "Michael P. Kitt", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7030
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.1, 
+            "full_name": "Noel Treacy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2800
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.6, 
+            "full_name": "Michael Finnerty", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2721
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.3, 
+            "full_name": "Patrick Finnegan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                412
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "P\u00e1draig \u00d3 Ceallaigh", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1989 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Galway East", 
+    "quota": 7283, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 29129, 
+    "year": 1989
+}

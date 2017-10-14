@@ -1,0 +1,391 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9792, 
+                9804, 
+                9860, 
+                9924, 
+                9934, 
+                10568, 
+                10578, 
+                13092
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.3, 
+            "full_name": "Richard Bruton", 
+            "party": "Fine Gael", 
+            "transfers": 3300, 
+            "transfers_pc": 9.74
+        }, 
+        {
+            "counts": [
+                8007, 
+                8029, 
+                8094, 
+                8123, 
+                8157, 
+                8189, 
+                8232, 
+                8293, 
+                8345, 
+                9311, 
+                9378, 
+                11659, 
+                11956, 
+                12754
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.9, 
+            "full_name": "Se\u00e1n Haughey", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 4747, 
+            "transfers_pc": 14.01
+        }, 
+        {
+            "counts": [
+                5361, 
+                5398, 
+                5511, 
+                5578, 
+                5778, 
+                5856, 
+                6038, 
+                6065, 
+                6099, 
+                6583, 
+                6823, 
+                7003, 
+                7735, 
+                9477, 
+                11565
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.3, 
+            "full_name": "Tommy Broughan", 
+            "party": "Independents 4 Change", 
+            "transfers": 6204, 
+            "transfers_pc": 18.32
+        }, 
+        {
+            "counts": [
+                5039, 
+                5051, 
+                5067, 
+                5081, 
+                5247, 
+                5255, 
+                5510, 
+                5515, 
+                5517, 
+                5573, 
+                8281, 
+                8386, 
+                8596, 
+                9047, 
+                11348
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6.8, 
+            "full_name": "Denise Mitchell", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 6309, 
+            "transfers_pc": 18.63
+        }, 
+        {
+            "counts": [
+                5878, 
+                5913, 
+                5990, 
+                6075, 
+                6150, 
+                6213, 
+                6321, 
+                6396, 
+                6450, 
+                6828, 
+                6930, 
+                7353, 
+                8069, 
+                9553, 
+                11191
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8, 
+            "full_name": "Finian McGrath", 
+            "party": "Independent", 
+            "transfers": 5313, 
+            "transfers_pc": 15.69
+        }, 
+        {
+            "counts": [
+                5675, 
+                5683, 
+                5701, 
+                5920, 
+                5932, 
+                6183, 
+                6201, 
+                6581, 
+                7057, 
+                7299, 
+                7320, 
+                7544, 
+                8547, 
+                9947, 
+                10329
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.7, 
+            "full_name": "Aodh\u00e1n \u00d3 R\u00edord\u00e1in", 
+            "party": "Labour Party", 
+            "transfers": 4654, 
+            "transfers_pc": 13.74
+        }, 
+        {
+            "counts": [
+                4409, 
+                4455, 
+                4532, 
+                4600, 
+                4981, 
+                5002, 
+                6475, 
+                6494, 
+                6497, 
+                6682, 
+                7116, 
+                7209, 
+                7760, 
+                8476
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6, 
+            "full_name": "John Lyons", 
+            "party": "AAA\u2013PBP", 
+            "transfers": 4067, 
+            "transfers_pc": 12.01
+        }, 
+        {
+            "counts": [
+                4911, 
+                4934, 
+                5052, 
+                5145, 
+                5294, 
+                5529, 
+                5678, 
+                5768, 
+                5828, 
+                6237, 
+                6338, 
+                6674, 
+                7668
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.7, 
+            "full_name": "Averil Power", 
+            "party": "Independent", 
+            "transfers": 2757, 
+            "transfers_pc": 8.14
+        }, 
+        {
+            "counts": [
+                3864, 
+                3875, 
+                3909, 
+                4093, 
+                4128, 
+                4179, 
+                4291, 
+                4313, 
+                4347, 
+                4587, 
+                4637, 
+                4796
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.2, 
+            "full_name": "Cian O'Callaghan", 
+            "party": "Social Democrats", 
+            "transfers": 932, 
+            "transfers_pc": 2.75
+        }, 
+        {
+            "counts": [
+                3360, 
+                3376, 
+                3408, 
+                3448, 
+                3458, 
+                3498, 
+                3514, 
+                3577, 
+                3619, 
+                3943, 
+                3974
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.6, 
+            "full_name": "Deirdre Heney", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 614, 
+            "transfers_pc": 1.81
+        }, 
+        {
+            "counts": [
+                3527, 
+                3540, 
+                3563, 
+                3576, 
+                3663, 
+                3668, 
+                3787, 
+                3790, 
+                3791, 
+                3850
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.8, 
+            "full_name": "Miche\u00e1l MacDonncha", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 323, 
+            "transfers_pc": 0.95
+        }, 
+        {
+            "counts": [
+                3205, 
+                3273, 
+                3302, 
+                3348, 
+                3372, 
+                3418, 
+                3462, 
+                3525, 
+                3588
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "Terence Flanagan", 
+            "party": "Renua Ireland", 
+            "transfers": 383, 
+            "transfers_pc": 1.13
+        }, 
+        {
+            "counts": [
+                2868, 
+                2870, 
+                2875, 
+                2905, 
+                2908, 
+                3376, 
+                3381
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.9, 
+            "full_name": "Naoise \u00d3 Muir\u00ed", 
+            "party": "Fine Gael", 
+            "transfers": 513, 
+            "transfers_pc": 1.51
+        }, 
+        {
+            "counts": [
+                2236, 
+                2253, 
+                2271, 
+                2282, 
+                2559, 
+                2562
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "Michael O'Brien", 
+            "party": "AAA\u2013PBP", 
+            "transfers": 326, 
+            "transfers_pc": 0.96
+        }, 
+        {
+            "counts": [
+                1857, 
+                1865, 
+                1883, 
+                1939, 
+                1957
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.5, 
+            "full_name": "Stephanie Regan", 
+            "party": "Fine Gael", 
+            "transfers": 100, 
+            "transfers_pc": 0.3
+        }, 
+        {
+            "counts": [
+                1446, 
+                1470, 
+                1506, 
+                1517
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "Damien O'Neill", 
+            "party": "Independent", 
+            "transfers": 71, 
+            "transfers_pc": 0.21
+        }, 
+        {
+            "counts": [
+                1024, 
+                1038, 
+                1055
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "Donna Cooney", 
+            "party": "Green Party", 
+            "transfers": 31, 
+            "transfers_pc": 0.09
+        }, 
+        {
+            "counts": [
+                756, 
+                782
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Jimmy Guerin", 
+            "party": "Independent", 
+            "transfers": 26, 
+            "transfers_pc": 0.08
+        }, 
+        {
+            "counts": [
+                306
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Paul Clarke", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                104
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Proinsias \u00d3 Conar\u00e1in", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 15, 
+    "description": "2016 general election", 
+    "election_type": "dail", 
+    "electorate": 109516, 
+    "name": "Dublin Bay North", 
+    "quota": 12271, 
+    "spoilt": 709, 
+    "turnout": 74334, 
+    "valid": 73625, 
+    "year": 2016
+}

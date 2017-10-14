@@ -1,0 +1,251 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                12391
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.8, 
+            "full_name": "Heather Humphreys", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                10060, 
+                10104, 
+                10119, 
+                10265, 
+                10415, 
+                10651, 
+                11047, 
+                11867, 
+                17182
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.9, 
+            "full_name": "Caoimhgh\u00edn \u00d3 Caol\u00e1in", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 7122, 
+            "transfers_pc": 44.37
+        }, 
+        {
+            "counts": [
+                8775, 
+                8802, 
+                8807, 
+                8850, 
+                8952, 
+                9046, 
+                9142, 
+                10926, 
+                11357, 
+                12120
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.7, 
+            "full_name": "Brendan Smith", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3345, 
+            "transfers_pc": 20.84
+        }, 
+        {
+            "counts": [
+                6268, 
+                6296, 
+                6297, 
+                6342, 
+                6455, 
+                6584, 
+                6742, 
+                8216, 
+                8762, 
+                9644
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.5, 
+            "full_name": "Niamh Smyth", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3376, 
+            "transfers_pc": 21.03
+        }, 
+        {
+            "counts": [
+                6566, 
+                6846, 
+                6848, 
+                6887, 
+                6977, 
+                7255, 
+                7715, 
+                8063, 
+                8321, 
+                8790
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11, 
+            "full_name": "Joe O'Reilly", 
+            "party": "Fine Gael", 
+            "transfers": 2224, 
+            "transfers_pc": 13.86
+        }, 
+        {
+            "counts": [
+                6066, 
+                6073, 
+                6078, 
+                6268, 
+                6419, 
+                6599, 
+                6737, 
+                6993
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.2, 
+            "full_name": "Kathryn Reilly", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 927, 
+            "transfers_pc": 5.78
+        }, 
+        {
+            "counts": [
+                2909, 
+                2927, 
+                2931, 
+                2941, 
+                2977, 
+                3062, 
+                3246
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.9, 
+            "full_name": "Mike Durkan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 337, 
+            "transfers_pc": 2.1
+        }, 
+        {
+            "counts": [
+                1589, 
+                1600, 
+                1609, 
+                1709, 
+                1911, 
+                2062, 
+                2340
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "Mary Smyth", 
+            "party": "Independent", 
+            "transfers": 751, 
+            "transfers_pc": 4.68
+        }, 
+        {
+            "counts": [
+                1665, 
+                1686, 
+                1688, 
+                1754, 
+                1853, 
+                1980
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "Se\u00e1n Conlan", 
+            "party": "Independent", 
+            "transfers": 315, 
+            "transfers_pc": 1.96
+        }, 
+        {
+            "counts": [
+                1251, 
+                1262, 
+                1269, 
+                1410, 
+                1523
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "M\u00edche\u00e1l Callaghan", 
+            "party": "Green Party", 
+            "transfers": 272, 
+            "transfers_pc": 1.69
+        }, 
+        {
+            "counts": [
+                1023, 
+                1029, 
+                1036, 
+                1171
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "John Wilson", 
+            "party": "Independent", 
+            "transfers": 148, 
+            "transfers_pc": 0.92
+        }, 
+        {
+            "counts": [
+                475, 
+                476, 
+                479
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "Mick McDermott", 
+            "party": "Direct\u00a0Democracy", 
+            "transfers": 4, 
+            "transfers_pc": 0.02
+        }, 
+        {
+            "counts": [
+                279, 
+                282, 
+                292
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Aoife O'Connell", 
+            "party": "Direct\u00a0Democracy", 
+            "transfers": 13, 
+            "transfers_pc": 0.08
+        }, 
+        {
+            "counts": [
+                245, 
+                246, 
+                258
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Emmett Smith", 
+            "party": "Independent", 
+            "transfers": 13, 
+            "transfers_pc": 0.08
+        }, 
+        {
+            "counts": [
+                88, 
+                90
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Jimmy Mee", 
+            "party": "Independent", 
+            "transfers": 2, 
+            "transfers_pc": 0.01
+        }
+    ], 
+    "counts_held": 10, 
+    "description": "2016 general election", 
+    "election_type": "dail", 
+    "electorate": 90618, 
+    "name": "Cavan\u2013Monaghan", 
+    "quota": 11931, 
+    "spoilt": 598, 
+    "turnout": 60248, 
+    "valid": 59650, 
+    "year": 2016
+}

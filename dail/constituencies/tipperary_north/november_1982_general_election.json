@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7163
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.2, 
+            "full_name": "David Molony", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7189
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.3, 
+            "full_name": "John Ryan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                7945
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.7, 
+            "full_name": "Michael O'Kennedy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7843
+            ], 
+            "elected": false, 
+            "first_pref_pc": 24.4, 
+            "full_name": "Michael Smith", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2071
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.4, 
+            "full_name": "Tom Berkery", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "November 1982 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Tipperary North", 
+    "quota": 8053, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 32211, 
+    "year": 1982
+}

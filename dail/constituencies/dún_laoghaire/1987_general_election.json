@@ -1,0 +1,149 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8414
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.1, 
+            "full_name": "David Andrews", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7284
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.1, 
+            "full_name": "Se\u00e1n Barrett", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5228
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.4, 
+            "full_name": "Geraldine Kennedy", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                6484
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.6, 
+            "full_name": "Barry Desmond", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4923
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.8, 
+            "full_name": "Monica Barnes", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4870
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.7, 
+            "full_name": "Liam T. Cosgrave", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4203
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.6, 
+            "full_name": "Helen Keogh", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                4054
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.3, 
+            "full_name": "Eamon Gilmore", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                3265
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.9, 
+            "full_name": "Edward McDonald", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2897
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.2, 
+            "full_name": "Richard Conroy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1592
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "Larry Lohan", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                1202
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.2, 
+            "full_name": "Kevin Fitzpatrick", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                929
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.67, 
+            "full_name": "Ann McGoldrick", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                233
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Patrick O'Reilly", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                124
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Barbara Hyland", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1987 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "D\u00fan Laoghaire", 
+    "quota": 9284, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 55702, 
+    "year": 1987
+}

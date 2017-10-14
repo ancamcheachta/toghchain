@@ -1,0 +1,122 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8539
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.9, 
+            "full_name": "Liam Hyland", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8102
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.1, 
+            "full_name": "Ger Connolly", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7156
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.3, 
+            "full_name": "Bernard Cowen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7252
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.5, 
+            "full_name": "Oliver J. Flanagan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6078
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.3, 
+            "full_name": "Tom Enright", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4081
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.6, 
+            "full_name": "Johnny Butterfield", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3930
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.3, 
+            "full_name": "Charles McDonald", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3346
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.2, 
+            "full_name": "Jeremiah Lodge", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2600
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.8, 
+            "full_name": "Thomas Keenan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1637
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "Gerry McGuire", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                971
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Larry Kavanagh", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                124
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Joe McCormack", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "February 1982 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Laois\u2013Offaly", 
+    "quota": 8970, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 53816, 
+    "year": 1982
+}

@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10087
+            ], 
+            "elected": true, 
+            "first_pref_pc": 29, 
+            "full_name": "Jimmy Deenihan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7611
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.9, 
+            "full_name": "Denis Foley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6739
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.4, 
+            "full_name": "Dick Spring", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6161
+            ], 
+            "elected": false, 
+            "first_pref_pc": 17.7, 
+            "full_name": "Tom McEllistrim, Jnr", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2939
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.5, 
+            "full_name": "Dan Kiely", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                668
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.9, 
+            "full_name": "Declan Finucane", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                559
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "William Leen", 
+            "party": "Sinn F\u00e9in"
+        }
+    ], 
+    "description": "1987 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Kerry North", 
+    "quota": 8692, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 34764, 
+    "year": 1987
+}

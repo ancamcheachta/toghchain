@@ -1,0 +1,313 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10574, 
+                10635, 
+                10731, 
+                10907, 
+                11140, 
+                11200, 
+                11311, 
+                11769, 
+                12071
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.8, 
+            "full_name": "Brendan Howlin", 
+            "party": "Labour Party", 
+            "transfers": 1497, 
+            "transfers_pc": 7.27
+        }, 
+        {
+            "counts": [
+                9827, 
+                9850, 
+                9937, 
+                9983, 
+                10007, 
+                10066, 
+                10095, 
+                10150, 
+                11699, 
+                12434
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.7, 
+            "full_name": "James Browne", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2607, 
+            "transfers_pc": 12.66
+        }, 
+        {
+            "counts": [
+                7917, 
+                8013, 
+                8237, 
+                8398, 
+                8468, 
+                8853, 
+                9575, 
+                10213, 
+                10625, 
+                11817, 
+                11887, 
+                11930, 
+                13420
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.1, 
+            "full_name": "Mick Wallace", 
+            "party": "Independents 4 Change", 
+            "transfers": 5503, 
+            "transfers_pc": 26.73
+        }, 
+        {
+            "counts": [
+                7798, 
+                7803, 
+                7830, 
+                7913, 
+                8334, 
+                8357, 
+                8390, 
+                8490, 
+                8574, 
+                8884, 
+                8917, 
+                8950, 
+                11371, 
+                11645
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.9, 
+            "full_name": "Michael W. D'Arcy", 
+            "party": "Fine Gael", 
+            "transfers": 3847, 
+            "transfers_pc": 18.68
+        }, 
+        {
+            "counts": [
+                7696, 
+                7703, 
+                7764, 
+                7808, 
+                8152, 
+                8259, 
+                8284, 
+                8344, 
+                8522, 
+                8874, 
+                8922, 
+                8949, 
+                9593, 
+                9704
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.7, 
+            "full_name": "Paul Kehoe", 
+            "party": "Fine Gael", 
+            "transfers": 2008, 
+            "transfers_pc": 9.75
+        }, 
+        {
+            "counts": [
+                7260, 
+                7357, 
+                7415, 
+                7451, 
+                7466, 
+                7712, 
+                8036, 
+                8248, 
+                8350, 
+                8795, 
+                8824, 
+                8832, 
+                9405, 
+                9652
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.1, 
+            "full_name": "Johnny Mythen", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 2392, 
+            "transfers_pc": 11.62
+        }, 
+        {
+            "counts": [
+                6115, 
+                6123, 
+                6139, 
+                6204, 
+                6222, 
+                6241, 
+                6286, 
+                6367, 
+                6950, 
+                7122, 
+                7393, 
+                7409
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.5, 
+            "full_name": "Malcolm Byrne", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1294, 
+            "transfers_pc": 6.28
+        }, 
+        {
+            "counts": [
+                3134, 
+                3189, 
+                3268, 
+                3307, 
+                3351, 
+                3428, 
+                3563, 
+                3855, 
+                4041
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "Ger Carthy", 
+            "party": "Independent", 
+            "transfers": 907, 
+            "transfers_pc": 4.41
+        }, 
+        {
+            "counts": [
+                3164, 
+                3181, 
+                3252, 
+                3292, 
+                3357, 
+                3462, 
+                3513, 
+                3585
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "Aoife Byrne", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 421, 
+            "transfers_pc": 2.04
+        }, 
+        {
+            "counts": [
+                1635, 
+                1677, 
+                1707, 
+                1883, 
+                1907, 
+                1939, 
+                2179
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.3, 
+            "full_name": "Leonard Kelly", 
+            "party": "Social Democrats", 
+            "transfers": 544, 
+            "transfers_pc": 2.64
+        }, 
+        {
+            "counts": [
+                1472, 
+                1558, 
+                1616, 
+                1731, 
+                1749, 
+                1843
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "Deirdre Wadding", 
+            "party": "AAA\u2013PBP", 
+            "transfers": 371, 
+            "transfers_pc": 1.8
+        }, 
+        {
+            "counts": [
+                1265, 
+                1279, 
+                1323, 
+                1355, 
+                1362
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "John Dwyer", 
+            "party": "Independent", 
+            "transfers": 97, 
+            "transfers_pc": 0.47
+        }, 
+        {
+            "counts": [
+                1214, 
+                1233, 
+                1266, 
+                1305
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "Julie Hogan", 
+            "party": "Fine Gael", 
+            "transfers": 91, 
+            "transfers_pc": 0.44
+        }, 
+        {
+            "counts": [
+                1056, 
+                1064, 
+                1093
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.5, 
+            "full_name": "Ann Walsh", 
+            "party": "Green Party", 
+            "transfers": 37, 
+            "transfers_pc": 0.18
+        }, 
+        {
+            "counts": [
+                930, 
+                956
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.3, 
+            "full_name": "Caroline Foxe", 
+            "party": "Independent", 
+            "transfers": 26, 
+            "transfers_pc": 0.13
+        }, 
+        {
+            "counts": [
+                476
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "Emmet Moloney", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                128
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "David Lloyd", 
+            "party": "Direct\u00a0Democracy"
+        }
+    ], 
+    "counts_held": 14, 
+    "description": "2016 general election", 
+    "election_type": "dail", 
+    "electorate": 109861, 
+    "name": "Wexford", 
+    "quota": 11944, 
+    "spoilt": 691, 
+    "turnout": 72352, 
+    "valid": 71661, 
+    "year": 2016
+}

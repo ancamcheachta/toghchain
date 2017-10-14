@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6208
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.9, 
+            "full_name": "Michael P. Kitt", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6563
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20, 
+            "full_name": "Paul Connaughton, Snr", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5785
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.6, 
+            "full_name": "Noel Treacy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5220
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.2, 
+            "full_name": "Ulick Burke", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4909
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.9, 
+            "full_name": "Thomas Hussey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3040
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.3, 
+            "full_name": "Joe Burke", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                926
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "Kevin Dwyer", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                164
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Brian Parker", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "November 1982 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Galway East", 
+    "quota": 8204, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 32815, 
+    "year": 1982
+}

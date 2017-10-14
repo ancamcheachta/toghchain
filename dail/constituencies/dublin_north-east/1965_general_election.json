@@ -1,0 +1,122 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                12415
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.7, 
+            "full_name": "Charles Haughey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                9316
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.8, 
+            "full_name": "Paddy Belton", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5745
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11, 
+            "full_name": "George Colley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5141
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.8, 
+            "full_name": "Patrick Byrne", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4908
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.4, 
+            "full_name": "Denis Larkin", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4902
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.3, 
+            "full_name": "Eugene Timmons", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2760
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.3, 
+            "full_name": "Stan O'Brien", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2162
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.1, 
+            "full_name": "Rory Cowan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1463
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "Victor Carton", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1385
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "Paddy Dunne", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1151
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.2, 
+            "full_name": "Se\u00e1n Dublin Bay Rockall Loftus", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1129
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.2, 
+            "full_name": "Gordon Macaulay", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1965 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin North-East", 
+    "quota": 8747, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 52477, 
+    "year": 1965
+}

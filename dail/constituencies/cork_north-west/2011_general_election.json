@@ -1,0 +1,135 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10112, 
+                10264, 
+                10426, 
+                10797, 
+                12415
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.1, 
+            "full_name": "Michael Creed", 
+            "party": "Fine Gael", 
+            "transfers": 2303, 
+            "transfers_pc": 18.46
+        }, 
+        {
+            "counts": [
+                8845, 
+                9009, 
+                10699, 
+                11108, 
+                11362, 
+                11423
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.3, 
+            "full_name": "Michael Moynihan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2578, 
+            "transfers_pc": 20.66
+        }, 
+        {
+            "counts": [
+                7884, 
+                8223, 
+                8345, 
+                8738, 
+                10534, 
+                11242
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.2, 
+            "full_name": "\u00c1ine Collins", 
+            "party": "Fine Gael", 
+            "transfers": 3358, 
+            "transfers_pc": 26.91
+        }, 
+        {
+            "counts": [
+                6421, 
+                7066, 
+                7255, 
+                8952, 
+                9918, 
+                10128
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14, 
+            "full_name": "Martin Coughlan", 
+            "party": "Labour Party", 
+            "transfers": 3707, 
+            "transfers_pc": 29.71
+        }, 
+        {
+            "counts": [
+                4325, 
+                4470, 
+                4704, 
+                5092
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.5, 
+            "full_name": "Derry Canty", 
+            "party": "Fine Gael", 
+            "transfers": 767, 
+            "transfers_pc": 6.15
+        }, 
+        {
+            "counts": [
+                3405, 
+                3916, 
+                4052
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.4, 
+            "full_name": "Des O'Grady", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 647, 
+            "transfers_pc": 5.19
+        }, 
+        {
+            "counts": [
+                2545, 
+                2633
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.6, 
+            "full_name": "Daith\u00ed \u00d3 Donnabh\u00e1in", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 88, 
+            "transfers_pc": 0.71
+        }, 
+        {
+            "counts": [
+                1552
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.4, 
+            "full_name": "[14]", 
+            "party": "People Before Profit"
+        }, 
+        {
+            "counts": [
+                651
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "Mark Collins", 
+            "party": "Green Party"
+        }
+    ], 
+    "counts_held": 6, 
+    "description": "2011 general election", 
+    "election_type": "dail", 
+    "electorate": 62129, 
+    "name": "Cork North-West", 
+    "quota": 11436, 
+    "spoilt": 454, 
+    "turnout": 46194, 
+    "valid": 45740, 
+    "year": 2011
+}

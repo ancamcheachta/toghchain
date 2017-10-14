@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6709
+            ], 
+            "elected": true, 
+            "first_pref_pc": 28.3, 
+            "full_name": "Bobby Molloy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4923
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.8, 
+            "full_name": "Johnny Geoghegan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2942
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.4, 
+            "full_name": "Fintan Coogan, Snr", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3001
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.7, 
+            "full_name": "John Mannion, Snr", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1522
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.4, 
+            "full_name": "Peadar Mac an Iomaire", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1519
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.4, 
+            "full_name": "Thomas Tierney", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1185
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5, 
+            "full_name": "Mary Byrne", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1174
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5, 
+            "full_name": "Michael D. Higgins", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                738
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.1, 
+            "full_name": "William Cahill", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1969 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Galway West", 
+    "quota": 5929, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 23713, 
+    "year": 1969
+}

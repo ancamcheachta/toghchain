@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9214
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.2, 
+            "full_name": "Ray MacSharry", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                9082
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.9, 
+            "full_name": "Ted Nealon", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7654
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.8, 
+            "full_name": "John Ellis", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7500
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.4, 
+            "full_name": "Matt Brennan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6261
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.7, 
+            "full_name": "Joe McCartin", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2772
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.1, 
+            "full_name": "John Joe McGirl", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                1783
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.9, 
+            "full_name": "Joe Cawley", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1035
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.3, 
+            "full_name": "Declan Bree", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                399
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.9, 
+            "full_name": "S\u00e9amus Kennelly", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "February 1982 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Sligo\u2013Leitrim", 
+    "quota": 9141, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 45700, 
+    "year": 1982
+}

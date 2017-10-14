@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                5934
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.4, 
+            "full_name": "Frederick Crowley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4771
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18, 
+            "full_name": "Fion\u00e1n Lynch", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5323
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.1, 
+            "full_name": "John Healy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4446
+            ], 
+            "elected": false, 
+            "first_pref_pc": 16.8, 
+            "full_name": "Daniel Allman", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                4384
+            ], 
+            "elected": false, 
+            "first_pref_pc": 16.5, 
+            "full_name": "William Myers", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1685
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.4, 
+            "full_name": "John Duffy", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1943 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Kerry South", 
+    "quota": 6636, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 26543, 
+    "year": 1943
+}

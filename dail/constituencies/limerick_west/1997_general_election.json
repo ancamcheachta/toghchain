@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6985
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.8, 
+            "full_name": "Michael J. Collins", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7026
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.9, 
+            "full_name": "Dan Neville", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5476
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.3, 
+            "full_name": "Michael Finucane", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3661
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.9, 
+            "full_name": "Michael Brennan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                3921
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.7, 
+            "full_name": "John Clifford", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3355
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10, 
+            "full_name": "John Gallahue", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1418
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.2, 
+            "full_name": "Mary Kelly", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1406
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.2, 
+            "full_name": "Jeanette McDonnell", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                366
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "Mike MacDomhnaill", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1997 general election", 
+    "election_type": "dail", 
+    "electorate": 47859, 
+    "name": "Limerick West", 
+    "quota": 8404, 
+    "spoilt": 365, 
+    "turnout": 33979, 
+    "valid": 33614, 
+    "year": 1997
+}

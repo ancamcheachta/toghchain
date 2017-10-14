@@ -1,0 +1,114 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                5985, 
+                6189, 
+                7176, 
+                8809, 
+                12256
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.6, 
+            "full_name": "Catherine Murphy", 
+            "party": "Independent", 
+            "transfers": 6271, 
+            "transfers_pc": 47.77
+        }, 
+        {
+            "counts": [
+                6201, 
+                6255, 
+                7265, 
+                8133, 
+                9818
+            ], 
+            "elected": false, 
+            "first_pref_pc": 24.5, 
+            "full_name": "\u00c1ine Brady", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3617, 
+            "transfers_pc": 27.55
+        }, 
+        {
+            "counts": [
+                4630, 
+                4660, 
+                5382, 
+                7421
+            ], 
+            "elected": false, 
+            "first_pref_pc": 18.3, 
+            "full_name": "Darren Scully", 
+            "party": "Fine Gael", 
+            "transfers": 2791, 
+            "transfers_pc": 21.26
+        }, 
+        {
+            "counts": [
+                4507, 
+                4545, 
+                5199
+            ], 
+            "elected": false, 
+            "first_pref_pc": 17.8, 
+            "full_name": "Paddy MacNamara", 
+            "party": "Labour Party", 
+            "transfers": 692, 
+            "transfers_pc": 5.27
+        }, 
+        {
+            "counts": [
+                2006, 
+                2023
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.9, 
+            "full_name": "Kate Walsh", 
+            "party": "Progressive Democrats", 
+            "transfers": 17, 
+            "transfers_pc": 0.13
+        }, 
+        {
+            "counts": [
+                1547, 
+                1621
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.1, 
+            "full_name": "J. J. Power", 
+            "party": "Green Party", 
+            "transfers": 74, 
+            "transfers_pc": 0.56
+        }, 
+        {
+            "counts": [
+                226
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.9, 
+            "full_name": "Gerry Browne", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                211
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "Sean\u00e1n \u00d3 Coist\u00edn", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 5, 
+    "description": "2005 by-election", 
+    "election_type": "dail", 
+    "electorate": 65080, 
+    "name": "Kildare North", 
+    "quota": 12657, 
+    "spoilt": 211, 
+    "turnout": 25524, 
+    "valid": 25313, 
+    "year": 2005
+}

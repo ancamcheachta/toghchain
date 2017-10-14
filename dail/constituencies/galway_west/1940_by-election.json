@@ -1,0 +1,32 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                14836
+            ], 
+            "elected": true, 
+            "first_pref_pc": 72.1, 
+            "full_name": "John J. Keane", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5735
+            ], 
+            "elected": false, 
+            "first_pref_pc": 27.9, 
+            "full_name": "Michael Donnellan", 
+            "party": "Clann na Talmhan"
+        }
+    ], 
+    "description": "1940 by-election", 
+    "election_type": "dail", 
+    "electorate": 43091, 
+    "name": "Galway West", 
+    "quota": 10286, 
+    "spoilt": null, 
+    "turnout": 47, 
+    "valid": 20571, 
+    "year": 1940
+}

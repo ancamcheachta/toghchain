@@ -1,0 +1,138 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                13713
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.6, 
+            "full_name": "S\u00e9amus Pattison", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                11331
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.3, 
+            "full_name": "Liam Aylward", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6573, 
+                7686, 
+                7804, 
+                8003, 
+                9497
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.8, 
+            "full_name": "Phil Hogan", 
+            "party": "Fine Gael", 
+            "transfers": 2924, 
+            "transfers_pc": 22.72
+        }, 
+        {
+            "counts": [
+                6471, 
+                7273, 
+                7319, 
+                7375, 
+                8003, 
+                9227
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.6, 
+            "full_name": "John Browne", 
+            "party": "Fine Gael", 
+            "transfers": 2756, 
+            "transfers_pc": 21.41
+        }, 
+        {
+            "counts": [
+                7195, 
+                7605, 
+                7878, 
+                8399, 
+                8402, 
+                8965
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.9, 
+            "full_name": "M. J. Nolan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1770, 
+            "transfers_pc": 13.75
+        }, 
+        {
+            "counts": [
+                4059, 
+                4532, 
+                5781, 
+                6578, 
+                6815, 
+                7637
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.3, 
+            "full_name": "Kevin Fennelly", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3578, 
+            "transfers_pc": 27.8
+        }, 
+        {
+            "counts": [
+                2596, 
+                3602, 
+                3676, 
+                3883, 
+                4111
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.7, 
+            "full_name": "Miriam Hogan", 
+            "party": "Independent", 
+            "transfers": 1515, 
+            "transfers_pc": 11.77
+        }, 
+        {
+            "counts": [
+                2358, 
+                2721, 
+                2795, 
+                2823
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.2, 
+            "full_name": "Andy Cotterell", 
+            "party": "Fine Gael", 
+            "transfers": 465, 
+            "transfers_pc": 3.61
+        }, 
+        {
+            "counts": [
+                1462, 
+                1714, 
+                1917
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "Evelyn White", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 455, 
+            "transfers_pc": 3.53
+        }
+    ], 
+    "counts_held": 6, 
+    "description": "1992 general election", 
+    "election_type": "dail", 
+    "electorate": 81377, 
+    "name": "Carlow\u2013Kilkenny", 
+    "quota": 9294, 
+    "spoilt": 793, 
+    "turnout": 56551, 
+    "valid": 55758, 
+    "year": 1992
+}

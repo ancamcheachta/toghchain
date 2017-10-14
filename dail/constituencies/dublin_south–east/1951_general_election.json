@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9222
+            ], 
+            "elected": true, 
+            "first_pref_pc": 31.4, 
+            "full_name": "John A. Costello", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                8473
+            ], 
+            "elected": true, 
+            "first_pref_pc": 28.9, 
+            "full_name": "No\u00ebl Browne", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                8334
+            ], 
+            "elected": true, 
+            "first_pref_pc": 28.4, 
+            "full_name": "Se\u00e1n MacEntee", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2034
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.9, 
+            "full_name": "Michael Yeats", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                710
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.4, 
+            "full_name": "John Douglas", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                569
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.9, 
+            "full_name": "Patrick McCartan", 
+            "party": "Clann na Poblachta"
+        }
+    ], 
+    "description": "1951 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South\u2013East", 
+    "quota": 7336, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 29342, 
+    "year": 1951
+}

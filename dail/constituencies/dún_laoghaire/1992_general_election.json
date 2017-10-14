@@ -1,0 +1,140 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                13418
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.6, 
+            "full_name": "David Andrews", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                10074
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17, 
+            "full_name": "Niamh Bhreathnach", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4852
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.2, 
+            "full_name": "Se\u00e1n Barrett", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6497
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.9, 
+            "full_name": "Helen Keogh", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                7045
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.9, 
+            "full_name": "Eamon Gilmore", 
+            "party": "Democratic Left"
+        }, 
+        {
+            "counts": [
+                2973
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5, 
+            "full_name": "Brian Hillery", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4261
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.2, 
+            "full_name": "Monica Barnes", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3683
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.2, 
+            "full_name": "Liam T. Cosgrave", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2119
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.6, 
+            "full_name": "Betty Coffey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1784
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "Vincent MacDowell", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                1705
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "Michael Quinn", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                801
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "Kevin Fitzpatrick", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                110
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Eamonn Murdock", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                48
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Martin McAneny", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1992 general election", 
+    "election_type": "dail", 
+    "electorate": 87495, 
+    "name": "D\u00fan Laoghaire", 
+    "quota": 9896, 
+    "spoilt": 679, 
+    "turnout": 60049, 
+    "valid": 59370, 
+    "year": 1992
+}

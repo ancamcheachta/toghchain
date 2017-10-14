@@ -1,0 +1,242 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10832
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.5, 
+            "full_name": "Caoimhgh\u00edn \u00d3 Caol\u00e1in", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                10679
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.3, 
+            "full_name": "Brendan Smith", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7204, 
+                7295, 
+                7479, 
+                7541, 
+                7648, 
+                7807, 
+                7943, 
+                8662, 
+                11032
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.6, 
+            "full_name": "Rory O'Hanlon", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3828, 
+            "transfers_pc": 24.9
+        }, 
+        {
+            "counts": [
+                7722, 
+                7867, 
+                7871, 
+                7946, 
+                8375, 
+                8614, 
+                8973, 
+                9678, 
+                10870
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.5, 
+            "full_name": "Paudge Connolly", 
+            "party": "Independent", 
+            "transfers": 3148, 
+            "transfers_pc": 20.48
+        }, 
+        {
+            "counts": [
+                6113, 
+                6136, 
+                6139, 
+                6178, 
+                6286, 
+                6397, 
+                6509, 
+                6803, 
+                7078, 
+                7392, 
+                7702, 
+                9165
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.9, 
+            "full_name": "Seymour Crawford", 
+            "party": "Fine Gael", 
+            "transfers": 3052, 
+            "transfers_pc": 19.85
+        }, 
+        {
+            "counts": [
+                4819, 
+                4855, 
+                4889, 
+                5061, 
+                5084, 
+                5211, 
+                5374, 
+                5516, 
+                5633, 
+                5844, 
+                5905, 
+                9044
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.8, 
+            "full_name": "Andrew Boylan", 
+            "party": "Fine Gael", 
+            "transfers": 4225, 
+            "transfers_pc": 27.48
+        }, 
+        {
+            "counts": [
+                4639, 
+                4667, 
+                4698, 
+                4817, 
+                4836, 
+                4955, 
+                5108, 
+                5320, 
+                5429, 
+                5628, 
+                5710
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.5, 
+            "full_name": "Paddy O'Reilly", 
+            "party": "Fine Gael", 
+            "transfers": 1071, 
+            "transfers_pc": 6.97
+        }, 
+        {
+            "counts": [
+                3731, 
+                3789, 
+                3874, 
+                3921, 
+                4004, 
+                4197, 
+                4319, 
+                4535
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6, 
+            "full_name": "Robbie Gallagher", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 804, 
+            "transfers_pc": 5.23
+        }, 
+        {
+            "counts": [
+                1943, 
+                1992, 
+                1997, 
+                2087, 
+                2265, 
+                2371, 
+                2646
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.1, 
+            "full_name": "Vincent Martin", 
+            "party": "Independent", 
+            "transfers": 703, 
+            "transfers_pc": 4.57
+        }, 
+        {
+            "counts": [
+                1100, 
+                1138, 
+                1143, 
+                1301, 
+                1385, 
+                1513
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Marcus McCabe", 
+            "party": "Green Party", 
+            "transfers": 413, 
+            "transfers_pc": 2.69
+        }, 
+        {
+            "counts": [
+                1131, 
+                1144, 
+                1154, 
+                1219, 
+                1261
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Gerry McCaughey", 
+            "party": "Progressive Democrats", 
+            "transfers": 130, 
+            "transfers_pc": 0.85
+        }, 
+        {
+            "counts": [
+                1026, 
+                1046, 
+                1047, 
+                1114
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "Joe Brennan", 
+            "party": "Independent", 
+            "transfers": 88, 
+            "transfers_pc": 0.57
+        }, 
+        {
+            "counts": [
+                550, 
+                566, 
+                572
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.9, 
+            "full_name": "Francie Fitzsimons", 
+            "party": "Labour Party", 
+            "transfers": 22, 
+            "transfers_pc": 0.14
+        }, 
+        {
+            "counts": [
+                358, 
+                365, 
+                368
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Tony Smith", 
+            "party": "Christian Solidarity", 
+            "transfers": 10, 
+            "transfers_pc": 0.07
+        }
+    ], 
+    "counts_held": 12, 
+    "description": "2002 general election", 
+    "election_type": "dail", 
+    "electorate": 87595, 
+    "name": "Cavan\u2013Monaghan", 
+    "quota": 10308, 
+    "spoilt": 863, 
+    "turnout": 62710, 
+    "valid": 61847, 
+    "year": 2002
+}

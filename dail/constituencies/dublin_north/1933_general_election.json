@@ -1,0 +1,131 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                17053
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.6, 
+            "full_name": "Se\u00e1n T. O'Kelly", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                14472
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.4, 
+            "full_name": "Alfie Byrne", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                8864
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.3, 
+            "full_name": "Richard Mulcahy", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                5143
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6.5, 
+            "full_name": "Oscar Traynor", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4685
+            ], 
+            "elected": true, 
+            "first_pref_pc": 5.9, 
+            "full_name": "Eamonn Cooney", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5923
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.5, 
+            "full_name": "Cormac Breathnach", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5045
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6.4, 
+            "full_name": "Vincent Rice", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3989
+            ], 
+            "elected": true, 
+            "first_pref_pc": 5.1, 
+            "full_name": "Patrick Belton", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                4067
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.2, 
+            "full_name": "Martin O'Sullivan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2792
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.5, 
+            "full_name": "James Larkin", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2455
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.1, 
+            "full_name": "Matthew Stafford", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2379
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "Margaret Collins-O'Driscoll", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                1940
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.5, 
+            "full_name": "John Byrne", 
+            "party": "Cumann na nGaedheal"
+        }
+    ], 
+    "description": "1933 general election", 
+    "election_type": "dail", 
+    "electorate": 103824, 
+    "name": "Dublin North", 
+    "quota": 8757, 
+    "spoilt": null, 
+    "turnout": 75, 
+    "valid": 78807, 
+    "year": 1933
+}

@@ -1,0 +1,137 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                12365, 
+                12459, 
+                13414, 
+                14390, 
+                15841, 
+                17564, 
+                20058
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.2, 
+            "full_name": "Gabrielle McFadden", 
+            "party": "Fine Gael", 
+            "transfers": 7693, 
+            "transfers_pc": 27.74
+        }, 
+        {
+            "counts": [
+                8910, 
+                8966, 
+                9289, 
+                9763, 
+                10811, 
+                12431, 
+                14581
+            ], 
+            "elected": false, 
+            "first_pref_pc": 18.2, 
+            "full_name": "Aengus O'Rourke", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 5671, 
+            "transfers_pc": 20.45
+        }, 
+        {
+            "counts": [
+                7548, 
+                7677, 
+                8014, 
+                8756, 
+                9570, 
+                11254
+            ], 
+            "elected": false, 
+            "first_pref_pc": 15.4, 
+            "full_name": "Paul Hogan", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 3706, 
+            "transfers_pc": 13.37
+        }, 
+        {
+            "counts": [
+                5629, 
+                5849, 
+                6085, 
+                6833, 
+                7797
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.5, 
+            "full_name": "Kevin \"Boxer\" Moran", 
+            "party": "Independent", 
+            "transfers": 2168, 
+            "transfers_pc": 7.82
+        }, 
+        {
+            "counts": [
+                5959, 
+                6096, 
+                6206, 
+                6615
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.2, 
+            "full_name": "James Morgan", 
+            "party": "Independent", 
+            "transfers": 656, 
+            "transfers_pc": 2.37
+        }, 
+        {
+            "counts": [
+                4195, 
+                4378, 
+                4985
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.6, 
+            "full_name": "Brian Fagan", 
+            "party": "Independent", 
+            "transfers": 790, 
+            "transfers_pc": 2.85
+        }, 
+        {
+            "counts": [
+                3290, 
+                3352
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.7, 
+            "full_name": "Denis Leonard", 
+            "party": "Labour Party", 
+            "transfers": 62, 
+            "transfers_pc": 0.22
+        }, 
+        {
+            "counts": [
+                869
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "John McNamara", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                238
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Donal Jackson", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 7, 
+    "description": "2014 by-election", 
+    "election_type": "dail", 
+    "electorate": 87999, 
+    "name": "Longford\u2013Westmeath", 
+    "quota": 24502, 
+    "spoilt": 1492, 
+    "turnout": 50495, 
+    "valid": 49003, 
+    "year": 2014
+}

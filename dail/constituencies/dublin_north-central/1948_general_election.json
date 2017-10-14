@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9682
+            ], 
+            "elected": true, 
+            "first_pref_pc": 40.8, 
+            "full_name": "Vivion de Valera", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3873
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.3, 
+            "full_name": "Martin O'Sullivan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3878
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.3, 
+            "full_name": "Patrick McGilligan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2708
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.4, 
+            "full_name": "Fion\u00e1n Breathnach", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                1596
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.7, 
+            "full_name": "Christopher Macken", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                780
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.3, 
+            "full_name": "Colm Gallagher", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                505
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "John S. O'Connor", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                468
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "Michael Hughes", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                271
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "George Walker", 
+            "party": "National Labour Party"
+        }
+    ], 
+    "description": "1948 general election", 
+    "election_type": "dail", 
+    "electorate": 35989, 
+    "name": "Dublin North-Central", 
+    "quota": 5941, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 23761, 
+    "year": 1948
+}

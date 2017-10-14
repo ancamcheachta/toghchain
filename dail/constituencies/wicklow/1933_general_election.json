@@ -1,0 +1,50 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8995
+            ], 
+            "elected": true, 
+            "first_pref_pc": 31.8, 
+            "full_name": "S\u00e9amus Moore", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7564
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26.7, 
+            "full_name": "Dermot O'Mahony", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                6684
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.6, 
+            "full_name": "James Everett", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5045
+            ], 
+            "elected": false, 
+            "first_pref_pc": 17.8, 
+            "full_name": "David Haskins", 
+            "party": "National Centre Party"
+        }
+    ], 
+    "description": "1933 general election", 
+    "election_type": "dail", 
+    "electorate": 34808, 
+    "name": "Wicklow", 
+    "quota": 7073, 
+    "spoilt": null, 
+    "turnout": 81, 
+    "valid": 28288, 
+    "year": 1933
+}

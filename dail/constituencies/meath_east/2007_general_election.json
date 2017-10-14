@@ -1,0 +1,174 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10901
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.3, 
+            "full_name": "Mary Wallace", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6766, 
+                6789, 
+                6877, 
+                6941, 
+                7106, 
+                7351, 
+                7870, 
+                11619
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.7, 
+            "full_name": "Shane McEntee", 
+            "party": "Fine Gael", 
+            "transfers": 4853, 
+            "transfers_pc": 38.77
+        }, 
+        {
+            "counts": [
+                7834, 
+                7866, 
+                8267, 
+                8469, 
+                8628, 
+                9079, 
+                9770, 
+                10077
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.2, 
+            "full_name": "Thomas Byrne", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2243, 
+            "transfers_pc": 17.92
+        }, 
+        {
+            "counts": [
+                5136, 
+                5193, 
+                5337, 
+                5575, 
+                6095, 
+                6554, 
+                7247, 
+                8596
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.9, 
+            "full_name": "Dominic Hannigan", 
+            "party": "Labour Party", 
+            "transfers": 3460, 
+            "transfers_pc": 27.64
+        }, 
+        {
+            "counts": [
+                4363, 
+                4377, 
+                4508, 
+                4764, 
+                4992, 
+                5164, 
+                5972
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.1, 
+            "full_name": "Regina Doherty", 
+            "party": "Fine Gael", 
+            "transfers": 1609, 
+            "transfers_pc": 12.85
+        }, 
+        {
+            "counts": [
+                2586, 
+                2617, 
+                2659, 
+                2816, 
+                3008, 
+                3334
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6, 
+            "full_name": "Brian FitzGerald", 
+            "party": "Independent", 
+            "transfers": 748, 
+            "transfers_pc": 5.97
+        }, 
+        {
+            "counts": [
+                1695, 
+                1723, 
+                1762, 
+                1859, 
+                2008
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.9, 
+            "full_name": "Joanne Finnegan", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 313, 
+            "transfers_pc": 2.5
+        }, 
+        {
+            "counts": [
+                1330, 
+                1355, 
+                1417, 
+                1547
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.1, 
+            "full_name": "Se\u00e1n \u00d3 Buachalla", 
+            "party": "Green Party", 
+            "transfers": 217, 
+            "transfers_pc": 1.73
+        }, 
+        {
+            "counts": [
+                1170, 
+                1195, 
+                1223
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Joseph Bonner", 
+            "party": "Independent", 
+            "transfers": 53, 
+            "transfers_pc": 0.42
+        }, 
+        {
+            "counts": [
+                957, 
+                983
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.2, 
+            "full_name": "Sirena Campbell", 
+            "party": "Progressive Democrats", 
+            "transfers": 26, 
+            "transfers_pc": 0.21
+        }, 
+        {
+            "counts": [
+                269
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "A. J. Cahill", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 8, 
+    "description": "2007 general election", 
+    "election_type": "dail", 
+    "electorate": 67443, 
+    "name": "Meath East", 
+    "quota": 10752, 
+    "spoilt": 359, 
+    "turnout": 43366, 
+    "valid": 43007, 
+    "year": 2007
+}

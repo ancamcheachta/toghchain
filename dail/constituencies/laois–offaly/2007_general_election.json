@@ -1,0 +1,263 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                19102
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26.7, 
+            "full_name": "Brian Cowen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8297, 
+                9091, 
+                9195, 
+                9354, 
+                9673, 
+                10038, 
+                11808, 
+                12544
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.6, 
+            "full_name": "Olwyn Enright", 
+            "party": "Fine Gael", 
+            "transfers": 4247, 
+            "transfers_pc": 20.22
+        }, 
+        {
+            "counts": [
+                8064, 
+                10089, 
+                10131, 
+                10200, 
+                10313, 
+                10437, 
+                10561, 
+                11231, 
+                12533
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.3, 
+            "full_name": "Se\u00e1n Fleming", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 4469, 
+            "transfers_pc": 21.27
+        }, 
+        {
+            "counts": [
+                9067, 
+                9210, 
+                9259, 
+                9326, 
+                9380, 
+                9834, 
+                10215, 
+                10965, 
+                12108
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.7, 
+            "full_name": "Charles Flanagan", 
+            "party": "Fine Gael", 
+            "transfers": 3041, 
+            "transfers_pc": 14.48
+        }, 
+        {
+            "counts": [
+                7242, 
+                8010, 
+                8042, 
+                8075, 
+                8116, 
+                8235, 
+                8298, 
+                8967, 
+                9895, 
+                10008, 
+                10277
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.1, 
+            "full_name": "John Moloney", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3035, 
+            "transfers_pc": 14.45
+        }, 
+        {
+            "counts": [
+                5899, 
+                7924, 
+                7958, 
+                7990, 
+                8114, 
+                8141, 
+                8310, 
+                8619, 
+                9480, 
+                9618, 
+                9966
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.3, 
+            "full_name": "John Foley", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 4067, 
+            "transfers_pc": 19.36
+        }, 
+        {
+            "counts": [
+                4233, 
+                4829, 
+                4867, 
+                4933, 
+                5020, 
+                5093, 
+                5249, 
+                5514
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.9, 
+            "full_name": "Tom Parlon", 
+            "party": "Progressive Democrats", 
+            "transfers": 1281, 
+            "transfers_pc": 6.1
+        }, 
+        {
+            "counts": [
+                3656, 
+                3802, 
+                3862, 
+                3975, 
+                4120, 
+                4373, 
+                4477
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.1, 
+            "full_name": "Brian Stanley", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 821, 
+            "transfers_pc": 3.91
+        }, 
+        {
+            "counts": [
+                2196, 
+                2533, 
+                2595, 
+                2672, 
+                2873, 
+                2995
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.1, 
+            "full_name": "Molly Buckley", 
+            "party": "Fine Gael", 
+            "transfers": 799, 
+            "transfers_pc": 3.8
+        }, 
+        {
+            "counts": [
+                1278, 
+                1310, 
+                1530, 
+                1711, 
+                1746
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Jim O'Brien", 
+            "party": "Labour Party", 
+            "transfers": 468, 
+            "transfers_pc": 2.23
+        }, 
+        {
+            "counts": [
+                934, 
+                1144, 
+                1204, 
+                1252
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.3, 
+            "full_name": "John Bracken", 
+            "party": "Independent", 
+            "transfers": 318, 
+            "transfers_pc": 1.51
+        }, 
+        {
+            "counts": [
+                812, 
+                861, 
+                902
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "M\u00e1ire McKay", 
+            "party": "Green Party", 
+            "transfers": 90, 
+            "transfers_pc": 0.43
+        }, 
+        {
+            "counts": [
+                425, 
+                475
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "David Whelan", 
+            "party": "Labour Party", 
+            "transfers": 50, 
+            "transfers_pc": 0.24
+        }, 
+        {
+            "counts": [
+                156, 
+                161
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Colm Callanan", 
+            "party": "Christian Solidarity", 
+            "transfers": 5, 
+            "transfers_pc": 0.02
+        }, 
+        {
+            "counts": [
+                85, 
+                88
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Joseph McCormack", 
+            "party": "Independent", 
+            "transfers": 3, 
+            "transfers_pc": 0.01
+        }, 
+        {
+            "counts": [
+                45, 
+                48
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Noel O'Gara", 
+            "party": "Independent", 
+            "transfers": 3, 
+            "transfers_pc": 0.01
+        }
+    ], 
+    "counts_held": 11, 
+    "description": "2007 general election", 
+    "election_type": "dail", 
+    "electorate": 103673, 
+    "name": "Laois\u2013Offaly", 
+    "quota": 11916, 
+    "spoilt": 662, 
+    "turnout": 72153, 
+    "valid": 71491, 
+    "year": 2007
+}

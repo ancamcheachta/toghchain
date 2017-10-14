@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7943
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.8, 
+            "full_name": "Michael D'Arcy", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7166
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.2, 
+            "full_name": "Ivan Yates", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6492
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.9, 
+            "full_name": "Hugh Byrne", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5753
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.4, 
+            "full_name": "Avril Doyle", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5891
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.7, 
+            "full_name": "John Browne", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5976
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.9, 
+            "full_name": "Lorcan Allen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4962
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.9, 
+            "full_name": "Brendan Howlin", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4895
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.7, 
+            "full_name": "Gus Byrne", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                920
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "John Roche", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                363
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "James Hayes", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "November 1982 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Wexford", 
+    "quota": 8394, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 50361, 
+    "year": 1982
+}

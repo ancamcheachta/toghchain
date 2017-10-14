@@ -1,0 +1,122 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8162
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.6, 
+            "full_name": "Robert Briscoe", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5436
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.7, 
+            "full_name": "Noel Lemass, Jnr", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4830
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.2, 
+            "full_name": "Michael O'Higgins", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3878
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.8, 
+            "full_name": "James Carroll", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2543
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6.4, 
+            "full_name": "Bernard Butler", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2677
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.8, 
+            "full_name": "Se\u00e1n MacBride", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                2488
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.3, 
+            "full_name": "Beatrice Dixon", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2442
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.2, 
+            "full_name": "Seoirse Dearle", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                2045
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.2, 
+            "full_name": "John Colgan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1866
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.7, 
+            "full_name": "Edmond Power", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1853
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.7, 
+            "full_name": "Michael ffrench-O'Carroll", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1397
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.5, 
+            "full_name": "James O'Keeffe", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1957 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South-West", 
+    "quota": 6603, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 39617, 
+    "year": 1957
+}

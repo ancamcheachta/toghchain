@@ -1,0 +1,98 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10530
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26.4, 
+            "full_name": "Mary Coughlan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                9606, 
+                9976
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.1, 
+            "full_name": "Pat the Cope Gallagher", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 370, 
+            "transfers_pc": 13.94
+        }, 
+        {
+            "counts": [
+                9167, 
+                9249, 
+                10281
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23, 
+            "full_name": "Dinny McGinley", 
+            "party": "Fine Gael", 
+            "transfers": 1114, 
+            "transfers_pc": 41.97
+        }, 
+        {
+            "counts": [
+                8462, 
+                8551, 
+                9263
+            ], 
+            "elected": false, 
+            "first_pref_pc": 21.2, 
+            "full_name": "Pearse Doherty", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 801, 
+            "transfers_pc": 30.18
+        }, 
+        {
+            "counts": [
+                1111, 
+                1120
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "S\u00e9amus Rodgers", 
+            "party": "Labour Party", 
+            "transfers": 9, 
+            "transfers_pc": 0.34
+        }, 
+        {
+            "counts": [
+                589, 
+                596
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.5, 
+            "full_name": "Se\u00e1n \u00d3 Maolchallann", 
+            "party": "Green Party", 
+            "transfers": 7, 
+            "transfers_pc": 0.26
+        }, 
+        {
+            "counts": [
+                388, 
+                397
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "John Doherty", 
+            "party": "Independent", 
+            "transfers": 9, 
+            "transfers_pc": 0.34
+        }
+    ], 
+    "counts_held": 3, 
+    "description": "2007 general election", 
+    "election_type": "dail", 
+    "electorate": 60829, 
+    "name": "Donegal South-West", 
+    "quota": 9964, 
+    "spoilt": 421, 
+    "turnout": 40274, 
+    "valid": 39853, 
+    "year": 2007
+}

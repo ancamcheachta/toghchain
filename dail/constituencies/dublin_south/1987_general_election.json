@@ -1,0 +1,149 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                11957
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.9, 
+            "full_name": "Anne Colley", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                9940
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.3, 
+            "full_name": "S\u00e9amus Brennan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8423
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.7, 
+            "full_name": "Tom Kitt", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7247
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.6, 
+            "full_name": "John Kelly", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5720
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10, 
+            "full_name": "Alan Shatter", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4737
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.3, 
+            "full_name": "Nuala Fennell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2684
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.7, 
+            "full_name": "Eithne FitzGerald", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2133
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "Ann Ormonde", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1377
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.4, 
+            "full_name": "Roger Garland", 
+            "party": "Green Alliance"
+        }, 
+        {
+            "counts": [
+                1308
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.3, 
+            "full_name": "Eamonn \u00d3 Liathain", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                1253
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.2, 
+            "full_name": "Mairead Duchon", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                189
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Thomas Sharkey", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                142
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Padraig O'Neill", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                114
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Barbara Hyland", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                107
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Martin MacFeorais", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1987 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South", 
+    "quota": 9556, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 57331, 
+    "year": 1987
+}

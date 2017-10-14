@@ -1,0 +1,173 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10190, 
+                10225, 
+                10400, 
+                10457, 
+                11696
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.5, 
+            "full_name": "S\u00e9amus Kirk", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1506, 
+            "transfers_pc": 11.6
+        }, 
+        {
+            "counts": [
+                9982, 
+                10020, 
+                10375, 
+                10500, 
+                11321
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.1, 
+            "full_name": "Dermot Ahern", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1339, 
+            "transfers_pc": 10.31
+        }, 
+        {
+            "counts": [
+                8387, 
+                8421, 
+                8738, 
+                10208, 
+                11036
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.2, 
+            "full_name": "Fergus O'Dowd", 
+            "party": "Fine Gael", 
+            "transfers": 2649, 
+            "transfers_pc": 20.41
+        }, 
+        {
+            "counts": [
+                8274, 
+                8385, 
+                8596, 
+                8836, 
+                8989, 
+                10556
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15, 
+            "full_name": "Arthur Morgan", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 2282, 
+            "transfers_pc": 17.58
+        }, 
+        {
+            "counts": [
+                5199, 
+                5228, 
+                6240, 
+                6503, 
+                6550, 
+                8847
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.5, 
+            "full_name": "Mairead McGuinness", 
+            "party": "Fine Gael", 
+            "transfers": 3648, 
+            "transfers_pc": 28.1
+        }, 
+        {
+            "counts": [
+                4172, 
+                4296, 
+                4711, 
+                5118, 
+                5225
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.6, 
+            "full_name": "Mark Dearey", 
+            "party": "Green Party", 
+            "transfers": 1053, 
+            "transfers_pc": 8.11
+        }, 
+        {
+            "counts": [
+                3009, 
+                3031, 
+                3045, 
+                3287
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.5, 
+            "full_name": "Frank Maher", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 278, 
+            "transfers_pc": 2.14
+        }, 
+        {
+            "counts": [
+                2739, 
+                2786, 
+                2856
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5, 
+            "full_name": "Ged Nash", 
+            "party": "Labour Party", 
+            "transfers": 117, 
+            "transfers_pc": 0.9
+        }, 
+        {
+            "counts": [
+                2573, 
+                2596
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.7, 
+            "full_name": "Jim D'Arcy", 
+            "party": "Fine Gael", 
+            "transfers": 23, 
+            "transfers_pc": 0.18
+        }, 
+        {
+            "counts": [
+                193
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Peter Short", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                169
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Luke Martin", 
+            "party": "Fathers Rights"
+        }, 
+        {
+            "counts": [
+                127
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Dermot Duke", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 6, 
+    "description": "2007 general election", 
+    "election_type": "dail", 
+    "electorate": 86007, 
+    "name": "Louth", 
+    "quota": 11003, 
+    "spoilt": 592, 
+    "turnout": 55606, 
+    "valid": 55014, 
+    "year": 2007
+}

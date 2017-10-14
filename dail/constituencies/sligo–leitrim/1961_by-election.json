@@ -1,0 +1,32 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                17126
+            ], 
+            "elected": true, 
+            "first_pref_pc": 52, 
+            "full_name": "Joseph McLoughlin", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                15807
+            ], 
+            "elected": false, 
+            "first_pref_pc": 48, 
+            "full_name": "Willie Farrell", 
+            "party": "Fianna F\u00e1il"
+        }
+    ], 
+    "description": "1961 by-election", 
+    "election_type": "dail", 
+    "electorate": 56714, 
+    "name": "Sligo\u2013Leitrim", 
+    "quota": 16467, 
+    "spoilt": null, 
+    "turnout": 58, 
+    "valid": 32933, 
+    "year": 1961
+}

@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                5501
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.7, 
+            "full_name": "Patrick Connor", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5977
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.5, 
+            "full_name": "Timothy O'Connor", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5746
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.6, 
+            "full_name": "Honor Crowley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4712
+            ], 
+            "elected": false, 
+            "first_pref_pc": 17.7, 
+            "full_name": "Michael Moynihan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3250
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.2, 
+            "full_name": "Michael Begley", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1370
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.2, 
+            "full_name": "James Courtney", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1965 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Kerry South", 
+    "quota": 6640, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 26556, 
+    "year": 1965
+}

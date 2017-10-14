@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8263
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26.4, 
+            "full_name": "John O'Donoghue", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7537
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.1, 
+            "full_name": "Breeda Moynihan-Cronin", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6113
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.5, 
+            "full_name": "John O'Leary", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3576
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.4, 
+            "full_name": "Michael Connor Scarteen", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2658
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.5, 
+            "full_name": "Paul Coghlan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2481
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.9, 
+            "full_name": "P. J. Cronin", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                331
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "Dan Daly", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                267
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.9, 
+            "full_name": "P\u00f3l \u00d3 Criochain", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                112
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Liam West", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1992 general election", 
+    "election_type": "dail", 
+    "electorate": 44591, 
+    "name": "Kerry South", 
+    "quota": 7835, 
+    "spoilt": 486, 
+    "turnout": 31824, 
+    "valid": 31338, 
+    "year": 1992
+}

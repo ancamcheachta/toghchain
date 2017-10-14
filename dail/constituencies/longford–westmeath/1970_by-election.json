@@ -1,0 +1,41 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                16146
+            ], 
+            "elected": true, 
+            "first_pref_pc": 46.7, 
+            "full_name": "Patrick Cooney", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                15228
+            ], 
+            "elected": false, 
+            "first_pref_pc": 44.1, 
+            "full_name": "Se\u00e1n Keegan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3180
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.2, 
+            "full_name": "Jack Coleman", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1970 by-election", 
+    "election_type": "dail", 
+    "electorate": 45956, 
+    "name": "Longford\u2013Westmeath", 
+    "quota": 17278, 
+    "spoilt": null, 
+    "turnout": 75, 
+    "valid": 34554, 
+    "year": 1970
+}

@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                12400
+            ], 
+            "elected": true, 
+            "first_pref_pc": 34.7, 
+            "full_name": "Se\u00e1n Lemass", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7098
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.9, 
+            "full_name": "Frank Cluskey", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6768
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19, 
+            "full_name": "Maurice E. Dockrell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2175
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6.1, 
+            "full_name": "Philip Brady", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1349
+            ], 
+            "elected": true, 
+            "first_pref_pc": 3.8, 
+            "full_name": "Thomas J. Fitzpatrick", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2220
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.2, 
+            "full_name": "Joseph Barron", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                1464
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.1, 
+            "full_name": "Patrick Cummins", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1032
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "George McLoughlin", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1002
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "John Nugent", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                183
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Michael O'Riordan", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1965 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South-Central", 
+    "quota": 5949, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 35691, 
+    "year": 1965
+}

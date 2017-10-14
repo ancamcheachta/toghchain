@@ -1,0 +1,185 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                16399
+            ], 
+            "elected": true, 
+            "first_pref_pc": 30.9, 
+            "full_name": "Se\u00e1n Lemass", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4971
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.4, 
+            "full_name": "Peadar Doyle", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3133
+            ], 
+            "elected": true, 
+            "first_pref_pc": 5.9, 
+            "full_name": "John McCann", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3127
+            ], 
+            "elected": true, 
+            "first_pref_pc": 5.9, 
+            "full_name": "Robert Briscoe", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2841
+            ], 
+            "elected": true, 
+            "first_pref_pc": 5.4, 
+            "full_name": "Maurice E. Dockrell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2666
+            ], 
+            "elected": true, 
+            "first_pref_pc": 5, 
+            "full_name": "James B. Lynch", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3049
+            ], 
+            "elected": true, 
+            "first_pref_pc": 5.7, 
+            "full_name": "James Larkin, Jnr", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3326
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.3, 
+            "full_name": "Walter Beirne", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2345
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "Joseph Hannigan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1639
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.1, 
+            "full_name": "Peter White", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1525
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "Patrick Cahill", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1461
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "Tom O'Higgins", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1280
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.41, 
+            "full_name": "E. D. Hoey", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1152
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.2, 
+            "full_name": "Myles Keogh", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1104
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "Vincent Rice", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                917
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "Hanna Sheehy Skeffington", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                873
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "Owen Hynes", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                820
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.5, 
+            "full_name": "Simon Donnelly", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                494
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.9, 
+            "full_name": "Se\u00e1n Dowling", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1943 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South", 
+    "quota": 6641, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 53122, 
+    "year": 1943
+}

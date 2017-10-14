@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6260
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.7, 
+            "full_name": "Alan Dukes", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5665
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.7, 
+            "full_name": "Se\u00e1n Power", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5834
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.3, 
+            "full_name": "Jack Wall", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4503
+            ], 
+            "elected": false, 
+            "first_pref_pc": 15.6, 
+            "full_name": "Se\u00e1n \u00d3 Feargha\u00edl", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3895
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.5, 
+            "full_name": "John Dardis", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                1371
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.8, 
+            "full_name": "Rainsford Hendy", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                662
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.3, 
+            "full_name": "Christy Walsh", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                618
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "Francis Browne", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1997 general election", 
+    "election_type": "dail", 
+    "electorate": 47852, 
+    "name": "Kildare South", 
+    "quota": 7203, 
+    "spoilt": 365, 
+    "turnout": 29173, 
+    "valid": 28808, 
+    "year": 1997
+}

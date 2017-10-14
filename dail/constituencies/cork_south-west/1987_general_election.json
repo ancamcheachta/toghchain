@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9488
+            ], 
+            "elected": true, 
+            "first_pref_pc": 28.4, 
+            "full_name": "Joe Walsh", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7814
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.4, 
+            "full_name": "Jim O'Keeffe", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6752
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.2, 
+            "full_name": "P. J. Sheehan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5644
+            ], 
+            "elected": false, 
+            "first_pref_pc": 16.9, 
+            "full_name": "Denis O'Donovan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3570
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.7, 
+            "full_name": "Ray O'Neill", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                134
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Stan Davies", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1987 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Cork South-West", 
+    "quota": 8351, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 33402, 
+    "year": 1987
+}

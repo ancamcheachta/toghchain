@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10784
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.5, 
+            "full_name": "James Myles", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                4725
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6.8, 
+            "full_name": "Michael \u00d3g McFadden", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                5261
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.6, 
+            "full_name": "Daniel McMenamin", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                5319
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.7, 
+            "full_name": "James Dillon", 
+            "party": "National Centre Party"
+        }, 
+        {
+            "counts": [
+                7615
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11, 
+            "full_name": "Brian Brady", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7310
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.5, 
+            "full_name": "Neal Blaney", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7384
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.6, 
+            "full_name": "Joseph O'Doherty", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7055
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.1, 
+            "full_name": "Hugh Doherty", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6036
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.7, 
+            "full_name": "Archie Cassidy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4306
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.2, 
+            "full_name": "Michael McGilligan", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3779
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.4, 
+            "full_name": "Eugene Doherty", 
+            "party": "Cumann na nGaedheal"
+        }
+    ], 
+    "description": "1933 general election", 
+    "election_type": "dail", 
+    "electorate": 88666, 
+    "name": "Donegal", 
+    "quota": 7731, 
+    "spoilt": null, 
+    "turnout": 78, 
+    "valid": 69574, 
+    "year": 1933
+}

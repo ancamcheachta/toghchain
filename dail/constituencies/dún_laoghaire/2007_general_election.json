@@ -1,0 +1,187 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                11884
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.2, 
+            "full_name": "Mary Hanafin", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8587, 
+                9977
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.6, 
+            "full_name": "Barry Andrews", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1390, 
+            "transfers_pc": 7.69
+        }, 
+        {
+            "counts": [
+                7127, 
+                7254, 
+                7492, 
+                7514, 
+                8720, 
+                9225, 
+                9937
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.2, 
+            "full_name": "Eamon Gilmore", 
+            "party": "Labour Party", 
+            "transfers": 2810, 
+            "transfers_pc": 15.54
+        }, 
+        {
+            "counts": [
+                5361, 
+                5418, 
+                5456, 
+                5465, 
+                5640, 
+                6274, 
+                8581, 
+                8633, 
+                13090
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.2, 
+            "full_name": "Se\u00e1n Barrett", 
+            "party": "Fine Gael", 
+            "transfers": 7729, 
+            "transfers_pc": 42.74
+        }, 
+        {
+            "counts": [
+                4534, 
+                4626, 
+                4865, 
+                4886, 
+                5173, 
+                6045, 
+                6368, 
+                6399, 
+                7357, 
+                9910
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.7, 
+            "full_name": "Ciar\u00e1n Cuffe", 
+            "party": "Green Party", 
+            "transfers": 5376, 
+            "transfers_pc": 29.73
+        }, 
+        {
+            "counts": [
+                5233, 
+                5294, 
+                5798, 
+                5813, 
+                5943, 
+                6362, 
+                6705, 
+                6732, 
+                7139, 
+                7890
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.9, 
+            "full_name": "Richard Boyd Barrett", 
+            "party": "People Before Profit", 
+            "transfers": 2657, 
+            "transfers_pc": 14.69
+        }, 
+        {
+            "counts": [
+                4162, 
+                4209, 
+                4230, 
+                4237, 
+                4497, 
+                5186, 
+                6248, 
+                6289
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.1, 
+            "full_name": "Eugene Regan", 
+            "party": "Fine Gael", 
+            "transfers": 2127, 
+            "transfers_pc": 11.76
+        }, 
+        {
+            "counts": [
+                4309, 
+                4359, 
+                4406, 
+                4415, 
+                4547, 
+                4932
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.3, 
+            "full_name": "John Bailey", 
+            "party": "Fine Gael", 
+            "transfers": 623, 
+            "transfers_pc": 3.44
+        }, 
+        {
+            "counts": [
+                3959, 
+                4165, 
+                4212, 
+                4309, 
+                4437
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.7, 
+            "full_name": "Fiona O'Malley", 
+            "party": "Progressive Democrats", 
+            "transfers": 478, 
+            "transfers_pc": 2.64
+        }, 
+        {
+            "counts": [
+                2265, 
+                2316, 
+                2366, 
+                2377
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.9, 
+            "full_name": "Ois\u00edn Quinn", 
+            "party": "Labour Party", 
+            "transfers": 112, 
+            "transfers_pc": 0.62
+        }, 
+        {
+            "counts": [
+                1292, 
+                1309
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.2, 
+            "full_name": "Eoin \u00d3 Broin", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 17, 
+            "transfers_pc": 0.09
+        }
+    ], 
+    "counts_held": 10, 
+    "description": "2007 general election", 
+    "election_type": "dail", 
+    "electorate": 89035, 
+    "name": "D\u00fan Laoghaire", 
+    "quota": 9786, 
+    "spoilt": 397, 
+    "turnout": 59110, 
+    "valid": 58713, 
+    "year": 2007
+}

@@ -1,0 +1,132 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9176, 
+                9347, 
+                10691, 
+                11728
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.4, 
+            "full_name": "Dan Neville", 
+            "party": "Fine Gael", 
+            "transfers": 2552, 
+            "transfers_pc": 25.53
+        }, 
+        {
+            "counts": [
+                8597, 
+                8793, 
+                10351, 
+                11316
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.1, 
+            "full_name": "Patrick O'Donovan", 
+            "party": "Fine Gael", 
+            "transfers": 2719, 
+            "transfers_pc": 27.2
+        }, 
+        {
+            "counts": [
+                9361, 
+                9488, 
+                9753, 
+                10809
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.8, 
+            "full_name": "Niall Collins", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1448, 
+            "transfers_pc": 14.48
+        }, 
+        {
+            "counts": [
+                7910, 
+                8236, 
+                8893, 
+                10104
+            ], 
+            "elected": false, 
+            "first_pref_pc": 17.6, 
+            "full_name": "James Heffernan", 
+            "party": "Labour Party", 
+            "transfers": 2194, 
+            "transfers_pc": 21.95
+        }, 
+        {
+            "counts": [
+                4395, 
+                4767, 
+                5075
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.8, 
+            "full_name": "John Dillon", 
+            "party": "Independent", 
+            "transfers": 680, 
+            "transfers_pc": 6.8
+        }, 
+        {
+            "counts": [
+                4152, 
+                4222
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.2, 
+            "full_name": "William O'Donnell", 
+            "party": "Fine Gael", 
+            "transfers": 70, 
+            "transfers_pc": 0.7
+        }, 
+        {
+            "counts": [
+                430
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Con Cremin", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                419
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.9, 
+            "full_name": "Seamus Sherlock", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                354
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "Stephen Wall", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                247
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Patrick O'Doherty", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 4, 
+    "description": "2011 general election", 
+    "election_type": "dail", 
+    "electorate": 65083, 
+    "name": "Limerick", 
+    "quota": 11261, 
+    "spoilt": 471, 
+    "turnout": 45512, 
+    "valid": 45041, 
+    "year": 2011
+}

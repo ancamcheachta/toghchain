@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                4142
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.7, 
+            "full_name": "Thomas Brennan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4834
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.3, 
+            "full_name": "James Everett", 
+            "party": "National Labour Party"
+        }, 
+        {
+            "counts": [
+                3618
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.7, 
+            "full_name": "Patrick Cogan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                3941
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.9, 
+            "full_name": "Edmund Sweetman", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3414
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.9, 
+            "full_name": "Christopher Byrne", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2072
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.8, 
+            "full_name": "James J. McCrea", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1824
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.9, 
+            "full_name": "William Clarke", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                1760
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.7, 
+            "full_name": "Thomas O'Reilly", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                844
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.2, 
+            "full_name": "Brendan Hyland", 
+            "party": "Clann na Poblachta"
+        }
+    ], 
+    "description": "1948 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Wicklow", 
+    "quota": 6613, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 26449, 
+    "year": 1948
+}

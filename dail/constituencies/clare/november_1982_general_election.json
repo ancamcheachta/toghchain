@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8793
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.4, 
+            "full_name": "Sylvester Barrett", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8009
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.7, 
+            "full_name": "Brendan Daly", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7553
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.7, 
+            "full_name": "Madeleine Taylor-Quinn", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6339
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14, 
+            "full_name": "Donal Carey", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6471
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.3, 
+            "full_name": "S\u00edle de Valera", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2674
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.9, 
+            "full_name": "Bill Loughnane", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2344
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.2, 
+            "full_name": "Agnes McCarthy", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2133
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.7, 
+            "full_name": "Colm Wiley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                934
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "S\u00e9amus Durack", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "November 1982 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Clare", 
+    "quota": 9051, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 45250, 
+    "year": 1982
+}

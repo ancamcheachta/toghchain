@@ -1,0 +1,140 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                12175
+            ], 
+            "elected": true, 
+            "first_pref_pc": 34.1, 
+            "full_name": "Bertie Ahern", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5261
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.7, 
+            "full_name": "Tony Gregory", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                3132
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.8, 
+            "full_name": "Marian McGennis", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5185
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.5, 
+            "full_name": "Jim Mitchell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3035
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.5, 
+            "full_name": "Joe Costello", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2377
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.6, 
+            "full_name": "Christy Burke", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                1343
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "Michael Conaghan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1253
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.5, 
+            "full_name": "Ciar\u00e1n Cuffe", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                650
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Vincent Jackson", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                509
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "Linda Kavanagh", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                432
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "Eamonn Murphy", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                307
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.9, 
+            "full_name": "Kevin Devlin", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                39
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Patrick Shelly", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                43
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Aidan Walsh", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1997 general election", 
+    "election_type": "dail", 
+    "electorate": 64073, 
+    "name": "Dublin Central", 
+    "quota": 7149, 
+    "spoilt": 541, 
+    "turnout": 36282, 
+    "valid": 35741, 
+    "year": 1997
+}

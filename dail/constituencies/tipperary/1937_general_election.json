@@ -1,0 +1,122 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8849
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.1, 
+            "full_name": "Dan Breen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7770
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.5, 
+            "full_name": "Daniel Morrissey", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5550
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.2, 
+            "full_name": "Andrew Fogarty", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6743
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10, 
+            "full_name": "S\u00e9amus Burke", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5027
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.4, 
+            "full_name": "Jeremiah Ryan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5611
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.3, 
+            "full_name": "Martin Ryan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6380
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.5, 
+            "full_name": "William X. O'Brien", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                5423
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8, 
+            "full_name": "Timothy Sheehy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4671
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.9, 
+            "full_name": "Se\u00e1n Hayes", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4420
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.6, 
+            "full_name": "Richard Curran", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4072
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6, 
+            "full_name": "Daniel Kennedy", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                3009
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.5, 
+            "full_name": "James Timoney", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1937 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Tipperary", 
+    "quota": 8441, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 67525, 
+    "year": 1937
+}

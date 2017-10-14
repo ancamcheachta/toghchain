@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9724
+            ], 
+            "elected": true, 
+            "first_pref_pc": 28.9, 
+            "full_name": "Dick Spring", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                7125
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.2, 
+            "full_name": "Tom McEllistrim, Jnr", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5025
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.9, 
+            "full_name": "Denis Foley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5817
+            ], 
+            "elected": false, 
+            "first_pref_pc": 17.3, 
+            "full_name": "Jimmy Deenihan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5081
+            ], 
+            "elected": false, 
+            "first_pref_pc": 15.1, 
+            "full_name": "Dan Kiely", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                866
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "Bernie Gannon", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "November 1982 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Kerry North", 
+    "quota": 8410, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 33638, 
+    "year": 1982
+}

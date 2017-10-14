@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10024
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18, 
+            "full_name": "Ivan Yates", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                9510
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.1, 
+            "full_name": "Brendan Howlin", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6561
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.8, 
+            "full_name": "Michael D'Arcy", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                8646
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.5, 
+            "full_name": "John Browne", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7003
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.6, 
+            "full_name": "Hugh Byrne", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6038
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.5, 
+            "full_name": "Denis Asple", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4896
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.8, 
+            "full_name": "Avril Doyle", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1454
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "Michael Enright", 
+            "party": "Democratic Left"
+        }, 
+        {
+            "counts": [
+                938
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "Marie Percival", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                616
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "Michael O'Connor", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1997 general election", 
+    "election_type": "dail", 
+    "electorate": 83775, 
+    "name": "Wexford", 
+    "quota": 9282, 
+    "spoilt": 678, 
+    "turnout": 56364, 
+    "valid": 55686, 
+    "year": 1997
+}

@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9787
+            ], 
+            "elected": true, 
+            "first_pref_pc": 31.8, 
+            "full_name": "Frank Aiken", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8375
+            ], 
+            "elected": true, 
+            "first_pref_pc": 27.2, 
+            "full_name": "James Coburn", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6200
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.1, 
+            "full_name": "Laurence Walsh", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4353
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.1, 
+            "full_name": "Patrick Roe", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1351
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "Michael O'Connor", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                740
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.4, 
+            "full_name": "Anthony Flynn", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1938 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Louth", 
+    "quota": 7702, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 30806, 
+    "year": 1938
+}

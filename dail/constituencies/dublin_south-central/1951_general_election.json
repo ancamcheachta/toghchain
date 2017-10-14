@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10759
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.9, 
+            "full_name": "Se\u00e1n Lemass", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5684
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.7, 
+            "full_name": "Maurice E. Dockrell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5667
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.6, 
+            "full_name": "James Larkin, Jnr", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4487
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.8, 
+            "full_name": "John McCann", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4020
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.7, 
+            "full_name": "Philip Brady", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3638
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.8, 
+            "full_name": "James B. Lynch", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2784
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.7, 
+            "full_name": "Kerry Reddin", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1809
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "Con Lehane", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                1363
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.3, 
+            "full_name": "Joseph Barron", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                1332
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.2, 
+            "full_name": "Anthony Lalor", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1951 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South-Central", 
+    "quota": 6924, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 41543, 
+    "year": 1951
+}

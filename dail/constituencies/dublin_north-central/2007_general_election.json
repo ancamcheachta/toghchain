@@ -1,0 +1,107 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9303
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.5, 
+            "full_name": "Richard Bruton", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                9026, 
+                9046, 
+                9280
+            ], 
+            "elected": true, 
+            "first_pref_pc": 24.8, 
+            "full_name": "Se\u00e1n Haughey", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 254, 
+            "transfers_pc": 4.16
+        }, 
+        {
+            "counts": [
+                5169, 
+                5212, 
+                5768, 
+                5819, 
+                9397
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.2, 
+            "full_name": "Finian McGrath", 
+            "party": "Independent", 
+            "transfers": 4228, 
+            "transfers_pc": 69.16
+        }, 
+        {
+            "counts": [
+                7003, 
+                7019, 
+                7167, 
+                7252, 
+                7952
+            ], 
+            "elected": false, 
+            "first_pref_pc": 19.2, 
+            "full_name": "Ivor Callely", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 949, 
+            "transfers_pc": 15.52
+        }, 
+        {
+            "counts": [
+                2649, 
+                2741, 
+                2884, 
+                2897
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.3, 
+            "full_name": "Derek McDowell", 
+            "party": "Labour Party", 
+            "transfers": 248, 
+            "transfers_pc": 4.06
+        }, 
+        {
+            "counts": [
+                1891, 
+                1913, 
+                2160, 
+                2186
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.2, 
+            "full_name": "Bronwen Maher", 
+            "party": "Green Party", 
+            "transfers": 295, 
+            "transfers_pc": 4.83
+        }, 
+        {
+            "counts": [
+                1375, 
+                1380
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.8, 
+            "full_name": "Peter Lawlor", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 5, 
+            "transfers_pc": 0.08
+        }
+    ], 
+    "counts_held": 5, 
+    "description": "2007 general election", 
+    "election_type": "dail", 
+    "electorate": 53443, 
+    "name": "Dublin North-Central", 
+    "quota": 9105, 
+    "spoilt": 342, 
+    "turnout": 36758, 
+    "valid": 36416, 
+    "year": 2007
+}

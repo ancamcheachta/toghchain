@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9747
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.8, 
+            "full_name": "Oliver J. Flanagan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                7881
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.6, 
+            "full_name": "Kieran Egan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6776
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.2, 
+            "full_name": "Peadar Maher", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5486
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.3, 
+            "full_name": "Tom O'Higgins, Jnr", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5548
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.4, 
+            "full_name": "Nicholas Egan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2939
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.6, 
+            "full_name": "Bhaltar Misteil", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                2555
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.7, 
+            "full_name": "Bernard Corcoran", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1634
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "James Martin", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1544
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.5, 
+            "full_name": "Frank Byrne", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                575
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.3, 
+            "full_name": "Michael Pettit", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1957 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Laois\u2013Offaly", 
+    "quota": 7448, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 44685, 
+    "year": 1957
+}

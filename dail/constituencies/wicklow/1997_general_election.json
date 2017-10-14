@@ -1,0 +1,140 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6150
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.8, 
+            "full_name": "Joe Jacob", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6101
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.7, 
+            "full_name": "Dick Roche", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5226
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10, 
+            "full_name": "Liz McManus", 
+            "party": "Democratic Left"
+        }, 
+        {
+            "counts": [
+                5171
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.9, 
+            "full_name": "Billy Timmins", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5590
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.7, 
+            "full_name": "Mildred Fox", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                5293
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.1, 
+            "full_name": "Liam Kavanagh", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4995
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.6, 
+            "full_name": "Nicky Kelly", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                3116
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.9, 
+            "full_name": "George Jones", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3368
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.4, 
+            "full_name": "Michael D. Lawlor", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2021
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.8, 
+            "full_name": "Tom Honan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1924
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "Tim Collins", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1726
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.3, 
+            "full_name": "Mary Heaslip", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                1299
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.5, 
+            "full_name": "Alex Perkins", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                316
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Charlie Keddy", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1997 general election", 
+    "election_type": "dail", 
+    "electorate": 80458, 
+    "name": "Wicklow", 
+    "quota": 8717, 
+    "spoilt": 434, 
+    "turnout": 52730, 
+    "valid": 52296, 
+    "year": 1997
+}

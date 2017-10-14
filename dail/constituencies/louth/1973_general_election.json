@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9256
+            ], 
+            "elected": true, 
+            "first_pref_pc": 29.6, 
+            "full_name": "P\u00e1draig Faulkner", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6767
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.6, 
+            "full_name": "Joseph Farrell", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6787
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.7, 
+            "full_name": "Paddy Donegan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3532
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.3, 
+            "full_name": "Brid O'Rourke", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2577
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.2, 
+            "full_name": "Paul Callan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1450
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.6, 
+            "full_name": "Donnchadha MacRaghnaill", 
+            "party": "Sinn F\u00e9in (Official)"
+        }, 
+        {
+            "counts": [
+                472
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.5, 
+            "full_name": "Micheal O'Donnell", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                263
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "James Sarsfield", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                210
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "Geoffrey Eager", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1973 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Louth", 
+    "quota": 7829, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 31314, 
+    "year": 1973
+}

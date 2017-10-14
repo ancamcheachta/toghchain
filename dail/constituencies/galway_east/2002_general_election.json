@@ -1,0 +1,132 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8635, 
+                8766, 
+                8984, 
+                13971
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.5, 
+            "full_name": "Paul Connaughton, Snr", 
+            "party": "Fine Gael", 
+            "transfers": 5336, 
+            "transfers_pc": 53.99
+        }, 
+        {
+            "counts": [
+                7898, 
+                7963, 
+                8315, 
+                9414, 
+                10366
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.9, 
+            "full_name": "Joe Callanan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 2468, 
+            "transfers_pc": 24.97
+        }, 
+        {
+            "counts": [
+                7786, 
+                8042, 
+                8581, 
+                8825, 
+                9881
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.8, 
+            "full_name": "Paddy McHugh", 
+            "party": "Independent", 
+            "transfers": 2095, 
+            "transfers_pc": 21.2
+        }, 
+        {
+            "counts": [
+                7765, 
+                7847, 
+                8091, 
+                8726, 
+                9253
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.7, 
+            "full_name": "Noel Treacy", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1488, 
+            "transfers_pc": 15.05
+        }, 
+        {
+            "counts": [
+                7454, 
+                7513, 
+                7711, 
+                7950, 
+                8243
+            ], 
+            "elected": false, 
+            "first_pref_pc": 15.1, 
+            "full_name": "Michael P. Kitt", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 789, 
+            "transfers_pc": 7.98
+        }, 
+        {
+            "counts": [
+                6941, 
+                7152, 
+                7445
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14, 
+            "full_name": "Ulick Burke", 
+            "party": "Fine Gael", 
+            "transfers": 504, 
+            "transfers_pc": 5.1
+        }, 
+        {
+            "counts": [
+                1828, 
+                2068
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "Daith\u00ed Mac an Bh\u00e1ird", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 240, 
+            "transfers_pc": 2.43
+        }, 
+        {
+            "counts": [
+                1022
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "\u00dana N\u00ed Bhroin", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                93
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Manus Mac Meanam\u00e1in", 
+            "party": "Christian Solidarity"
+        }
+    ], 
+    "counts_held": 5, 
+    "description": "2002 general election", 
+    "election_type": "dail", 
+    "electorate": 73659, 
+    "name": "Galway East", 
+    "quota": 9885, 
+    "spoilt": 452, 
+    "turnout": 49874, 
+    "valid": 49422, 
+    "year": 2002
+}

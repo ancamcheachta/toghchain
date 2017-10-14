@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8136
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.5, 
+            "full_name": "Se\u00e1n Lemass", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4607
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.4, 
+            "full_name": "Maurice E. Dockrell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2704
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.5, 
+            "full_name": "Celia Lynch", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3236
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.1, 
+            "full_name": "Philip Brady", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3036
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.5, 
+            "full_name": "Jack Murphy", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2049
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.4, 
+            "full_name": "Joseph Barron", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                1932
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.1, 
+            "full_name": "Roddy Connolly", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1906
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6, 
+            "full_name": "Thomas Finlay", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1734
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.4, 
+            "full_name": "Tom\u00e1s \u00d3 Dubhghaill", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                1621
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.1, 
+            "full_name": "Anthony Moroney", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                966
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "Edward Hosey", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1957 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South-Central", 
+    "quota": 5322, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 31927, 
+    "year": 1957
+}

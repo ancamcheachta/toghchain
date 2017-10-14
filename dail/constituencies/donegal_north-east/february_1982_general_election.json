@@ -1,0 +1,80 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9362
+            ], 
+            "elected": true, 
+            "first_pref_pc": 31.3, 
+            "full_name": "Paddy Harte", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                8116
+            ], 
+            "elected": true, 
+            "first_pref_pc": 27.1, 
+            "full_name": "Hugh Conaghan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7864
+            ], 
+            "elected": true, 
+            "first_pref_pc": 26.3, 
+            "full_name": "Neil Blaney", 
+            "party": "Independent Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2112, 
+                3823
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.1, 
+            "full_name": "Joachim Loughrey", 
+            "party": "Fine Gael", 
+            "transfers": 1711, 
+            "transfers_pc": 34.06
+        }, 
+        {
+            "counts": [
+                1959, 
+                2046, 
+                2670
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.6, 
+            "full_name": "Ian McGarvey", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 711, 
+            "transfers_pc": 14.15
+        }, 
+        {
+            "counts": [
+                493, 
+                580, 
+                595
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "Anne Wilkinson", 
+            "party": "Labour Party", 
+            "transfers": 102, 
+            "transfers_pc": 2.03
+        }
+    ], 
+    "counts_held": 3, 
+    "description": "February 1982 general election", 
+    "election_type": "dail", 
+    "electorate": 40811, 
+    "name": "Donegal North-East", 
+    "quota": 7477, 
+    "spoilt": 410, 
+    "turnout": 30316, 
+    "valid": 29906, 
+    "year": 1982
+}

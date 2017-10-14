@@ -1,0 +1,176 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9662
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18, 
+            "full_name": "Toddy O'Sullivan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                7939
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.8, 
+            "full_name": "Miche\u00e1l Martin", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5020
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.4, 
+            "full_name": "Peter Barry", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6720
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.5, 
+            "full_name": "Pat Cox", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                5532
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.3, 
+            "full_name": "Batt O'Keeffe", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3925
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.3, 
+            "full_name": "John Dennehy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2925
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.5, 
+            "full_name": "Denis Cregan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2539
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.7, 
+            "full_name": "Kathleen Lynch", 
+            "party": "Democratic Left"
+        }, 
+        {
+            "counts": [
+                2239
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.2, 
+            "full_name": "Liam Hurley", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1941
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.6, 
+            "full_name": "Barry Cogan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1828
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.4, 
+            "full_name": "Jim Corr", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1166
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.2, 
+            "full_name": "Dan Boyle", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                697
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.3, 
+            "full_name": "John Weldon", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                592
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "Liam Burke", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                526
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Con O'Connell", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                172
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Jerry McCarthy", 
+            "party": "Workers' Party"
+        }, 
+        {
+            "counts": [
+                87
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Se\u00e1n Twomey", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                85
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Nora Anne Luck", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1992 general election", 
+    "election_type": "dail", 
+    "electorate": 76141, 
+    "name": "Cork South-Central", 
+    "quota": 8933, 
+    "spoilt": 712, 
+    "turnout": 54307, 
+    "valid": 53595, 
+    "year": 1992
+}

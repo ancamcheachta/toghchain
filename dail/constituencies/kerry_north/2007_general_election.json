@@ -1,0 +1,139 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                12697
+            ], 
+            "elected": true, 
+            "first_pref_pc": 32.3, 
+            "full_name": "Jimmy Deenihan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                8030, 
+                8631, 
+                9284, 
+                10196
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.4, 
+            "full_name": "Martin Ferris", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 2166, 
+            "transfers_pc": 22.1
+        }, 
+        {
+            "counts": [
+                7367, 
+                7702, 
+                8040, 
+                11247
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.7, 
+            "full_name": "Tom McEllistrim", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3880, 
+            "transfers_pc": 39.59
+        }, 
+        {
+            "counts": [
+                4287, 
+                5589, 
+                6332, 
+                7282
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.9, 
+            "full_name": "Terry O'Brien", 
+            "party": "Labour Party", 
+            "transfers": 2995, 
+            "transfers_pc": 30.56
+        }, 
+        {
+            "counts": [
+                4937, 
+                5257, 
+                5535
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.5, 
+            "full_name": "Norma Foley", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 598, 
+            "transfers_pc": 6.1
+        }, 
+        {
+            "counts": [
+                747, 
+                893
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.9, 
+            "full_name": "David Grey", 
+            "party": "Green Party", 
+            "transfers": 146, 
+            "transfers_pc": 1.49
+        }, 
+        {
+            "counts": [
+                689, 
+                803
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "Anthony Dineen", 
+            "party": "Independent", 
+            "transfers": 114, 
+            "transfers_pc": 1.16
+        }, 
+        {
+            "counts": [
+                397, 
+                417
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Sam Locke", 
+            "party": "Independent", 
+            "transfers": 20, 
+            "transfers_pc": 0.2
+        }, 
+        {
+            "counts": [
+                111, 
+                134
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Tom Donovan", 
+            "party": "Independent", 
+            "transfers": 23, 
+            "transfers_pc": 0.23
+        }, 
+        {
+            "counts": [
+                51, 
+                58
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Michael O'Connor", 
+            "party": "Independent", 
+            "transfers": 7, 
+            "transfers_pc": 0.07
+        }
+    ], 
+    "counts_held": 4, 
+    "description": "2007 general election", 
+    "election_type": "dail", 
+    "electorate": 56216, 
+    "name": "Kerry North", 
+    "quota": 9829, 
+    "spoilt": 334, 
+    "turnout": 39647, 
+    "valid": 39313, 
+    "year": 2007
+}

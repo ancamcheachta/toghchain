@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6491
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.3, 
+            "full_name": "Vivion de Valera", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3864
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.7, 
+            "full_name": "Frank Cluskey", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3807
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.5, 
+            "full_name": "Thomas J. Fitzpatrick", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4308
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.2, 
+            "full_name": "Maurice E. Dockrell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3221
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.6, 
+            "full_name": "Tom Leonard", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2198
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.2, 
+            "full_name": "Alexis FitzGerald", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1796
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.9, 
+            "full_name": "Michael Keating", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1763
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.8, 
+            "full_name": "Griff Cashman", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1644
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.4, 
+            "full_name": "James Mooney", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                876
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.9, 
+            "full_name": "Gerard Brady", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                466
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.5, 
+            "full_name": "Michael O'Riordan", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1973 general election", 
+    "election_type": "dail", 
+    "electorate": 46775, 
+    "name": "Dublin Central", 
+    "quota": 6087, 
+    "spoilt": null, 
+    "turnout": 65, 
+    "valid": 30434, 
+    "year": 1973
+}

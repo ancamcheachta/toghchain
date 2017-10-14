@@ -1,0 +1,150 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8482, 
+                8845, 
+                9228, 
+                10020, 
+                11962
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.6, 
+            "full_name": "Margaret Murphy O'Mahony", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3480, 
+            "transfers_pc": 24.49
+        }, 
+        {
+            "counts": [
+                7370, 
+                7633, 
+                8523, 
+                8774, 
+                9799
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17, 
+            "full_name": "Jim Daly", 
+            "party": "Fine Gael", 
+            "transfers": 2429, 
+            "transfers_pc": 17.1
+        }, 
+        {
+            "counts": [
+                6765, 
+                7347, 
+                7793, 
+                9258, 
+                11063
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.6, 
+            "full_name": "Michael Collins", 
+            "party": "Independent", 
+            "transfers": 4298, 
+            "transfers_pc": 30.25
+        }, 
+        {
+            "counts": [
+                6433, 
+                6574, 
+                7377, 
+                7544, 
+                8208
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.9, 
+            "full_name": "Noel Harrington", 
+            "party": "Fine Gael", 
+            "transfers": 1775, 
+            "transfers_pc": 12.49
+        }, 
+        {
+            "counts": [
+                4955, 
+                5272, 
+                5634, 
+                6405
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.5, 
+            "full_name": "Alan Coleman", 
+            "party": "Independent", 
+            "transfers": 1450, 
+            "transfers_pc": 10.21
+        }, 
+        {
+            "counts": [
+                3656, 
+                3993, 
+                4260
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.5, 
+            "full_name": "Rachel McCarthy", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 604, 
+            "transfers_pc": 4.25
+        }, 
+        {
+            "counts": [
+                3035, 
+                3397
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7, 
+            "full_name": "Michael McCarthy", 
+            "party": "Labour Party", 
+            "transfers": 362, 
+            "transfers_pc": 2.55
+        }, 
+        {
+            "counts": [
+                752
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "Johnny O'Mahony", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                701
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "Gillian Powell", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                686
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "Theresa Heaney", 
+            "party": "Catholic Democrats"
+        }, 
+        {
+            "counts": [
+                423
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1, 
+            "full_name": "Fiona O'Leary", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 5, 
+    "description": "2016 general election", 
+    "election_type": "dail", 
+    "electorate": 63583, 
+    "name": "Cork South-West", 
+    "quota": 10815, 
+    "spoilt": 331, 
+    "turnout": 43589, 
+    "valid": 43258, 
+    "year": 2016
+}

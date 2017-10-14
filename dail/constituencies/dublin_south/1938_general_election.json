@@ -1,0 +1,131 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                14151
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.7, 
+            "full_name": "Se\u00e1n Lemass", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6877
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.5, 
+            "full_name": "Peadar Doyle", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4681
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.5, 
+            "full_name": "James Beckett", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3850
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7, 
+            "full_name": "Joseph Hannigan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                3619
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6.6, 
+            "full_name": "Thomas Kelly", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4401
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8, 
+            "full_name": "James B. Lynch", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3791
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6.9, 
+            "full_name": "Robert Briscoe", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4806
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.7, 
+            "full_name": "John McCann", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3760
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.8, 
+            "full_name": "Myles Keogh", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2845
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.2, 
+            "full_name": "Thomas Lawlor", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1076
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "Eamonn Lynch", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                765
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "Thomas O'Byrne", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                460
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.8, 
+            "full_name": "Elizabeth O'Connor", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1938 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South", 
+    "quota": 6886, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 55082, 
+    "year": 1938
+}

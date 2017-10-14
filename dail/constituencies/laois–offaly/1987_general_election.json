@@ -1,0 +1,131 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                9168
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.3, 
+            "full_name": "Brian Cowen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                9208
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.4, 
+            "full_name": "Liam Hyland", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7472
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.3, 
+            "full_name": "Ger Connolly", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5317
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.5, 
+            "full_name": "Charles Flanagan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5136
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.2, 
+            "full_name": "Tom Enright", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5353
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.5, 
+            "full_name": "Cathy Honan", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                4356
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.8, 
+            "full_name": "Jeremiah Lodge", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3921
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7, 
+            "full_name": "Charles McDonald", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3105
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.5, 
+            "full_name": "Michael Fox", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1405
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.5, 
+            "full_name": "John Carroll", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                818
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.5, 
+            "full_name": "Thomas Phelan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                509
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.9, 
+            "full_name": "May Keeley", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                354
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Joe McCormack", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1987 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Laois\u2013Offaly", 
+    "quota": 9354, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 56122, 
+    "year": 1987
+}

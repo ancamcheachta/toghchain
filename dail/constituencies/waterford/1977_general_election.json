@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8061
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.9, 
+            "full_name": "Billy Kenneally", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7214
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.9, 
+            "full_name": "Jackie Fahey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7333
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.2, 
+            "full_name": "Austin Deasy", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5726
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.4, 
+            "full_name": "Edward Collins", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4500
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.6, 
+            "full_name": "Paddy Gallagher", 
+            "party": "Sinn F\u00e9in (Workers' Party)"
+        }, 
+        {
+            "counts": [
+                2738
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.4, 
+            "full_name": "Ria O'Brien", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2679
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.3, 
+            "full_name": "Frank King", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2508
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.9, 
+            "full_name": "Se\u00e1n Whelan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1560
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "Patrick Crotty", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                306
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "Patrick Kirwan", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1977 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Waterford", 
+    "quota": 8526, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 42625, 
+    "year": 1977
+}

@@ -1,0 +1,95 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7640
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.2, 
+            "full_name": "Thomas F. O'Higgins", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                5784
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.5, 
+            "full_name": "Jack Finlay", 
+            "party": "National Centre Party"
+        }, 
+        {
+            "counts": [
+                8326
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.5, 
+            "full_name": "Eamon Donnelly", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7120
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.1, 
+            "full_name": "William Davin", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6209
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.3, 
+            "full_name": "Patrick Boland", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5199
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.3, 
+            "full_name": "Patrick Gorry", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4563
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.1, 
+            "full_name": "Laurence Brady", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2808
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.6, 
+            "full_name": "Patrick Doyle", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                2740
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.4, 
+            "full_name": "Eugene O'Brien", 
+            "party": "Cumann na nGaedheal"
+        }
+    ], 
+    "description": "1933 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Laois\u2013Offaly", 
+    "quota": 8399, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 50389, 
+    "year": 1933
+}

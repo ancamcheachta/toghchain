@@ -1,0 +1,219 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6496, 
+                6616, 
+                6886, 
+                6960, 
+                7285, 
+                8094
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.2, 
+            "full_name": "Joe Higgins", 
+            "party": "Socialist Party", 
+            "transfers": 1598, 
+            "transfers_pc": 12.9
+        }, 
+        {
+            "counts": [
+                6842, 
+                6919, 
+                6976, 
+                7028, 
+                7209, 
+                7488, 
+                8544
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.1, 
+            "full_name": "Brian Lenihan, Jnr", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1702, 
+            "transfers_pc": 13.74
+        }, 
+        {
+            "counts": [
+                4241, 
+                4271, 
+                4360, 
+                4387, 
+                4497, 
+                4838, 
+                5674, 
+                7371, 
+                7797
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.6, 
+            "full_name": "Liam Lawlor", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3556, 
+            "transfers_pc": 28.71
+        }, 
+        {
+            "counts": [
+                5256, 
+                5330, 
+                5397, 
+                6335, 
+                6663, 
+                6764, 
+                6942, 
+                7645, 
+                7698
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.1, 
+            "full_name": "Austin Currie", 
+            "party": "Fine Gael", 
+            "transfers": 2442, 
+            "transfers_pc": 19.72
+        }, 
+        {
+            "counts": [
+                4853, 
+                4941, 
+                5116, 
+                5429, 
+                5851, 
+                6077, 
+                6186, 
+                6802, 
+                6852
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.1, 
+            "full_name": "Joan Burton", 
+            "party": "Labour Party", 
+            "transfers": 1999, 
+            "transfers_pc": 16.14
+        }, 
+        {
+            "counts": [
+                3050, 
+                3133, 
+                3168, 
+                3241, 
+                3439, 
+                3533, 
+                3767
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.6, 
+            "full_name": "Tom Morrissey", 
+            "party": "Progressive Democrats", 
+            "transfers": 717, 
+            "transfers_pc": 5.79
+        }, 
+        {
+            "counts": [
+                2216, 
+                2246, 
+                2273, 
+                2302, 
+                2457, 
+                2564
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.5, 
+            "full_name": "Finbarr Hanrahan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 348, 
+            "transfers_pc": 2.81
+        }, 
+        {
+            "counts": [
+                2004, 
+                2035, 
+                2246, 
+                2257, 
+                2348
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5, 
+            "full_name": "John McCann", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 344, 
+            "transfers_pc": 2.78
+        }, 
+        {
+            "counts": [
+                1732, 
+                1799, 
+                1926, 
+                2011
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.3, 
+            "full_name": "Paul Gogarty", 
+            "party": "Green Party", 
+            "transfers": 279, 
+            "transfers_pc": 2.25
+        }, 
+        {
+            "counts": [
+                1532, 
+                1586, 
+                1622
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.8, 
+            "full_name": "Joanne Harmon", 
+            "party": "Fine Gael", 
+            "transfers": 90, 
+            "transfers_pc": 0.73
+        }, 
+        {
+            "counts": [
+                1135, 
+                1157
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "Tom\u00e1s Mac Giolla", 
+            "party": "Workers' Party", 
+            "transfers": 22, 
+            "transfers_pc": 0.18
+        }, 
+        {
+            "counts": [
+                585
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.5, 
+            "full_name": "Se\u00e1n Lyons", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                96
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Colin Butler", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                36
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Ciara Malone", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 9, 
+    "description": "1997 general election", 
+    "election_type": "dail", 
+    "electorate": 66419, 
+    "name": "Dublin West", 
+    "quota": 8015, 
+    "spoilt": 223, 
+    "turnout": 40297, 
+    "valid": 40074, 
+    "year": 1997
+}

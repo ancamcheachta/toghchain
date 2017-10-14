@@ -1,0 +1,32 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                28243
+            ], 
+            "elected": true, 
+            "first_pref_pc": 54.3, 
+            "full_name": "Richard O'Connell", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                23738
+            ], 
+            "elected": false, 
+            "first_pref_pc": 45.7, 
+            "full_name": "Tadhg Crowley", 
+            "party": "Republican"
+        }
+    ], 
+    "description": "1924 by-election", 
+    "election_type": "dail", 
+    "electorate": 79000, 
+    "name": "Limerick", 
+    "quota": 25991, 
+    "spoilt": null, 
+    "turnout": 65, 
+    "valid": 51981, 
+    "year": 1924
+}

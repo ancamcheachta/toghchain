@@ -1,0 +1,194 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                5483
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.2, 
+            "full_name": "Fion\u00e1n Lynch", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                5140
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.5, 
+            "full_name": "Austin Stack", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                4569
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.5, 
+            "full_name": "John O'Sullivan", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                4246
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.9, 
+            "full_name": "James Crowley", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3849
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.1, 
+            "full_name": "William O'Leary", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3207
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6, 
+            "full_name": "Tom McEllistrim", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4492
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.3, 
+            "full_name": "Thomas O'Reilly", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3370
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.3, 
+            "full_name": "Frederick Crowley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2975
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.5, 
+            "full_name": "Michael O'Donnell", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2405
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.5, 
+            "full_name": "Eugene O'Sullivan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2205
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.1, 
+            "full_name": "Patrick O'Shea", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                2141
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4, 
+            "full_name": "Patrick Casey", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2063
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.8, 
+            "full_name": "Florence Harty", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                1749
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.3, 
+            "full_name": "Thomas Dennehy", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                1637
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "Charles Roche", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                1109
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "William McElligott", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1054
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "Diarmuid O'Leary", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                978
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Kate Breen", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                729
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "John Kavanagh", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                484
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.9, 
+            "full_name": "Eamon Horan", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "June 1927 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Kerry", 
+    "quota": 6736, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 53885, 
+    "year": 1927
+}

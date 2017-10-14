@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                13029
+            ], 
+            "elected": true, 
+            "first_pref_pc": 33.8, 
+            "full_name": "\u00c9amon de Valera", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5140
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.3, 
+            "full_name": "Thomas Falvey", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                4147
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.8, 
+            "full_name": "Patrick Hogan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3612
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.4, 
+            "full_name": "Patrick Kelly", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                1500
+            ], 
+            "elected": true, 
+            "first_pref_pc": 3.9, 
+            "full_name": "Patrick Houlihan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2830
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.3, 
+            "full_name": "Thomas O'Donnell", 
+            "party": "National League Party"
+        }, 
+        {
+            "counts": [
+                2382
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.2, 
+            "full_name": "Hubert Hunt", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                2368
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.1, 
+            "full_name": "Denis Healy", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1412
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "Brian O'Higgins", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                1327
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.4, 
+            "full_name": "James O'Flynn", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                799
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "Se\u00e1n O'Grady", 
+            "party": "Fianna F\u00e1il"
+        }
+    ], 
+    "description": "June 1927 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Clare", 
+    "quota": 6425, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 38546, 
+    "year": 1927
+}

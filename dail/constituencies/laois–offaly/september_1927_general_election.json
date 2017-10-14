@@ -1,0 +1,86 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8472
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.4, 
+            "full_name": "William Aird", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                7046
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.1, 
+            "full_name": "James Dwyer", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                6585
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.1, 
+            "full_name": "William Davin", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                6766
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.5, 
+            "full_name": "Patrick Boland", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3914
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9, 
+            "full_name": "Patrick Gorry", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4067
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.3, 
+            "full_name": "Andrew Fay", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                3840
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.8, 
+            "full_name": "Thomas Tynan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2962
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.8, 
+            "full_name": "John Gill", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "September 1927 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Laois\u2013Offaly", 
+    "quota": 7276, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 43652, 
+    "year": 1927
+}

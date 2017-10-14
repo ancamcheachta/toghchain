@@ -1,0 +1,131 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8566
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.2, 
+            "full_name": "Charles Haughey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5781
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.7, 
+            "full_name": "Jack Belton", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5086
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12, 
+            "full_name": "George Colley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4673
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11, 
+            "full_name": "Patrick Byrne", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3998
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.4, 
+            "full_name": "Eugene Timmons", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2641
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.2, 
+            "full_name": "Denis Larkin", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2479
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.9, 
+            "full_name": "Thomas Cosgrave", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2062
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.9, 
+            "full_name": "Stan O'Brien", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1863
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "Peadar Cowan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1613
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.8, 
+            "full_name": "Victor Carton", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1553
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "Tom\u00e1s Misteil", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                1132
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Se\u00e1n Dublin Bay Rockall Loftus", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                883
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "Thomas Duffy", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1961 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin North-East", 
+    "quota": 7056, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 42330, 
+    "year": 1961
+}

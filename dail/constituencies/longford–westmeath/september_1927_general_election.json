@@ -1,0 +1,113 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6814
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.1, 
+            "full_name": "Patrick Shaw", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                4244
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.3, 
+            "full_name": "Michael Kennedy", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3434
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.1, 
+            "full_name": "James Killane", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4044
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.8, 
+            "full_name": "Michael Connolly", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                4047
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.8, 
+            "full_name": "Henry Broderick", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3838
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.2, 
+            "full_name": "Hugh Garahan", 
+            "party": "Farmers' Party"
+        }, 
+        {
+            "counts": [
+                3376
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9, 
+            "full_name": "James Victory", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3092
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.2, 
+            "full_name": "James Higgins", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1826
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.9, 
+            "full_name": "Patrick McKenna", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1655
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.4, 
+            "full_name": "Owen Dolan", 
+            "party": "Cumann na nGaedheal"
+        }, 
+        {
+            "counts": [
+                1253
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.3, 
+            "full_name": "John Lyons", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "September 1927 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Longford\u2013Westmeath", 
+    "quota": 6271, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 37623, 
+    "year": 1927
+}

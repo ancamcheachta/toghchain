@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                13927
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.7, 
+            "full_name": "S\u00e9amus Brennan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7217
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.3, 
+            "full_name": "Tom Kitt", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7969
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.7, 
+            "full_name": "Alan Shatter", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4771
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.8, 
+            "full_name": "Roger Garland", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                4983
+            ], 
+            "elected": true, 
+            "first_pref_pc": 9.2, 
+            "full_name": "Nuala Fennell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4607
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.5, 
+            "full_name": "Anne Colley", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                4134
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.6, 
+            "full_name": "Eithne FitzGerald", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2786
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.1, 
+            "full_name": "Olivia Mitchell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2328
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.3, 
+            "full_name": "Ann Ormonde", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1440
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Eamonn \u00d3 Liathain", 
+            "party": "Workers' Party"
+        }
+    ], 
+    "description": "1989 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South", 
+    "quota": 9028, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 54162, 
+    "year": 1989
+}

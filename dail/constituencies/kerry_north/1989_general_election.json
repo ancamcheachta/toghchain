@@ -1,0 +1,59 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10118
+            ], 
+            "elected": true, 
+            "first_pref_pc": 29.7, 
+            "full_name": "Dick Spring", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                8692
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.5, 
+            "full_name": "Jimmy Deenihan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6756
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.8, 
+            "full_name": "Tom McEllistrim, Jnr", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5880
+            ], 
+            "elected": false, 
+            "first_pref_pc": 17.3, 
+            "full_name": "Denis Foley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                2641
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.8, 
+            "full_name": "Ned O'Sullivan", 
+            "party": "Fianna F\u00e1il"
+        }
+    ], 
+    "description": "1989 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Kerry North", 
+    "quota": 8522, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 34087, 
+    "year": 1989
+}

@@ -1,0 +1,140 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                11190
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.9, 
+            "full_name": "Ivor Callely", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                7670
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.8, 
+            "full_name": "Se\u00e1n Haughey", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                8196
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19, 
+            "full_name": "Richard Bruton", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2848
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6.6, 
+            "full_name": "Derek McDowell", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2485
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.8, 
+            "full_name": "Se\u00e1n Dublin Bay Rockall Loftus", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1184
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.7, 
+            "full_name": "Ita Green", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1713
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.9, 
+            "full_name": "Niamh Cosgrave", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1650
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.8, 
+            "full_name": "Stephen Rawson", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                1551
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.6, 
+            "full_name": "Finian McGrath", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                1424
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.3, 
+            "full_name": "Ronan Garvey", 
+            "party": "Progressive Democrats"
+        }, 
+        {
+            "counts": [
+                1326
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.1, 
+            "full_name": "Cathy Fay", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1194
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.8, 
+            "full_name": "Helen Lahert", 
+            "party": "Democratic Left"
+        }, 
+        {
+            "counts": [
+                698
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "Ritchie Browne", 
+            "party": "Socialist Workers"
+        }, 
+        {
+            "counts": [
+                36
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Norman Hunt", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1997 general election", 
+    "election_type": "dail", 
+    "electorate": 66559, 
+    "name": "Dublin North-Central", 
+    "quota": 8634, 
+    "spoilt": 456, 
+    "turnout": 43621, 
+    "valid": 43165, 
+    "year": 1997
+}

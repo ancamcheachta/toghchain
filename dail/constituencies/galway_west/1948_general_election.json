@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                4600
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.7, 
+            "full_name": "Gerald Bartley", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3787
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.9, 
+            "full_name": "Michael Lydon", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4635
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.7, 
+            "full_name": "Joseph Mongan", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3205
+            ], 
+            "elected": false, 
+            "first_pref_pc": 15.1, 
+            "full_name": "John McElhinney", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                2273
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.7, 
+            "full_name": "Margaret Ashe", 
+            "party": "Clann na Poblachta"
+        }, 
+        {
+            "counts": [
+                2146
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.1, 
+            "full_name": "John J. Keane", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                560
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "P\u00e1draig \u00d3 Cosgarda", 
+            "party": "Clann na Poblachta"
+        }
+    ], 
+    "description": "1948 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Galway West", 
+    "quota": 5302, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 21206, 
+    "year": 1948
+}

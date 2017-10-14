@@ -1,0 +1,234 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7495, 
+                7513, 
+                7533, 
+                7553, 
+                7633, 
+                7827, 
+                8948
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.5, 
+            "full_name": "Joanna Tuffy", 
+            "party": "Labour Party", 
+            "transfers": 1453, 
+            "transfers_pc": 12.85
+        }, 
+        {
+            "counts": [
+                7281, 
+                7285, 
+                7303, 
+                7323, 
+                7424, 
+                7493, 
+                7903, 
+                9213
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17, 
+            "full_name": "Frances Fitzgerald", 
+            "party": "Fine Gael", 
+            "transfers": 1932, 
+            "transfers_pc": 17.08
+        }, 
+        {
+            "counts": [
+                5643, 
+                5645, 
+                5661, 
+                5695, 
+                5734, 
+                5870, 
+                6519, 
+                7934, 
+                8112
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.2, 
+            "full_name": "Robert Dowds", 
+            "party": "Labour Party", 
+            "transfers": 2469, 
+            "transfers_pc": 21.83
+        }, 
+        {
+            "counts": [
+                5933, 
+                5938, 
+                5945, 
+                5964, 
+                5992, 
+                6072, 
+                6503, 
+                7244, 
+                7703
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.9, 
+            "full_name": "Derek Keating", 
+            "party": "Fine Gael", 
+            "transfers": 1770, 
+            "transfers_pc": 15.65
+        }, 
+        {
+            "counts": [
+                5060, 
+                5066, 
+                5088, 
+                5117, 
+                5164, 
+                5399, 
+                6628, 
+                7120, 
+                7151
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.8, 
+            "full_name": "Eoin \u00d3 Broin", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 2091, 
+            "transfers_pc": 18.49
+        }, 
+        {
+            "counts": [
+                5043, 
+                5047, 
+                5068, 
+                5095, 
+                5130, 
+                5193, 
+                5513
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.8, 
+            "full_name": "John Curran", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 470, 
+            "transfers_pc": 4.16
+        }, 
+        {
+            "counts": [
+                2471, 
+                2481, 
+                2513, 
+                2536, 
+                2597, 
+                3059
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.8, 
+            "full_name": "[8]", 
+            "party": "People Before Profit", 
+            "transfers": 588, 
+            "transfers_pc": 5.2
+        }, 
+        {
+            "counts": [
+                1484, 
+                1490, 
+                1498, 
+                1509, 
+                1534, 
+                1605
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.5, 
+            "full_name": "Paul Gogarty", 
+            "party": "Green Party", 
+            "transfers": 121, 
+            "transfers_pc": 1.07
+        }, 
+        {
+            "counts": [
+                694, 
+                700, 
+                712, 
+                722, 
+                735
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "Mick Finnegan", 
+            "party": "Workers' Party", 
+            "transfers": 41, 
+            "transfers_pc": 0.36
+        }, 
+        {
+            "counts": [
+                622, 
+                624, 
+                634, 
+                637, 
+                649
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.5, 
+            "full_name": "[9]", 
+            "party": "Socialist Party", 
+            "transfers": 27, 
+            "transfers_pc": 0.24
+        }, 
+        {
+            "counts": [
+                375, 
+                397, 
+                429, 
+                514
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.9, 
+            "full_name": "Michael Ryan", 
+            "party": "Independent", 
+            "transfers": 139, 
+            "transfers_pc": 1.23
+        }, 
+        {
+            "counts": [
+                255, 
+                269, 
+                319
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Jim McHale", 
+            "party": "Independent", 
+            "transfers": 64, 
+            "transfers_pc": 0.57
+        }, 
+        {
+            "counts": [
+                253, 
+                264
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "Colm McGrath", 
+            "party": "Independent", 
+            "transfers": 11, 
+            "transfers_pc": 0.1
+        }, 
+        {
+            "counts": [
+                113
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "Niall Smith", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 9, 
+    "description": "2011 general election", 
+    "election_type": "dail", 
+    "electorate": 64880, 
+    "name": "Dublin Mid-West", 
+    "quota": 8545, 
+    "spoilt": 471, 
+    "turnout": 43193, 
+    "valid": 42722, 
+    "year": 2011
+}

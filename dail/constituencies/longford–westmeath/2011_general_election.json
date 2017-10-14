@@ -1,0 +1,213 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                11406, 
+                11560
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.8, 
+            "full_name": "Willie Penrose", 
+            "party": "Labour Party", 
+            "transfers": 154, 
+            "transfers_pc": 0.77
+        }, 
+        {
+            "counts": [
+                9129, 
+                9178, 
+                9292, 
+                10888, 
+                11017, 
+                12440
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.9, 
+            "full_name": "James Bannon", 
+            "party": "Fine Gael", 
+            "transfers": 3311, 
+            "transfers_pc": 16.59
+        }, 
+        {
+            "counts": [
+                6129, 
+                6240, 
+                6626, 
+                6989, 
+                8906, 
+                9071, 
+                9245, 
+                10664
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.7, 
+            "full_name": "Nicky McFadden", 
+            "party": "Fine Gael", 
+            "transfers": 4535, 
+            "transfers_pc": 22.72
+        }, 
+        {
+            "counts": [
+                4275, 
+                4323, 
+                5453, 
+                5624, 
+                5953, 
+                8490, 
+                8757, 
+                9401
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.4, 
+            "full_name": "Robert Troy", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 5126, 
+            "transfers_pc": 25.69
+        }, 
+        {
+            "counts": [
+                6629, 
+                6717, 
+                6807, 
+                6976, 
+                7147, 
+                7207, 
+                7317, 
+                8097
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.5, 
+            "full_name": "Peter Burke", 
+            "party": "Fine Gael", 
+            "transfers": 1468, 
+            "transfers_pc": 7.36
+        }, 
+        {
+            "counts": [
+                4339, 
+                4464, 
+                4647, 
+                5166, 
+                6063, 
+                6340, 
+                6487
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.5, 
+            "full_name": "Paul Hogan", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 2148, 
+            "transfers_pc": 10.76
+        }, 
+        {
+            "counts": [
+                3876, 
+                3904, 
+                4385, 
+                4976, 
+                5161
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.7, 
+            "full_name": "Peter Kelly", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1285, 
+            "transfers_pc": 6.44
+        }, 
+        {
+            "counts": [
+                3707, 
+                3899, 
+                4333, 
+                4559
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.4, 
+            "full_name": "Kevin \"Boxer\" Moran", 
+            "party": "Independent", 
+            "transfers": 852, 
+            "transfers_pc": 4.27
+        }, 
+        {
+            "counts": [
+                3960, 
+                4046, 
+                4175
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.9, 
+            "full_name": "Mae Sexton", 
+            "party": "Labour Party", 
+            "transfers": 215, 
+            "transfers_pc": 1.08
+        }, 
+        {
+            "counts": [
+                3046, 
+                3101
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.3, 
+            "full_name": "Mary O'Rourke", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 55, 
+            "transfers_pc": 0.28
+        }, 
+        {
+            "counts": [
+                330
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.6, 
+            "full_name": "John Boland", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                309
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Siobh\u00e1n Kinahan", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                159
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.3, 
+            "full_name": "David D'arcy", 
+            "party": "New Vision"
+        }, 
+        {
+            "counts": [
+                130
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Benny Cooney", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                101
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Donal Jackson", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 8, 
+    "description": "2011 general election", 
+    "election_type": "dail", 
+    "electorate": 83970, 
+    "name": "Longford\u2013Westmeath", 
+    "quota": 11506, 
+    "spoilt": 661, 
+    "turnout": 58186, 
+    "valid": 57525, 
+    "year": 2011
+}

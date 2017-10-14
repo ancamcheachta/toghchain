@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7203
+            ], 
+            "elected": true, 
+            "first_pref_pc": 25.3, 
+            "full_name": "Sylvester Barrett", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5330
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.7, 
+            "full_name": "Frank Taylor", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5758
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.2, 
+            "full_name": "Brendan Daly", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4576
+            ], 
+            "elected": false, 
+            "first_pref_pc": 16.1, 
+            "full_name": "Martin Cahill", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3832
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.5, 
+            "full_name": "Michael Howard", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                1794
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.3, 
+            "full_name": "Michael Corley", 
+            "party": "Labour Party"
+        }
+    ], 
+    "description": "1973 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Clare", 
+    "quota": 7124, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 28493, 
+    "year": 1973
+}

@@ -1,0 +1,68 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7026
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23.6, 
+            "full_name": "Richard Barry", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6714
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.6, 
+            "full_name": "Martin Corry", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5925
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.9, 
+            "full_name": "John Moher", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4489
+            ], 
+            "elected": false, 
+            "first_pref_pc": 15.1, 
+            "full_name": "Patrick O'Gorman", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4081
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.7, 
+            "full_name": "Se\u00e1n Keane, Jnr", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                1492
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5, 
+            "full_name": "Denis Heskin", 
+            "party": "Clann na Talmhan"
+        }
+    ], 
+    "description": "1954 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Cork East", 
+    "quota": 7432, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 29727, 
+    "year": 1954
+}

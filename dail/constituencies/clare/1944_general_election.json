@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                14200
+            ], 
+            "elected": true, 
+            "first_pref_pc": 31.8, 
+            "full_name": "\u00c9amon de Valera", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4850
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.9, 
+            "full_name": "Se\u00e1n O'Grady", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6183
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.9, 
+            "full_name": "Peter O'Loghlen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6013
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.5, 
+            "full_name": "Patrick Burke", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                4993
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.2, 
+            "full_name": "Thomas Burke", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                5376
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.1, 
+            "full_name": "Patrick Hogan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2985
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.7, 
+            "full_name": "Denis Healy", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "1944 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Clare", 
+    "quota": 7434, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 44600, 
+    "year": 1944
+}

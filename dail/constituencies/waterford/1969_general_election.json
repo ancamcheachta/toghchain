@@ -1,0 +1,77 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6165
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.6, 
+            "full_name": "Billy Kenneally", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6338
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.2, 
+            "full_name": "Edward Collins", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5652
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.9, 
+            "full_name": "Fad Browne", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3395
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.4, 
+            "full_name": "Thomas Kyne", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3171
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.6, 
+            "full_name": "Austin Deasy", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3029
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.1, 
+            "full_name": "Thomas Brennan", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2118
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.1, 
+            "full_name": "Se\u00e1n Whelan", 
+            "party": "Fianna F\u00e1il"
+        }
+    ], 
+    "description": "1969 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Waterford", 
+    "quota": 7468, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 29868, 
+    "year": 1969
+}

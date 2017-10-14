@@ -1,0 +1,259 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                10718, 
+                10731, 
+                10751
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20, 
+            "full_name": "John Deasy", 
+            "party": "Fine Gael", 
+            "transfers": 33, 
+            "transfers_pc": 0.22
+        }, 
+        {
+            "counts": [
+                9698, 
+                9705, 
+                9737, 
+                9774, 
+                9852, 
+                9999, 
+                10055, 
+                10703, 
+                11236
+            ], 
+            "elected": true, 
+            "first_pref_pc": 18.1, 
+            "full_name": "Paudie Coffey", 
+            "party": "Fine Gael", 
+            "transfers": 1538, 
+            "transfers_pc": 10.47
+        }, 
+        {
+            "counts": [
+                5554, 
+                5560, 
+                5565, 
+                5597, 
+                5708, 
+                5867, 
+                5937, 
+                6424, 
+                9216, 
+                11182
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.3, 
+            "full_name": "Ciara Conway", 
+            "party": "Labour Party", 
+            "transfers": 5628, 
+            "transfers_pc": 38.31
+        }, 
+        {
+            "counts": [
+                5546, 
+                5552, 
+                5569, 
+                5594, 
+                5639, 
+                5776, 
+                6051, 
+                6448, 
+                7373, 
+                9602, 
+                9818
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.3, 
+            "full_name": "John Halligan", 
+            "party": "Independent", 
+            "transfers": 4272, 
+            "transfers_pc": 29.08
+        }, 
+        {
+            "counts": [
+                7515, 
+                7521, 
+                7555, 
+                7567, 
+                7600, 
+                7672, 
+                7736, 
+                7968, 
+                8207, 
+                8782, 
+                8845
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14, 
+            "full_name": "Brendan Kenneally", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1330, 
+            "transfers_pc": 9.05
+        }, 
+        {
+            "counts": [
+                5342, 
+                5347, 
+                5361, 
+                5387, 
+                5414, 
+                5458, 
+                5636, 
+                5868, 
+                6298
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.9, 
+            "full_name": "David Cullinane", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 956, 
+            "transfers_pc": 6.51
+        }, 
+        {
+            "counts": [
+                4638, 
+                4644, 
+                4652, 
+                4664, 
+                4730, 
+                4791, 
+                4971, 
+                5113
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.6, 
+            "full_name": "Seamus Ryan", 
+            "party": "Labour Party", 
+            "transfers": 475, 
+            "transfers_pc": 3.23
+        }, 
+        {
+            "counts": [
+                1130, 
+                1133, 
+                1150, 
+                1164, 
+                1201, 
+                1227, 
+                1246
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.1, 
+            "full_name": "Tom Higgins", 
+            "party": "Independent", 
+            "transfers": 116, 
+            "transfers_pc": 0.79
+        }, 
+        {
+            "counts": [
+                967, 
+                971, 
+                983, 
+                1025, 
+                1075, 
+                1129, 
+                1166
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Justin Collery", 
+            "party": "Independent", 
+            "transfers": 199, 
+            "transfers_pc": 1.35
+        }, 
+        {
+            "counts": [
+                873, 
+                878, 
+                889, 
+                906, 
+                925, 
+                937
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "Joe Tobin", 
+            "party": "Workers' Party", 
+            "transfers": 64, 
+            "transfers_pc": 0.44
+        }, 
+        {
+            "counts": [
+                725, 
+                729, 
+                738, 
+                751, 
+                762
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.3, 
+            "full_name": "Joe Conway", 
+            "party": "Independent", 
+            "transfers": 37, 
+            "transfers_pc": 0.25
+        }, 
+        {
+            "counts": [
+                462, 
+                462, 
+                465, 
+                501
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.9, 
+            "full_name": "Jody Power", 
+            "party": "Green Party", 
+            "transfers": 39, 
+            "transfers_pc": 0.27
+        }, 
+        {
+            "counts": [
+                257, 
+                261, 
+                276
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "[35]", 
+            "party": "F\u00eds Nua", 
+            "transfers": 19, 
+            "transfers_pc": 0.13
+        }, 
+        {
+            "counts": [
+                222, 
+                223
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Declan Waters", 
+            "party": "Independent", 
+            "transfers": 1, 
+            "transfers_pc": 0.01
+        }, 
+        {
+            "counts": [
+                73
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Gerard Kiersey", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 11, 
+    "description": "2011 general election", 
+    "election_type": "dail", 
+    "electorate": 78435, 
+    "name": "Waterford", 
+    "quota": 10745, 
+    "spoilt": 578, 
+    "turnout": 54298, 
+    "valid": 53720, 
+    "year": 2011
+}

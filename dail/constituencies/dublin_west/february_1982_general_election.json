@@ -1,0 +1,122 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8657
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.1, 
+            "full_name": "Jim Mitchell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5764
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.7, 
+            "full_name": "Brian Fleming", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                6972
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.4, 
+            "full_name": "Brian Lenihan, Snr", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6223
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.76, 
+            "full_name": "Liam Lawlor", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4790
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.59, 
+            "full_name": "Richard Burke", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5662
+            ], 
+            "elected": false, 
+            "first_pref_pc": 12.5, 
+            "full_name": "Eileen Lemass", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3285
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.3, 
+            "full_name": "Tom\u00e1s Mac Giolla", 
+            "party": "Sinn F\u00e9in (Workers' Party)"
+        }, 
+        {
+            "counts": [
+                2617
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.8, 
+            "full_name": "Michael Gannon", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                800
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Anthony O'Hara", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                222
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "John Montgomery", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                183
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.4, 
+            "full_name": "Se\u00e1n Corr", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                59
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Rod Eley", 
+            "party": "Independent"
+        }
+    ], 
+    "description": "February 1982 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin West", 
+    "quota": 7540, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 45234, 
+    "year": 1982
+}

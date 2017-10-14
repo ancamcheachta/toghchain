@@ -1,0 +1,155 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                11024
+            ], 
+            "elected": true, 
+            "first_pref_pc": 28.9, 
+            "full_name": "Liam Cosgrave", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                8754
+            ], 
+            "elected": true, 
+            "first_pref_pc": 23, 
+            "full_name": "David Andrews", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4642, 
+                5235, 
+                5296, 
+                6001, 
+                6081, 
+                6503, 
+                8115
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.2, 
+            "full_name": "Barry Desmond", 
+            "party": "Labour Party", 
+            "transfers": 3473, 
+            "transfers_pc": 28.24
+        }, 
+        {
+            "counts": [
+                4099, 
+                4140, 
+                4555, 
+                4593, 
+                6897, 
+                6946, 
+                7936
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.8, 
+            "full_name": "Martin O'Donoghue", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3837, 
+            "transfers_pc": 31.2
+        }, 
+        {
+            "counts": [
+                1791, 
+                2964, 
+                2993, 
+                3048, 
+                3096, 
+                5316, 
+                6117
+            ], 
+            "elected": false, 
+            "first_pref_pc": 4.7, 
+            "full_name": "Michael Carroll", 
+            "party": "Fine Gael", 
+            "transfers": 4326, 
+            "transfers_pc": 35.17
+        }, 
+        {
+            "counts": [
+                3305, 
+                3412, 
+                3438, 
+                3561, 
+                3681, 
+                3884
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.7, 
+            "full_name": "Una O'Higgins-O'Malley", 
+            "party": "Independent", 
+            "transfers": 579, 
+            "transfers_pc": 4.71
+        }, 
+        {
+            "counts": [
+                1472, 
+                2886, 
+                2896, 
+                2950, 
+                2986
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.9, 
+            "full_name": "Percy Dockrell", 
+            "party": "Fine Gael", 
+            "transfers": 1514, 
+            "transfers_pc": 12.31
+        }, 
+        {
+            "counts": [
+                1984, 
+                2017, 
+                2606, 
+                2649
+            ], 
+            "elected": false, 
+            "first_pref_pc": 5.2, 
+            "full_name": "John O'Connor", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 665, 
+            "transfers_pc": 5.41
+        }, 
+        {
+            "counts": [
+                898, 
+                948, 
+                960
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.4, 
+            "full_name": "John Loughran", 
+            "party": "Labour Party", 
+            "transfers": 62, 
+            "transfers_pc": 0.5
+        }, 
+        {
+            "counts": [
+                86, 
+                87, 
+                87
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.2, 
+            "full_name": "Frank Stein", 
+            "party": "Independent", 
+            "transfers": 1, 
+            "transfers_pc": 0.01
+        }
+    ], 
+    "counts_held": 7, 
+    "description": "1977 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "D\u00fan Laoghaire", 
+    "quota": 7612, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 38055, 
+    "year": 1977
+}

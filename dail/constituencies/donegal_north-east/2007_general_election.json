@@ -1,0 +1,170 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8711, 
+                8800, 
+                8900, 
+                9134, 
+                10034
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.6, 
+            "full_name": "Joe McHugh", 
+            "party": "Fine Gael", 
+            "transfers": 1323, 
+            "transfers_pc": 13.16
+        }, 
+        {
+            "counts": [
+                6724, 
+                6746, 
+                6786, 
+                6932, 
+                7343, 
+                7489, 
+                10008
+            ], 
+            "elected": true, 
+            "first_pref_pc": 17.5, 
+            "full_name": "Jim McDaid", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3284, 
+            "transfers_pc": 32.66
+        }, 
+        {
+            "counts": [
+                6288, 
+                6332, 
+                6360, 
+                6538, 
+                6802, 
+                6888, 
+                9123, 
+                9439
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.3, 
+            "full_name": "Niall Blaney", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 3151, 
+            "transfers_pc": 31.33
+        }, 
+        {
+            "counts": [
+                6733, 
+                6789, 
+                6896, 
+                6997, 
+                7315, 
+                7410, 
+                8821, 
+                8876
+            ], 
+            "elected": false, 
+            "first_pref_pc": 17.5, 
+            "full_name": "P\u00e1draig Mac Lochlainn", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 2143, 
+            "transfers_pc": 21.31
+        }, 
+        {
+            "counts": [
+                6362, 
+                6441, 
+                6471, 
+                6481, 
+                6674, 
+                6744
+            ], 
+            "elected": false, 
+            "first_pref_pc": 16.5, 
+            "full_name": "Cecilia Keaveney", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 382, 
+            "transfers_pc": 3.8
+        }, 
+        {
+            "counts": [
+                1313, 
+                1353, 
+                1415, 
+                1469
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.4, 
+            "full_name": "Jimmy Harte", 
+            "party": "Independent", 
+            "transfers": 156, 
+            "transfers_pc": 1.55
+        }, 
+        {
+            "counts": [
+                703, 
+                723, 
+                844, 
+                884
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.8, 
+            "full_name": "Siobhan McLaughlin", 
+            "party": "Labour Party", 
+            "transfers": 181, 
+            "transfers_pc": 1.8
+        }, 
+        {
+            "counts": [
+                733, 
+                795, 
+                823
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "Ian McGarvey", 
+            "party": "Independent", 
+            "transfers": 90, 
+            "transfers_pc": 0.89
+        }, 
+        {
+            "counts": [
+                520, 
+                546
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "Frank Gallagher", 
+            "party": "Green Party", 
+            "transfers": 26, 
+            "transfers_pc": 0.26
+        }, 
+        {
+            "counts": [
+                339
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.9, 
+            "full_name": "Mary Doherty", 
+            "party": "Christian Solidarity"
+        }, 
+        {
+            "counts": [
+                86
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.1, 
+            "full_name": "Arthur McGuinness", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 8, 
+    "description": "2007 general election", 
+    "election_type": "dail", 
+    "electorate": 57244, 
+    "name": "Donegal North-East", 
+    "quota": 9637, 
+    "spoilt": 386, 
+    "turnout": 38931, 
+    "valid": 38545, 
+    "year": 2007
+}

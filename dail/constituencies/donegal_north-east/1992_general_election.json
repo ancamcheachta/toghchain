@@ -1,0 +1,104 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                6927
+            ], 
+            "elected": true, 
+            "first_pref_pc": 22.2, 
+            "full_name": "Jim McDaid", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4292
+            ], 
+            "elected": true, 
+            "first_pref_pc": 13.8, 
+            "full_name": "Paddy Harte", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                5248
+            ], 
+            "elected": true, 
+            "first_pref_pc": 16.8, 
+            "full_name": "Neil Blaney", 
+            "party": "Independent Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4538
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14.5, 
+            "full_name": "Hugh Conaghan", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3538
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.3, 
+            "full_name": "Sean Maloney", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                2667
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.6, 
+            "full_name": "Bernard McGuinness", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2082
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.7, 
+            "full_name": "Jim Devenney", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                819
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "Jim Ferry", 
+            "party": "Sinn F\u00e9in"
+        }, 
+        {
+            "counts": [
+                611
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2, 
+            "full_name": "Brigid McGonagle", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                487
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.6, 
+            "full_name": "Patrick Doherty", 
+            "party": "Christian Centrist"
+        }
+    ], 
+    "description": "1992 general election", 
+    "election_type": "dail", 
+    "electorate": 46978, 
+    "name": "Donegal North-East", 
+    "quota": 7803, 
+    "spoilt": 560, 
+    "turnout": 31769, 
+    "valid": 31209, 
+    "year": 1992
+}

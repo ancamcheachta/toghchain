@@ -1,0 +1,164 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                7740, 
+                7843, 
+                7960, 
+                8202, 
+                8502, 
+                9281
+            ], 
+            "elected": true, 
+            "first_pref_pc": 21.7, 
+            "full_name": "Pat the Cope Gallagher", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1541, 
+            "transfers_pc": 13.31
+        }, 
+        {
+            "counts": [
+                7257, 
+                7380, 
+                7465, 
+                7547, 
+                8335, 
+                8757, 
+                8932
+            ], 
+            "elected": true, 
+            "first_pref_pc": 20.4, 
+            "full_name": "Mary Coughlan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 1675, 
+            "transfers_pc": 14.46
+        }, 
+        {
+            "counts": [
+                4378, 
+                4484, 
+                4512, 
+                4797, 
+                5216, 
+                5921, 
+                6002, 
+                7370
+            ], 
+            "elected": true, 
+            "first_pref_pc": 12.3, 
+            "full_name": "Dinny McGinley", 
+            "party": "Fine Gael", 
+            "transfers": 2992, 
+            "transfers_pc": 25.84
+        }, 
+        {
+            "counts": [
+                4680, 
+                4720, 
+                4740, 
+                4822, 
+                5161, 
+                5385, 
+                5402, 
+                5930
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.1, 
+            "full_name": "James White", 
+            "party": "Fine Gael", 
+            "transfers": 1250, 
+            "transfers_pc": 10.79
+        }, 
+        {
+            "counts": [
+                2697, 
+                2771, 
+                3571, 
+                3720, 
+                4166, 
+                5170, 
+                5269
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.6, 
+            "full_name": "Pearse Doherty", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 2572, 
+            "transfers_pc": 22.21
+        }, 
+        {
+            "counts": [
+                3091, 
+                3174, 
+                3219, 
+                3329, 
+                3796
+            ], 
+            "elected": false, 
+            "first_pref_pc": 8.7, 
+            "full_name": "Joe Kelly", 
+            "party": "Independent", 
+            "transfers": 705, 
+            "transfers_pc": 6.09
+        }, 
+        {
+            "counts": [
+                2630, 
+                2887, 
+                2908, 
+                3078
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.4, 
+            "full_name": "Thomas Pringle", 
+            "party": "Independent", 
+            "transfers": 448, 
+            "transfers_pc": 3.87
+        }, 
+        {
+            "counts": [
+                1079, 
+                1199, 
+                1205
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3, 
+            "full_name": "S\u00e9amus Rodgers", 
+            "party": "Labour Party", 
+            "transfers": 126, 
+            "transfers_pc": 1.09
+        }, 
+        {
+            "counts": [
+                1133, 
+                1148
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.2, 
+            "full_name": "Tom Dignam", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 15, 
+            "transfers_pc": 0.13
+        }, 
+        {
+            "counts": [
+                951
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.6, 
+            "full_name": "Gwen Breslin", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 8, 
+    "description": "2002 general election", 
+    "election_type": "dail", 
+    "electorate": 54789, 
+    "name": "Donegal South-West", 
+    "quota": 8909, 
+    "spoilt": 500, 
+    "turnout": 36135, 
+    "valid": 35635, 
+    "year": 2002
+}

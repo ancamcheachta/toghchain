@@ -1,0 +1,122 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                15385
+            ], 
+            "elected": true, 
+            "first_pref_pc": 31.3, 
+            "full_name": "Se\u00e1n Lemass", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                4323
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.8, 
+            "full_name": "John McCann", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3148
+            ], 
+            "elected": true, 
+            "first_pref_pc": 6.4, 
+            "full_name": "James B. Lynch", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                5442
+            ], 
+            "elected": true, 
+            "first_pref_pc": 11.1, 
+            "full_name": "Peadar Doyle", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                3587
+            ], 
+            "elected": true, 
+            "first_pref_pc": 7.3, 
+            "full_name": "James Larkin, Jnr", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                4355
+            ], 
+            "elected": true, 
+            "first_pref_pc": 8.9, 
+            "full_name": "Maurice E. Dockrell", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                2852
+            ], 
+            "elected": true, 
+            "first_pref_pc": 5.8, 
+            "full_name": "Robert Briscoe", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                3571
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.3, 
+            "full_name": "Walter Beirne", 
+            "party": "Labour Party"
+        }, 
+        {
+            "counts": [
+                3328
+            ], 
+            "elected": false, 
+            "first_pref_pc": 6.8, 
+            "full_name": "Andrew Clarkin", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                1824
+            ], 
+            "elected": false, 
+            "first_pref_pc": 3.7, 
+            "full_name": "Joseph Hannigan", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                689
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "Thomas Bourke", 
+            "party": "Fine Gael"
+        }, 
+        {
+            "counts": [
+                674
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "Michael Byrne", 
+            "party": "Fine Gael"
+        }
+    ], 
+    "description": "1944 general election", 
+    "election_type": "dail", 
+    "electorate": null, 
+    "name": "Dublin South", 
+    "quota": 6148, 
+    "spoilt": null, 
+    "turnout": null, 
+    "valid": 49178, 
+    "year": 1944
+}

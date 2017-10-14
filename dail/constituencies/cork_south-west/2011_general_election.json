@@ -1,0 +1,172 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                8878, 
+                9255, 
+                9696, 
+                10508, 
+                13242, 
+                13242
+            ], 
+            "elected": true, 
+            "first_pref_pc": 19.4, 
+            "full_name": "Jim Daly", 
+            "party": "Fine Gael", 
+            "transfers": 4364, 
+            "transfers_pc": 25.13
+        }, 
+        {
+            "counts": [
+                6898, 
+                7212, 
+                7479, 
+                7668, 
+                9568, 
+                11104
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.1, 
+            "full_name": "Noel Harrington", 
+            "party": "Fine Gael", 
+            "transfers": 4206, 
+            "transfers_pc": 24.22
+        }, 
+        {
+            "counts": [
+                6533, 
+                7257, 
+                8709, 
+                9212, 
+                10539, 
+                10754
+            ], 
+            "elected": true, 
+            "first_pref_pc": 14.3, 
+            "full_name": "Michael McCarthy", 
+            "party": "Labour Party", 
+            "transfers": 4221, 
+            "transfers_pc": 24.31
+        }, 
+        {
+            "counts": [
+                5984, 
+                6208, 
+                6481, 
+                9453, 
+                10079, 
+                10155
+            ], 
+            "elected": false, 
+            "first_pref_pc": 13.1, 
+            "full_name": "Denis O'Donovan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 4171, 
+            "transfers_pc": 24.02
+        }, 
+        {
+            "counts": [
+                6386, 
+                6665, 
+                6917, 
+                7212
+            ], 
+            "elected": false, 
+            "first_pref_pc": 14, 
+            "full_name": "Kevin Murphy", 
+            "party": "Fine Gael", 
+            "transfers": 826, 
+            "transfers_pc": 4.76
+        }, 
+        {
+            "counts": [
+                4803, 
+                4958, 
+                5215
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.5, 
+            "full_name": "Christy O'Sullivan", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 412, 
+            "transfers_pc": 2.37
+        }, 
+        {
+            "counts": [
+                3346, 
+                3743
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.3, 
+            "full_name": "Paul Hayes", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 397, 
+            "transfers_pc": 2.29
+        }, 
+        {
+            "counts": [
+                772
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "John Kearney", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                765
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.7, 
+            "full_name": "Kevin McCaughey", 
+            "party": "Green Party"
+        }, 
+        {
+            "counts": [
+                493
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.1, 
+            "full_name": "Dave McInerney", 
+            "party": "New Vision"
+        }, 
+        {
+            "counts": [
+                330
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.7, 
+            "full_name": "Edmund Butler", 
+            "party": "Independent"
+        }, 
+        {
+            "counts": [
+                239
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Paul Doonan", 
+            "party": "New Vision"
+        }, 
+        {
+            "counts": [
+                231
+            ], 
+            "elected": false, 
+            "first_pref_pc": 0.5, 
+            "full_name": "Michael O'Sullivan", 
+            "party": "Independent"
+        }
+    ], 
+    "counts_held": 6, 
+    "description": "2011 general election", 
+    "election_type": "dail", 
+    "electorate": 62174, 
+    "name": "Cork South-West", 
+    "quota": 11415, 
+    "spoilt": 390, 
+    "turnout": 46048, 
+    "valid": 45658, 
+    "year": 2011
+}
