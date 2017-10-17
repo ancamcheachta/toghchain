@@ -1,0 +1,164 @@
+{
+    "area_type": "dail_constituency", 
+    "candidates": [
+        {
+            "counts": [
+                12366
+            ], 
+            "elected": true, 
+            "first_pref_pc": 28.1, 
+            "full_name": "Barry Cowen", 
+            "party": "Fianna F\u00e1il"
+        }, 
+        {
+            "counts": [
+                6838, 
+                6919, 
+                7270, 
+                7798, 
+                9484, 
+                11313
+            ], 
+            "elected": true, 
+            "first_pref_pc": 15.5, 
+            "full_name": "Marcella Corcoran Kennedy", 
+            "party": "Fine Gael", 
+            "transfers": 4475, 
+            "transfers_pc": 24.88
+        }, 
+        {
+            "counts": [
+                4804, 
+                4882, 
+                5459, 
+                6295, 
+                7195, 
+                8785, 
+                8890
+            ], 
+            "elected": true, 
+            "first_pref_pc": 10.9, 
+            "full_name": "Carol Nolan", 
+            "party": "Sinn F\u00e9in", 
+            "transfers": 4086, 
+            "transfers_pc": 22.71
+        }, 
+        {
+            "counts": [
+                3394, 
+                4297, 
+                4578, 
+                6147, 
+                7141, 
+                8521, 
+                8720
+            ], 
+            "elected": false, 
+            "first_pref_pc": 7.7, 
+            "full_name": "Eddie Fitzpatrick", 
+            "party": "Fianna F\u00e1il", 
+            "transfers": 5326, 
+            "transfers_pc": 29.61
+        }, 
+        {
+            "counts": [
+                4596, 
+                4759, 
+                5319, 
+                5833, 
+                6588
+            ], 
+            "elected": false, 
+            "first_pref_pc": 10.4, 
+            "full_name": "John Leahy", 
+            "party": "Renua Ireland", 
+            "transfers": 1992, 
+            "transfers_pc": 11.07
+        }, 
+        {
+            "counts": [
+                5188, 
+                5226, 
+                5536, 
+                5816
+            ], 
+            "elected": false, 
+            "first_pref_pc": 11.8, 
+            "full_name": "Joe Hannigan", 
+            "party": "Independent", 
+            "transfers": 628, 
+            "transfers_pc": 3.49
+        }, 
+        {
+            "counts": [
+                4200, 
+                4241, 
+                4536
+            ], 
+            "elected": false, 
+            "first_pref_pc": 9.5, 
+            "full_name": "John Foley", 
+            "party": "Independent", 
+            "transfers": 336, 
+            "transfers_pc": 1.87
+        }, 
+        {
+            "counts": [
+                971, 
+                999
+            ], 
+            "elected": false, 
+            "first_pref_pc": 2.2, 
+            "full_name": "Ken Smollen", 
+            "party": "Irish Democratic Party", 
+            "transfers": 28, 
+            "transfers_pc": 0.16
+        }, 
+        {
+            "counts": [
+                603, 
+                616
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.4, 
+            "full_name": "Teresa Ryan Feehan", 
+            "party": "Independent", 
+            "transfers": 13, 
+            "transfers_pc": 0.07
+        }, 
+        {
+            "counts": [
+                549, 
+                554
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "Kate Bopp", 
+            "party": "Independent", 
+            "transfers": 5, 
+            "transfers_pc": 0.03
+        }, 
+        {
+            "counts": [
+                525, 
+                532
+            ], 
+            "elected": false, 
+            "first_pref_pc": 1.2, 
+            "full_name": "Christopher Fettes", 
+            "party": "Green Party", 
+            "transfers": 7, 
+            "transfers_pc": 0.04
+        }
+    ], 
+    "counts_held": 7, 
+    "description": "2016 general election", 
+    "election_type": "dail", 
+    "electorate": 65636, 
+    "name": "Offaly", 
+    "quota": 11009, 
+    "spoilt": 411, 
+    "turnout": 67, 
+    "valid": 44034, 
+    "year": 2016
+}

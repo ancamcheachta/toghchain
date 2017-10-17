@@ -1,0 +1,13 @@
+[package]
+name = "mongoloid"
+version = "0.1.0"
+authors = ["An Camchéachta <https://github.com/ancamcheachta>"]
+
+[dependencies]
+argparse = "0.2.1"
+bson = "0.10"
+mongodb = "0.3.7"
+rust-crypto = "0.2.36"
+serde = "1.0.15"
+serde_derive = "1.0.15"
+serde_json = "1.0.3"
