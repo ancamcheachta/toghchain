@@ -11,9 +11,9 @@ env:
     - RUST_TEST_THREADS=1
 
 services:
-	- mongodb
+    - mongodb
 
 sudo: false
 
 script:
-	- cd bin && ./tests
+    - cd bin && ./tests
