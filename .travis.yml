@@ -1,0 +1,19 @@
+language: rust
+
+rust:
+    - stable
+    - beta
+    - nightly
+
+cache: cargo
+
+env:
+    - RUST_TEST_THREADS=1
+
+services:
+	- mongodb
+
+sudo: false
+
+script:
+	- cd bin && ./tests
