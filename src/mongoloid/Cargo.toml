@@ -4,6 +4,7 @@ version = "0.1.1"
 authors = ["An Camchéachta <https://github.com/ancamcheachta>"]
 description = "A CLI for building Irish election databases in MongoDB."
 license = "GPL-3.0"
+repository = "https://github.com/ancamcheachta/toghchain"
 
 [dependencies]
 argparse = "0.2.1"
