@@ -1,3 +1,14 @@
+//! # mongoloid
+//! 
+//! The `mongoloid` crate exposes a basic API with which to build a Toghcháin
+//! Éireann database in MongoDB.  This is called through `main.rs` when the
+//! program is executed.  `mongoloid` will:
+//! 
+//! - Infer the type of database to build from the current directory name (`dail`, `assembly`, or `westminster`)
+//! - Find the `constituency` directory and walk all its subdirectories
+//! - For each direcory, walk all its `.json` files and serialise them as native structs in Rust
+//! - Insert all data into the new database
+
 #[macro_use]
 extern crate serde_derive;
 
@@ -59,6 +70,27 @@ pub enum ElectionDatabase {
 }
 
 impl ElectionDatabase {
+    /// Creates an `ElectionDatabase` enum from the `input` value provided.  An
+    /// `Option` will be returned wrapping the appropriate variant as matched
+    /// with the relevant constant `&'static str` representing election types
+    /// currently supported by `mongoloid`.  As of 0.1.0, these are the
+    /// constants:
+    /// * `ASSEMBLY`
+    /// * `DAIL`
+    /// * `WESTMINSTER`
+    /// 
+    /// As for `db_name`, where the `Option` variant is `Some`, the wrapped
+    /// value will be moved and wrapped within the new `ElectionDatabase` 
+    /// variant as the `db` field value.  Where the `Option` variant is `None`,
+    /// a unique name will be generated to avoid naming conflicts (eg. 
+    /// `"dail_f404b"`) and wrapped within the new `ElectionDatabase` variant
+    /// as the `db` field value.  The `db` field value will later be used as the
+    /// MongoDB database name once the data is inserted.
+    ///
+    /// Finally, the variant returned will also wrap a `client` value which is
+    /// obtained durint the execution of this method.  This client is created
+    /// from the MongoDB URI `"mongodb://127.0.0.1:27017"`, which is the only
+    /// URI supported at present.
     fn from_str(input: &str, db_name: Option<&str>) -> Option<Self> {
         let mut db = String::new();
         
@@ -80,6 +112,8 @@ impl ElectionDatabase {
             _           => None,
         }
     }
+    /// References the `db` value wrapped in the current `ElectionDatabase`
+    /// variant and returns its value as a new `String`.
     fn get_database(&self) -> String {
         match *self {
             ElectionDatabase::Assembly(_, ref database) => database.to_string(),
@@ -90,16 +124,21 @@ impl ElectionDatabase {
 }
 
 trait CreateDatabase {
-	// Validate constituencies directory exists, then read and walk it
+	/// Validate constituencies directory exists, then read and walk it.
+	/// Create constituencies from all the data read.
 	fn create_constituencies(&self);
-	// Validate constituencies contents are directories, then read and walk them
+	/// Validate constituencies contents are directories, then read and walk
+	/// them.  Return an `Option<Vec<Area>>` from the data read.
 	fn walk_constituency_subdirs(&self, dir: &PathBuf) -> Option<Vec<Area>>;
-	// Validate subdirectory election json files exist, then read and walk them
+	/// Validate subdirectory election `.json` files exist, then read and walk
+	/// them. Return an `Option<Vec<Area>>` from the data read.
 	fn walk_json_files(&self, subdir: &PathBuf) -> Option<Vec<Area>>;
-	// Serialise election json with serde
+	/// Serialise an election `.json` file with serde.  Return an `Option<Area>`
+	/// from the data read.
 	fn load_json(&self, jsonfile: &PathBuf) -> Option<Area>;
-	// Serialise doc as BSON and make mongodb request
-	fn create_document<'a,T>(&self, areas: &'a Vec<T>) where T: serde::Serialize;
+	/// Serialise `areas` as a `Vec<OrderedDocument` and insert to MongoDB.
+	/// **Note:** collection name will always be `area`.
+	fn create_documents<'a,T>(&self, areas: &'a Vec<T>) where T: serde::Serialize;
 }
 
 impl CreateDatabase for ElectionDatabase {
@@ -108,7 +147,7 @@ impl CreateDatabase for ElectionDatabase {
         
         match constituencies_dir.exists() {
             true    => match self.walk_constituency_subdirs(&constituencies_dir) {
-                    Some(ref a) => self.create_document(a),
+                    Some(ref a) => self.create_documents(a),
                     None        => {
                         eprintln!("{}","[mongoloid] No constituencies to create.");
                         process::exit(1);
@@ -178,7 +217,7 @@ impl CreateDatabase for ElectionDatabase {
             },
         }
     }
-    fn create_document<'a,T>(&self, areas: &'a Vec<T>) where T: serde::Serialize {
+    fn create_documents<'a,T>(&self, areas: &'a Vec<T>) where T: serde::Serialize {
         println!("[mongoloid] Creating database \"{}\"...", self.get_database());
         let docs: Vec<OrderedDocument> = areas.iter().filter_map(|a| {
             match bson::to_bson(a) {
@@ -203,6 +242,10 @@ impl CreateDatabase for ElectionDatabase {
     }
 }
 
+/// Create a new database in MongoDB.  If `db_name` contains a value, it will be
+/// be used to name the database, otherwise an unique name will be automatically
+/// generated.
+/// **Note:** the current directory name must be that of a supported election.
 pub fn create_database(db_name: Option<&str>) -> Result<(),String> {
     match ElectionDatabase::from_str(&util::get_cwd_name(), db_name){
         Some(et) => {

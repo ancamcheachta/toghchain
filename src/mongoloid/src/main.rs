@@ -11,7 +11,7 @@ fn main() {
         ap.set_description("Mongoloid election database builder");
         ap.refer(&mut database)
             .add_option(&["-d", "--database"], Store,
-            "name of database (optional)");
+            "name of database to build (optional)");
         ap.parse_args_or_exit();
     }
     match database.len() > 0 {
